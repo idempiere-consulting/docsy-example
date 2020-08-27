@@ -25,8 +25,11 @@ La maschera permette di definire dei raggruppamenti nazionali utili alle estrazi
 # Setup Client e Organizzazione
 
 ## Configuratore di Sistema [CDS00]
+La maschera permette di selezionare le variabili di sistema che determinano il funzionamento dei programmi che si utilizzano in base al funzionamento che si desidera, (es. tipico listini prezzi).
 [{{< figure src="/image/ConfiguratorediSistema0.png"  width="850"  >}}](/image/ConfiguratorediSistema0.png)
 ## Tipo Organizzazione [GN00]
+La maschera permette di definire una organizzazione aziendale.
+[{{< figure src="/image/TipoOrganizzazione0.png"  width="850"  >}}](/image/TipoOrganizzazione0.png)
 
 # Video Azienda 
 ### Video - Basic Data - Setup Company Organization Data / Setup Dati Azienda Organizzazione [V172]
