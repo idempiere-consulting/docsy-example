@@ -17,7 +17,7 @@ pre: "<b></b>"
 
 
 # Video - Reso Fornitore
-### Video - 4. Quote-to-Invoice - Customer Return / Crea Ordine di Reintegro da Reso Cliente [V126]-
+### Video - 4. Quote-to-Invoice - Customer Return / Crea Ordine di Reintegro da Reso Cliente [V126]-x
 {{<youtube GgV5skpeiUM>}}
 
 
