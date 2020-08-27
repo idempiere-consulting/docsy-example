@@ -26,7 +26,7 @@ pre: "<b></b>"
 
 ```
 Visualizza e lavora su tutte le richieste
-Questa window "Request (All)" viene utilizzata per visualizzare tutte le richieste disponibili.
+Questa window "Request (All) " viene utilizzata per visualizzare tutte le richieste disponibili.
 La scheda Richiesta definisce qualsiasi richiesta inviata da un Business Partner o internamente.
 ```
 
