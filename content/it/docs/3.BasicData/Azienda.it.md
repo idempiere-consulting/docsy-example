@@ -25,7 +25,7 @@ La maschera permette di definire dei raggruppamenti nazionali utili alle estrazi
 # Setup Client e Organizzazione
 
 ## Configuratore di Sistema [CDS00]
-[{{< figure src="/image/ConfiguratorediSistema.png"  width="850"  >}}](/image/ConfiguratorediSistema.png)
+[{{< figure src="/image/ConfiguratorediSistema0.png"  width="850"  >}}](/image/ConfiguratorediSistema0.png)
 ## Tipo Organizzazione [GN00]
 
 # Video Azienda 
