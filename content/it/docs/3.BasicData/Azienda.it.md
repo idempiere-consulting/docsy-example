@@ -7,27 +7,26 @@ pre: "<b> </b>"
 ---
 
 ## Azienda (Client) [AZC00]
-
+La maschera permette di definire una azienda client.
 [{{< figure src="/image/Azienda0.png"  width="850"  >}}](/image/Azienda0.png)
-
 ## Organizzazione [ORG00]
+La maschera permette di definire le varie organizzazioni dell'azienda.
 [{{< figure src="/image/Organizzazione0.png"  width="850"  >}}](/image/Organizzazione0.png)
-
-
 ## Magazzino e Area Stoccaggio [MAS00]
+La maschera permette di definire i vari magazzini dell'azienda.
 [{{< figure src="/image/MagazzinoAreaStoccaggio0.png"  width="850"  >}}](/image/MagazzinoAreaStoccaggio0.png)
-
 ## Paese Regione e Provincia [PRP00]
+La maschera permette di definire le entità territoriali utili a classificare i vari BP.
 [{{< figure src="/image/PaeseRegioneProvincia0.png"  width="850"  >}}](/image/PaeseRegioneProvincia0.png)
-
 ## Gruppo Nazione [GN00]
+La maschera permette di definire dei raggruppamenti nazionali utili alle estrazioni dati che interessano.
 [{{< figure src="/image/GruppoNazione0.png"  width="850"  >}}](/image/GruppoNazione0.png)
 
 # Setup Client e Organizzazione
 
-## Configuratore di Sistema
+## Configuratore di Sistema [CDS00]
 
-## Tipo Organizzazione
+## Tipo Organizzazione [GN00]
 
 # Video Azienda 
 ### Video - Basic Data - Setup Company Organization Data / Setup Dati Azienda Organizzazione [V172]
