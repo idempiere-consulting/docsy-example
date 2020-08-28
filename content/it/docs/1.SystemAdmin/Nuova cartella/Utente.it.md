@@ -1,11 +1,25 @@
 ---
-title: "Ruolo Utente"
+title: "UtenteRuoli"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 75
-pre: "<b>1.1.2 </b>"
---- 
+weight : 80
+pre: "<b> </b>"
+---
 
+## - Come creare un Utente
+
+Nella barra di ricerca digitiamo "Utente[UT00]", dopo di che creiamo un Nuovo Record per poi andare ad inserire tutti i dati del nuovo Utente, Nome, EMail e password, Password di login...
+
+## - Assegnazione Ruolo
+
+Bisogna assegnare un ruolo al nuovo Utente, senza, la login non sarà possibile.
+
+Nella Tab "Ruoli Utente" andiamo a creare un Nuovo Record, poi andiamo a selezionare il ruolo che vogliamo assegnare all'utente.
+
+![Immagine](/image/04.SelezioneRuolo.png)
+
+
+## Ruolo 
 -------------------------------------------
 SESSIONE PER I RUOLI - RIASSUNTO SESSIONE - giorno 24/01/2019---
 -------------------------------------------
@@ -21,4 +35,19 @@ i)	"Vuoi impostare di default una Customizzazione della Tab Utente?" e' una doma
 h)	In testata ruolo troviamo altri flag rilevanti come: Puo' stampare, Puo' Esportare che si spiegano da soli.
 l)	Dalla finestra "Ruolo access" posso attribuire ad un ruolo Padre dei permessi "negativi" ossia di rimozione di diritto, o come viene mostrato in dettaglio riga "Escluso". Esempio posso inserire nel dettaglio "Accesso Tabella" una riga con Tabella "c_invoice" e selezionare "Escluso". Questo ruolo attribuito ad un ruolo normale, andra' a rimuovere il diritto di accesso al utente con quel specifico ruolo. 
 m)	Discorso identico al punto (l) puo' essere fatto per il tab "Accesso Colonna", ovviamente per quanto riguarda rimuovere accessi a colonne.
+
+
+
+
+### Video - 1. SystemAdmin - User / Creazione Utente [V002]
+{{<youtube WtIHoteHUso>}}
+
+### Video - 1. SystemAdmin - Role User Access / Ruolo Utente e Accesso [V140]
+{{<youtube hTzAjVcQeQg>}}
+
+### Video - 1. SystemAdmin - Copy preference Grid / Copia Impostazioni Griglia [V001]
+{{<youtube zHEWwTlVwFI>}}
+
+
+
 
