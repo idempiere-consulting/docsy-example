@@ -6,22 +6,30 @@ weight : 180
 pre: "<b> </b>"
 ---
 ## Business Partner [BP00]
+la maschera permette di creare un Business Partner. NB in detta maschera vengono raccolte molteplici informazioni che vanno dall'ambito fiscale a quello commerciale o finanziario, quanto più sarà completo l'inserimento delle informazioni più lineare ne seguirà il flusso documentale che ne seguirà.
 [{{< figure src="/image/BusinessPartnerBP00.png"  width="850"  >}}](/image/BusinessPartnerBP00.png)
 ## Lettera Intento Cliente/Fornitore [LI16]
+la maschera permette di inserire i dati relativi alle Lettere di Intento ricevute o emesse da o nei confronti di BP che avendo rapporti prevalenti con l'estero possono emettere/ricevere fatture in esenzione da IVA. Detta maschera riprende le informazioni presenti nella anagrafica del BP.
 [{{< figure src="/image/LetteraIntentoClienteFornitore0.png"  width="850"  >}}](/image/LetteraIntentoClienteFornitore0.png)
 ## Relazione tra Partner [RTP00]
+la maschera permette di definire, qualora vi siano BP con più organizzazioni o luoghi di dislocazione di entità ad es. produttive o commerciali, i necessari collegamenti tra le stesse, al fine ad esempio dell'invio di documenti, spedizioni o di una corretta indicazione dell'ubicazione fiscale del BP stesso.
 [{{< figure src="/image/RelazioneTraPartner0.png"  width="850"  >}}](/image/RelazioneTraPartner0.png)
 ## Termini di Pagamento [TP01]
+la maschera permette di creare il tipo di termine di pagamento necessario nel rapporto con il BP.
 [{{< figure src="/image/TerminiPagamentoTP00.png"  width="850"  >}}](/image/TerminiPagamentoTP00.png)
 ## Riconoscimento Ricavo [RR00]
+
 [{{< figure src="/image/RiconoscimentoRicavo0.png"  width="850"  >}}](/image/RiconoscimentoRicavo0.png)
 
 # Report Business Partner
 ## Report Lettera Informazioni Bancarie [RP.311]
+il report permette di creare una stampa con indicazioni bancarie da inviare ai BP.
 [{{< figure src="/image/InformazioniBancarieRP311.png"  width="850"  >}}](/image/InformazioniBancarieRP311.png)
 ## Report Importo Aperto Business Partner [R.03]
+il report permette di creare una stampa con le indicazioni dei documenti commerciali ancora aperti.
 [{{< figure src="/image/ImportoApertoBusinessPartnerR03.png"  width="850"  >}}](/image/ImportoApertoBusinessPartnerR03.png)
 ## Report Dettagli Business Partner [R.02]
+il report permette di creare una stampa con le indicazioni dei documenti commerciali ancora aperti. 
 [{{< figure src="/image/DettagliBusinessPartnerR02.png"  width="850"  >}}](/image/DettagliBusinessPartnerR02.png)
 ## Report Lettera Informazioni Bancarie [RP.311]
 [{{< figure src="/image/LetteraInformazioniBancarieRP311.png"  width="850"  >}}](/image/LetteraInformazioniBancarieRP311.png)
