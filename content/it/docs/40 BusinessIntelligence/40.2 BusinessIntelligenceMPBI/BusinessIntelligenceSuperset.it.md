@@ -90,6 +90,6 @@ postgresql+psycopg2://user:password@/dbname
 1) All'interno della dashboard, pubblicarla cliccando su "Draft" in alto a sinistra e successivamente cliccare il menù a tendina di fianco a "Edit dashboard" per selezionare "Share"
 2) Copiare il link
 3) Incollarlo nell'iframe di un'altra pagina 
-4) andare su /home/idempiere/superset/lib64/python3.8/site-packages/ (ovvero all'interno della cartella del Virtual Environment di superset)
+4) andare su /home/idempiere/superset/lib64/python3.8/site-packages/superset/ (ovvero all'interno della cartella del Virtual Environment di superset)
 5) modificare il valore di "SESSION_COOKIE_SAMESITE" A "None" all'interno del file "config.py"
 6) DONE!
