@@ -65,7 +65,7 @@ superset run -p 8088 --with-threads --reload --debugger
 4) Inserire il sqlalchemy per la connessione a postgres
 5) DONE!
 ```
-#esempio stringa
+#esempio stringa sqlalchemy
 postgresql+psycopg2://user:password@/dbname
 ```
 
