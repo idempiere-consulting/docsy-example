@@ -19,7 +19,7 @@ riferimenti
 
  **Installazione Base Linux**
 
-## **Debian 8**
+## **Debian 10**
 
 Procediamo in questo modo:
 
