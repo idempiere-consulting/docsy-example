@@ -1,6 +1,12 @@
-# Installazione Base Linux
-
 ---
+title: "Installazione Base Linux"
+date: 2020-04-24T22:47:10+02:00
+draft: false
+weight : 90
+pre: "<b> </b>"
+---
+
+## Installazione Base Linux
 
 | Installazione Base Installazione Sviluppo Linux | [Download_Code](http://192.168.178.102/index.php/Download_Code) ⇒
 
