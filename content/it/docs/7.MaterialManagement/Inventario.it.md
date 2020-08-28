@@ -7,26 +7,26 @@ pre: "<b></b>"
 ---
 
 ## Inventario Fisico [IF00]
-[{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
+[{{< figure src="/image/InventarioFisico.png"  width="850"  >}}](/image/InventarioFisico.png)
 ## Pulizia Dati Inventario [PDI00]
-[{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
+[{{< figure src="/image/PuliziaDatiInventario.png"  width="850"  >}}](/image/PuliziaDatiInventario.png)
 
 
 # Report Inventario
 ## Report Inventory Diff. Value [RP.732]
-[{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
+[{{< figure src="/image/ReportInventoryDiffValue.png"  width="850"  >}}](/image/ReportInventoryDiffValue.png)
 ## Report Inventory [RP.731]
-[{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
+[{{< figure src="/image/ReportInventarioRP731.png"  width="850"  >}}](/image/ReportInventarioRP731.png)
 ## Report Valutazione Inventario alla Data [RP.132]
-[{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
+[{{< figure src="/image/ReportValutazioneInventarioallaData.png"  width="850"  >}}](/image/ReportValutazioneInventarioallaData.png)
  
 # Produzione (light)
 ## Produzione (Prodotto Singolo)
-[{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
+[{{< figure src="/image/ProduzioneProdottoSingolo.png"  width="850"  >}}](/image/ProduzioneProdottoSingolo.png)
 ## Crea Ordine di Produzione da Riga Ordine [ICOP13]
-[{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
+[{{< figure src="/image/CreaOrdinediProduzione.png"  width="850"  >}}](/image/CreaOrdinediProduzione.png)
 ## Dichiarazione/Prelievo Ordine di Produzione [ODP13]
-[{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
+[{{< figure src="/image/DichiarazionePrelievoOrdine.png"  width="850"  >}}](/image/DichiarazionePrelievoOrdine.png)
 ## Dettaglio Dichiar/Prelievo Ordine di Produzione [ODPL13]
 [{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
 
