@@ -93,3 +93,20 @@ postgresql+psycopg2://user:password@/dbname
 4) andare su /home/idempiere/superset/lib64/python3.8/site-packages/superset/ (ovvero all'interno della cartella del Virtual Environment di superset)
 5) modificare il valore di "SESSION_COOKIE_SAMESITE" A "None" all'interno del file "config.py"
 6) DONE!
+
+## Importazione ed esportazione dashboards da un'istanza all'altra:
+
+-Esportazione
+
+1) Cliccare su "Dashboard"
+2) Spuntare le dashboard che si vogliono esportare
+3) Action > Export
+4) Salvare il file scaricato
+
+-Importazione
+
+1) Cliccare su Management presente nel menù-barra in alto
+2) Selezionare "Import Dashboards"
+3) Inserire il file scaricato precedentemente
+4) DONE!
+
