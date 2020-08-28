@@ -55,11 +55,11 @@ Seguire la guida sulla pagina per creare l'account admin e collegare il database
 -per filtrare il risultato della query andare su "Filter" e scegliere il campo da filtrare per ottenere il risultato
 -per scegliere un grafico che può utilizzare i dati della query, andare su "Visualize" e scegliere l'icona del tipo di grafico più appropriato
 
-4)Cliccare su "Save", dare un nome al grafico/tabella e scegliere la dashboard in cui inserirlo (è possibile creare una nuova dashboard direttamente da questo menù di salvataggio fornendo semplicemente un nuovo nome per una dashboard)
+4) Cliccare su "Save", dare un nome al grafico/tabella e scegliere la dashboard in cui inserirlo (è possibile creare una nuova dashboard direttamente da questo menù di salvataggio fornendo semplicemente un nuovo nome per una dashboard)
 
 ## Iframe su un'altra pagina delle dashboard:
 
-1)Abilitare la condivisione delle dashboard dalle opzioni (Rotellina nell'angolo in alto a destra > Admin > Public sharing)
+1) Abilitare la condivisione delle dashboard dalle opzioni (Rotellina nell'angolo in alto a destra > Admin > Public sharing)
 2) Home > My Analysis > Dashboards
 3) entrare in una dashboard e condividere la dashboard cliccando sull'icona "Share"
 4) copiare il link iframe fornito ed incollarlo nel codice della pagina 
@@ -67,8 +67,8 @@ Seguire la guida sulla pagina per creare l'account admin e collegare il database
 
 ## Copiare configurazione metabase + dashboards da un'istanza all'altra (provvisorio e non consigliato in produzione):
 
-1)Copiare il file "metabase.db.mv.db" presente all'interno della cartella /opt 
-2)Incollarlo e sostituirlo al file di destinazione all'interno della seconda istanza di metabase
+1) Copiare il file "metabase.db.mv.db" presente all'interno della cartella /opt 
+2) Incollarlo e sostituirlo al file di destinazione all'interno della seconda istanza di metabase
   
   
 
