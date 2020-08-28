@@ -83,7 +83,7 @@ postgresql+psycopg2://user:password@/dbname
 2) Selezionare la "Table" che si vuole utilizzare
 3) Modificare a piacere il risultato della query usando i filtri presenti nel menù a destra, la selezione del tipo di grafico è presente in questo menù
 4) Salvare cliccando su "Save" in alto a sinistra
-5) Durante la rinomina del grafico, selezionare a quale dashboard inserirlo
+5) Durante la rinomina del grafico, selezionare in quale dashboard inserirlo
 
 ## Iframe su pagina esterna:
 
