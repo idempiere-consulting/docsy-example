@@ -8,7 +8,7 @@ pre: "<b> </b>"
 
 ## Installazione Base Linux
 
-| Installazione Base Installazione Sviluppo Linux | [Download_Code](http://192.168.178.102/index.php/Download_Code) ⇒
+| Installazione Base Installazione Sviluppo Linux 
 
 The examples on this guide are using the following versions:
 
@@ -18,10 +18,6 @@ The examples on this guide are using the following versions:
 - Mercurial Client 2.8.2
 - Oracle Java 1.8
 
-riferimenti
-
-- <http://wiki.idempiere.org/en/Installing_iDempiere>
-- <http://wiki.idempiere.org/en/Migration_Notes#Version_iDempiere_3.0>
 
  **Installazione Base Linux**
 
