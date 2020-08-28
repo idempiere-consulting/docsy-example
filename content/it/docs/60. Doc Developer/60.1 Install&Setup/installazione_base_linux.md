@@ -23,6 +23,13 @@ The examples on this guide are using the following versions:
 
 ## **Debian 10**
 
+Prerequisiti:
+```
+apt-get update
+apt-get install sudo
+```
+Installiamo SSH Sul server
+
 Procediamo in questo modo:
 
 ```
@@ -40,7 +47,6 @@ per riavviare e permetter l'accesso senza riavviare
 
 ```
 invoke-rc.d ssh restart
-apt-get install sudo
 apt-get install sshpass
 
 apt-get install curl
