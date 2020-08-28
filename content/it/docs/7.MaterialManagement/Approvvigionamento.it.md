@@ -9,3 +9,17 @@ pre: "<b></b>"
 ## Approvvigionamento
 [{{< figure src="/image/Approvvigionamento0.png"  width="850"  >}}](/image/Approvvigionamento0.png)
 
+## Report di ri-approvvigionamento magazzino [R.25_B]
+[{{< figure src="/image/ReportRIApprovigionamentoB.png"  width="850"  >}}](/image/ReportRIApprovigionamentoB.png)
+
+## Report di ri-approvigionamento produzione [R.35]
+[{{< figure src="/image/ReportRIAprrovigionamentoProduzione.png"  width="850"  >}}](/image/ReportRIAprrovigionamentoProduzione.png)
+
+## Report di ri-approvigionamento magazzino [R.25]
+[{{< figure src="/image/ReportRIApprovigionamentoMagazzino.png"  width="850"  >}}](/image/ReportRIApprovigionamentoMagazzino.png)
+
+## Report Selezione Fornitore [R.33]
+[{{< figure src="/image/ReportSelezioneFornitore.png"  width="850"  >}}](/image/ReportSelezioneFornitore.png)
+
+
+

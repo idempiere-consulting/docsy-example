@@ -9,19 +9,34 @@ pre: "<b></b>"
 ## Listino Prezzi
 [{{< figure src="/image/ListinoPrezzi0.png"  width="850"  >}}](/image/ListinoPrezzi0.png)
 
+## Sconto Multiplo [SM01]
+[{{< figure src="/image/ScontoMultiplo.png"  width="850"  >}}](/image/ScontoMultiplo.png)
+
+## Ricalcola Prezzo
+[{{< figure src="/image/RicalcolaPrezzoOrdine_Fattura.png"  width="850"  >}}](/image/RicalcolaPrezzoOrdine_Fattura.png)
+
+## Promozione
+[{{< figure src="/image/Promozione.png"  width="850"  >}}](/image/Promozione.png)
+
+
+# Report Price List
+## Report Scheda Prodotto [RP.342]
+[{{< figure src="/image/ReportSchedaProdottoRP342.png"  width="850"  >}}](/image/ReportSchedaProdottoRP342.png)
+## Report Scheda Prodotto [RP.341]
+[{{< figure src="/image/ReportListinoPrezziRP341.png"  width="850"  >}}](/image/ReportListinoPrezziRP341.png)
+## Report Scheda Prodotto [Rp.343]
+[{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
+
+
+# Setup Price List
+## Schema della Scontistica
+[{{< figure src="/image/SchemadellaScontistica.png"  width="850"  >}}](/image/SchemadellaScontistica.png)
 ## Schema Listino Prezzi
 [{{< figure src="/image/SchemaListinoPrezzi0.png"  width="850"  >}}](/image/SchemaListinoPrezzi0.png)
+## Configurazione listini
+[{{< figure src="/image/ConfigurazioneListini.png"  width="850"  >}}](/image/ConfigurazioneListini.png)
 
-## Documento di Trasporto - Magazzino
-[{{< figure src="/image/DocumentoTrasportoMagazzino0.png"  width="850"  >}}](/image/DocumentoTrasportoMagazzino0.png)
 
-# Conferme Magazzino e Report
-
-## Conferma Spedizione/Ricevimento
-[{{< figure src="/image/ConfermaSpedizioneRicevimento0.png"  width="850"  >}}](/image/ConfermaSpedizioneRicevimento0.png)
-
-## Conferma Movimentazione
-[{{< figure src="/image/ConfermaMovimentazione0.png"  width="850"  >}}](/image/ConfermaMovimentazione0.png)
 
 ### Video - 3. BasicData - Price  Creation Price List / Creazione Aggiornamento Listino Prezzi [V029]
 {{<youtube CgRmcrkKOwQ>}}

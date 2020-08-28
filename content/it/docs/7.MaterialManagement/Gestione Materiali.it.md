@@ -5,20 +5,6 @@ draft: false
 weight : 71
 pre: "<b></b>"
 ---
-## Tipo Ubicazione
-[{{< figure src="/image/TipoUbicazione0.png"  width="850"  >}}](/image/TipoUbicazione0.png)
-
-## Categoria Merceologica
-[{{< figure src="/image/CategoriaMerceologica0.png"  width="850"  >}}](/image/CategoriaMerceologica0.png)
-
-## Spedizioniere
-[{{< figure src="/image/Spedizioniere0.png"  width="850"  >}}](/image/Spedizioniere0.png)
-
-## Configurazione di Trasporto
-[{{< figure src="/image/ConfigurazioneTrasporto0.png"  width="850"  >}}](/image/ConfigurazioneTrasporto0.png)
-
-## Processo di Spedizione
-[{{< figure src="/image/ProcessoSpedizione0.png"  width="850"  >}}](/image/ProcessoSpedizione0.png)
 
 ## Gruppo di Promozione
 [{{< figure src="/image/GruppoPromozione0.png"  width="850"  >}}](/image/GruppoPromozione0.png)
