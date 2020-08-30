@@ -11,82 +11,78 @@ weight : 30
 ## Importazione Estratto Conto Bancario [IECB00]
 [{{< figure src="/image/ImportBankStatement.png"  width="850"  >}}](/image/ImportBankStatement.png)
 
-
 ## Importazione Prima Nota
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportGLJournal.png"  width="850"  >}}](/image/ImportGLJournal.png)
 
 ## Importazione Prodotto 
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportProduct.png"  width="850"  >}}](/image/ImportProduct.png)
 
 ## Importazione Business Partner
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportBusinessPartner.png"  width="850"  >}}](/image/ImportBusinessPartner.png)
 
 ## Importazione Cespiti
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportAsset.png"  width="850"  >}}](/image/ImportAsset.png)
 
 ## Formato di Importazione 
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportFileFormat.png"  width="850"  >}}](/image/ImportFileFormat.png)
 
 ## Importazione Fattura
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportInvoice.png"  width="850"  >}}](/image/ImportInvoice.png)
 
 ## Importazione Listino Prezzo
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportPriceList.png"  width="850"  >}}](/image/ImportPriceList.png)
 
 ## Importazione Estratto Conto
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportBankStatement1.png"  width="850"  >}}](/image/ImportBankStatement1.png)
 
 ## Importazione Pagamento
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportPayment.png"  width="850"  >}}](/image/ImportPayment.png)
 
 ## Importazione Tasso di Conversione
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportConversionRate.png"  width="850"  >}}](/image/ImportConversionRate.png)
 
 ## Importazione Inventario
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportInventory.png"  width="850"  >}}](/image/ImportInventory.png)
 
 ## Caricamento File Importazione
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportLoadFile.png"  width="850"  >}}](/image/ImportLoadFile.png)
 
 ## Importazione Linea del Report
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportLineReport.png"  width="850"  >}}](/image/ImportLineReport.png)
 
-## Importazione Fattura Fornitore
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+## Importazione Fattura Fornitore XML
+[{{< figure src="/image/ImportInvoiceVendorXML.png"  width="850"  >}}](/image/ImportInvoiceVendorXML.png)
 
 ## Importazione Elimina Dati Importati
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportDataDelete.png"  width="850"  >}}](/image/ImportDataDelete.png)
 
 ## Importazione Conto
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportAccount.png"  width="850"  >}}](/image/ImportAccount.png)
 
 ## Importazione Conferma
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportConfirm.png"  width="850"  >}}](/image/ImportConfirm.png)
 
 ## Importazione Ordine
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportOrder.png"  width="850"  >}}](/image/ImportOrder.png)
 
 ## Modello Importazione
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
-
-## Movimenti Importazione Giacenze
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
-
-## Import Payroll Movement
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
-
-## Import Product Planning
-[{{< figure src="/image/.png"  width="850"  >}}](/image/.png)
+[{{< figure src="/image/ImportModel.png"  width="850"  >}}](/image/ImportModel.png)
 
 
-1 SystemAdmin Import EsempioImportProdotto https://youtu.be/rksqFJ31Kgw
 
-1 SystemAdmin Importazione Banche V079 https://youtu.be/p-4RvDKWr3E
 
-1 SystemAdmin Importazione Intrastat V080 https://youtu.be/wLuF9HG7Ss4
 
-1 SystemAdmin Importazione Categorie Prodotto V081 https://youtu.be/CPvP_yIT3Bk
 
-1 SystemAdmin Importazione Listino Prezzi V082 https://youtu.be/teeJJ8HGXo4
+# Video Importazione
+
+## Import EsempioImportProdotto https://youtu.be/rksqFJ31Kgw
+
+## Importazione Banche V079 https://youtu.be/p-4RvDKWr3E
+
+## Importazione Intrastat V080 https://youtu.be/wLuF9HG7Ss4
+
+## Importazione Categorie Prodotto V081 https://youtu.be/CPvP_yIT3Bk
+
+## Importazione Listino Prezzi V082 https://youtu.be/teeJJ8HGXo4
 
 

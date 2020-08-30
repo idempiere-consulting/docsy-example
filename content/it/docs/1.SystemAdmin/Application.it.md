@@ -1,9 +1,12 @@
 ---
 title: "Setup Maschere/Ambiente"
+linkTitle: ""
 date: 2020-04-24T22:47:10+02:00
 draft: false
 weight : 400
 pre: "<b> </b>"
+description: >
+    Here's where your user finds out if your project is for them.
 ---   
 
 ## Zoom Maschere [ZM00]
