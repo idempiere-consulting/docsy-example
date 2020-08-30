@@ -20,6 +20,10 @@ description: >
 >
 > There should be no margin below this final sentence.
 
+```
+This is a code block following a header.
+```
+
 ## Configurazione Azienda
 
 
