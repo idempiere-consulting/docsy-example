@@ -99,7 +99,7 @@ postgresql+psycopg2://user:password@/dbname
 -Esportazione
 
 1) Cliccare su "Dashboard"
-2) Spuntare le dashboard che si vogliono esportare
+2) Selezionare le dashboard che si vogliono esportare
 3) Action > Export
 4) Salvare il file scaricato
 
