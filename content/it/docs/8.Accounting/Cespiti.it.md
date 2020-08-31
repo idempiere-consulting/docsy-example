@@ -2,19 +2,19 @@
 title: "Cespiti"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 800
+weight : 700
 pre: "<b></b>"
 ---
 
 ## Cespite [CES00]
 [{{< figure src="/image/Cespite.png"  width="850"  >}}](/image/Cespite.png)
-# Ammortamento
+## Ammortamento
 ## Creazione ammortamento cespite [CASC00]
 [{{< figure src="/image/CreazioneAmmortamentoCespite.png"  width="850"  >}}](/image/CreazioneAmmortamentoCespite.png)
 ## Gruppo cespite [GC00]
 [{{< figure src="/image/GruppoCespite.png"  width="850"  >}}](/image/GruppoCespite.png)
 
-# Setup Ammortamento Cespite
+## Setup Ammortamento Cespite
 ## Consegnare Beni Gestiti [CBG00]
 [{{< figure src="/image/ConsegnareBeniGestiti.png"  width="850"  >}}](/image/ConsegnareBeniGestiti.png)
 ## Registrazione [REG00]
@@ -30,7 +30,7 @@ pre: "<b></b>"
 ## Registrazione attributi [REGA00]
 [{{< figure src="/image/RegistrazioneAttributi.png"  width="850"  >}}](/image/RegistrazioneAttributi.png)
 
-# Report Cespiti
+## Report Cespiti
 ## Report costi Ammortamento non imputati [R.76]
 [{{< figure src="/image/ReportCostiAmmortamentoNonImputati.png"  width="850"  >}}](/image/ReportCostiAmmortamentoNonImputati.png)
 ## Report cespite [RP.881]

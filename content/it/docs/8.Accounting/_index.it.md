@@ -1,8 +1,8 @@
 ---
-title: "Contabilità"
+title: "Contabilità e Controllo di Gestione"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 800
+weight : 640
 pre: "<b>8. </b>"
 ---
 

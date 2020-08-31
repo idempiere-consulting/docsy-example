@@ -2,14 +2,14 @@
 title: "Gestione Ritenute"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 800
+weight : 680
 pre: "<b></b>"
 ---
 
 ## Riepilogo Ritenute [RR02]
 [{{< figure src="/image/Riepilogo Ritenute.png"  width="850"  >}}](/image/Riepilogo Ritenute.png)
 
-# Setup Witholding
+## Setup Witholding
 ## Setup RItenuta [SR00]
 [{{< figure src="/image/Setup Ritenuta.png"  width="850"  >}}](/image/Setup Ritenuta.png)
 ## Categoria Ritenuta [SR01]
@@ -19,7 +19,7 @@ pre: "<b></b>"
 ## Tipo soggetto a ritenuta [TSAR00]
 [{{< figure src="/image/TipoSoggettoARitenuta.png"  width="850"  >}}](/image/TipoSoggettoARitenuta.png)
 
-# Report Ritenute
+## Report Ritenute
 ## Report lettura ritenute fornitori [RP.852]
 [{{< figure src="/image/ReportLetturaRitenuteFornitori.png"  width="850"  >}}](/image/ReportLetturaRitenuteFornitori.png)
 ## Reportelenco ritenute dal al [RP.851]

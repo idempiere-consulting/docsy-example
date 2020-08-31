@@ -2,7 +2,7 @@
 title: "Pagamenti e Incassi"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 800
+weight : 670
 pre: "<b></b>"
 ---
 
@@ -31,7 +31,7 @@ pre: "<b></b>"
 ## Crea ricavo obbiettivo promozioni [CROP00]
 [{{< figure src="/image/CreaRicavoObbiettivoPromozioni.png"  width="850"  >}}](/image/CreaRicavoObbiettivoPromozioni.png)
 
-# Abbinamento
+## Abbinamento
 ## Allocazione Automatica
 [{{< figure src="/image/AllocazioneAutomatica.png"  width="850"  >}}](/image/AllocazioneAutomatica.png)
 ## Abbinamento Pagamento
@@ -44,7 +44,7 @@ pre: "<b></b>"
 [{{< figure src="/image/ReportRegistrazioniNonRiconciliate.png"  width="850"  >}}](/image/ReportRegistrazioniNonRiconciliate.png)
 
 
-# Sollecito Pagamento
+## Sollecito Pagamento
 ## Stampa lettere Solleciti [SLS00]
 [{{< figure src="/image/StampaLettereSolleciti.png"  width="850"  >}}](/image/StampaLettereSolleciti.png)
 ## Elaborazione sollecito [ELS00]
@@ -53,14 +53,14 @@ pre: "<b></b>"
 [{{< figure src="/image/ReportRegistrazioniContabiliSemplici.png"  width="850"  >}}](/image/ReportRegistrazioniContabiliSemplici.png)
 
 
-# Setup Ragamenti e Solleciti
+## Setup Ragamenti e Solleciti
 ## Setup Sollecito [SS01]
 [{{< figure src="/image/SetupSollecito.png"  width="850"  >}}](/image/SetupSollecito.png)
 ## Gruppo Pagamenti [GP00]
 [{{< figure src="/image/GruppoPagamenti.png"  width="850"  >}}](/image/GruppoPagamenti.png)
 
 
-# Report Pagamenti/Incassi
+## Report Pagamenti/Incassi
 ## Partite aperte clienti alla data [R.90]
 [{{< figure src="/image/PartiteAperteClientiAllaData.png"  width="850"  >}}](/image/PartiteAperteClientiAllaData.png)
 ## Report lista crediti [R.67]
@@ -86,7 +86,7 @@ pre: "<b></b>"
 ## Report controllo pagamenti incassi [RP.834]
 [{{< figure src="/image/ReportControlloPagamentiIncassi.png"  width="850"  >}}](/image/ReportControlloPagamentiIncassi.png)
 
-# Cassa e Banca
+## Cassa e Banca
 ## Estratto contro bancario [ECB00]
 [{{< figure src="/image/EstrattoContoBancario.png"  width="850"  >}}](/image/EstrattoContoBancario.png)
 ## Report movimenti bancari [R.70]

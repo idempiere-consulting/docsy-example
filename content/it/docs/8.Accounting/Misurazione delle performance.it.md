@@ -2,7 +2,7 @@
 title: "Misurazione delle Performance"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 800
+weight : 660
 pre: "<b></b>"
 ---
 
@@ -12,7 +12,7 @@ pre: "<b></b>"
 [{{< figure src="/image/IndicatorediPerformance.png"  width="850"  >}}](/image/IndicatorediPerformance.png)
 
 
-# Setup Benchmark
+## Setup Benchmark
 ## Configurazione indicatori di performance
 [{{< figure src="/image/ConfigurazioneIndicatoreDiPerformance.png"  width="850"  >}}](/image/ConfigurazioneIndicatoreDiPerformance.png)
 ## Calcolo misura performance [CMP00]

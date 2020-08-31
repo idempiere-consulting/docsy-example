@@ -2,7 +2,7 @@
 title: "Contabilita"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 800
+weight : 650
 pre: "<b></b>"
 ---
 
@@ -31,7 +31,7 @@ pre: "<b></b>"
 ## Crea/Aggiorna registrazioni contabili [CARC00]
 [{{< figure src="/image/CreaAggiornaRegistrazioniContabili.png"  width="850"  >}}](/image/CreaAggiornaRegistrazioniContabili.png)
 
-# Report Contabilità
+## Report Contabilità
 ## Report cash flow [R.60]
 [{{< figure src="/image/ReportCashFlow.png"  width="850"  >}}](/image/ReportCashFlow.png)
 ## Report registro IVA e imposte [R.68]
@@ -75,7 +75,7 @@ pre: "<b></b>"
 ## Report estratto conto [R.71]
 [{{< figure src="/image/ReportEstrattoConto1.png"  width="850"  >}}](/image/ReportEstrattoConto1.png)
 
-# Setup Report Contabile Parametrico
+## Setup Report Contabile Parametrico
 ## Gerarchia dei report [GDR00]
 [{{< figure src="/image/GerarchiaDeiReport.png"  width="850"  >}}](/image/GerarchiaDeiReport.png)
 ## Inserimento colonna report [ICR00]
@@ -87,7 +87,7 @@ pre: "<b></b>"
 ## Inserimento linea del report [ILDR00]
 [{{< figure src="/image/InserimentoLineaDelReport.png"  width="850"  >}}](/image/InserimentoLineaDelReport.png)
 
-# Impostazioni Contabilità
+## Impostazioni Contabilità
 ## Azzeramento Contabilità [AZC00]
 [{{< figure src="/image/AzzeramentoContabilita.png"  width="850"  >}}](/image/AzzeramentoContabilita.png)
 ## Categoria Imposta (Multi-Org) [CAIM01]
