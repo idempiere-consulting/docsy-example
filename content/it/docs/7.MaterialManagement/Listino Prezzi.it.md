@@ -2,7 +2,7 @@
 title: "Listino Prezzi"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 450
+weight : 510
 pre: "<b></b>"
 ---
 

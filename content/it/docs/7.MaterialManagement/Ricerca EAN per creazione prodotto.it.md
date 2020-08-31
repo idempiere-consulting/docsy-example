@@ -2,7 +2,7 @@
 title: "Ricerca EAN per creazione prodotto"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 460
+weight : 470
 pre: "<b></b>"
 ---
 

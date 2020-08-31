@@ -70,32 +70,34 @@ pre: "<b></b>"
 ## Report estratto conto business partner [RP.821]
 [{{< figure src="/image/ReportEstrattoControBusinessPartner.png"  width="850"  >}}](/image/ReportEstrattoControBusinessPartner.png)
 ## Report pagamenti non effetuati [R.65]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/ReportPagamentiNonEffettuati.png"  width="850"  >}}](/image/ReportPagamentiNonEffettuati.png)
 ## Partite aperte fornitori alla data [R.91]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/PartiteAperteFornitoriAllaData.png"  width="850"  >}}](/image/PartiteAperteFornitoriAllaData.png)
 ## Report imputazione dei pagamenti [R.61]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/ReportImputazionedeiPagamenti.png"  width="850"  >}}](/image/ReportImputazionedeiPagamenti.png)
 ## Report fatture non allocate [R.64]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/ReportFattureNonAllocate.png"  width="850"  >}}](/image/ReportFattureNonAllocate.png)
 ## Report pagamenti non allocati [R.63]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/ReportPagamentiNonAllocati.png"  width="850"  >}}](/image/ReportPagamentiNonAllocati.png)
 ## Report partite aperte [R.69]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/ReportPartiteAperte.png"  width="850"  >}}](/image/ReportPartiteAperte.png)
 ## Report partite aperte [RP.314]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/ReportPartiteAperteRP314.png"  width="850"  >}}](/image/ReportPartiteAperteRP314.png)
 ## Report controllo pagamenti incassi [RP.834]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/ReportControlloPagamentiIncassi.png"  width="850"  >}}](/image/ReportControlloPagamentiIncassi.png)
 
 # Cassa e Banca
 ## Estratto contro bancario [ECB00]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/EstrattoContoBancario.png"  width="850"  >}}](/image/EstrattoContoBancario.png)
 ## Report movimenti bancari [R.70]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/ReportMovimentiBancari.png"  width="850"  >}}](/image/ReportMovimentiBancari.png)
 ## Report dettagli pagamenti [R.62]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/ReportDettagliPagamenti.png"  width="850"  >}}](/image/ReportDettagliPagamenti.png)
 ## Riconciliazione contabile (manuale) [RIC00]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/RiconciliazioneContabileManuale.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
 ## Riconciliazione automatica dei conti [RAC00]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/RiconciliazioneAutomaticaDeiConti.png"  width="850"  >}}](/image/RiconciliazioneAutomaticaDeiConti.png)
 ## Esegui trasferimento bancario [ETB00]
-[{{< figure src="/image/ConfigurazioneContabilita.png"  width="850"  >}}](/image/ConfigurazioneContabilita.png)
+[{{< figure src="/image/EseguiTrasferimentoBancario.png"  width="850"  >}}](/image/EseguiTrasferimentoBancario.png)
+## Quadratura Estratto COnto [QEC00]
+[{{< figure src="/image/QuadraturaEstrattoConto.png"  width="850"  >}}](/image/QuadraturaEstrattoConto.png)

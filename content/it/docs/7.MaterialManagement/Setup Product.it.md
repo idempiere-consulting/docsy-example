@@ -2,7 +2,7 @@
 title: "Setup Prodotto"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 37
+weight : 480
 pre: "<b></b>"
 ---
 ## Gruppo di Promozione [GDP00]
