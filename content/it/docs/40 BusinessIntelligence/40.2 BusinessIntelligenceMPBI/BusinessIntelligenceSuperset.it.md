@@ -52,11 +52,25 @@ superset load_examples
 superset init
 ```
 
-## Avvio:
+## Avvio (sviluppo):
 
 ```
 superset run -p 8088 --with-threads --reload --debugger
 ```
+
+## Avvio (produzione):
+
+```
+gunicorn
+-w 8
+-k gevent
+--timeout 120
+-b 0.0.0.0:5000
+--limit-request-line 0
+--limit-request-field_size 0
+"superset.app:create_app()"
+```
+
 ## Connessione a database postgres:
 
 1) Cliccare su "Sources" nel menù-barra in alto
