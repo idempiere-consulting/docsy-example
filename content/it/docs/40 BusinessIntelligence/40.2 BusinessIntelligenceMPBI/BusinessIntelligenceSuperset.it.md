@@ -61,6 +61,14 @@ superset run -p 8088 --with-threads --reload --debugger
 ## Avvio (produzione):
 
 ```
+pip install gunicorn
+pip install greenlet 
+pip install eventlet
+pip install gevent   
+pip install Pillow
+
+
+#comando unico:
 gunicorn
 -w 8
 -k gevent
