@@ -45,10 +45,13 @@ La maschera permette di definire le aree di vendita.
 La maschera permette di creare dei raggruppamenti per Business Partner.
 [{{< figure src="/image/GruppoBP0.png"  width="850"  >}}](/image/GruppoBP0.png)
 ## Categoria BP [CBP01]
+La maschera permette di creare delle categorie di Business Partnere in base alle proprie esigenze.
 [{{< figure src="/image/CategoriaBP0.png"  width="850"  >}}](/image/CategoriaBP0.png)
 ## Configura e verifica l'organizzazione dei Business Partner [OBP00]
+Il processo permette di effettuare verifiche o riorganizzare i Business Partner in base alla/e Organizzazioni aziendali.
 [{{< figure src="/image/OrganizzazioneBP_OBP00.png"  width="850"  >}}](/image/OrganizzazioneBP_OBP00.png)
 ## Scollega Business Partner da organizzazione [SBPO00]
+Il processo permette di scollegare i Business Parnere da una organizzazione.
 [{{< figure src="/image/ScollegaBusinessPartnerSBPO00.png"  width="850"  >}}](/image/ScollegaBusinessPartnerSBPO00.png)
 
 ## Pianificazione Fatturazione [PF00]
