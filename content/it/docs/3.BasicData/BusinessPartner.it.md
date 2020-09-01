@@ -77,8 +77,10 @@ La maschera permette la gestione delle posizioni lavorative.
 
 # Controlli Business Partner
 ## Valida e aggiorna saldi Business Partner [VASB00]
+L'elaborazione del processo effettua un controllo dei saldi dei Business Partner.
 [{{< figure src="/image/ValidaAggiornaSaldiBusinessPartnerVASB00.png"  width="850"  >}}](/image/ValidaAggiornaSaldiBusinessPartnerVASB00.png)
 ## Informazione P.IVA Business Partner [BPPI14]
+La maschera permette la verifica della Partita IVA del Business Partner in base ai parametri di scrizione al (VIES).
 [{{< figure src="/image/InformazioneP.IVABP0.png"  width="850"  >}}](/image/InformazioneP.IVABP0.png)
 ## Informazione C.F Business Partner [BPCF14]
 [{{< figure src="/image/InformazioneC.FBP0.png"  width="850"  >}}](/image/InformazioneC.FBP0.png)
