@@ -86,8 +86,11 @@ La maschera permette di visualizzare le informazioni del Business Partner in bas
 La maschera permette di visualizzare le informazioni del Business Partner in base al Codice Fiscale.
 [{{< figure src="/image/InformazioneC.FBP0.png"  width="850"  >}}](/image/InformazioneC.FBP0.png)
 ## Controllo e/o aggiornamento P.IVA [CPI14]
+La maschera ...
 [{{< figure src="/image/ContrAggPIVA_CPI14.png"  width="850"  >}}](/image/ContrAggPIVA_CPI14.png)
-
+## Controllo Codice Fiscale [[CCF14]
+L'elaborazione del processo effettua un controllo del Codice Fiscale dei Business Partner.
+[{{< figure src="/image/ContrAggPIVA_CPI14.png"  width="850"  >}}](/image/ContrAggPIVA_CPI14.png)
 
 ## "Stato del Credito"
 
