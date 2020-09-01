@@ -27,7 +27,7 @@ La maschera permette di definire dei raggruppamenti nazionali utili alle estrazi
 ## Configuratore di Sistema [CDS00]
 La maschera permette di selezionare le variabili di sistema che determinano il funzionamento dei programmi che si utilizzano in base al risultato che si desidera ottenere, (si veda come esempio calzante scelte listini prezzi).
 [{{< figure src="/image/ConfiguratorediSistema0.png"  width="850"  >}}](/image/ConfiguratorediSistema0.png)
-## Tipo Organizzazione [GN00]
+## Tipo Organizzazione [TOR00]
 La maschera permette di definire una organizzazione aziendale.
 [{{< figure src="/image/TipoOrganizzazione0.png"  width="850"  >}}](/image/TipoOrganizzazione0.png)
 
