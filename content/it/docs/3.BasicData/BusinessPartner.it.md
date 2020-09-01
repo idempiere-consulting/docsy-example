@@ -51,7 +51,7 @@ La maschera permette di creare delle categorie di Business Partnere in base alle
 Il processo permette di effettuare verifiche o riorganizzare i Business Partner in base alla/e Organizzazioni aziendali.
 [{{< figure src="/image/OrganizzazioneBP_OBP00.png"  width="850"  >}}](/image/OrganizzazioneBP_OBP00.png)
 ## Scollega Business Partner da organizzazione [SBPO00]
-Il processo permette di scollegare i Business Parnere da una organizzazione.
+Il processo permette di scollegare i Business Partner da una organizzazione.
 [{{< figure src="/image/ScollegaBusinessPartnerSBPO00.png"  width="850"  >}}](/image/ScollegaBusinessPartnerSBPO00.png)
 
 ## Pianificazione Fatturazione [PF00]
