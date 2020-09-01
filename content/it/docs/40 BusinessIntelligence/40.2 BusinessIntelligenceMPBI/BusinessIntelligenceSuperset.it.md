@@ -30,10 +30,14 @@ Per attivarlo:
 ## Installazione:
 
 ```
-pip install psycopg2
+# in caso di errore lanciare psycopg2-binary
+python -m pip install psycopg2
 ```
 ```
-pip install apache-superset
+#verificare la presenza di "wheel" e "python3-dev"
+python -m pip install wheel
+apt install python3-dev 
+python -m pip install apache-superset
 ```
 ```
 superset db upgrade
@@ -55,7 +59,8 @@ superset init
 ## Avvio (sviluppo):
 
 ```
-superset run -p 8088 --with-threads --reload --debugger
+#funziona solo in locale
+superset run -p 8090 --with-threads --reload --debugger
 ```
 
 ## Avvio (produzione):
@@ -73,7 +78,7 @@ gunicorn
 -w 8
 -k gevent
 --timeout 120
--b 0.0.0.0:5000
+-b 0.0.0.0:8090
 --limit-request-line 0
 --limit-request-field_size 0
 "superset.app:create_app()"
@@ -115,6 +120,7 @@ postgresql+psycopg2://user:password@/dbname
 4) andare su /home/idempiere/superset/lib64/python3.8/site-packages/superset/ (ovvero all'interno della cartella del Virtual Environment di superset)
 5) modificare il valore di "SESSION_COOKIE_SAMESITE" A "None" all'interno del file "config.py"
 6) DONE!
+7) P.S.: per ottenere il "pre select filter" nell'url, impostare i filtri nella dashboard a piacere e poi copiare il link ottenuto tramite "Share" 
 
 ## Importazione ed esportazione dashboards da un'istanza all'altra:
 
