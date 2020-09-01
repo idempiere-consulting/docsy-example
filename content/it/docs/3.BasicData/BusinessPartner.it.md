@@ -20,8 +20,10 @@ la maschera permette di creare il tipo di termine di pagamento necessario nel ra
 ## Riconoscimento Ricavo [RR00]
 [{{< figure src="/image/RiconoscimentoRicavo0.png"  width="850"  >}}](/image/RiconoscimentoRicavo0.png)
 ## Indirizzo [IND00]
+La maschera permette di inserire l'indirizzo dell'Organizzazione.
 [{{< figure src="/image/Indirizzo.png"  width="850"  >}}](/image/Indirizzo.png)
 ## Indirizzo di Transazione [IDT00]
+La maschera permette di definire gli indirizzi delle organizzazioni aziendali.
 [{{< figure src="/image/Indirizzoditransazione.png"  width="850"  >}}](/image/Indirizzoditransazione.png)
 
 # Report Business Partner
