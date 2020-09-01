@@ -58,17 +58,21 @@ Il processo permette di scollegare i Business Partner da una organizzazione.
 La maschera permette di classificare il Business Partner per emissione delle fatture a determinate cadenze temporali stabilite. 
 [{{< figure src="/image/PianificazioneFatturazione0.png"  width="850"  >}}](/image/PianificazioneFatturazione0.png)
 ## Termini della Fattura [TDF12]
+La maschera 
 [{{< figure src="/image/TerminiDellaFattura0.png"  width="850"  >}}](/image/TerminiDellaFattura0.png)
 ## Periodo di Pagamento Escluso [PDPE00] 
+La maschera permette di inserire nel Business Partner dei periodi di esclusione dai pagamenti.
 [{{< figure src="/image/PeriodoPagamentoEscluso0.png"  width="850"  >}}](/image/PeriodoPagamentoEscluso0.png)
 
 # Setup Contatti
 ## Categoria Posizione [CP01]
+La maschera permette di codificare dei raggruppamenti ove indireizzare le proprie risorse (ad es. reparto commerciale, amministrativo, ecc.) 
 [{{< figure src="/image/CategoriaPosizione0.png"  width="850"  >}}](/image/CategoriaPosizione0.png)
 ## Titolo e Qualifica [TQ01]
+La maschera permette la gestione dei titoli di qualifica (es. Dott., Ing., ecc.) 
 [{{< figure src="/image/TitoloQualifica0.png"  width="850"  >}}](/image/TitoloQualifica0.png)
 ## Posizione e Contatto [POS00]
-La maschera server per gestire le posizione lavorative.
+La maschera permette la gestione delle posizioni lavorative.
 [{{< figure src="/image/Position1.png"  width="850"  >}}](/image/Position1.png)
 
 # Controlli Business Partner
