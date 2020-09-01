@@ -1,9 +1,9 @@
 ---
 title: "Configurazione Generale"
-linkTitle: "dd"
+linkTitle: "Configurazione Generale"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 10
+weight : 30
 pre: "<b> </b>"
 description: >
     Configurazione Generale
