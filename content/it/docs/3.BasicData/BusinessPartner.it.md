@@ -38,6 +38,9 @@ il report permette di creare una stampa con le indicazioni dei documenti commerc
 [{{< figure src="/image/DettagliBusinessPartnerR02.png"  width="850"  >}}](/image/DettagliBusinessPartnerR02.png)
 
 # Setup Business Partner
+## Area di vendita [ARV00]
+La maschera permette di definire le aree di vendita.
+[{{< figure src="/image/AreadiVendita.png"  width="850"  >}}](/image/AreadiVendita.png)
 ## Gruppo Business Partner [BPG00]
 [{{< figure src="/image/GruppoBP0.png"  width="850"  >}}](/image/GruppoBP0.png)
 ## Categoria BP [CBP01]
