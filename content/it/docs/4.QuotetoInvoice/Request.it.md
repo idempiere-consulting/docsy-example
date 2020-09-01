@@ -5,15 +5,14 @@ draft: false
 weight : 200
 pre: "<b></b>"
 ---
----
-
-
-
 ## Richesta / Ticket [TIK00]
+La maschera permetta la compilazione di un ticket. In corpo del ticket, nel corso del suo procedere verranno salvate le varie azioni apportate.
 [{{< figure src="/image/TicketTIK00.png"  width="850"  >}}](/image/TicketTIK00.png)
 ## Richiesta Tutto [RICT00]
+La maschera permette di visualizzare qualsiasi informazione relativa ad un determinato Ticket in oggetto.
 [{{< figure src="/image/RichiestaTutto0.png"  width="850"  >}}](/image/RichiestaTutto0.png)
 ## Risoluzione Richiesta [RR01]
+
 [{{< figure src="/image/RisoluzioneRichiesta0.png"  width="850"  >}}](/image/RisoluzioneRichiesta0.png)
 ## Risposta Standard Richiesta [RSR00]
 [{{< figure src="/image/RispostaStandardRichiesta0.png"  width="850"  >}}](/image/RispostaStandardRichiesta0.png)
