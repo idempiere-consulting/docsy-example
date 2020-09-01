@@ -20,10 +20,9 @@ la maschera permette di creare il tipo di termine di pagamento necessario nel ra
 ## Riconoscimento Ricavo [RR00]
 [{{< figure src="/image/RiconoscimentoRicavo0.png"  width="850"  >}}](/image/RiconoscimentoRicavo0.png)
 ## Indirizzo [IND00]
-[{{< figure src="/image/RiconoscimentoRicavo0.png"  width="850"  >}}](/image/RiconoscimentoRicavo0.png)
-
-
-
+[{{< figure src="/image/Indirizzo.png"  width="850"  >}}](/image/Indirizzo.png)
+## Indirizzo di Transazione [IDT00]
+[{{< figure src="/image/Indirizzoditransazione.png"  width="850"  >}}](/image/Indirizzoditransazione.png)
 
 # Report Business Partner
 ## Report Lettera Informazioni Bancarie [RP.311]
