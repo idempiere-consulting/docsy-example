@@ -42,6 +42,7 @@ il report permette di creare una stampa con le indicazioni dei documenti commerc
 La maschera permette di definire le aree di vendita.
 [{{< figure src="/image/AreadiVendita.png"  width="850"  >}}](/image/AreadiVendita.png)
 ## Gruppo Business Partner [BPG00]
+La maschera permette di creare dei raggruppamenti per Business Partner.
 [{{< figure src="/image/GruppoBP0.png"  width="850"  >}}](/image/GruppoBP0.png)
 ## Categoria BP [CBP01]
 [{{< figure src="/image/CategoriaBP0.png"  width="850"  >}}](/image/CategoriaBP0.png)
