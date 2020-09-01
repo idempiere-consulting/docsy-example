@@ -36,8 +36,6 @@ il report permette di creare una stampa con le indicazioni dei documenti commerc
 ## Report Dettagli Business Partner [R.02]
 il report permette di creare una stampa con le indicazioni dei documenti commerciali ancora aperti. 
 [{{< figure src="/image/DettagliBusinessPartnerR02.png"  width="850"  >}}](/image/DettagliBusinessPartnerR02.png)
-## Report Lettera Informazioni Bancarie [RP.311]
-[{{< figure src="/image/LetteraInformazioniBancarieRP311.png"  width="850"  >}}](/image/LetteraInformazioniBancarieRP311.png)
 
 # Setup Business Partner
 ## Gruppo Business Partner [BPG00]
