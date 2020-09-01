@@ -18,8 +18,12 @@ la maschera permette di definire, qualora vi siano BP con più organizzazioni o 
 la maschera permette di creare il tipo di termine di pagamento necessario nel rapporto con il BP.
 [{{< figure src="/image/TerminiPagamentoTP00.png"  width="850"  >}}](/image/TerminiPagamentoTP00.png)
 ## Riconoscimento Ricavo [RR00]
-
 [{{< figure src="/image/RiconoscimentoRicavo0.png"  width="850"  >}}](/image/RiconoscimentoRicavo0.png)
+## Indirizzo [IND00]
+[{{< figure src="/image/RiconoscimentoRicavo0.png"  width="850"  >}}](/image/RiconoscimentoRicavo0.png)
+
+
+
 
 # Report Business Partner
 ## Report Lettera Informazioni Bancarie [RP.311]
