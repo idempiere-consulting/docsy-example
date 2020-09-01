@@ -55,6 +55,7 @@ Il processo permette di scollegare i Business Partner da una organizzazione.
 [{{< figure src="/image/ScollegaBusinessPartnerSBPO00.png"  width="850"  >}}](/image/ScollegaBusinessPartnerSBPO00.png)
 
 ## Pianificazione Fatturazione [PF00]
+La maschera permette di classificare il Business Partner per emissione delle fatture a determinate cadenze temporali stabilite. 
 [{{< figure src="/image/PianificazioneFatturazione0.png"  width="850"  >}}](/image/PianificazioneFatturazione0.png)
 ## Termini della Fattura [TDF12]
 [{{< figure src="/image/TerminiDellaFattura0.png"  width="850"  >}}](/image/TerminiDellaFattura0.png)
