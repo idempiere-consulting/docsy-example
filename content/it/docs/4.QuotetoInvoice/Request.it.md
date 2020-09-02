@@ -36,20 +36,19 @@ Il processo permette di generare fattura a fronte di richieste.
 [{{< figure src="/image/FatturaRichiestaFR00.png"  width="850"  >}}](/image/FatturaRichiestaFR00.png)
 
 # Setup Richieste
-## Configurazione Richieste
+## Configurazione richieste
+Nello schema si vedono gli step delle richieste.
+[{{< figure src="/image/ConfigurazioneRichieste.png"  width="850"  >}}](/image/ConfigurazioneRichieste.png)
 Per gestire le richieste è fondamentale inserire i dati Host, Smtp, ecc... nella window "Client" (mittente della mail)
 [{{< figure src="/image/Request4.png"  width="850"  >}}](/image/Request4.png)
 Vediamo altre informazioni che devono essere necessarie per l'invio della mail (destinatario della mail/notifica)
 [{{< figure src="/image/Request8.png"  width="850"  >}}](/image/Request8.png)
-!
-## Creazione delle Request
-
+### Creazione delle Request
 ```
 1) Creare una Richiesta dalla window "Richiesta" (Request)
 2) Creare una Richiesta da quasi documento (es:Sales Order, Purchase Order, Resource 	   	  Attendance,.....)
 ```
-
-
+[{{< figure src="/image/Request1.png"  width="850"  >}}](/image/Request1.png)
 ![image](/image/Request1.png)
 
 
@@ -88,9 +87,7 @@ Dopo aver completato la nostra fattura è stata generata con successo
 
 ![image](/image/Request3.png)
 
-# Setup Richiesta
-## Configurazione richieste
-[{{< figure src="/image/ConfigurazioneRichieste.png"  width="850"  >}}](/image/ConfigurazioneRichieste.png)
+
 ## Tipo Richiesta [TR01]
 [{{< figure src="/image/TipoRichiesta0.png"  width="850"  >}}](/image/TipoRichiesta0.png)
 ## Gruppo Richiesta [GR00]
