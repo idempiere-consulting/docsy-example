@@ -5,12 +5,14 @@ draft: false
 weight : 210
 pre: "<b></b>"
 ---
-
 ## Offerta Ordine di Vendita [ODV00]
+La maschera permette l'inserimento dell'offerta/ordine di vendita.
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
 ## Info ordine di vendita [IOVP00]
+La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
 ## Ordine conto lavoro attivo light [CLAL13]
+La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
 [{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
 ## Elabora Gruppo di Ordine [EGO00]
 [{{< figure src="/image/ElaboraGruppodiOrdineEGO00.png"  width="850"  >}}](/image/ElaboraGruppodiOrdineEGO00.png)
@@ -29,17 +31,12 @@ pre: "<b></b>"
 
 
 # Video - Ordine di Vendita 
-
-
 ### Video - 4. Quote-to-Invoice - Sales Order Generate SO from PO / Generare SO da PO [V006]
 {{<youtube J0Lu_8PrxJo>}}
-
 ### Video - 4. Quote-to-Invoice - Sales Order / Ordine Scontrino e Reg. Corrispettivi Giornalieri [V014]
 {{<youtube wzW2NPVBOSc>}}
-
 ### Video - 4. Quote to Invoice - Sales Order Warehouse - Ordine Di Vendita di tipo Magazzino⁄ DDT [V046]
 {{<youtube 5HhASvtngeA>}}
-
 ### Video - 4. Quote-to-Invoice - Sales Order Setup  / Parametrizzazione Offerta Ord.Vendita  [V092]
 {{<youtube s-GRoAvATQU>}}
 
