@@ -8,7 +8,7 @@ pre: "<b></b>"
 ## Offerta Ordine di Vendita [ODV00]
 La maschera permette l'inserimento dell'offerta/ordine di vendita.
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
-Esistono 8 tipi di documenti che scatenano tipi di processi differenti.
+Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
 ### **Preventivo non Vincolante**
 ***Un preventivo non vincolante crea un documento stampabile ed inviabile al cliente senza fare altro.***
 Come si inserisce: Semplicemente si indica il BP  (è bene sia il più correttamente schedulato perchè a cascata si riprenderanno i dati inseriti) a cui si dovrà indirizzare ***il preventivo non vincolante***. E' bene indicare il periodo di tempo di valità dell'offerta e i dati fondamentali quali magazzino partenza merce, termini consegna, pagamento ove non indicati nel BP.
@@ -32,21 +32,20 @@ In particolare:
      La fattura viene emessa dopo che l'ordine intero è stato consegnato
    - Da prospetto fatturazione cliente dopo Spedizione
      L'emissione della fattura avviene in base a programma impostato (1volta mese/settimana).
- 3.  Compilazione BP.
+3.  Compilazione BP.
 Si conferma la testata e si inseriscono gli articoli o i codici servizi che si andranno a preventivare e si completa. Nel momento in cui riceviamo la conferma dal BP procederemo col riattivare il preventivo e a cambiare in testata il tipo documento a Ordine Standard. Si completa l'ordine e da processo si crea il ***Documento di trasporto DDT00*** dopo di che si proseguirà con la creazione e contabilizzazione della Fattura di Vendita. 
-### Preventivo Vincolante
+### **Preventivo Vincolante**
 ***Un preventivo Vincolante aggiunge un impegno e riserva (a differenza del precedente) il relativo quantitativo merce a Magazzino.***
 ### Ordine Standard 
 Una volta confermata l'offerta da parte del BP, cambiamo il tipo documento e lo rinominiamo ad ordine standard dopo di che lo completiamo, si potranno cosi stampare i ***Documenti di spedizione DDT00***
-### Ordine Magazzino
+### **Ordine Magazzino**
 Come per il precedente completata offerta andremo da processo a creare il DDT00; la creazione sarà possibile solo se tutte le merci dell'ordine sono a stock.
-### Ordine Conto Lavoro Attivo
+### **Ordine Conto Lavoro Attivo**
 non attivo
-### Ordine Prepagato
+### **Ordine Prepagato**
 Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corrispondente.
-### Ordine Fattura Accompagnatoria
+### **Ordine Fattura Accompagnatoria**
 Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
-
 ## Info ordine di vendita [IOVP00]
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
@@ -115,44 +114,6 @@ http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
 Per informazioni sui campi cliccare su iconcina relativa.
 
 [{{< figure src="/image/Ordinidivendita2.png"  width="850"  >}}](/image/Ordinidivendita2.png)
-
-## Tipi documento
-
-### [Preventivo non Vincolante](#**Preventivo non Vincolante**)
-
-### [Preventivo Vincolante](#Preventivo Vincolante)
-
-### [Ordine standard](#Ordine standard)
-
-### [Ordine Magazzino](#Ordine Magazzino)
-
-### [Ordine Conto Lavoro Attivo](#Ordine COnto Lavoro Attivo)
-
-### [Ordine Prepagato](#Ordine Prepagato)
-
-### [Ordine Fattura Accompagnatoria](#Ordine Fattura Accompagnatoria)
-
-### [Ordine Fattura Prepagata](#Ordine Fattura Prepagata)
-
-
-### Preventivo Vincolante
-***Un preventivo Vincolante aggiunge un impegno e riserva (a differenza del precedente) il relativo quantitativo merce a Magazzino.***
-### Ordine Standard 
-Una volta confermata l'offerta da parte del BP, cambiamo il tipo documento e lo rinominiamo ad ordine standard dopo di che lo completiamo, si potranno cosi stampare i ***Documenti di spedizione DDT00***
-### Ordine Magazzino
-Come per il precedente completata offerta andremo da processo a creare il DDT00; la creazione sarà possibile solo se tutte le merci dell'ordine sono a stock.
-### Ordine Conto Lavoro Attivo
-non attivo
-### Ordine Prepagato
-Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corrispondente.
-### Ordine Fattura Accompagnatoria
-Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
-
-
-
-
-
-
 
 prezzi  link LISTINO PREZZI
 
