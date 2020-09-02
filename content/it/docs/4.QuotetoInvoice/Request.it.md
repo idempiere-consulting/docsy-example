@@ -39,12 +39,9 @@ Il processo permette di generare fattura a fronte di richieste.
 ## Configurazione Richieste
 Per gestire le richieste è fondamentale inserire i dati Host, Smtp, ecc... nella window "Client" (mittente della mail)
 [{{< figure src="/image/Request4.png"  width="850"  >}}](/image/Request4.png)
-![image](/image/Request4.png)
-
 Vediamo altre informazioni che devono essere necessarie per l'invio della mail (destinatario della mail/notifica)
-
-![image](/image/Request8.png)
-
+[{{< figure src="/image/Request8.png"  width="850"  >}}](/image/Request8.png)
+!
 ## Creazione delle Request
 
 ```
