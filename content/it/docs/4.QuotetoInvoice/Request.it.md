@@ -10,22 +10,6 @@ La maschera permetta la compilazione di un ticket. In corpo del ticket, nel cors
 [{{< figure src="/image/TicketTIK00.png"  width="850"  >}}](/image/TicketTIK00.png)
 ## Richiesta Tutto [RICT00]
 La maschera permette di visualizzare qualsiasi informazione relativa ad un determinato Ticket in oggetto.
-[{{< figure src="/image/RichiestaTutto0.png"  width="850"  >}}](/image/RichiestaTutto0.png)
-## Risoluzione Richiesta [RR01]
-La maschera permette di generare delle definizioni per la risoluzione alla richiesta di un Ticket. 
-[{{< figure src="/image/RisoluzioneRichiesta0.png"  width="850"  >}}](/image/RisoluzioneRichiesta0.png)
-## Risposta Standard Richiesta [RSR00]
-La maschera permette di generare delle definizioni standardizzate per la risoluzione alla richiesta di un Ticket.
-[{{< figure src="/image/RispostaStandardRichiesta0.png"  width="850"  >}}](/image/RispostaStandardRichiesta0.png)
-## Riaprire Richiesta [RR03]
-La maschera permette la riapertura di una richiesta già ultimata.
-[{{< figure src="/image/RiaprireRichiestaRR03.png"  width="850"  >}}](/image/RiaprireRichiestaRR03.png)
-##  Fattura per richiesta [FR00]
-La maschera permette di generare fattura a fronte di richieste.
-[{{< figure src="/image/FatturaRichiestaFR00.png"  width="850"  >}}](/image/FatturaRichiestaFR00.png)
-
-## REQUEST (ALL) - RICHIESTE
-
 ```
 Visualizza e lavora su tutte le richieste
 Questa window "Request (All) " viene utilizzata per visualizzare tutte le richieste disponibili.
@@ -40,6 +24,20 @@ Le richieste sono differenti dalle email
 ```
 
 ---
+[{{< figure src="/image/RichiestaTutto0.png"  width="850"  >}}](/image/RichiestaTutto0.png)
+## Risoluzione Richiesta [RR01]
+La maschera permette di generare delle definizioni per la risoluzione alla richiesta di un Ticket. 
+[{{< figure src="/image/RisoluzioneRichiesta0.png"  width="850"  >}}](/image/RisoluzioneRichiesta0.png)
+## Risposta Standard Richiesta [RSR00]
+La maschera permette di generare delle definizioni standardizzate per la risoluzione alla richiesta di un Ticket.
+[{{< figure src="/image/RispostaStandardRichiesta0.png"  width="850"  >}}](/image/RispostaStandardRichiesta0.png)
+## Riaprire Richiesta [RR03]
+La maschera permette la riapertura di una richiesta già ultimata.
+[{{< figure src="/image/RiaprireRichiestaRR03.png"  width="850"  >}}](/image/RiaprireRichiestaRR03.png)
+##  Fattura per richiesta [FR00]
+La maschera permette di generare fattura a fronte di richieste.
+[{{< figure src="/image/FatturaRichiestaFR00.png"  width="850"  >}}](/image/FatturaRichiestaFR00.png)
+
 
 ## Settaggi Iniziali
 
