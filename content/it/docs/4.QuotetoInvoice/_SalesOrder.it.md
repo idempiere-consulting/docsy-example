@@ -38,13 +38,10 @@ La maschera permette l'inserimento degli ordini di conto lavoro attivo in modali
 {{<youtube 5HhASvtngeA>}}
 ### Video - 4. Quote-to-Invoice - Sales Order Setup  / Parametrizzazione Offerta Ord.Vendita  [V092]
 {{<youtube s-GRoAvATQU>}}
- 
 ### Video - 4. Quote-to-Invoice - Sales Order / Esplosione Comp. Distinta nell'ODV con Dist.non in stock [V150]
 {{<youtube qjQqMJXEtro>}}
-
 ### Video - 4. Qoute-to-Invoice - Sales Order /  ODVscontrini [V180]
 {{<youtube cJDJpjbcsik>}}
-
 ### Video - 4. Quote-to-Invoice - Sales Order / Gestione Sconto4+4 [V142]
 {{<youtube CDQuyj0cuHo>}}
 ### Video - 4. Quote-to-Invoice - Items Without VAT recourse / Omaggi Calcola senza rivalsa IVA [V146]
@@ -66,7 +63,7 @@ La maschera permette l'inserimento degli ordini di conto lavoro attivo in modali
 
 ## Drop Shipping
 link a documenti esistenti 
-
+---
 http://www.adempiere.com/Sponsored_Development:_Drop_Ship
 ---
 https://idempiere.atlassian.net/browse/IDEMPIERE-2619
@@ -84,7 +81,6 @@ http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
 Per informazioni sui campi cliccare su iconcina relativa.
 
 [{{< figure src="/image/Ordinidivendita2.png"  width="850"  >}}](/image/Ordinidivendita2.png)
-![](/home/idempiere/md/Documentazione iDempiere Utente/Manuale iDempiere/4.Ciclo Attivo/4.3 Ordini di Vendita/Immagini Ordini di vendita/2.png)
 
 
 ## Link Documenti - Video
