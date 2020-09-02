@@ -6,7 +6,9 @@ weight : 210
 pre: "<b></b>"
 ---
 ## Offerta Ordine di Vendita [ODV00]
-La maschera permette l'inserimento dell'offerta/ordine di vendita. Esistono 8 tipi di documenti che scatenano tipi di processi differenti.
+La maschera permette l'inserimento dell'offerta/ordine di vendita.
+[{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
+Esistono 8 tipi di documenti che scatenano tipi di processi differenti.
 ### **Preventivo non Vincolante**
 ***Un preventivo non vincolante crea un documento stampabile einviabile al cliente senza fare altro.***
 Come si inserisce: Semplicemente si indica il BP  (è bene sia il più correttamente schedulato perchè a cascata si riprenderanno i dati inseriti) a cui si dovrà indirizzare ***il preventivo non vincolante***. E' bene indicare il periodo di tempo di valità dell'offerta e i dati fondamentali quali magazzino partenza merce, termini consegna, pagamento ove non indicati nel BP.
