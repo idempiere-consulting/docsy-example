@@ -50,16 +50,15 @@ Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura c
 
 |ID | Nome<br />Interno |                                                                           | Ordine | Impegno | DDT  | Fattura | Pagam. |
 |-  | ---------------   | ------------------------------------------------------------              | :----: | ------- | ---- | ------- | ------ |
-|1  | POS Order         | Ordine/Fattura Accompagnatoria Pagata<br />(en) SO / Invoice / Payment<br                                                                     |   |                   | />(pt) Ordem de Venda / Fatura / Pagamento                                |   SI   |    SI   |  SI  |    SI   |   SI   |                                   
-|2  | Credit Order      | Ordine /Fattura Accompagnatoria<br />(en) SO / Invoice / Payment<br />(pt)|        |         |      |         |        |                                                                        |                       | Ordem de Venda / Fatura                                                   |   SI   |    SI   |  SI  |    SI   |        |         |3  | Standard Order    | Ordine Standard<br /> (en) Sale Order<br />(pt) Ordem de Venda            |   SI   |    SI   |      |         |        |
+|1  | POS Order         | Ordine/Fattura Accompagnatoria Pagata<br />(en) SO / Invoice / Payment<br |        |         |      |         |        |                                                   |   |                   | />(pt) Ordem de Venda / Fatura / Pagamento                                |   SI   |    SI   |  SI  |    SI   |   SI   |                                   
+|2  | Credit Order      | Ordine /Fattura Accompagnatoria<br />(en) SO / Invoice / Payment<br />(pt)|        |         |      |         |        |                                                                        |   |                   | Ordem de Venda / Fatura                                                   |   SI   |    SI   |  SI  |    SI   |        |         |3  | Standard Order    | Ordine Standard<br /> (en) Sale Order<br />(pt) Ordem de Venda            |   SI   |    SI   |      |         |        |
 |4  | Binding offer     | Proforma<br />(en) Quotation w/reserve<br />(pt) Cotação c/reserva        |   SI   |    SI   |      |         |        |
 |5  | Non binding offer | Preventivo non vincolante<br />(en) Quotation<br />(pt) Cotação           |   SI   |         |      |         |        |
-|6  | Prepay Order      | Ordine Prepagato<br />(en) Sale Order w/advance payment<br />(pt)         |        |         |      |         |   SI   |                     |                       | Ordem de Venda prepago                                                    |   SI   |    SI   |      |         |        |
+|6  | Prepay Order      | Ordine Prepagato<br />(en) Sale Order w/advance payment<br />(pt)         |        |         |      |         |   SI   |                     |   |                   | Ordem de Venda prepago                                                    |   SI   |    SI   |      |         |        |
 |7  |                   | Scontrino                                                                 |   SI   |    SI   |  SI  |    SI(*)|        |
 |8  | Warehouse Order   | Ordine Magazzino/DDT<br />(en) Sale Order w/Delivery Note <br />(pt)      |        |         |      |         |        |
-|                       | Ordem de Venda c/guia entrega                                             |   SI   |    SI   |   SI |         |        | 
-|-  | ---------------   | ------------------------------------------------------------------------- |  ----  | ------- | ---- | ------- | ------ |                          
-
+|   |                   | Ordem de Venda c/guia entrega                                             |   SI   |    SI   |   SI |         |        | 
+|
 ---
 ## Info ordine di vendita [IOVP00]
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
