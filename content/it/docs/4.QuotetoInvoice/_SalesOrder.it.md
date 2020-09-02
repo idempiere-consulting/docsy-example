@@ -58,6 +58,7 @@ Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura c
 |7  |                   | Scontrino                                                                      |   SI   |    SI   |  SI  |    SI(*)|        |
 |8  | Warehouse Order   | Ordine Magazzino/DDT<br />(en) Sale Order w/Delivery Note <br />(pt)           |        |         |      |         |        |
 |                       | Ordem de Venda c/guia entrega                                                  |   SI   |    SI   |   SI |         |        | 
+|-  | ---------------   | -----------------------------------------------------------------------------  |  ----  | ------- | ---- | ------- | ------ |                          
 
 ---
 ## Info ordine di vendita [IOVP00]
