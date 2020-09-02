@@ -15,14 +15,11 @@ Visualizza e lavora su tutte le richieste
 Questa window "Request (All) " viene utilizzata per visualizzare tutte le richieste disponibili.
 La scheda Richiesta definisce qualsiasi richiesta inviata da un Business Partner o internamente.
 ```
-
 Le richieste sono differenti dalle email
-
 ```
 - Le email sono private e informative (alcune azioni)
 - Le richieste sono pubbliche e oriente all’azione
 ```
-
 ---
 [{{< figure src="/image/RichiestaTutto0.png"  width="850"  >}}](/image/RichiestaTutto0.png)
 ## Risoluzione Richiesta [RR01]
@@ -32,17 +29,16 @@ La maschera permette di generare delle definizioni per la risoluzione alla richi
 La maschera permette di generare delle definizioni standardizzate per la risoluzione alla richiesta di un Ticket.
 [{{< figure src="/image/RispostaStandardRichiesta0.png"  width="850"  >}}](/image/RispostaStandardRichiesta0.png)
 ## Riaprire Richiesta [RR03]
-La maschera permette la riapertura di una richiesta già ultimata.
+Il processo permette la riapertura di una richiesta già ultimata.
 [{{< figure src="/image/RiaprireRichiestaRR03.png"  width="850"  >}}](/image/RiaprireRichiestaRR03.png)
 ##  Fattura per richiesta [FR00]
-La maschera permette di generare fattura a fronte di richieste.
+Il processo permette di generare fattura a fronte di richieste.
 [{{< figure src="/image/FatturaRichiestaFR00.png"  width="850"  >}}](/image/FatturaRichiestaFR00.png)
 
-
-## Settaggi Iniziali
-
+# Setup Richieste
+## Configurazione Richieste
 Per gestire le richieste è fondamentale inserire i dati Host, Smtp, ecc... nella window "Client" (mittente della mail)
-
+[{{< figure src="/image/Request4.png"  width="850"  >}}](/image/Request4.png)
 ![image](/image/Request4.png)
 
 Vediamo altre informazioni che devono essere necessarie per l'invio della mail (destinatario della mail/notifica)
