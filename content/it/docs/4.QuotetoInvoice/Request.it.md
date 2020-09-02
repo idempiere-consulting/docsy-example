@@ -56,11 +56,9 @@ Vediamo adesso la maschera "Tipo di Richiesta"
 Dopo aver creato la Request possiamo vedere che c’è una richiesta aperta legata a quest’ordine
 [{{< figure src="/image/Request5.png"  width="850"  >}}](/image/Request5.png)
 
-## Fatturazione delle Request
-
+### Fatturazione delle Request
 Andiamo adesso a Fatturare le Richieste.
 Per poter fatturare le richieste è importante che:
-
 ```
 - il login avvenga con organizzazione ≠ * (la fattura viene creata con Organizzazione con   cui accediamo e non può essere *)
 - la Richiesta (Request) abbia il flag impostato su Fatturato='Y'
@@ -68,23 +66,21 @@ Per poter fatturare le richieste è importante che:
 - lo stato della Richiesta sia "CLOSED"
 - le righe della richiesta (Tab Aggiornamenti) abbia una o più righe con Quantità           Fatturata ≠ 0
 ```
-
 Da menuù andiamo nel Processo "Fattura per Richieste" ed inseriamo i dati che ci interessano (unico dato obbligatorio è Tipo Richiesta)
-
-![image](/image/Request7.png)
-
+[{{< figure src="/image/Request7.png"  width="850"  >}}](/image/Request7.png)
 Dopo aver completato la nostra fattura è stata generata con successo
-
-![image](/image/Request3.png)
-
-
+[{{< figure src="/image/Request3.png"  width="850"  >}}](/image/Request3.png)
 ## Tipo Richiesta [TR01]
+La maschera permette di generare il tipo di richiesta.
 [{{< figure src="/image/TipoRichiesta0.png"  width="850"  >}}](/image/TipoRichiesta0.png)
 ## Gruppo Richiesta [GR00]
+La maschera permette di generare un raggruppamento in base alle esigense delle richieste.
 [{{< figure src="/image/GruppoRichiesta0.png"  width="850"  >}}](/image/GruppoRichiesta0.png)
 ## Categoria Richiesta [CR00]
+La maschera permette di generare la categoria della richiesta.
 [{{< figure src="/image/CategoriaRichiesta0.png"  width="850"  >}}](/image/CategoriaRichiesta0.png)
 ## Stato Richiesta [SR00]
+La maschera permette di generare i tipi di stato della richiesta.
 [{{< figure src="/image/StatoRichiesta0.png"  width="850"  >}}](/image/StatoRichiesta0.png)
 
 
