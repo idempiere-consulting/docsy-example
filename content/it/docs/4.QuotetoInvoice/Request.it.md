@@ -66,7 +66,7 @@ Per poter fatturare le richieste è importante che:
 - lo stato della Richiesta sia "CLOSED"
 - le righe della richiesta (Tab Aggiornamenti) abbia una o più righe con Quantità           Fatturata ≠ 0
 ```
-Da menuù andiamo nel Processo "Fattura per Richieste" ed inseriamo i dati che ci interessano (unico dato obbligatorio è Tipo Richiesta)
+Da menù andiamo nel Processo "Fattura per Richieste" ed inseriamo i dati che ci interessano (unico dato obbligatorio è Tipo Richiesta)
 [{{< figure src="/image/Request7.png"  width="850"  >}}](/image/Request7.png)
 Dopo aver completato la nostra fattura è stata generata con successo
 [{{< figure src="/image/Request3.png"  width="850"  >}}](/image/Request3.png)
@@ -74,7 +74,7 @@ Dopo aver completato la nostra fattura è stata generata con successo
 La maschera permette di generare il tipo di richiesta.
 [{{< figure src="/image/TipoRichiesta0.png"  width="850"  >}}](/image/TipoRichiesta0.png)
 ## Gruppo Richiesta [GR00]
-La maschera permette di generare un raggruppamento in base alle esigense delle richieste.
+La maschera permette di generare un raggruppamento in base alle esigenze delle richieste.
 [{{< figure src="/image/GruppoRichiesta0.png"  width="850"  >}}](/image/GruppoRichiesta0.png)
 ## Categoria Richiesta [CR00]
 La maschera permette di generare la categoria della richiesta.
