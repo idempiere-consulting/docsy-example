@@ -48,11 +48,11 @@ La maschera permette l'inserimento degli ordini di conto lavoro attivo in modali
 {{<youtube 53Gp7oq7Ntc>}}
 ### Video - 4. Quote to Invoice - Sales Order with UM alternative - Orinde di vendita  con um alternativa [V152]
 {{<youtube F2gSl8bSihA>}}
-### Video - 4. QuoeToInvoice RestoCliente 3 Crea Ordine di Reintrego da Reso Cliente [V184]
+### Video - 4. Quote toI nvoice Reso Cliente 3 Crea Ordine di Reintrego da Reso Cliente [V184]
 {{<youtube 3FE38767d_0>}}
-### Video - 4. QuottoInvoice ResoCliente 2 Crea DDT di Reso + Fattura da RMA [V162]
+### Video - 4. Quote to Invoice Reso Cliente 2 Crea DDT di Reso + Fattura da RMA [V162]
 {{<youtube bFhca9DQngg>}}
-### Video - 4. QuoteToInvoice ResoCliente 1 Crea DDT di Reso + Fattura [V161]
+### Video - 4. Quote to Invoice Reso Cliente 1 Crea DDT di Reso + Fattura [V161]
 {{<youtube MB3S3hYIeNM>}}
 ### Video - 4. Quote to Invoice - Sales Order / Creazione Ordine Cliente [V093]
 {{<youtube TjDGMgIG-r4>}}
@@ -60,6 +60,8 @@ La maschera permette l'inserimento degli ordini di conto lavoro attivo in modali
 {{<youtube 0ZdYGMHOkG0>}}
 ### Video - 4. Quote-to-Invoice - Prepaid Order / ODVprepagato [V175]
 {{<youtube 4dkowLrXwd4>}}
+### Video 4.QuotetoInvoice - Ordine di Tipo Fattura Accompagnatoria 
+{{<youtube 0ZvFAkDnf18>}}
 
 ## Drop Shipping
 link a documenti esistenti 
