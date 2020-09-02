@@ -83,7 +83,7 @@ http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
 
 Per informazioni sui campi cliccare su iconcina relativa.
 
-[{{< figure src="/image/Ordini di vendita/2.png"  width="850"  >}}](/image/Ordini di vendita/2.png)
+[{{< figure src="/image/Ordinidivendita2.png"  width="850"  >}}](/image/Ordinidivendita2.png)
 ![](/home/idempiere/md/Documentazione iDempiere Utente/Manuale iDempiere/4.Ciclo Attivo/4.3 Ordini di Vendita/Immagini Ordini di vendita/2.png)
 
 
