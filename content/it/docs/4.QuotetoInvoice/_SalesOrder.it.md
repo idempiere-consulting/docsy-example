@@ -7,6 +7,37 @@ pre: "<b></b>"
 ---
 ## Offerta Ordine di Vendita [ODV00]
 La maschera permette l'inserimento dell'offerta/ordine di vendita. Esistono 8 tipi di documenti che scatenano tipi di processi differenti.
+### **Preventivo non Vincolante**
+***Un preventivo non vincolante crea un documento stampabile einviabile al cliente senza fare altro.***
+Come si inserisce: Semplicemente si indica il BP  (è bene sia il più correttamente schedulato perchè a cascata si riprenderanno i dati inseriti) a cui si dovrà indirizzare ***il preventivo non vincolante***. E' bene indicare il periodo di tempo di valità dell'offerta e i dati fondamentali quali magazzino partenza merce, termini consegna, pagamento ove non indicati nel BP.
+In particolare:
+1. Regole di consegna.
+   - Disponibilità
+     (Predefinita). sono permesse spedizioni solo se in presenza di materiali a magazzino. (permette spedizioni parziali)
+   - Linea completa o Ordine completo
+     Spedizione possibile solo con ordine completo
+   - Forza 
+     La spedizione è indipendente dalle scorte (possibilità di andare in negativo a magazzino)
+   - Manuale
+     E' richiesto inserimento manuale delle quantità da spedire
+2.  Regole di fatturazione da impostare in BP.
+    da impostare a livello BP
+   - Dopo Spedizione/Consegna
+     Le fatture sono generate solo dopo la consegna delle merci
+   - Immediata
+     La fattura viene emessa anche in caso la merce non sia stata cosegnata/ancora arrivata al cliente
+   - Dopo ordine consegnato
+     La fattura viene emessa dopo che l'ordine intero è stato consegnato
+   - Da prospetto fatturazione cliente dopo Spedizione
+     L'emissione della fattura avviene in base a programma impostato (1volta mese/settimana).
+ 3.  Compilazione BP.
+Si conferma la testata e si inseriscono gli articoli o i codici servizi che si andranno a preventivare e si completa. Nel momento in cui riceviamo la conferma dal BP procederemo col riattivare il preventivo e a cambiare in testata il tipo documento a Ordine Standard. Si completa l'ordine e da processo si crea il ***Documento di trasporto DDT00*** dopo di che si proseguirà con la creazione e contabilizzazione della Fattura di Vendita. 
+
+
+
+
+
+
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
 ## Info ordine di vendita [IOVP00]
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
@@ -96,55 +127,29 @@ Per informazioni sui campi cliccare su iconcina relativa.
 ### [Ordine Fattura Prepagata](#Ordine Fattura Prepagata)
 
 ### **Preventivo non Vincolante**
-
 ***Un preventivo non vincolante crea un documento stampabile einviabile al cliente senza fare altro.***
-
 Come si inserisce: Semplicemente si indica il BP  (è bene sia il più correttamente schedulato perchè a cascata si riprenderanno i dati inseriti) a cui si dovrà indirizzare ***il preventivo non vincolante***. E' bene indicare il periodo di tempo di valità dell'offerta e i dati fondamentali quali magazzino partenza merce, termini consegna, pagamento ove non indicati nel BP.
-
 In particolare:
-
 1. Regole di consegna.
-
    - Disponibilità
-
      (Predefinita). sono permesse spedizioni solo se in presenza di materiali a magazzino. (permette spedizioni parziali)
-
    - Linea completa o Ordine completo
-
      Spedizione possibile solo con ordine completo
-
    - Forza 
-
      La spedizione è indipendente dalle scorte (possibilità di andare in negativo a magazzino)
-
    - Manuale
-
      E' richiesto inserimento manuale delle quantità da spedire
-
 2.  Regole di fatturazione da impostare in BP.
-
     da impostare a livello BP
-
    - Dopo Spedizione/Consegna
-
      Le fatture sono generate solo dopo la consegna delle merci
-
    - Immediata
-
      La fattura viene emessa anche in caso la merce non sia stata cosegnata/ancora arrivata al cliente
-
    - Dopo ordine consegnato
-
      La fattura viene emessa dopo che l'ordine intero è stato consegnato
-
    - Da prospetto fatturazione cliente dopo Spedizione
-
      L'emissione della fattura avviene in base a programma impostato (1volta mese/settimana).
-
-​    3.  Compilazione BP.
-
-​          
-
+ 3.  Compilazione BP.
 Si conferma la testata e si inseriscono gli articoli o i codici servizi che si andranno a preventivare e si completa. Nel momento in cui riceviamo la conferma dal BP procederemo col riattivare il preventivo e a cambiare in testata il tipo documento a Ordine Standard. Si completa l'ordine e da processo si crea il ***Documento di trasporto DDT00*** dopo di che si proseguirà con la creazione e contabilizzazione della Fattura di Vendita. 
 
 ### Preventivo Vincolante
