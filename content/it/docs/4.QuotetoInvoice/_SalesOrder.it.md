@@ -10,7 +10,7 @@ La maschera permette l'inserimento dell'offerta/ordine di vendita.
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
 Esistono 8 tipi di documenti che scatenano tipi di processi differenti.
 ### **Preventivo non Vincolante**
-***Un preventivo non vincolante crea un documento stampabile einviabile al cliente senza fare altro.***
+***Un preventivo non vincolante crea un documento stampabile ed inviabile al cliente senza fare altro.***
 Come si inserisce: Semplicemente si indica il BP  (è bene sia il più correttamente schedulato perchè a cascata si riprenderanno i dati inseriti) a cui si dovrà indirizzare ***il preventivo non vincolante***. E' bene indicare il periodo di tempo di valità dell'offerta e i dati fondamentali quali magazzino partenza merce, termini consegna, pagamento ove non indicati nel BP.
 In particolare:
 1. Regole di consegna.
@@ -71,7 +71,7 @@ La maschera permette l'inserimento degli ordini di conto lavoro attivo in modali
 {{<youtube 5HhASvtngeA>}}
 ### Video - 4. Quote-to-Invoice - Sales Order Setup  / Parametrizzazione Offerta Ord.Vendita  [V092]
 {{<youtube s-GRoAvATQU>}}
-### Video - 4. Quote-to-Invoice - Sales Order / Esplosione Comp. Distinta nell'ODV con Dist.non in stock [V150]
+### **Video - 4. Quote-to-Invoice - Sales Order / Esplosione Comp. Distinta nell'ODV con Dist.non in stock [V150]**
 {{<youtube qjQqMJXEtro>}}
 ### Video - 4. Qoute-to-Invoice - Sales Order /  ODVscontrini [V180]
 {{<youtube cJDJpjbcsik>}}
