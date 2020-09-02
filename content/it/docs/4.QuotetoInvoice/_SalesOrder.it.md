@@ -6,7 +6,7 @@ weight : 210
 pre: "<b></b>"
 ---
 ## Offerta Ordine di Vendita [ODV00]
-La maschera permette l'inserimento dell'offerta/ordine di vendita.
+La maschera permette l'inserimento dell'offerta/ordine di vendita. Esistono 8 tipi di documenti che scatenano tipi di processi differenti.
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
 ## Info ordine di vendita [IOVP00]
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
@@ -76,19 +76,6 @@ http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
 Per informazioni sui campi cliccare su iconcina relativa.
 
 [{{< figure src="/image/Ordinidivendita2.png"  width="850"  >}}](/image/Ordinidivendita2.png)
-
-
-## Link Documenti - Video
-
-In questa maschera si inseriscono offerte (o preventivi) e ordini clienti. Esistono 8 tipi di documenti che scatenano tipi di processi differenti. In questa sezioni si possono consultare video "help" e "help" documenti
-
-Doc  Processo di Vendita [link]
-
-Video Creazione Ordine Fattura immediata []
-
-Viedo Creazione Ordine Magazzino
-
-Video...
 
 ## Tipi documento
 
