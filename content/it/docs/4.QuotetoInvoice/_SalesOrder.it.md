@@ -34,13 +34,19 @@ In particolare:
      L'emissione della fattura avviene in base a programma impostato (1volta mese/settimana).
  3.  Compilazione BP.
 Si conferma la testata e si inseriscono gli articoli o i codici servizi che si andranno a preventivare e si completa. Nel momento in cui riceviamo la conferma dal BP procederemo col riattivare il preventivo e a cambiare in testata il tipo documento a Ordine Standard. Si completa l'ordine e da processo si crea il ***Documento di trasporto DDT00*** dopo di che si proseguirà con la creazione e contabilizzazione della Fattura di Vendita. 
+### Preventivo Vincolante
+***Un preventivo Vincolante aggiunge un impegno e riserva (a differenza del precedente) il relativo quantitativo merce a Magazzino.***
+### Ordine Standard 
+Una volta confermata l'offerta da parte del BP, cambiamo il tipo documento e lo rinominiamo ad ordine standard dopo di che lo completiamo, si potranno cosi stampare i ***Documenti di spedizione DDT00***
+### Ordine Magazzino
+Come per il precedente completata offerta andremo da processo a creare il DDT00; la creazione sarà possibile solo se tutte le merci dell'ordine sono a stock.
+### Ordine Conto Lavoro Attivo
+non attivo
+### Ordine Prepagato
+Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corrispondente.
+### Ordine Fattura Accompagnatoria
+Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
 
-
-
-
-
-
-[{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
 ## Info ordine di vendita [IOVP00]
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
@@ -71,7 +77,7 @@ La maschera permette l'inserimento degli ordini di conto lavoro attivo in modali
 {{<youtube 5HhASvtngeA>}}
 ### Video - 4. Quote-to-Invoice - Sales Order Setup  / Parametrizzazione Offerta Ord.Vendita  [V092]
 {{<youtube s-GRoAvATQU>}}
-### **Video - 4. Quote-to-Invoice - Sales Order / Esplosione Comp. Distinta nell'ODV con Dist.non in stock [V150]**
+### Video - 4. Quote-to-Invoice - Sales Order / Esplosione Comp. Distinta nell'ODV con Dist.non in stock [V150]
 {{<youtube qjQqMJXEtro>}}
 ### Video - 4. Qoute-to-Invoice - Sales Order /  ODVscontrini [V180]
 {{<youtube cJDJpjbcsik>}}
@@ -128,54 +134,18 @@ Per informazioni sui campi cliccare su iconcina relativa.
 
 ### [Ordine Fattura Prepagata](#Ordine Fattura Prepagata)
 
-### **Preventivo non Vincolante**
-***Un preventivo non vincolante crea un documento stampabile einviabile al cliente senza fare altro.***
-Come si inserisce: Semplicemente si indica il BP  (è bene sia il più correttamente schedulato perchè a cascata si riprenderanno i dati inseriti) a cui si dovrà indirizzare ***il preventivo non vincolante***. E' bene indicare il periodo di tempo di valità dell'offerta e i dati fondamentali quali magazzino partenza merce, termini consegna, pagamento ove non indicati nel BP.
-In particolare:
-1. Regole di consegna.
-   - Disponibilità
-     (Predefinita). sono permesse spedizioni solo se in presenza di materiali a magazzino. (permette spedizioni parziali)
-   - Linea completa o Ordine completo
-     Spedizione possibile solo con ordine completo
-   - Forza 
-     La spedizione è indipendente dalle scorte (possibilità di andare in negativo a magazzino)
-   - Manuale
-     E' richiesto inserimento manuale delle quantità da spedire
-2.  Regole di fatturazione da impostare in BP.
-    da impostare a livello BP
-   - Dopo Spedizione/Consegna
-     Le fatture sono generate solo dopo la consegna delle merci
-   - Immediata
-     La fattura viene emessa anche in caso la merce non sia stata cosegnata/ancora arrivata al cliente
-   - Dopo ordine consegnato
-     La fattura viene emessa dopo che l'ordine intero è stato consegnato
-   - Da prospetto fatturazione cliente dopo Spedizione
-     L'emissione della fattura avviene in base a programma impostato (1volta mese/settimana).
- 3.  Compilazione BP.
-Si conferma la testata e si inseriscono gli articoli o i codici servizi che si andranno a preventivare e si completa. Nel momento in cui riceviamo la conferma dal BP procederemo col riattivare il preventivo e a cambiare in testata il tipo documento a Ordine Standard. Si completa l'ordine e da processo si crea il ***Documento di trasporto DDT00*** dopo di che si proseguirà con la creazione e contabilizzazione della Fattura di Vendita. 
 
 ### Preventivo Vincolante
-
 ***Un preventivo Vincolante aggiunge un impegno e riserva (a differenza del precedente) il relativo quantitativo merce a Magazzino.***
-
 ### Ordine Standard 
-
 Una volta confermata l'offerta da parte del BP, cambiamo il tipo documento e lo rinominiamo ad ordine standard dopo di che lo completiamo, si potranno cosi stampare i ***Documenti di spedizione DDT00***
-
 ### Ordine Magazzino
-
 Come per il precedente completata offerta andremo da processo a creare il DDT00; la creazione sarà possibile solo se tutte le merci dell'ordine sono a stock.
-
 ### Ordine Conto Lavoro Attivo
-
 non attivo
-
 ### Ordine Prepagato
-
 Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corrispondente.
-
 ### Ordine Fattura Accompagnatoria
-
 Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
 
 
