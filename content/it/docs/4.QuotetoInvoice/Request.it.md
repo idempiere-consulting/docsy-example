@@ -51,15 +51,10 @@ Vediamo altre informazioni che devono essere necessarie per l'invio della mail (
 [{{< figure src="/image/Request1.png"  width="850"  >}}](/image/Request1.png)
 Creiamo la Richiesta legata a questo Ordine di Vendita e vediamo tutte le informazioni:
 [{{< figure src="/image/Request2.png"  width="850"  >}}](/image/Request2.png)
-![image](/image/Request2.png)
 Vediamo adesso la maschera "Tipo di Richiesta"
 [{{< figure src="/image/Request6.png"  width="850"  >}}](/image/Request6.png)
-![image](/image/Request6.png)
-
-
 Dopo aver creato la Request possiamo vedere che c’è una richiesta aperta legata a quest’ordine
 [{{< figure src="/image/Request5.png"  width="850"  >}}](/image/Request5.png)
-![image](/image/Request5.png)
 
 ## Fatturazione delle Request
 
