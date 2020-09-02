@@ -60,7 +60,7 @@ La maschera permette l'inserimento degli ordini di conto lavoro attivo in modali
 {{<youtube 0ZdYGMHOkG0>}}
 ### Video - 4. Quote-to-Invoice - Prepaid Order / ODVprepagato [V175]
 {{<youtube 4dkowLrXwd4>}}
-### Video 4.QuotetoInvoice - Ordine di Tipo Fattura Accompagnatoria 
+### Video - 4. Quote to Invoice - Ordine di Tipo Fattura Accompagnatoria 
 {{<youtube 0ZvFAkDnf18>}}
 
 ## Drop Shipping
@@ -73,13 +73,6 @@ https://idempiere.atlassian.net/browse/IDEMPIERE-2619
 http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
 ---
 
-## Ordine di Vendita [ODV00]
-
-4.QuotetoInvoice - Ordine di Tipo Fattura Accompagnatoria  https://youtu.be/0ZvFAkDnf18
- 
-## Offerta/Ordine di vendita
-
-
 Per informazioni sui campi cliccare su iconcina relativa.
 
 [{{< figure src="/image/Ordinidivendita2.png"  width="850"  >}}](/image/Ordinidivendita2.png)
@@ -88,12 +81,6 @@ Per informazioni sui campi cliccare su iconcina relativa.
 ## Link Documenti - Video
 
 In questa maschera si inseriscono offerte (o preventivi) e ordini clienti. Esistono 8 tipi di documenti che scatenano tipi di processi differenti. In questa sezioni si possono consultare video "help" e "help" documenti
-
-4.1 Creazione Ordine Cliente  https://youtu.be/TjDGMgIG-r4
-
-4 QuotetoInvoice  Ordine di Vendita TASK  ODV10  https://youtu.be/0ZdYGMHOkG0
-
-4 QuotetoInvoice GenerateSO fromPO  https://youtu.be/J0Lu_8PrxJo
 
 Doc  Processo di Vendita [link]
 
