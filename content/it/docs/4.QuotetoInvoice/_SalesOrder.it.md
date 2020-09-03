@@ -65,19 +65,23 @@ Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura c
 ## **FAQ** 
 ---
 D: Come faccio a inserie una scadenza diversa ?
+
 R:
 
 ---
 ID=1
 D: Non accetta completare il pagamento , manca il collegamento alla banca: error no account defined for this organization. Create an account on the bank account window for the organization/currency.
+
 R:
 
 ---
 D: quando il pagamento viene processato posso andargli a mettere per esempio i dati dell'assegno?
+
 R:
 
 ---
 D: posso indicare le modalita' di pagamento prima di completare l'ordine? e quindi non usare le impostazioni di default (banca)-  esempio per vendite CASH.
+
 R:
 
 ---
