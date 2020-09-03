@@ -74,6 +74,7 @@ ReportGiacenzaPerProdotto.png
 [{{< figure src="/image/ReportTotaliTransazioniDiProdotto.png"  width="850"  >}}](/image/ReportTotaliTransazioniDiProdotto.png)
 ## Report Prodotto "Dove Usato" [R.34]
 [{{< figure src="/image/ReportProdottoDoveUsato.png"  width="850"  >}}](/image/ReportProdottoDoveUsato.png)
+[{{< figure src="/image/ReportProdottoDoveUsato1.png"  width="850"  >}}](/image/ReportProdottoDoveUsato1.png)
 ## Report Valutazione Inventario [R.32]
 [{{< figure src="/image/ReportValutazioneInventario.png"  width="850"  >}}](/image/ReportValutazioneInventario.png)
 ## Report Valore di Transazione del Prodotto [R.28]
