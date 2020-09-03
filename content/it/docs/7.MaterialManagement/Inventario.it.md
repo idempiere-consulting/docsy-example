@@ -19,5 +19,4 @@ pre: "<b></b>"
 [{{< figure src="/image/ReportInventarioRP731.png"  width="850"  >}}](/image/ReportInventarioRP731.png)
 ## Report Valutazione Inventario alla Data [RP.132]
 [{{< figure src="/image/ReportValutazioneInventarioallaData.png"  width="850"  >}}](/image/ReportValutazioneInventarioallaData.png)
- 
-
+[{{< figure src="/image/ReportValutazioneInventarioAllaData.png "  width="850"  >}}](/image/ReportValutazioneInventarioAllaData.png )
