@@ -20,6 +20,7 @@ pre: "<b></b>"
 # Report Richiesta di Quotazione Fornitore
 ## Report Richieste Aperte [R.23]
 [{{< figure src="/image/RichiesteAperteR23.png"  width="850"  >}}](/image/RichiesteAperteR23.png)
+[{{< figure src="/image/ReportRichiesteAperte.png"  width="850"  >}}](/image/ReportRichiesteAperte.png)
 ## Report Richieste senza risposta [R.22]
 [{{< figure src="/image/RichiestesenzarispostaR22.png"  width="850"  >}}](/image/RichiestesenzarispostaR22.png)
 ## Report risposte alla richiesta quotazione [R.24]
