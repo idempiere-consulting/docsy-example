@@ -64,6 +64,7 @@ Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura c
 
 ## **FAQ** 
 D: Come faccio a inserie una scadenza diversa ?
+
 R:
 
 ID=1
