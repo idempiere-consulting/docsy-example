@@ -12,8 +12,8 @@ Si ricorda per informazioni sui campi cliccare su icona relativa in barra strume
 [{{< figure src="/image/Ordinidivendita2.png"  width="850"  >}}](/image/Ordinidivendita2.png)
 Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
 ### **Preventivo non Vincolante**
-_Un preventivo non vincolante crea un documento stampabile ed inviabile al cliente senza fare altro._
-Come si inserisce: Semplicemente si indica il BP  (è bene sia il più correttamente schedulato perchè a cascata si riprenderanno i dati inseriti) a cui si dovrà indirizzare _il preventivo non vincolante_. E' bene indicare il periodo di tempo di valità dell'offerta e i dati fondamentali quali magazzino partenza merce, termini consegna, pagamento ove non indicati nel BP.
+***Un preventivo non vincolante crea un documento stampabile ed inviabile al cliente senza fare altro.***
+Come si inserisce: Semplicemente si indica il BP  (è bene sia il più correttamente schedulato perchè a cascata si riprenderanno i dati inseriti) a cui si dovrà indirizzare ***il preventivo non vincolante***. E' bene indicare il periodo di tempo di valità dell'offerta e i dati fondamentali quali magazzino partenza merce, termini consegna, pagamento ove non indicati nel BP.
 In particolare:
 1. Regole di consegna.
    - Disponibilità
