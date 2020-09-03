@@ -36,6 +36,7 @@ pre: "<b></b>"
 # Report Distinta Base
 ## Report Distinta Base Esplosa [R.36]
 [{{< figure src="/image/ReportDistintaBaseEsplosa.png"  width="850"  >}}](/image/ReportDistintaBaseEsplosa.png)
+[{{< figure src="/image/ReportDistintaBaseEsplosa1.png"  width="850"  >}}](/image/ReportDistintaBaseEsplosa1.png)
 # Setup Produzione Light
 ## Manufacturing Management Setup(X)
 [{{< figure src="/image/ManufacturingManagementSetup.png"  width="850"  >}}](/image/ManufacturingManagementSetup.png)
