@@ -114,36 +114,25 @@ REPORT CONFERMA D'ORDINE R0003.v1 da sistemare.
 
 
 
-## Correzione Dati - Errori
-
-## Ciclo Attivo : Ordine di Vendita - Documento di Trasporto - Fattura di Vendita
-
+### Correzione Dati - Errori
 ---
-
+### Ciclo Attivo : Ordine di Vendita - Documento di Trasporto - Fattura di Vendita
+---
 #### Modifica Prezzi 
-
 ---
-
 #### Modifica Aliquota iva 
-
 ---
-
 #### Modifica Quantità 
-
 ---
-
-#### **Modifica Quantità su ordine completato - non ho il DDT ne la fattura**
-
+#### **Modifica Quantità su ordine completato - non ho il DDT nè la fattura**
 ```
 a) Riapro l'ordine eseguendo la sua riattivazione
 b) Procedo alla modifica della Quantità
 c) Completo nuovamente l'ordine di vendita 
 ```
-
 #### **Modifica Quantità su ordine completato e DDT giù emesso - Non ho ancora emesso la fattura**
-
-##### **Ho 1 solo DDT - Qtantità completamente evasa** 
-
+---
+#### **Ho 1 solo DDT - Qtantità completamente evasa** 
 ```
 Esempio : quantità ordine 6 - DDT quantità 6
 ```
