@@ -33,6 +33,7 @@ il report permette di creare una stampa con indicazioni bancarie da inviare ai B
 ## Report Importo Aperto Business Partner [R.03]
 il report permette di creare una stampa con le indicazioni dei documenti commerciali ancora aperti.
 [{{< figure src="/image/ImportoApertoBusinessPartnerR03.png"  width="850"  >}}](/image/ImportoApertoBusinessPartnerR03.png)
+[{{< figure src="/image/ReportImportoApertoBusinessPartners1.png"  width="850"  >}}](/image/ReportImportoApertoBusinessPartners1.png)
 ## Report Dettagli Business Partner [R.02]
 il report permette di creare una stampa con le indicazioni dei documenti commerciali ancora aperti. 
 [{{< figure src="/image/DettagliBusinessPartnerR02.png"  width="850"  >}}](/image/DettagliBusinessPartnerR02.png)
