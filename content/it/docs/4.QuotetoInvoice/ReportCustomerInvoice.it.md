@@ -74,6 +74,8 @@ pre: "<b></b>"
 
 ## Report fatture per prodotto per mese [R.15]
 [{{< figure src="/image/FattureProdottoperMeseR15.png"  width="850"  >}}](/image/FattureProdottoperMeseR15.png)
+[{{< figure src="/image/ReportFatturePerProdottoPerMese.png"  width="850"  >}}](/image/ReportFatturePerProdottoPerMese.png)
+
 
 ## Invia Fatture via Email
 ### Video - 4- QuotetoInvoice - Invoice by Email / Inviare Fattura via Email [V024]
