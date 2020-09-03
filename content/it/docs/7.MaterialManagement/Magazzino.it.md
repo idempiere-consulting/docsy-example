@@ -80,6 +80,7 @@ ReportGiacenzaPerProdotto.png
 [{{< figure src="/image/ReportValutazioneInventario1.png"  width="850"  >}}](/image/ReportValutazioneInventario1.png)
 ## Report Valore di Transazione del Prodotto [R.28]
 [{{< figure src="/image/ReportValorediTransazione.png"  width="850"  >}}](/image/ReportValorediTransazione.png)
+[{{< figure src="/image/ReportValoreDiTransizioneDelProdotto.png"  width="850"  >}}](/image/ReportValoreDiTransizioneDelProdotto.png)
 ## Riferimenti dei Materiali
 [{{< figure src="/image/RiferimentideiMateriali.png"  width="850"  >}}](/image/RiferimentideiMateriali.png)
 ## Report Giornale di Magazzino [RP.714]
