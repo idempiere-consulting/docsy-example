@@ -62,6 +62,14 @@ Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura c
 |7  | Scontrino         | Scontrino                                                                 |   SI   |    SI   |  SI  |    SI(*)|        |
 |8  | Warehouse Order   | Ordine Magazzino/DDT<br />(en) Sale Order w/Delivery Note <br />(pt) Ordem de Venda c/guia entrega     |   SI   |    SI   |  SI  |         |        | 
 
+<u>I TIPI ORDINI CON IMPEGNO SI:</u>   La riserva dello stock e' attivata solo quando lo stato documento=IN PROGRESS (per mettere in progress un documento utilizzare la funzione DOCUMENT ACTION/PREPARE)
+Suggerimento: eventualmente si potrebbe indicare un conto transitorio per tutti questi tipi di ordini di vendita? tipo una cassa vendita e successivamente il contabile va spostando e riconciliando tutti i movimenti?
+ID=7
+Sicuramente legato al problema rif. ID 1, questo processamento e' da riverificare dopo una riconfigurazione dell'account del business partner.
+ID=8
+Non lo vedo piu'
+
+
 ## **FAQ** 
 ---
 D: Come faccio a inserie una scadenza diversa ?
@@ -70,6 +78,7 @@ R:
 
 ---
 ID=1
+
 D: Non accetta completare il pagamento , manca il collegamento alla banca: error no account defined for this organization. Create an account on the bank account window for the organization/currency.
 
 R:
@@ -85,15 +94,8 @@ D: posso indicare le modalita' di pagamento prima di completare l'ordine? e quin
 R:
 
 ---
-Suggerimento: eventualmente si potrebbe indicare un conto transitorio per tutti questi tipi di ordini di vendita? tipo una cassa vendita e successivamente il contabile va spostando e riconciliando tutti i movimenti?
-ID=7
-Sicuramente legato al problema rif. ID 1, questo processamento e' da riverificare dopo una riconfigurazione dell'account del business partner.
-ID=8
-Non lo vedo piu'
 
 **NOTE - PER TUTTI ** 
-
-<u>I TIPI ORDINI CON IMPEGNO SI:</u>   La riserva dello stock e' attivata solo quando lo stato documento=IN PROGRESS (per mettere in progress un documento utilizzare la funzione DOCUMENT ACTION/PREPARE)
 
 REPORT CONFERMA D'ORDINE R0003.v1 da sistemare.
 
@@ -212,21 +214,6 @@ c) completamento
 ​	**<u>PAGAMENTO</u>**
 
 ​	Da trovare dove stampare la ricevuta e eventualmente personalizzarla.
-
-**NOTE - PER TUTTI ** 
-
-<u>I TIPI ORDINI CON IMPEGNO SI:</u>   La riserva dello stock e' attivata solo quando lo stato documento=IN PROGRESS (per mettere in progress un documento utilizzare la funzione DOCUMENT ACTION/PREPARE)
-
-REPORT CONFERMA D'ORDINE R0003.v1 da sistemare.
-
-
-
-
-
-
-
-
-
 
 
 
