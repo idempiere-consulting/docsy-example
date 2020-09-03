@@ -63,7 +63,9 @@ pre: "<b> </b>"
 [{{< figure src="/image/ReportConfermeAperte1.png"  width="850"  >}}](/image/ReportConfermeAperte1.png)
 # Report Magazzino
 ## Report Giacenza per prodotto
+ReportGiacenzaPerProdotto.png
 [{{< figure src="/image/ReportGiacenzaperProdotto.png"  width="850"  >}}](/image/ReportGiacenzaperProdotto.png)
+[{{< figure src="/image/ReportGiacenzaPerProdotto1.png"  width="850"  >}}](/image/ReportGiacenzaPerProdotto1.png)
 ## Report Dettagli transazioni [R.29]
 [{{< figure src="/image/ReportdiDettagliosulleTransazioni.png"  width="850"  >}}](/image/ReportdiDettagliosulleTransazioni.png)
 ## Deport Totali transazioni di prodotto [R.27]
