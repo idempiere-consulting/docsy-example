@@ -99,7 +99,7 @@ R:
 
 REPORT CONFERMA D'ORDINE R0003.v1 da sistemare.
 
-### **Correzione Dati - Errori**
+### **COME CORREGGERE DATI - ERRORI**
 
 #### **Ciclo Attivo : Ordine di Vendita - Documento di Trasporto - Fattura di Vendita**
 ---
