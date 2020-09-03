@@ -26,7 +26,7 @@ pre: "<b></b>"
 [{{< figure src="/image/DettaglioOrdiniNonEvasiRE54.png"  width="850"  >}}](/image/DettaglioOrdiniNonEvasiRE54.png)
 ## Report dettaglio Spedizioni [R.07]
 [{{< figure src="/image/InformazioniDettagliSpedizioniR07.png"  width="850"  >}}](/image/InformazioniDettagliSpedizioniR07.png)
-
+[{{< figure src="/image/ReportDettagliSpedizioni1.png"  width="850"  >}}](/image/ReportDettagliSpedizioni1.png)
 # Setup Shipping
 ## Tariffa Doganale [TFD00]
 [{{< figure src="/image/TariffaDoganaleTFD00.png"  width="850"  >}}](/image/TariffaDoganaleTFD00.png)
