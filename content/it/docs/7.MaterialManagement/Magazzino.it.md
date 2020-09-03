@@ -33,6 +33,7 @@ pre: "<b> </b>"
 [{{< figure src="/image/Spedizioniere.png"  width="850"  >}}](/image/Spedizioniere.png)
 ## Report Distribution Order Detail [R.45]
 [{{< figure src="/image/ReportDistributionOrderRetail.png"  width="850"  >}}](/image/ReportDistributionOrderRetail.png)
+[{{< figure src="/image/ReportDistributionOrderDetail.png"  width="850"  >}}](/image/ReportDistributionOrderDetail.png)
 ## Distribution Management Setup
 [{{< figure src="/image/DistributionManagementSetup.png"  width="850"  >}}](/image/DistributionManagementSetup.png)
 ## Distribution List
