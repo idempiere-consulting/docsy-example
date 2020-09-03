@@ -83,6 +83,7 @@ ReportGiacenzaPerProdotto.png
 [{{< figure src="/image/ReportValoreDiTransizioneDelProdotto.png"  width="850"  >}}](/image/ReportValoreDiTransizioneDelProdotto.png)
 ## Riferimenti dei Materiali
 [{{< figure src="/image/RiferimentideiMateriali.png"  width="850"  >}}](/image/RiferimentideiMateriali.png)
+[{{< figure src="/image/RiferimentideiMateriali.png"  width="850"  >}}](/image/RiferimentiDeiMateriali.png)
 ## Report Giornale di Magazzino [RP.714]
 [{{< figure src="/image/ReportGiornalediMagazzino.png"  width="850"  >}}](/image/ReportGiornalediMagazzino.png)
 ## Report Dettaglio scorte
