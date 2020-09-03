@@ -26,7 +26,7 @@ pre: "<b></b>"
 [{{< figure src="/image/ReportRichiesteSenzaRisposta.png"  width="850"  >}}](/image/ReportRichiesteSenzaRisposta.png)
 ## Report risposte alla richiesta quotazione [R.24]
 [{{< figure src="/image/DettagliRispostaRichiestaQuotazioneR24.png"  width="850"  >}}](/image/DettagliRispostaRichiestaQuotazioneR24.png)
-
+[{{< figure src="/image/ReportRisposteAllaRichestaQuotazione.png"  width="850"  >}}](/image/ReportRisposteAllaRichestaQuotazione.png)
 # Setup Richieste Quotazione fornitore
 ## Argomento della richiesta [ADR00]
 [{{< figure src="/image/ArgomentodellaRichiesta.png"  width="850"  >}}](/image/ArgomentodellaRichiesta.png)
