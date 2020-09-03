@@ -58,6 +58,7 @@ pre: "<b></b>"
 [{{< figure src="/image/ReportFatturePerProdottoPerSettimana.png"  width="850"  >}}](/image/ReportFatturePerProdottoPerSettimana.png)
 ## Report fatture per prodotto e per mese [R.17]
 [{{< figure src="/image/FattureProdottoMeseR17.png"  width="850"  >}}](/image/FattureProdottoMeseR17.png)
+[{{< figure src="/image/ReportFatturePerProdottoePerMese.png"  width="850"  >}}](/image/ReportFatturePerProdottoePerMese.png)
 ## Report fatture per prodotto e per trimestre [R.19]
 [{{< figure src="/image/FattureProdottoTrimestreR19.png"  width="850"  >}}](/image/FattureProdottoTrimestreR19.png)
 ## Report fatture trimestrali per prodotto [R.20]
