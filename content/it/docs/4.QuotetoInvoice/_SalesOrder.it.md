@@ -47,6 +47,7 @@ Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corri
 ### **Ordine Fattura Accompagnatoria**
 Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
 **Tabella riassuntiva Tipi di documento**
+
 |ID | Nome<br />Interno |                                                                           | Ordine | Impegno | DDT  | Fattura | Pagam. |
 |-  | ---------------   | ------------------------------------------------------------              | :----: | ------- | ---- | ------- | ------ |
 |1  | POS Order         | Ordine/Fattura Accompagnatoria Pagata<br />(en) SO / Invoice / Payment<br/>(pt) Ordem de Venda / Fatura / Pagamento   |   SI   |    SI   | SI   |    SI   |   SI   |
