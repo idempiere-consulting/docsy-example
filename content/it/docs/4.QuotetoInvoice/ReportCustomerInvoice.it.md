@@ -37,6 +37,7 @@ pre: "<b></b>"
 [{{< figure src="/image/InfoBIFatturatoIBF00.png"  width="850"  >}}](/image/InfoBIFatturatoIBF00.png)
 ## Report transazioni di fatturazione [R.08]
 [{{< figure src="/image/TransazionidiFatturazioneR08.png"  width="850"  >}}](/image/TransazionidiFatturazioneR08.png)
+[{{< figure src="/image/ReportTransazioniDiFatturazione.png"  width="850"  >}}](/image/ReportTransazioniDiFatturazione.png)
 ## report dettagli fatture [R.10]
 [{{< figure src="/image/DettagliFattureR10.png"  width="850"  >}}](/image/DettagliFattureR10.png)
 ## Report totali fatture [R.09]
