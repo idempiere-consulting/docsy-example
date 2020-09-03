@@ -46,6 +46,7 @@ non attivo
 Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corrispondente.
 ### **Ordine Fattura Accompagnatoria**
 Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
+
 **Tabella riassuntiva Tipi di documento**
 
 |ID | Nome<br />Interno |                                                                           | Ordine | Impegno | DDT  | Fattura | Pagam. |
