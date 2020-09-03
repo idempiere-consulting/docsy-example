@@ -70,6 +70,8 @@ pre: "<b></b>"
 [{{< figure src="/image/ReportFattureClientePerFornitorePerTrimestre.png"  width="850"  >}}](/image/ReportFattureClientePerFornitorePerTrimestre.png)
 ## Report fatture per fornitore per mese [R.16]
 [{{< figure src="/image/FattureFornitoreMeseR16.png"  width="850"  >}}](/image/FattureFornitoreMeseR16.png)
+[{{< figure src="/image/ReportFatturePerFornitorePerMese.png"  width="850"  >}}](/image/ReportFatturePerFornitorePerMese.png)
+
 ## Report fatture per prodotto per mese [R.15]
 [{{< figure src="/image/FattureProdottoperMeseR15.png"  width="850"  >}}](/image/FattureProdottoperMeseR15.png)
 
