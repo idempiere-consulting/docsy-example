@@ -63,10 +63,10 @@ Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura c
 |8  | Warehouse Order   | Ordine Magazzino/DDT<br />(en) Sale Order w/Delivery Note <br />(pt) Ordem de Venda c/guia entrega     |   SI   |    SI   |  SI  |         |        | 
 
 ## **FAQ** 
+---
 D: Come faccio a inserie una scadenza diversa ?
-
 R:
-
+---
 ID=1
 Non accetta completare il pagamento , manca il collegamento alla banca: error no account defined for this organization. Create an account on the bank account window for the organization/currency.
 D: quando il pagamento viene processato posso andargli a mettere per esempio i dati dell'assegno?
@@ -85,25 +85,17 @@ Non lo vedo piu'
 
 ​	Manca il report
 
-
-
 ​	**<u>DDT</u>**
 
 ​	Problemi di traduzioni sul report DDT - da errore di evaluation
-
-
 
 ​	**<u>FATTURA</u>**
 
 ​	Esce ok, ma da vedere meglio traduzioni e logotipo.
 
-
-
 ​	**<u>PAGAMENTO</u>**
 
 ​	Da trovare dove stampare la ricevuta e eventualmente personalizzarla.
-
-
 
 **NOTE - PER TUTTI ** 
 
@@ -136,43 +128,30 @@ c) Completo nuovamente l'ordine di vendita
 ```
 Esempio : quantità ordine 6 - DDT quantità 6
 ```
-
 ```
  a) Utilizzo Special Editor per modificare l'odv o il ddt    #??? da completare
 ```
-
-
-
 #####  **Ho 1 solo DDT Quantità parzialmente evasa** 
-
 ```
 Esempio quantità ordine 10 - DDT quantità 5
 ```
-
 ```
 a) Posso modificare la Quantità sul DDT (Specuak -Editor) e lasciare l'ordine com'era prima
 b) Posso eseguire le due modifiche senza relazione tra le stesse
 c)
 ```
-
 ##### **Ho + DDT Quantità parzialmente o copmletamente evasa**
-
 ```
 non è permessa nessuna modifica . E' necessario stornare l'odv
 ```
-
 ### **Modifica Quantità su ordine completato e DDT giù emesso - Fattura Emessa**
 
 ##### **Ho 1 ODV 1 DDT 1 Fattura  tutto completamento evaso**
-
 ```
 Caso tipico della Fattura Immediata
 a) Eseguo la modifica nella Fattura (Special Editor) ed eseguo una rettifica di magazzino  oppure eseguo la modifica del DDT della quantità (Special Editor)
 ```
-
-
-
-## Ciclo Passivo : Ordine di Acquisto - Entrata Merci - Fattura di Acquisto
+## **Ciclo Passivo : Ordine di Acquisto - Entrata Merci - Fattura di Acquisto**
 
 # Processi di Offerta
 
