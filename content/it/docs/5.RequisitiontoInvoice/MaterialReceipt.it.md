@@ -14,6 +14,7 @@ pre: "<b></b>"
 # Report Entrata Merci
 ## Report dettagli ricevimento merci [R.26]
 [{{< figure src="/image/ReportDettagliRicevimentoMerci.png"  width="850"  >}}](/image/ReportDettagliRicevimentoMerci.png)
+[{{< figure src="/image/ReportDettagliRicevimentoMerci1.png"  width="850"  >}}](/image/ReportDettagliRicevimentoMerci1.png)
 
 ## Video - Entrata Merci
 ### Video - 5. Requisition-to-Invoice - Material Receipt / Magazzino c⁄to deposito clienti [V009]
