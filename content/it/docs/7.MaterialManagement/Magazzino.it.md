@@ -60,7 +60,7 @@ pre: "<b> </b>"
 [{{< figure src="/image/ReportDettagliConfermeSpedizione.png"  width="850"  >}}](/image/ReportDettagliConfermeSpedizione.png)
 ## Report Conferme Aperte [R.31]
 [{{< figure src="/image/ReportConfermeAperte.png"  width="850"  >}}](/image/ReportConfermeAperte.png)
-
+[{{< figure src="/image/ReportConfermeAperte1.png"  width="850"  >}}](/image/ReportConfermeAperte1.png)
 # Report Magazzino
 ## Report Giacenza per prodotto
 [{{< figure src="/image/ReportGiacenzaperProdotto.png"  width="850"  >}}](/image/ReportGiacenzaperProdotto.png)
