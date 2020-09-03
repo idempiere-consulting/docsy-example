@@ -95,9 +95,7 @@ R:
 
 ---
 
-**NOTE - PER TUTTI** 
 
-REPORT CONFERMA D'ORDINE R0003.v1 da sistemare.
 
 ### **COME CORREGGERE DATI - ERRORI**
 
@@ -197,7 +195,7 @@ c) completamento
 ```
 
 
-**<u>NOTE SU TIPI ELABORAZIONE</u>**
+### **NOTE INTERNE SU TIPI ELABORAZIONE**
 
 ​	**<u>ORDINE</u>**
 
@@ -214,6 +212,9 @@ c) completamento
 ​	**<u>PAGAMENTO</u>**
 
 ​	Da trovare dove stampare la ricevuta e eventualmente personalizzarla.
+
+​	REPORT CONFERMA D'ORDINE R0003.v1 da sistemare.
+
 
 ## Info ordine di vendita [IOVP00]
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
