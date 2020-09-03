@@ -46,6 +46,7 @@ pre: "<b></b>"
 [{{< figure src="/image/calculateLowLevel.png"  width="850"  >}}](/image/calculateLowLevel.png)
 ## Report MRP Details
 [{{< figure src="/image/ReportMRPDetails.png"  width="850"  >}}](/image/ReportMRPDetails.png)
+[{{< figure src="/image/ReportMRPDetails1.png"  width="850"  >}}](/image/ReportMRPDetails1.png)
 ## MRP Notifica
 [{{< figure src="/image/MRPNotifica.png"  width="850"  >}}](/image/MRPNotifica.png)
 ## MRP
