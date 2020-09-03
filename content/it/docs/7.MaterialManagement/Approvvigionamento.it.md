@@ -15,7 +15,7 @@ pre: "<b></b>"
 
 ## Report di ri-approvigionamento produzione [R.35]
 [{{< figure src="/image/ReportRIAprrovigionamentoProduzione.png"  width="850"  >}}](/image/ReportRIAprrovigionamentoProduzione.png)
-
+[{{< figure src="/image/ReportDiRiapprovigionamentoProduzione.png"  width="850"  >}}](/image/ReportDiRiapprovigionamentoProduzione.png)
 ## Report di ri-approvigionamento magazzino [R.25]
 [{{< figure src="/image/ReportRIApprovigionamentoMagazzino.png"  width="850"  >}}](/image/ReportRIApprovigionamentoMagazzino.png)
 
