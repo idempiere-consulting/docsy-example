@@ -23,6 +23,9 @@ pre: "<b></b>"
 
 ## Report Selezione Fornitore [R.33]
 [{{< figure src="/image/ReportSelezioneFornitore.png"  width="850"  >}}](/image/ReportSelezioneFornitore.png)
+[{{< figure src="/image/ReportSelezioneFornitore1.png"  width="850"  >}}](/image/ReportSelezioneFornitore1.png)
+
+
 
 
 
