@@ -23,6 +23,7 @@ pre: "<b></b>"
 [{{< figure src="/image/ReportRichiesteAperte.png"  width="850"  >}}](/image/ReportRichiesteAperte.png)
 ## Report Richieste senza risposta [R.22]
 [{{< figure src="/image/RichiestesenzarispostaR22.png"  width="850"  >}}](/image/RichiestesenzarispostaR22.png)
+[{{< figure src="/image/ReportRichiesteSenzaRisposta.png"  width="850"  >}}](/image/ReportRichiesteSenzaRisposta.png)
 ## Report risposte alla richiesta quotazione [R.24]
 [{{< figure src="/image/DettagliRispostaRichiestaQuotazioneR24.png"  width="850"  >}}](/image/DettagliRispostaRichiestaQuotazioneR24.png)
 
