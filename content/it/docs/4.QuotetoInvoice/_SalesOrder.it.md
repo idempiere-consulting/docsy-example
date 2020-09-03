@@ -66,13 +66,21 @@ Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura c
 ---
 D: Come faccio a inserie una scadenza diversa ?
 R:
+
 ---
 ID=1
-Non accetta completare il pagamento , manca il collegamento alla banca: error no account defined for this organization. Create an account on the bank account window for the organization/currency.
+D: Non accetta completare il pagamento , manca il collegamento alla banca: error no account defined for this organization. Create an account on the bank account window for the organization/currency.
+R:
+
+---
 D: quando il pagamento viene processato posso andargli a mettere per esempio i dati dell'assegno?
+R:
 
+---
 D: posso indicare le modalita' di pagamento prima di completare l'ordine? e quindi non usare le impostazioni di default (banca)-  esempio per vendite CASH.
+R:
 
+---
 Suggerimento: eventualmente si potrebbe indicare un conto transitorio per tutti questi tipi di ordini di vendita? tipo una cassa vendita e successivamente il contabile va spostando e riconciliando tutti i movimenti?
 ID=7
 Sicuramente legato al problema rif. ID 1, questo processamento e' da riverificare dopo una riconfigurazione dell'account del business partner.
