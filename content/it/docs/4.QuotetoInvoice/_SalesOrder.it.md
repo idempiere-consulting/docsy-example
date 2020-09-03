@@ -68,18 +68,25 @@ La Info Window mette in evidenza le informazioni relative agli ordini di vendita
 La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
 [{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
 ## Elabora Gruppo di Ordine [EGO00]
+Il processo permette di elaborare gruppi di ordini.
 [{{< figure src="/image/ElaboraGruppodiOrdineEGO00.png"  width="850"  >}}](/image/ElaboraGruppodiOrdineEGO00.png)
-## Info completa ordini di vendita
+## Info completa ordini di vendita [ICOV00]
+La Info Window permette di selezionare e completare gli ordini.
 [{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
 ## Crea ordine di acquisto dall'ordine di vendita [COVOA00]
+Il processo permette di creare ordini di acquisto da ordini di vendita. 
 [{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
 ## Riapertura ordine [RIO00]
+Il processo permette di riaprire un ordine già chiuso. 
 [{{< figure src="/image/RiaperturaOrdineRIO00.png"  width="850"  >}}](/image/RiaperturaOrdineRIO00.png)
 ## Crea ordine di vendita dall'ordine di acquisto [COVOA00]
+Il processo permette di creare ordini di vendita da ordini di acquisto.
 [{{< figure src="/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png)
 ## Conversione Preventivo [COP00]
+Il processo permette di convertire un preventivo in un ordine di vendita.
 [{{< figure src="/image/ConversionePreventivoCOP00.png"  width="850"  >}}](/image/ConversionePreventivoCOP00.png)
 ## Crea ordine/offerta di vendita da modello [CODM12]
+La maschera permette di creare un ordine da un ordine modello.
 [{{< figure src="/image/CreaOrdineModelloCODM12.png"  width="850"  >}}](/image/CreaOrdineModelloCODM12.png)
 
 # Video - Ordine di Vendita 
