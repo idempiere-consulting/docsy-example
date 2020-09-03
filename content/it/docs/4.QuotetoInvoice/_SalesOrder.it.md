@@ -70,7 +70,7 @@ ID=8
 Non lo vedo piu'
 
 
-## **FAQ** 
+### **FAQ** 
 ---
 D: Come faccio a inserie una scadenza diversa ?
 
@@ -99,36 +99,36 @@ R:
 
 REPORT CONFERMA D'ORDINE R0003.v1 da sistemare.
 
-## **Correzione Dati - Errori**
+### **Correzione Dati - Errori**
 
-### **Ciclo Attivo : Ordine di Vendita - Documento di Trasporto - Fattura di Vendita**
+#### **Ciclo Attivo : Ordine di Vendita - Documento di Trasporto - Fattura di Vendita**
 ---
 
-#### Modifica Prezzi 
+##### Modifica Prezzi 
 ---
 
-#### Modifica Aliquota iva 
+##### Modifica Aliquota iva 
 
 ---
 
-#### Modifica Quantità 
+##### Modifica Quantità 
 
 ---
-#### Modifica Quantità su ordine completato - non ho il DDT nè la fattura
+##### Modifica Quantità su ordine completato - non ho il DDT nè la fattura
 ```
 a) Riapro l'ordine eseguendo la sua riattivazione
 b) Procedo alla modifica della Quantità
 c) Completo nuovamente l'ordine di vendita 
 ```
-#### Modifica Quantità su ordine completato e DDT giù emesso - Non ho ancora emesso la fattura
+##### Modifica Quantità su ordine completato e DDT giù emesso - Non ho ancora emesso la fattura
 
-##### ***Ho 1 solo DDT - Quantità completamente evasa*** 
+###### ***Ho 1 solo DDT - Quantità completamente evasa*** 
 ```
 Esempio : quantità ordine 6 - DDT quantità 6
 
  a) Utilizzo Special Editor per modificare l'odv o il ddt    #??? da completare
 ```
-#####  ***Ho 1 solo DDT - Quantità parzialmente evasa***
+######  ***Ho 1 solo DDT - Quantità parzialmente evasa***
 ```
 Esempio quantità ordine 10 - DDT quantità 5
 
@@ -136,43 +136,43 @@ a) Posso modificare la Quantità sul DDT (Specuak -Editor) e lasciare l'ordine c
 b) Posso eseguire le due modifiche senza relazione tra le stesse
 c)
 ```
-##### ***Ho + DDT - Quantità parzialmente o copmletamente evasa***
+###### ***Ho + DDT - Quantità parzialmente o copmletamente evasa***
 ```
 non è permessa nessuna modifica . E' necessario stornare l'odv
 ```
-#### Modifica Quantità su ordine completato e DDT giù emesso - Fattura Emessa
+##### Modifica Quantità su ordine completato e DDT giù emesso - Fattura Emessa
 
-##### ***Ho 1 ODV 1 DDT 1 Fattura  tutto completamento evaso***
+###### ***Ho 1 ODV 1 DDT 1 Fattura  tutto completamento evaso***
 ```
 Caso tipico della Fattura Immediata
 a) Eseguo la modifica nella Fattura (Special Editor) ed eseguo una rettifica di magazzino  oppure eseguo la modifica del DDT della quantità (Special Editor)
 ```
 
-### **Ciclo Passivo : Ordine di Acquisto - Entrata Merci - Fattura di Acquisto**
+#### **Ciclo Passivo : Ordine di Acquisto - Entrata Merci - Fattura di Acquisto**
 
-## **Offerte**
+### **Offerte**
 
-### **Offerta Chiusa Materiale a Magazzino**
-
----
-
-### **Offerta Chiusa Materiale con creazione Ord.Acquisto**
+#### **Offerta Chiusa Materiale a Magazzino**
 
 ---
 
-### **Offerta Chiusa Servizio una tantum**
+#### **Offerta Chiusa Materiale con creazione Ord.Acquisto**
 
 ---
 
-### **Offerta Chiusa Servizio a contratto**
+#### **Offerta Chiusa Servizio una tantum**
 
 ---
 
-### **Offerta Aperta (in economia)**
+#### **Offerta Chiusa Servizio a contratto**
 
 ---
 
-## **Processo approvazione**
+#### **Offerta Aperta (in economia)**
+
+---
+
+### **Processo approvazione**
 
 ```
 a) creazione offerta in stato bozza
@@ -180,7 +180,7 @@ b) richiesta approvazione
 c) completamento
 ```
 
-## **Controllo Offerte**
+### **Controllo Offerte**
 
 ```
 - controllo offerte in stato bozza 
@@ -212,9 +212,6 @@ c) completamento
 
 ​	Da trovare dove stampare la ricevuta e eventualmente personalizzarla.
 
-
-
-
 ## Info ordine di vendita [IOVP00]
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
@@ -243,7 +240,7 @@ Il processo permette di convertire un preventivo in un ordine di vendita.
 La maschera permette di creare un ordine da un ordine modello.
 [{{< figure src="/image/CreaOrdineModelloCODM12.png"  width="850"  >}}](/image/CreaOrdineModelloCODM12.png)
 
-# Video - Ordine di Vendita 
+## Video - Ordine di Vendita 
 ### Video - 4. Quote-to-Invoice - Sales Order Generate SO from PO / Generare SO da PO [V006]
 {{<youtube J0Lu_8PrxJo>}}
 ### Video - 4. Quote-to-Invoice - Sales Order / Ordine Scontrino e Reg. Corrispettivi Giornalieri [V014]
