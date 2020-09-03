@@ -12,6 +12,7 @@ pre: "<b></b>"
 [{{< figure src="/image/CreaProvvigione0.png"  width="850"  >}}](/image/CreaProvvigione0.png)
 ## Report dettagli provvigioni correnti [R.21]
 [{{< figure src="/image/DettagliCommissoniCorrentiR21.png"  width="850"  >}}](/image/DettagliCommissoniCorrentiR21.png)
+[{{< figure src="/image/ReportDettagliProvvigioniCorrenti.png"  width="850"  >}}](/image/ReportDettagliProvvigioniCorrenti.png)
 ---
 
 # Video - Provvigioni 
