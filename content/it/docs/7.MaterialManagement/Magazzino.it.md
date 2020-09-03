@@ -71,6 +71,7 @@ ReportGiacenzaPerProdotto.png
 [{{< figure src="/image/ReportDettagliTransazioni.png"  width="850"  >}}](/image/ReportDettagliTransazioni.png)
 ## Deport Totali transazioni di prodotto [R.27]
 [{{< figure src="/image/ReportTotaliTransazioni.png"  width="850"  >}}](/image/ReportTotaliTransazioni.png)
+[{{< figure src="/image/ReportTotaliTransazioniDiProdotto.png"  width="850"  >}}](/image/ReportTotaliTransazioniDiProdotto.png)
 ## Report Prodotto "Dove Usato" [R.34]
 [{{< figure src="/image/ReportProdottoDoveUsato.png"  width="850"  >}}](/image/ReportProdottoDoveUsato.png)
 ## Report Valutazione Inventario [R.32]
