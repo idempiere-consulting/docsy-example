@@ -49,6 +49,7 @@ pre: "<b></b>"
 [{{< figure src="/image/ReportFatturePerGiorno.png"  width="850"  >}}](/image/ReportFatturePerGiorno.png)
 ## Report fatture per settimana [R.12]
 [{{< figure src="/image/Fatturepersettimana.png"  width="850"  >}}](/image/Fatturepersettimana.png)
+[{{< figure src="/image/ReportFatturePerSettimana.png"  width="850"  >}}](/image/ReportFatturePerSettimana.png)
 ## Report fatture per mese [R.14]
 [{{< figure src="/image/Fatturepermese.png"  width="850"  >}}](/image/Fatturepermese.png)
 ## Report fatture per prodotto per settimana [R.13]
