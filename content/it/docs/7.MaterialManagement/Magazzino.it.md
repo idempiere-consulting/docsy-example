@@ -77,6 +77,7 @@ ReportGiacenzaPerProdotto.png
 [{{< figure src="/image/ReportProdottoDoveUsato1.png"  width="850"  >}}](/image/ReportProdottoDoveUsato1.png)
 ## Report Valutazione Inventario [R.32]
 [{{< figure src="/image/ReportValutazioneInventario.png"  width="850"  >}}](/image/ReportValutazioneInventario.png)
+[{{< figure src="/image/ReportValutazioneInventario1.png"  width="850"  >}}](/image/ReportValutazioneInventario1.png)
 ## Report Valore di Transazione del Prodotto [R.28]
 [{{< figure src="/image/ReportValorediTransazione.png"  width="850"  >}}](/image/ReportValorediTransazione.png)
 ## Riferimenti dei Materiali
