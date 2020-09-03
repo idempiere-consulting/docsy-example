@@ -93,7 +93,7 @@ gunicorn
 5) DONE!
 ```
 #esempio stringa sqlalchemy
-postgresql+psycopg2://user:password@/dbname
+postgresql+psycopg2://user:password@ip:port/dbname
 ```
 
 ## Importazione di una Table (tabella o vista del database):
