@@ -115,6 +115,7 @@ pre: "<b></b>"
 [{{< figure src="/image/StampaFormatoTabella.png"  width="850"  >}}](/image/StampaFormatoTabella.png)
 ### Report dettagli di formattazione [R.01]
 [{{< figure src="/image/ReportDettagliDiFormazione.png"  width="850"  >}}](/image/ReportDettagliDiFormazione.png)
+[{{< figure src="/image/ReportDettagliDiFormazione1.png"  width="850"  >}}](/image/ReportDettagliDiFormazione1.png)
 ### Stampante etichetta [SE00]
 [{{< figure src="/image/StampanteEtichetta.png"  width="850"  >}}](/image/StampanteEtichetta.png)
 ### Formato stampa [FS00]
