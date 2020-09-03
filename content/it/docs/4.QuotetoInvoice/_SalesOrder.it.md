@@ -47,7 +47,6 @@ Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corri
 ### **Ordine Fattura Accompagnatoria**
 Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
 **Tabella riassuntiva Tipi di documento**
-
 |ID | Nome<br />Interno |                                                                           | Ordine | Impegno | DDT  | Fattura | Pagam. |
 |-  | ---------------   | ------------------------------------------------------------              | :----: | ------- | ---- | ------- | ------ |
 |1  | POS Order         | Ordine/Fattura Accompagnatoria Pagata<br />(en) SO / Invoice / Payment<br/>(pt) Ordem de Venda / Fatura / Pagamento   |   SI   |    SI   | SI   |    SI   |   SI   |
@@ -60,15 +59,12 @@ Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura c
 |8  | Warehouse Order   | Ordine Magazzino/DDT<br />(en) Sale Order w/Delivery Note <br />(pt) Ordem de Venda c/guia entrega     |   SI   |    SI   |  SI  |         |        | 
 
 
----
 ## Info ordine di vendita [IOVP00]
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
----
 ## Ordine conto lavoro attivo light [CLAL13]
 La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
 [{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
----
 ## Elabora Gruppo di Ordine [EGO00]
 [{{< figure src="/image/ElaboraGruppodiOrdineEGO00.png"  width="850"  >}}](/image/ElaboraGruppodiOrdineEGO00.png)
 ## Info completa ordini di vendita
