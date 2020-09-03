@@ -8,6 +8,8 @@ pre: "<b></b>"
 ## Offerta Ordine di Vendita [ODV00]
 La maschera permette l'inserimento dell'offerta/ordine di vendita.
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
+Si ricorda per informazioni sui campi cliccare su icona relativa in barra strumenti menù.
+[{{< figure src="/image/Ordinidivendita2.png"  width="850"  >}}](/image/Ordinidivendita2.png)
 Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
 ### **Preventivo non Vincolante**
 ***Un preventivo non vincolante crea un documento stampabile ed inviabile al cliente senza fare altro.***
@@ -57,8 +59,34 @@ Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura c
 |4  | Binding offer     | Proforma<br />(en) Quotation w/reserve<br />(pt) Cotação c/reserva        |   SI   |    SI   |      |         |        |
 |5  | Non binding offer | Preventivo non vincolante<br />(en) Quotation<br />(pt) Cotação           |   SI   |         |      |         |        |
 |6  | Prepay Order      | Ordine Prepagato<br />(en) Sale Order w/advance payment<br />(pt)         |        |         |      |         |   SI   |                                      |   |                   |          Ordem de Venda prepago                                           |   SI   |    SI   |      |         |        |
-|7  |                   | Scontrino                                                                 |   SI   |    SI   |  SI  |    SI(*)|        |
+|7  | Scontrino         | Scontrino                                                                 |   SI   |    SI   |  SI  |    SI(*)|        |
 |8  | Warehouse Order   | Ordine Magazzino/DDT<br />(en) Sale Order w/Delivery Note <br />(pt) Ordem de Venda c/guia entrega     |   SI   |    SI   |  SI  |         |        | 
+
+## **FAQ** 
+D: Come faccio a inserie una scadenza diversa ?
+R:
+ID=1
+Non accetta completare il pagamento , manca il collegamento alla banca: error no account defined for this organization. Create an account on the bank account window for the organization/currency.
+D: quando il pagamento viene processato posso andargli a mettere per esempio i dati dell'assegno?
+D: posso indicare le modalita' di pagamento prima di completare l'ordine? e quindi non usare le impostazioni di default (banca)-  esempio per vendite CASH.
+
+Suggerimento: eventualmente si potrebbe indicare un conto transitorio per tutti questi tipi di ordini di vendita? tipo una cassa vendita e successivamente il contabile va spostando e riconciliando tutti i movimenti?
+ID=7
+Sicuramente legato al problema rif. ID 1, questo processamento e' da riverificare dopo una riconfigurazione dell'account del business partner.
+ID=8
+Non lo vedo piu'
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Info ordine di vendita [IOVP00]
@@ -133,85 +161,7 @@ https://idempiere.atlassian.net/browse/IDEMPIERE-2619
 http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
 ---
 
-Per informazioni sui campi cliccare su iconcina relativa.
-
-[{{< figure src="/image/Ordinidivendita2.png"  width="850"  >}}](/image/Ordinidivendita2.png)
-
 prezzi  link LISTINO PREZZI
-
-
-
-### 
-
-a) asidnfa skdfa sdlkfjaslkfd 
-
-  BUSINES  []link BP ]b) jaskdjf klasdj l
-
-c= aksjfdklajsdfkljasd fkljasdkflj aslkdfjaklsdfjlksadf 
-
-prezzi  link LISTINO PREZZI
-
-Ordine Magazzino
-
-
-
-## Casi e campi particolari / How To / FAQ
-
-FAQ 
-
-Come faccio a inserie iuna scadenza diversa ?
-
-- se vuoi impostare una scendakjsk dfjaskdfja slkdfjas lkdfj utilizza il capo kjsdkfjk
-
-
-
-**Tabella riassuntiva Tipi di documento**
-
-|ID | Nome<br />Interno |                                                                                | Ordine | Impegno | DDT  | Fattura | Pagam. |
-|-  | ---------------   | ------------------------------------------------------------                   | :----: | ------- | ---- | ------- | ------ |
-|1  | POS Order         | Ordine/Fattura Accompagnatoria Pagata<br />(en) SO / Invoice / Payment<br                                                                     |   |                   | />(pt) Ordem de Venda / Fatura / Pagamento                                     |   SI   |    SI   |  SI  |    SI   |   SI   |                                   
-|2  | Credit Order      | Ordine /Fattura Accompagnatoria<br />(en) SO / Invoice / Payment<br />(pt)     |        |         |      |         |        |                                                                        |                       | Ordem de Venda / Fatura                                                        |   SI   |    SI   |  SI  |    SI   |        |    |3  | Standard Order    | Ordine Standard<br /> (en) Sale Order<br />(pt) Ordem de Venda                 |   SI   |    SI   |      |         |        |
-|4  | Binding offer     | Proforma<br />(en) Quotation w/reserve<br />(pt) Cotação c/reserva             |   SI   |    SI   |      |         |        |
-|5  | Non binding offer | Preventivo non vincolante<br />(en) Quotation<br />(pt) Cotação                |   SI   |         |      |         |        |
-|6  | Prepay Order      | Ordine Prepagato<br />(en) Sale Order w/advance payment<br />(pt)              |        |         |      |         |   SI   |                     |                       | Ordem de Venda prepago                                                         |   SI   |    SI   |      |         |        |
-|7  |                   | Scontrino                                                                      |   SI   |    SI   |  SI  |    SI(*)|        |
-|8  | Warehouse Order   | Ordine Magazzino/DDT<br />(en) Sale Order w/Delivery Note <br />(pt)           |        |         |      |         |        |
-|                       | Ordem de Venda c/guia entrega                                                  |   SI   |    SI   |   SI |         |        | 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Data 08/12/2018 - TEST
-
-ID=1
-
-Non accetta completare il pagamento , manca il collegamento alla banca: error no account defined for this organization. Create an account on the bank account window for the organization/currency.
-
-Domanda: quando il pagamento viene processato posso andargli a mettere per esempio i dati dell'assegno?
-
-Domanda: posso indicare le modalita' di pagamento prima di completare l'ordine? e quindi non usare le impostazioni di default (banca)-  esempio per vendite CASH.
-
-Suggerimento: eventualmente si potrebbe indicare un conto transitorio per tutti questi tipi di ordini di vendita? tipo una cassa vendita e successivamente il contabile va spostando e riconciliando tutti i movimenti?
-
-ID=7
-
-Sicuramente legato al problema rif. ID 1, questo processamento e' da riverificare dopo una riconfigurazione dell'account del business partner.
-
-ID=8
-
-Non lo vedo piu'
-
-
 
 **<u>NOTE SU TIPI ELABORAZIONE</u>**
 
@@ -266,7 +216,7 @@ REPORT CONFERMA D'ORDINE R0003.v1 da sistemare.
 
 ---
 
-### **Modifica Quantità su ordine completato - non ho il DDT ne la fattura**
+#### **Modifica Quantità su ordine completato - non ho il DDT ne la fattura**
 
 ```
 a) Riapro l'ordine eseguendo la sua riattivazione
@@ -274,7 +224,7 @@ b) Procedo alla modifica della Quantità
 c) Completo nuovamente l'ordine di vendita 
 ```
 
-### **Modifica Quantità su ordine completato e DDT giù emesso - Non ho ancora emesso la fattura**
+#### **Modifica Quantità su ordine completato e DDT giù emesso - Non ho ancora emesso la fattura**
 
 ##### **Ho 1 solo DDT - Qtantità completamente evasa** 
 
@@ -295,7 +245,7 @@ Esempio quantità ordine 10 - DDT quantità 5
 ```
 
 ```
-a) Posso modificare la Quantità sul DDT (Specuak -Editor) e lasciare l'ordine com'era 	      prima
+a) Posso modificare la Quantità sul DDT (Specuak -Editor) e lasciare l'ordine com'era prima
 b) Posso eseguire le due modifiche senza relazione tra le stesse
 c)
 ```
