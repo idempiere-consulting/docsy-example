@@ -65,9 +65,11 @@ Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura c
 ## **FAQ** 
 D: Come faccio a inserie una scadenza diversa ?
 R:
+
 ID=1
 Non accetta completare il pagamento , manca il collegamento alla banca: error no account defined for this organization. Create an account on the bank account window for the organization/currency.
 D: quando il pagamento viene processato posso andargli a mettere per esempio i dati dell'assegno?
+
 D: posso indicare le modalita' di pagamento prima di completare l'ordine? e quindi non usare le impostazioni di default (banca)-  esempio per vendite CASH.
 
 Suggerimento: eventualmente si potrebbe indicare un conto transitorio per tutti questi tipi di ordini di vendita? tipo una cassa vendita e successivamente il contabile va spostando e riconciliando tutti i movimenti?
@@ -75,93 +77,6 @@ ID=7
 Sicuramente legato al problema rif. ID 1, questo processamento e' da riverificare dopo una riconfigurazione dell'account del business partner.
 ID=8
 Non lo vedo piu'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Info ordine di vendita [IOVP00]
-La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
-[{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
-## Ordine conto lavoro attivo light [CLAL13]
-La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
-[{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
-## Elabora Gruppo di Ordine [EGO00]
-Il processo permette di elaborare gruppi di ordini.
-[{{< figure src="/image/ElaboraGruppodiOrdineEGO00.png"  width="850"  >}}](/image/ElaboraGruppodiOrdineEGO00.png)
-## Info completa ordini di vendita [ICOV00]
-La Info Window permette di selezionare e completare gli ordini.
-[{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
-## Crea ordine di acquisto dall'ordine di vendita [COVOA00]
-Il processo permette di creare ordini di acquisto da ordini di vendita. 
-[{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
-## Riapertura ordine [RIO00]
-Il processo permette di riaprire un ordine già chiuso. 
-[{{< figure src="/image/RiaperturaOrdineRIO00.png"  width="850"  >}}](/image/RiaperturaOrdineRIO00.png)
-## Crea ordine di vendita dall'ordine di acquisto [COVOA00]
-Il processo permette di creare ordini di vendita da ordini di acquisto.
-[{{< figure src="/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png)
-## Conversione Preventivo [COP00]
-Il processo permette di convertire un preventivo in un ordine di vendita.
-[{{< figure src="/image/ConversionePreventivoCOP00.png"  width="850"  >}}](/image/ConversionePreventivoCOP00.png)
-## Crea ordine/offerta di vendita da modello [CODM12]
-La maschera permette di creare un ordine da un ordine modello.
-[{{< figure src="/image/CreaOrdineModelloCODM12.png"  width="850"  >}}](/image/CreaOrdineModelloCODM12.png)
-
-# Video - Ordine di Vendita 
-### Video - 4. Quote-to-Invoice - Sales Order Generate SO from PO / Generare SO da PO [V006]
-{{<youtube J0Lu_8PrxJo>}}
-### Video - 4. Quote-to-Invoice - Sales Order / Ordine Scontrino e Reg. Corrispettivi Giornalieri [V014]
-{{<youtube wzW2NPVBOSc>}}
-### Video - 4. Quote to Invoice - Sales Order Warehouse - Ordine Di Vendita di tipo Magazzino⁄ DDT [V046]
-{{<youtube 5HhASvtngeA>}}
-### Video - 4. Quote-to-Invoice - Sales Order Setup  / Parametrizzazione Offerta Ord.Vendita  [V092]
-{{<youtube s-GRoAvATQU>}}
-### Video - 4. Quote-to-Invoice - Sales Order / Esplosione Comp. Distinta nell'ODV con Dist.non in stock [V150]
-{{<youtube qjQqMJXEtro>}}
-### Video - 4. Qoute-to-Invoice - Sales Order /  ODVscontrini [V180]
-{{<youtube cJDJpjbcsik>}}
-### Video - 4. Quote-to-Invoice - Sales Order / Gestione Sconto4+4 [V142]
-{{<youtube CDQuyj0cuHo>}}
-### Video - 4. Quote-to-Invoice - Items Without VAT recourse / Omaggi Calcola senza rivalsa IVA [V146]
-{{<youtube 53Gp7oq7Ntc>}}
-### Video - 4. Quote to Invoice - Sales Order with UM alternative - Orinde di vendita  con um alternativa [V152]
-{{<youtube F2gSl8bSihA>}}
-### Video - 4. Quote toI nvoice Reso Cliente 3 Crea Ordine di Reintrego da Reso Cliente [V184]
-{{<youtube 3FE38767d_0>}}
-### Video - 4. Quote to Invoice Reso Cliente 2 Crea DDT di Reso + Fattura da RMA [V162]
-{{<youtube bFhca9DQngg>}}
-### Video - 4. Quote to Invoice Reso Cliente 1 Crea DDT di Reso + Fattura [V161]
-{{<youtube MB3S3hYIeNM>}}
-### Video - 4. Quote to Invoice - Sales Order / Creazione Ordine Cliente [V093]
-{{<youtube TjDGMgIG-r4>}}
-### Video - 4. Quote to Invoice - Sales Order with Task / Ordine di Vendita con Task  ODV10 - [V094]
-{{<youtube 0ZdYGMHOkG0>}}
-### Video - 4. Quote-to-Invoice - Prepaid Order / ODVprepagato [V175]
-{{<youtube 4dkowLrXwd4>}}
-### Video - 4. Quote to Invoice - Ordine di Tipo Fattura Accompagnatoria 
-{{<youtube 0ZvFAkDnf18>}}
-
-## Drop Shipping
-link a documenti esistenti 
----
-http://www.adempiere.com/Sponsored_Development:_Drop_Ship
----
-https://idempiere.atlassian.net/browse/IDEMPIERE-2619
----
-http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
----
-
-prezzi  link LISTINO PREZZI
 
 **<u>NOTE SU TIPI ELABORAZIONE</u>**
 
@@ -322,4 +237,84 @@ c) completamento
 
 
 
+
+
+
+
+
+
+
+## Info ordine di vendita [IOVP00]
+La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
+[{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
+## Ordine conto lavoro attivo light [CLAL13]
+La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
+[{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
+## Elabora Gruppo di Ordine [EGO00]
+Il processo permette di elaborare gruppi di ordini.
+[{{< figure src="/image/ElaboraGruppodiOrdineEGO00.png"  width="850"  >}}](/image/ElaboraGruppodiOrdineEGO00.png)
+## Info completa ordini di vendita [ICOV00]
+La Info Window permette di selezionare e completare gli ordini.
+[{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
+## Crea ordine di acquisto dall'ordine di vendita [COVOA00]
+Il processo permette di creare ordini di acquisto da ordini di vendita. 
+[{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
+## Riapertura ordine [RIO00]
+Il processo permette di riaprire un ordine già chiuso. 
+[{{< figure src="/image/RiaperturaOrdineRIO00.png"  width="850"  >}}](/image/RiaperturaOrdineRIO00.png)
+## Crea ordine di vendita dall'ordine di acquisto [COVOA00]
+Il processo permette di creare ordini di vendita da ordini di acquisto.
+[{{< figure src="/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png)
+## Conversione Preventivo [COP00]
+Il processo permette di convertire un preventivo in un ordine di vendita.
+[{{< figure src="/image/ConversionePreventivoCOP00.png"  width="850"  >}}](/image/ConversionePreventivoCOP00.png)
+## Crea ordine/offerta di vendita da modello [CODM12]
+La maschera permette di creare un ordine da un ordine modello.
+[{{< figure src="/image/CreaOrdineModelloCODM12.png"  width="850"  >}}](/image/CreaOrdineModelloCODM12.png)
+
+# Video - Ordine di Vendita 
+### Video - 4. Quote-to-Invoice - Sales Order Generate SO from PO / Generare SO da PO [V006]
+{{<youtube J0Lu_8PrxJo>}}
+### Video - 4. Quote-to-Invoice - Sales Order / Ordine Scontrino e Reg. Corrispettivi Giornalieri [V014]
+{{<youtube wzW2NPVBOSc>}}
+### Video - 4. Quote to Invoice - Sales Order Warehouse - Ordine Di Vendita di tipo Magazzino⁄ DDT [V046]
+{{<youtube 5HhASvtngeA>}}
+### Video - 4. Quote-to-Invoice - Sales Order Setup  / Parametrizzazione Offerta Ord.Vendita  [V092]
+{{<youtube s-GRoAvATQU>}}
+### Video - 4. Quote-to-Invoice - Sales Order / Esplosione Comp. Distinta nell'ODV con Dist.non in stock [V150]
+{{<youtube qjQqMJXEtro>}}
+### Video - 4. Qoute-to-Invoice - Sales Order /  ODVscontrini [V180]
+{{<youtube cJDJpjbcsik>}}
+### Video - 4. Quote-to-Invoice - Sales Order / Gestione Sconto4+4 [V142]
+{{<youtube CDQuyj0cuHo>}}
+### Video - 4. Quote-to-Invoice - Items Without VAT recourse / Omaggi Calcola senza rivalsa IVA [V146]
+{{<youtube 53Gp7oq7Ntc>}}
+### Video - 4. Quote to Invoice - Sales Order with UM alternative - Orinde di vendita  con um alternativa [V152]
+{{<youtube F2gSl8bSihA>}}
+### Video - 4. Quote toI nvoice Reso Cliente 3 Crea Ordine di Reintrego da Reso Cliente [V184]
+{{<youtube 3FE38767d_0>}}
+### Video - 4. Quote to Invoice Reso Cliente 2 Crea DDT di Reso + Fattura da RMA [V162]
+{{<youtube bFhca9DQngg>}}
+### Video - 4. Quote to Invoice Reso Cliente 1 Crea DDT di Reso + Fattura [V161]
+{{<youtube MB3S3hYIeNM>}}
+### Video - 4. Quote to Invoice - Sales Order / Creazione Ordine Cliente [V093]
+{{<youtube TjDGMgIG-r4>}}
+### Video - 4. Quote to Invoice - Sales Order with Task / Ordine di Vendita con Task  ODV10 - [V094]
+{{<youtube 0ZdYGMHOkG0>}}
+### Video - 4. Quote-to-Invoice - Prepaid Order / ODVprepagato [V175]
+{{<youtube 4dkowLrXwd4>}}
+### Video - 4. Quote to Invoice - Ordine di Tipo Fattura Accompagnatoria 
+{{<youtube 0ZvFAkDnf18>}}
+
+## Drop Shipping
+link a documenti esistenti 
+---
+http://www.adempiere.com/Sponsored_Development:_Drop_Ship
+---
+https://idempiere.atlassian.net/browse/IDEMPIERE-2619
+---
+http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
+---
+
+prezzi  link LISTINO PREZZI
 
