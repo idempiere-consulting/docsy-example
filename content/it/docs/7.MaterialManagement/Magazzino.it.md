@@ -87,7 +87,8 @@ ReportGiacenzaPerProdotto.png
 ## Report Giornale di Magazzino [RP.714]
 [{{< figure src="/image/ReportGiornalediMagazzino.png"  width="850"  >}}](/image/ReportGiornalediMagazzino.png)
 ## Report Dettaglio scorte
-[{{< figure src="/image/ReportDettaglioScorte.png"  width="850"  >}}](/image/ReportDettaglioScorte.png)
+[{{< figure src="/image/ReportDettaglioScorte1.png"  width="850"  >}}](/image/ReportDettaglioScorte1.png)
+[{{< figure src="/image/ReportDettaglioScorte1.png"  width="850"  >}}](/image/ReportDettaglioScorte1.png)
 
 
 # Setup Magazzino
