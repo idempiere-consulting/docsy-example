@@ -128,8 +128,8 @@ Esempio : quantità ordine 6 - DDT quantità 6
 
  a) Utilizzo Special Editor per modificare l'odv o il ddt    #??? da completare
 ```
-
 ######  ***Ho 1 solo DDT - Quantità parzialmente evasa***
+
 ```
 Esempio quantità ordine 10 - DDT quantità 5
 
@@ -139,6 +139,7 @@ c)
 ```
 
 ###### ***Ho + DDT - Quantità parzialmente o copmletamente evasa***
+
 ```
 non è permessa nessuna modifica . E' necessario stornare l'odv
 ```
