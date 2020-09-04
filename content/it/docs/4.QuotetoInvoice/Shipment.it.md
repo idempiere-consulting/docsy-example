@@ -81,7 +81,9 @@ La maschera permette di inserire le tariffe doganali relative ai prodotti.
 | **Rientro da Conto Riparazione /Manutenzione**                | **RRIAF**| **+ Mag Interno** | **- Mag Esterno**  | **Fattura**      |       |  **Ddt fornitore+Fattura**   |
 | **Conto Riparazione/Manutenzione (Account Maintenance)X materiali non a giacenza magazzino** | **CMANC**     |  |  |                  | **Documento di       Trasporto**          |      |                                                                                                                
 | **Rientro da Conto Riparazione /Manutenzione X materiali non a giacenza magazzino**          | **RMANC**     |  |  | **Fattura**      |       | **Ddt fornitore**          |                                                                                           
-| **Conto Lavorazione Passivo OUTPROD (Account Working)**       | **CLAVF**| **- Mag Interno** | **+ Mag Esterno**   |                  | **Documento di Trasporto**          |      |                                                        |
+| **Conto Lavorazione Passivo OUTPROD (Account Working)**       | **CLAVP**| **- Mag Interno** | **+ Mag Esterno**   |                  | **Documento di Trasporto**          |      |                                                        |
+| **Reso Lavorato**                                             | **RLAVP**| **+ Mag Interno** | **- Mag Esterno**   |  **Fattura**     |       | **Ddt reso lavorato Fornitore Scarico mag.esterno per particolari carico per prodotto padre |             
+
 | **xxx Reso NC a Fornitore**                                   | RMA           | - Mag Interno                        |                         |                         | ??                                   |                                                              |
 | **xx Omaggio**                                                | COM           | - Mag Interno                        | + Mag Esterno           |                         | Documento di Trasporto-Magazzino     |                                                              |
 
