@@ -56,8 +56,8 @@ La maschera permette di inserire le tariffe doganali relative ai prodotti.
 | --------------------------------------|------------------| ---------------------| ---------------|-------------------| ---------------|--------- |
 | **Uscita Campionario (MM Shipment - Sample Shipment)**   | **CCAMP**     | **- Mag Interno** | **+ Mag Esterno**  |                  |  **Documento di Trasporto**           | **OK** |
 | **Eventuale Rientro Campionario da Agente**              | **RCAMP**     | **+ Mag Interno** | **- Mag Esterno**  |                  |                                      | **OK Ddt agente (entro anno solare)** |
-| **Se accordo fatturazione o fatturazione seguito danni** | **FCAMP**     |                   |                    |    **Fattura**   |  **OK**   |                                                                                    
-| **Comodato gratuito**                                    | **CCOMG**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**   | **Documento di Trasporto**           |        |
+| **Se accordo fatturazione o fatturazione seguito danni** | **FCAMP**     |                   |                    |    **Fattura**   |           |   **OK**   |                                                                                    
+| **Comodato gratuito**                                    | **CCOMG**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**   | **Documento di Trasporto**           |  **OK**   |      |
 | **Rientro comodato Gratuito**                            | **RCOMG**     | **+ Mag Interno** | **- Mag Esterno**  |                  |                              | **Ddt da parte cliente**  | **OK** |
 | **Fatturazione da comodato gratuito (accordo o danno)**  | **FCOMG**     |                   |                    | **Fattura**      |  **OK**   |                                                                      
 | **Conto Noleggio Omeroso**                               | **CNOLO**     | **- Mag Interno** | **+ Mag Esterno**  |                  | **Documento di trasporto**  |      |
