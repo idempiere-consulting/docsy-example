@@ -52,17 +52,8 @@ La maschera permette di inserire le tariffe doganali relative ai prodotti.
 ## 1. Tipo di Documento in Uscita
 
 
-
-| Descrizione                                    | Scarico/Carico |      |      |      |
-| ---------------------------------------------- | -------------- | ---- | ---- | ---- |
-| DDT Vendita da ODV Magazzino o Ordine Standard | Scarico / --   |      |      |      |
-|                                                |                |      |      |      |
-|                                                |                |      |      |      |
-|                                                |                |      |      |      |
-|                                                |                |      |      |      |
-
-| **Descrizione Causale**                                      | **Codice**    | **Movimento di Scarico**             | **Movimento di Carico** | **Movimento Contabile** | **iDempiere**                        | **Note**                                                     |
-| ------------------------------------------------------------ | ------------- | ------------------------------------ | ----------------------- | :---------------------- | ------------------------------------ | ------------------------------------------------------------ |
+| **Descrizione Causale**               |    **Codice**    | **Mov.Scarico**      | **Mov.Carico** | **Mov.Contabile** | **iDempiere**  | **Note** |                                                     
+| --------------------------------------|------------------| ---------------------| ---------------|-------------------| ---------------|--------- |
 |                                                              |               |                                      |                         |                         |                                      |                                                              |
 | **Uscita Campionario (MM Shipment - Sample Shipment)**       | **CCAMP**     | **- Mag Interno**                    | **+ Mag Esterno**       |                         | **Documento di Trasporto**           | **OK**                                                       |
 | **Eventuale Rientro Campionario da Agente**                  | **RCAMP**     | **+ Mag Interno**                    | **- Mag Esterno**       |                         |                                      | **OK Ddt agente (entro anno solare)**                        |
