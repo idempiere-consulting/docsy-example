@@ -54,8 +54,7 @@ La maschera permette di inserire le tariffe doganali relative ai prodotti.
 
 | **Descrizione Causale**               |    **Codice**    | **Mov.Scarico**      | **Mov.Carico** | **Mov.Contabile** | **iDempiere**  | **Note** |                                                     
 | --------------------------------------|------------------| ---------------------| ---------------|-------------------| ---------------|--------- |
-|                                                              |               |                                      |                         |                         |                                      |                                                              |
-| **Uscita Campionario (MM Shipment - Sample Shipment)**       | **CCAMP**     | **- Mag Interno**                    | **+ Mag Esterno**       |                         | **Documento di Trasporto**           | **OK**                                                       |
+| **Uscita Campionario (MM Shipment - Sample Shipment)**   | **CCAMP**     | **- Mag Interno** | **+ Mag Esterno**  |  **Documento di Trasporto**           | **OK** |
 | **Eventuale Rientro Campionario da Agente**                  | **RCAMP**     | **+ Mag Interno**                    | **- Mag Esterno**       |                         |                                      | **OK Ddt agente (entro anno solare)**                        |
 | **Se accordo fatturazione o fatturazione seguito danni**     | **FCAMP**     |                                      |                         | **Fattura**             |                                      |                                                              |
 | **Comodato gratuito**                                        | **CCOMG**     | **- Mag Interno**                    | **+ Mag Esterno**       | **No Fattura**          | **Documento di Trasporto**           |                                                              |
