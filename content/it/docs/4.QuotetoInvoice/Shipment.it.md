@@ -81,11 +81,14 @@ La maschera permette di inserire le tariffe doganali relative ai prodotti.
 | **Rientro da Conto Riparazione /Manutenzione**                | **RRIAF**| **+ Mag Interno** | **- Mag Esterno**  | **Fattura**      |       |  **Ddt fornitore+Fattura**   |
 | **Conto Riparazione/Manutenzione (Account Maintenance)X materiali non a giacenza magazzino** | **CMANC**     |  |  |                  | **Documento di       Trasporto**          |      |                                                                                                                
 | **Rientro da Conto Riparazione /Manutenzione X materiali non a giacenza magazzino**          | **RMANC**     |  |  | **Fattura**      |       | **Ddt fornitore**          |                                                                                           
-| **Conto Lavorazione Passivo OUTPROD (Account Working)**       | **CLAVP**| **- Mag Interno** | **+ Mag Esterno**   |                  | **Documento di Trasporto**          |      |                                                        |
+| **Conto Lavorazione Passivo OUTPROD (Account Working)**       | **CLAVP**| **- Mag Interno** | **+ Mag Esterno**   |                  | **Documento di Trasporto**          |      |                                                        
 | **Reso Lavorato**                                             | **RLAVP**| **+ Mag Interno** | **- Mag Esterno**   |  **Fattura**     |       | **Ddt reso lavorato Fornitore Scarico mag.esterno per particolari carico per prodotto padre |             
+| **Reso a Fornitore con accredito**  **RMA**                   | **RFORA**| **- Mag Interno** | **+ Mag Esterno**   |  **Nota accr.**  | **Documento di trasporto**          | **Caso merce resa a fronte fornitura già fatturata**|                                         
+| **Reso a Fornitore differenza fattura**                       | **RFORD**| **- Mag Interno** | **+ Mag Esterno**   |  **Fattura**     | **Documento di trasporto**          | **Fattura emessa al netto**|     
+| **Merce Omaggio no rivalsa IVA**   **COM**                    | **OMCLN**| **- Mag Interno** |                     |  **Autofattura** | **Documento di trasporto**          |**No rivalsa IVA**| 
 
-| **xxx Reso NC a Fornitore**                                   | RMA           | - Mag Interno                        |                         |                         | ??                                   |                                                              |
-| **xx Omaggio**                                                | COM           | - Mag Interno                        | + Mag Esterno           |                         | Documento di Trasporto-Magazzino     |                                                              |
+
+
 
 ### **Documento Principale di Carico e Scarico**  
 
