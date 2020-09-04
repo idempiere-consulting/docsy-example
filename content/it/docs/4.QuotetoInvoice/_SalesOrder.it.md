@@ -197,23 +197,7 @@ c) completamento
 
 ### **NOTE INTERNE SU TIPI ELABORAZIONE**
 
-​	**<u>ORDINE</u>**
 
-​	Manca il report
-
-​	**<u>DDT</u>**
-
-​	Problemi di traduzioni sul report DDT - da errore di evaluation
-
-​	**<u>FATTURA</u>**
-
-​	Esce ok, ma da vedere meglio traduzioni e logotipo.
-
-​	**<u>PAGAMENTO</u>**
-
-​	Da trovare dove stampare la ricevuta e eventualmente personalizzarla.
-
-​	REPORT CONFERMA D'ORDINE R0003.v1 da sistemare.
 
 
 ## Info ordine di vendita [IOVP00]
