@@ -95,12 +95,9 @@ R:
 
 ---
 
-
-
 ### **COME CORREGGERE DATI - ERRORI**
 
 #### **Ciclo Attivo : Ordine di Vendita - Documento di Trasporto - Fattura di Vendita**
----
 
 ##### Modifica Prezzi 
 ---
