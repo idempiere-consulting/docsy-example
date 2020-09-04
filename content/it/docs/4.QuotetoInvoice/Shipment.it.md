@@ -37,6 +37,7 @@ Il Report mette in evidenza i dettagli della spedizione.
 [{{< figure src="/image/ReportDettagliSpedizioni1.png"  width="850"  >}}](/image/ReportDettagliSpedizioni1.png)
 # Setup Shipping
 ## Tariffa Doganale [TFD00]
+La maschera permette di inserire le tariffe doganali relative ai prodotti.
 [{{< figure src="/image/TariffaDoganaleTFD00.png"  width="850"  >}}](/image/TariffaDoganaleTFD00.png)
 
 ## Video - Spedizione
