@@ -64,28 +64,28 @@ La maschera permette di inserire le tariffe doganali relative ai prodotti.
 | **Rientro Noleggio Oneroso** | **RNOLO** | **+** | **-**  | **Fattura** |  **NN**|   **Ddt Reso da parte cliente** da che documento??? |
 | **Trasferimento a Magazzino (Material Movement)** | **CTRAS**  | **-** | **+**  | **NN**  | **Doc. di Traferimento-Magazzino** |     |
 | **Rientro da Trasferimento** | **RTRAS** | **-** | **+**  | **NN**  | **Doc. di Traferimento-Magazzino** |     |                                                                                    
-| **Conto Deposito (Deposit Account)**                     | **CDEPC**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**    | **Documento di Trasporto-Magazzino** | **(+ rientro da cto dep. usando la causale "RIENTRO")**       |
-| **Reso Conto Deposito (Return Deposit Account)**         | **RDEPC**     | **- Mag Esterno** | **+ Mag Interno**  |                   | **Documento di Trasporto**           |     |
-| **Vendita da conto Deposito**                            | **FDEPC**     |                   |                    | **Fattura**       |       |    |                                                                                             
-| **Conto Visione (Vision Account)**                       | **CVISI**     | **- Mag Interno** | **+ Mag Esterno**  |                   | **Documento di Trasporto-Magazzino** | **+ RIENTRO DA CONTO VISIONE (CAUSALE "RIENTRO") Report Mat. in CCV per nr giorni** |
-| **Reso da Conto Visione (Return Vision Account)**        | **RVISI**     | **- Mag Esterno** | **+ Mag Interno**  | **No Fattura**    | **Documento di Trasporto**           | **(Come usufruitor)** |
-| **Vendita da Conto Visione**                             | **FVISI**     |                   |                    | **Fattura**       |       |    |                                                                                      
-| **Prestito d'uso gratuito (Loan of Use)**                | **CPRUG**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**    | **Documento di Trasporto-Magazzino** |     |                                                            |
-| **Reso da Prestito d'uso gratuito (Return Loan of Use)** | **RPRUG**     | **- Mag Esterno** | **+ Mag Interno**  | **No Fattura**    | **Documento di Trasporto**           |     |
-| **Vendita materiale da Prestito d'uso gratuito addebito per danno** | **FPRUG**     |        |                    | **Fattura**       |       |    |                                                                                      
-| **Prestito d'uso oneroso**                               | **CPRUA**     | **- Mag Interno** | **+ Mag Esterno**  | **Fattura mensile se previsto contratto**       | **Documento di trasporto**  |     | 
-| **Reso da Prestito d'uso oneroso**                       | **RPRUA**     | **+ Mag Interno** | **- Mag Esterno**  | **Fattura**       |       |                              | **Ddt reso cliente**  |                                       |
-| **Manutenzione/Riparazione Fornitore in garanzia**       | **CRIGF**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**    | **Documento di Trasporto-Magazzino** | **+ Rientro da conto manutenzione +causale RIENTRO**         |
-| **Rientro da Manutenzione/Riparazione Fornitore in garanzia** | **RRIGF**| **- Mag Esterno** | **+ Mag Interno**  | **No Fattura**   |       |     |                          
-| **Conto Riparazione/Manutenzione (Account Maintenance)**      | **CRIAF**| **- Mag Interno** | **+ Mag Esterno**  | **Fattura**      |       |     |                                                                                         
-| **Rientro da Conto Riparazione /Manutenzione**                | **RRIAF**| **+ Mag Interno** | **- Mag Esterno**  | **Fattura**      |       |  **Ddt fornitore+Fattura**   |
-| **Conto Riparazione/Manutenzione (Account Maintenance)X materiali non a giacenza magazzino** | **CMANC**     |  |  |                  | **Documento di       Trasporto**          |      |                                                                                                                
-| **Rientro da Conto Riparazione /Manutenzione X materiali non a giacenza magazzino**          | **RMANC**     |  |  | **Fattura**      |       | **Ddt fornitore**          |                                                                                           
-| **Conto Lavorazione Passivo OUTPROD (Account Working)**       | **CLAVP**| **- Mag Interno** | **+ Mag Esterno**   |                  | **Documento di Trasporto**          |      |                                                        
-| **Reso Lavorato**                                             | **RLAVP**| **+ Mag Interno** | **- Mag Esterno**   |  **Fattura**     |       | **Ddt reso lavorato Fornitore Scarico mag.esterno per particolari carico per prodotto padre |             
-| **Reso a Fornitore con accredito**  **RMA**                   | **RFORA**| **- Mag Interno** | **+ Mag Esterno**   |  **Nota accr.**  | **Documento di trasporto**          | **Caso merce resa a fronte fornitura già fatturata**|                                         
-| **Reso a Fornitore differenza fattura**                       | **RFORD**| **- Mag Interno** | **+ Mag Esterno**   |  **Fattura**     | **Documento di trasporto**          | **Fattura emessa al netto**|     
-| **Merce Omaggio no rivalsa IVA**   **COM**                    | **OMCLN**| **- Mag Interno** |                     |  **Autofattura** | **Documento di trasporto**          |**No rivalsa IVA**| 
+| **Conto Deposito (Deposit Account)** | **CDEPC** | **-** | **+**  | **NN**    | **Doc. di Traferimento-Magazzino** | **(Il Ddt resta valido un anno + rientro da cto dep. usando la causale "RIENTRO")**???|
+| **Reso Conto Deposito (Return Deposit Account)** | **RDEPC** | **-** | **+**  |  **NN** | **Documento di Trasporto**  |     |
+| **Vendita da conto Deposito** | **FDEPC**     |  **NN** |  **NN** | **Fattura**  |       |    |                                                                                             
+| **Conto Visione (Vision Account)**     | **CVISI** | **-** | **+**  | **NN** | **Documento di Trasporto-Magazzino** | **+ RIENTRO DA CONTO VISIONE (CAUSALE "RIENTRO") Report Mat. in CCV per nr giorni** |
+| **Reso da Conto Visione (Return Vision Account)**   | **RVISI** | **-** | **+**  | **NN**    | **Documento di Trasporto**  | **(Come usufruitor)** |
+| **Vendita da Conto Visione**  | **FVISI** |  **NN** | **NN** | **Fattura** |       |    |                                                                                      
+| **Prestito d'uso gratuito (Loan of Use)**  | **CPRUG**  | **-** | **+**  | **NN** | **Documento di Trasporto-Magazzino** |     |                                                            
+| **Reso da Prestito d'uso gratuito (Return Loan of Use)** | **RPRUG** | **+** | **-**  | **NN**  | **Documento di Trasporto** |     |
+| **Vendita materiale da Prestito d'uso gratuito addebito per danno** | **FPRUG**  | **NN** | **NN**  | **Fattura**       |       |    |                                                                                      
+| **Prestito d'uso oneroso**  | **CPRUA**  |  **-** | **+**  | **Fattura mensile se previsto contratto**  | **Documento di trasporto**  |     | 
+| **Reso da Prestito d'uso oneroso**  | **RPRUA**  **+** | **-**  | **Fattura**  |       |         | **Ddt reso cliente**  |                                       
+| **Manutenzione/Riparazione Fornitore in garanzia**  | **CRIGF**  | **-** | **+**  | **NN** | **Doc.di Trasporto-Magazzino** | **+ Rientro da conto manutenzione +causale RIENTRO** |
+| **Rientro da Manutenzione/Riparazione Fornitore in garanzia** | **RRIGF**| **+** | **-**  | **NN**   |       |     |                          
+| **Conto Riparazione/Manutenzione (Account Maintenance)**  | **CRIAF**| **-** | **+**  | **Fattura**      |       |     |                                                                                         
+| **Rientro da Conto Riparazione /Manutenzione**  | **RRIAF**| **+** | **-**  | **Fattura**      |       |  **Ddt fornitore+Fattura**   |
+| **Conto Riparazione/Manutenzione (Account Maintenance)X materiali non a giacenza magazzino** | **CMANC**     |  |  |   | **Documento di Trasporto**  |                                                                                                                        
+| **Rientro da Conto Riparazione /Manutenzione X materiali non a giacenza magazzino**  | **RMANC**     |  |  | **Fattura**  |       | **Ddt fornitore**|                                                                                             
+| **Conto Lavorazione Passivo OUTPROD (Account Working)**  | **CLAVP**| **-** | **+**  |                  | **Documento di Trasporto**          |      |                                                        
+| **Reso Lavorato**                                             | **RLAVP**| **+** | **-**   |  **Fattura** |       | **Ddt reso lavorato Fornitore Scarico mag.esterno per particolari carico per prodotto padre |             
+| **Reso a Fornitore con accredito**  **RMA** | **RFORA**| **-** | **+**   |  **Nota accr.**  | **Documento di trasporto** | **Caso merce resa a fronte fornitura già fatturata**|                                         
+| **Reso a Fornitore differenza fattura** | **RFORD**| **-** | **+** |  **Fattura**  | **Documento di trasporto**  | **Fattura emessa al netto**|     
+| **Merce Omaggio no rivalsa IVA**   **COM**  | **OMCLN**| **-** |           |  **Autofattura** | **Documento di trasporto**    |**No rivalsa IVA**| 
 
 
 
