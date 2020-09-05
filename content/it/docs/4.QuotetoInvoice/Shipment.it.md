@@ -59,11 +59,11 @@ La maschera permette di inserire le tariffe doganali relative ai prodotti.
 | **Fatturazione Campionario** | **FCAMP** | **NN** | **NN** | **Fattura** | **NN**| Da che documento??? |                                                                                    
 | **Uscita Comodato gratuito**  | **CCOMG** | **-** | **+**  | **NN**  | **Documento di Trasporto** | **Il Ddt resta valido un anno**|
 | **Reso Comodato Gratuito**  | **RCOMG**| **+** | **-**  |  **NN** |  **NN** | **Ddt reso da parte cliente**|
-| **Fatturazione da comodato gratuito (accordo o danno)**  | **FCOMG** |  **NN** |**NN** | **Fattura** |  Da che documento??? |                                                                      
+| **Fatturazione Comodato gratuito (accordo o danno)**  | **FCOMG** |  **NN** |**NN** | **Fattura** |  | Da che documento??? |                                                                      
 | **Conto Noleggio Oneroso** | **CNOLO** | **-** | **+**  | **Fattura** | **Doc. di trasporto**  | Fatturazione mensile se da contratto???  |
-| **Rientro Noleggio Oneroso** | **RNOLO** | **+** | **-**  | **Fattura** |           |    **Ddt da parte cliente**          |
-| **Trasferimento a Magazzino (Material Movement)**        | **CTRAS**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**    | **Documento di Trasporto-Magazzino** |     |
-| **Rientro da Trasferimento**                             | **RTRAS**     | **- Mag Esterno** | **+ Mag Interno**  | **No Fattura**    | **Documento di     Trasporto-Magazzino** |     |                                                                                    
+| **Rientro Noleggio Oneroso** | **RNOLO** | **+** | **-**  | **Fattura** |  **NN**|   **Ddt Reso da parte cliente** da che documento??? |
+| **Trasferimento a Magazzino (Material Movement)** | **CTRAS**  | **-** | **+**  | **NN**  | **Doc. di Traferimento-Magazzino** |     |
+| **Rientro da Trasferimento** | **RTRAS** | **-** | **+**  | **NN**  | **Doc. di Traferimento-Magazzino** |     |                                                                                    
 | **Conto Deposito (Deposit Account)**                     | **CDEPC**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**    | **Documento di Trasporto-Magazzino** | **(+ rientro da cto dep. usando la causale "RIENTRO")**       |
 | **Reso Conto Deposito (Return Deposit Account)**         | **RDEPC**     | **- Mag Esterno** | **+ Mag Interno**  |                   | **Documento di Trasporto**           |     |
 | **Vendita da conto Deposito**                            | **FDEPC**     |                   |                    | **Fattura**       |       |    |                                                                                             
