@@ -52,7 +52,7 @@ La maschera permette di inserire le tariffe doganali relative ai prodotti.
 ## 1. Tipo di Documento in Uscita
 
 
-| **Descrizione Causale**               |    **Codice**    | **Mag.Interno**  **Mag.Esterno** | **Mov.Contabile** | **Doc.Magazzino**  | **Note** |                                                     
+| **Descrizione Causale**               |    **Codice**    | **Mag.Interno** | **Mag.Esterno** | **Mov.Contabile** | **Doc.Magazzino**  | **Note** |                                                     
 | --------------------------------------|------------------| ------| -------|-----------| ---------------|--------------------------- |
 | **Uscita Campionario (MM Shipment - Sample Shipment)**| **CCAMP**| **-** | **+**  | **NN** |  **Doc.di Trasporto** |**Il Ddt resta valido un anno|
 | **Reso Campionario da Agente** | **RCAMP** | **+** | **-**  | **NN**  | **NN** | **Ddt agente (entro anno solare)** |
