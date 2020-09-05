@@ -1,0 +1,54 @@
+﻿UPDATE c_bpartner SET name = LIT_scramble(LOWER(name)) 
+UPDATE ad_user SET name = LIT_scramble(LOWER(name))  where password is null;
+UPDATE ad_user SET email = LIT_scramble(LOWER(email)) where password is null;
+UPDATE  c_bpartner SET  LIT_TAXID = REPLACE(LIT_TAXID,'0','3')
+UPDATE  c_bpartner SET  LIT_TAXID = REPLACE(LIT_TAXID,'6','4')
+UPDATE c_bpartner SET LIT_NationalIdNumber_ID = LIT_scramble(LOWER(LIT_NationalIdNumber_ID)) 
+UPDATE  c_bpartner SET  LIT_NationalIdNumber_ID = REPLACE(LIT_NationalIdNumber_ID,'3','7');
+UPDATE  c_bpartner SET  LIT_NationalIdNumber_ID = REPLACE(LIT_NationalIdNumber_ID,'0','8');
+M_PriceList_Trl
+UPDATE M_PriceList_Trl SET name = LIT_scramble(LOWER(name)) 
+UPDATE M_PriceList_version_Trl SET name = LIT_scramble(LOWER(name)) 
+UPDATE  C_BPartner_Location SET  phone = REPLACE(phone,'3','7');
+UPDATE  C_BPartner_Location SET  phone = REPLACE(phone,'4','9');
+UPDATE c_location SET address1 = LIT_scramble(LOWER(address1)) 
+UPDATE C_BPartner_Location SET name = LIT_scramble(LOWER(name)) 
+UPDATE C_BPartner_Location SET email = LIT_scramble(LOWER(email)) 
+UPDATE C_BPartner_Location SET email = LIT_scramble(LOWER(email)) 
+UPDATE M_Product_Category SET NAME = LIT_scramble(LOWER(NAME)) 
+UPDATE M_Product SET NAME = LIT_scramble(LOWER(NAME)) 
+UPDATE M_Substitute SET NAME = LIT_scramble(LOWER(NAME)) 
+UPDATE  m_product SET  name = REPLACE(name,'GA','TA');
+UPDATE  m_product SET  name = REPLACE(name,'CA','SA');
+UPDATE  m_product SET  name = REPLACE(name,'FE','BE');
+UPDATE  m_product SET  name = REPLACE(name,'MA','FA');
+UPDATE  m_product SET  name = REPLACE(name,'RI','TI');
+UPDATE  m_product SET  name = REPLACE(name,'DE','VI');
+UPDATE  m_product SET  name = REPLACE(name,'ZU','BA');
+UPDATE  m_product SET  name = REPLACE(name,'CC','LL');
+UPDATE  m_product SET  name = REPLACE(name,'GLU','BLA');
+UPDATE  m_product SET  name = REPLACE(name,'LL','SS');
+UPDATE  m_product SET  value = REPLACE(value,'3','F');
+UPDATE  m_product SET  value = REPLACE(value,'4','S');
+UPDATE  m_product SET  value = REPLACE(value,'1','X');
+UPDATE  m_product SET  value = REPLACE(value,'Z','Y');
+UPDATE  m_product SET  value = REPLACE(value,'0','GG');
+UPDATE C_AcctSchema SET NAME ='demo';
+UPDATE M_CostType SET NAME ='demo';
+UPDATE M_PriceList_Version SET NAME = LIT_scramble(LOWER(NAME)) ;
+UPDATE c_orderline SET NAME = LIT_scramble(LOWER(NAME)) ;
+UPDATE m_inoutline SET NAME = LIT_scramble(LOWER(NAME)) ;
+UPDATE c_invoiceline SET NAME = LIT_scramble(LOWER(NAME)) ;
+UPDATE c_orderline SET help = LIT_scramble(LOWER(help)) ;
+UPDATE m_inoutline SET help = LIT_scramble(LOWER(help)) ;
+UPDATE c_invoiceline SET help = LIT_scramble(LOWER(help)) ;
+update C_Element set name ='Demo'
+update AD_OrgInfo set phone='043812345678',LIT_NationalIdNumber_ID=1234567890,taxid=1234567890,lit_declarant='abcdefghilm',LIT_FE_idCodTrasmit='1234567890' where ad_client_id=1000000
+UPDATE c_bank SET name = LIT_scramble(LOWER(name)),description =LIT_scramble(LOWER(name)) ;
+UPDATE  c_bank SET  RoutingNo = REPLACE(RoutingNo,'0','5');
+update c_bankaccount set iban='NL39RABO4220533664' where ad_client_id=1000000
+UPDATE c_bankaccount SET name = LIT_scramble(LOWER(name)),accountno='000';
+update ad_tree set name = LIT_scramble(LOWER(name)) where ad_client_id=1000000
+update M_Product_Trl  set name = LIT_scramble(LOWER(name)) where ad_client_id=1000000
+update M_Product_Trl  set help = LIT_scramble(LOWER(help)) where ad_client_id=1000000
+

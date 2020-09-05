@@ -1,9 +1,5 @@
 si tratta di cose da verificare se e in che modo sono disponibili e magari non vedo o so cercare
 
-
-
-# [Premessa analisi lavoro fatto](#Premessa analisi lavoro fatto)
-
 # 1. [report scheda anagrafica cespite (dettagliata e non)](#report scheda anagrafica cespite (dettagliata e non)) 
 
 # 2. [report registro cespiti](#report registro cespiti)
@@ -51,11 +47,3 @@ sempre a memoria sulle implementazioni fatte alla procedura mi sembra sia previs
 ## Superammortamento
 
 **ci do un occhio ora nel senso capire se è gestibile come ripresa fiscale in aumento o se deve essere gestito "civilmente" come costo** 
-
-## Premessa analisi lavoro fatto
-
-Da fare
-
-manca la possibilità di riaprire una registrazione di ammortamento
-
-![](/home/idempiere/md/images/Cespiti 2/riaperturaregistrazione.png)
