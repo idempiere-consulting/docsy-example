@@ -47,21 +47,21 @@ La maschera permette di inserire le tariffe doganali relative ai prodotti.
 ### Video - QuotetoInvoice - Genera spedizione da ordine riga x kit [V098]
 {{<youtube KVIrFFy71yc>}}
 
-# Documento di Trasferimento Merce
+# Documento di Trasferimento/Fatturazione Prodotti
 
 ## 1. Tipo di Documento in Uscita
 
 
 | **Descrizione Causale**               |    **Codice**    | **Mag.Interno** | **Mag.Esterno** | **Mov.Contabile** | **Doc.Magazzino**  | **Note** |                                                     
 | --------------------------------------|------------------| ------| -------|-----------| ---------------|--------------------------- |
-| **Uscita Campionario (MM Shipment - Sample Shipment)**| **CCAMP**| **-** | **+**  | **NN** |  **Doc.di Trasporto** |**Il Ddt resta valido un anno|
+| **Uscita Campionario (MM Shipment - Sample Shipment)**| **CCAMP**| **-** | **+**  | **NN** |  **Doc.di Trasporto** |**Il Ddt resta valido un anno**|
 | **Reso Campionario da Agente** | **RCAMP** | **+** | **-**  | **NN**  | **NN** | **Ddt agente (entro anno solare)** |
 | **Fatturazione Campionario** | **FCAMP** | **NN** | **NN** | **Fattura** | **NN**| Da che documento??? |                                                                                    
-| **Comodato gratuito**  | **CCOMG**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**    | **Documento di Trasporto**           |  **OK**   |      |
-| **Rientro comodato Gratuito**                            | **RCOMG**     | **+ Mag Interno** | **- Mag Esterno**  |                   |                              | **Ddt da parte cliente**  | **OK** |
-| **Fatturazione da comodato gratuito (accordo o danno)**  | **FCOMG**     |                   |                    | **Fattura**       |  **OK**   |                                                                      
-| **Conto Noleggio Oneroso**                               | **CNOLO**     | **- Mag Interno** | **+ Mag Esterno**  | **Fattura mensile se previsto contratto**      | **Documento di trasporto**  | **OK**    |
-| **Rientro Noleggio Oneroso**                             | **RNOLO**     | **+ Mag Interno** | **- Mag Esterno**  | **Fattura**       |           |    **Ddt da parte cliente**          |
+| **Uscita Comodato gratuito**  | **CCOMG** | **-** | **+**  | **NN**  | **Documento di Trasporto** | **Il Ddt resta valido un anno**|
+| **Reso Comodato Gratuito**  | **RCOMG**| **+** | **-**  |  **NN** |  **NN** | **Ddt reso da parte cliente**|
+| **Fatturazione da comodato gratuito (accordo o danno)**  | **FCOMG** |  **NN** |**NN** | **Fattura** |  Da che documento??? |                                                                      
+| **Conto Noleggio Oneroso** | **CNOLO** | **-** | **+**  | **Fattura** | **Doc. di trasporto**  | Fatturazione mensile se da contratto???  |
+| **Rientro Noleggio Oneroso** | **RNOLO** | **+** | **-**  | **Fattura** |           |    **Ddt da parte cliente**          |
 | **Trasferimento a Magazzino (Material Movement)**        | **CTRAS**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**    | **Documento di Trasporto-Magazzino** |     |
 | **Rientro da Trasferimento**                             | **RTRAS**     | **- Mag Esterno** | **+ Mag Interno**  | **No Fattura**    | **Documento di     Trasporto-Magazzino** |     |                                                                                    
 | **Conto Deposito (Deposit Account)**                     | **CDEPC**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**    | **Documento di Trasporto-Magazzino** | **(+ rientro da cto dep. usando la causale "RIENTRO")**       |
