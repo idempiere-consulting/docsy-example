@@ -52,12 +52,12 @@ La maschera permette di inserire le tariffe doganali relative ai prodotti.
 ## 1. Tipo di Documento in Uscita
 
 
-| **Descrizione Causale**               |    **Codice**    | **Mov.Scarico**      | **Mov.Carico** | **Mov.Contabile** | **iDempiere**  | **Note** |                                                     
-| --------------------------------------|------------------| ---------------------| ---------------|-------------------| ---------------|--------- |
-| **Uscita Campionario (MM Shipment - Sample Shipment)**   | **CCAMP**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**    |  **Documento di Trasporto**           |     |
-| **Eventuale Rientro Campionario da Agente**              | **RCAMP**     | **+ Mag Interno** | **- Mag Esterno**  | **No Fattura**    |                                      | **Ddt agente (entro anno solare)** |
-| **Se accordo fatturazione o fatturazione seguito danni** | **FCAMP**     |                   |                    | **Fattura**       |      |    |                                                                                    
-| **Comodato gratuito**                                    | **CCOMG**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**    | **Documento di Trasporto**           |  **OK**   |      |
+| **Descrizione Causale**               |    **Codice**    | **Mag.Interno**  **Mag.Esterno** | **Mov.Contabile** | **Doc.Magazzino**  | **Note** |                                                     
+| --------------------------------------|------------------| ------| -------|-----------| ---------------|--------------------------- |
+| **Uscita Campionario (MM Shipment - Sample Shipment)**| **CCAMP**| **-** | **+**  | **NN** |  **Doc.di Trasporto** |**Il Ddt resta valido un anno|
+| **Reso Campionario da Agente** | **RCAMP** | **+** | **-**  | **NN**  | **NN** | **Ddt agente (entro anno solare)** |
+| **Fatturazione Campionario** | **FCAMP** | **NN** | **NN** | **Fattura** | **NN**| Da che documento??? |                                                                                    
+| **Comodato gratuito**  | **CCOMG**     | **- Mag Interno** | **+ Mag Esterno**  | **No Fattura**    | **Documento di Trasporto**           |  **OK**   |      |
 | **Rientro comodato Gratuito**                            | **RCOMG**     | **+ Mag Interno** | **- Mag Esterno**  |                   |                              | **Ddt da parte cliente**  | **OK** |
 | **Fatturazione da comodato gratuito (accordo o danno)**  | **FCOMG**     |                   |                    | **Fattura**       |  **OK**   |                                                                      
 | **Conto Noleggio Oneroso**                               | **CNOLO**     | **- Mag Interno** | **+ Mag Esterno**  | **Fattura mensile se previsto contratto**      | **Documento di trasporto**  | **OK**    |
