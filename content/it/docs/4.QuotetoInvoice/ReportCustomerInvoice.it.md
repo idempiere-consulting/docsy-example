@@ -7,47 +7,64 @@ pre: "<b></b>"
 ---
 
 ## Fattura di vendita [FDV00]
+La maschera permette l'inserimento delle fatture di vendita.
 [{{< figure src="/image/FatturadivenditaFDV00.png"  width="850"  >}}](/image/FatturadivenditaFDV00.png)
 ## Crea fattura di vendita (manuale) [CFVM00]
+La Info Form permette di selezionare più documenti, completarli e/o elaborarli e generare le fatture di vendita. 
 [{{< figure src="/image/CreaFatturaVenditaManuale.png"  width="850"  >}}](/image/CreaFatturaVenditaManuale.png)
 ## Crea fattura di vendita [CFV00]
+Il processo permette di selezionare completare e creare la fattura di vendita singolarmente per Business Partner. 
 [{{< figure src="/image/CreaFatturadivenditaCFV00.png"  width="850"  >}}](/image/CreaFatturadivenditaCFV00.png)
 ## Info crea fattura ad avanzamento [ICFVA12]
+La Info Window permette di creare la fattura in base a stati di avanzamento per un Business Partner.  
 [{{< figure src="/image/InfoCreaFatturaAvanzamento.png"  width="850"  >}}](/image/InfoCreaFatturaAvanzamento.png)
 ## Info crea fattura da DDT [ICFDT00]
+La Info Window permette di creare la fattura. 
 [{{< figure src="/image/InfoCreaFatturaDDT.png"  width="850"  >}}](/image/InfoCreaFatturaDDT.png)
-## Info completa fatture di vendita
+## Info completa fatture di vendita [ICOFV00]
+La Info Window permette di completare la fattura.
 [{{< figure src="/image/InfoCompletaFatturadivendita.png"  width="850"  >}}](/image/InfoCompletaFatturadivendita.png)
 ## Info crea autofattura da DDT [ICFDT00]
+La Info Window permette di creare Autofatture a seguito di cessioni promozionali omaggio.
 [{{< figure src="/image/InfoCreaAutofatturaDDT.png"  width="850"  >}}](/image/InfoCreaAutofatturaDDT.png)
 ## Info crea fattura di vendita [ICFV00]
+La Info Window permette la creazione delle fattura di vendita 
 [{{< figure src="/image/InfoCreaFatturadivendita.png"  width="850"  >}}](/image/InfoCreaFatturadivendita.png)
 ## Info crea fattura elettronica [ICFE00]
+La Info Window permette di creare la fattura in formato elettonico.
 [{{< figure src="/image/InfoCreaFatturaElettronica.png"  width="850"  >}}](/image/InfoCreaFatturaElettronica.png)
 ## Stampa fattura su carta e/o invia email [SIFV00]
+Il processo permette la generazione della fattura cartacea o la spedizione della stessa via email. 
 [{{< figure src="/image/StampaFatturaInviaEmail.png"  width="850"  >}}](/image/StampaFatturaInviaEmail.png)
 ## Archivio fattura elettronica [AFE00]
+La maschera propone l'archivio elettronico delle fatture.
 [{{< figure src="/image/ArchivioFatturaElettronica.png"  width="850"  >}}](/image/ArchivioFatturaElettronica.png)
 ## Scadenziario pagamento fattura [SPF00]
+La maschera propone lo scadenzario delle fatture non incassate.
 [{{< figure src="/image/ScadenzarioPagamentoFattura.png"  width="850"  >}}](/image/ScadenzarioPagamentoFattura.png)
-
 
 # Report Fatture di vendita
 ## Info BI fatturato [IBF00]
+La Info BI permette l'analisi del fatturato.
 [{{< figure src="/image/InfoBIFatturatoIBF00.png"  width="850"  >}}](/image/InfoBIFatturatoIBF00.png)
 ## Report transazioni di fatturazione [R.08]
+Il Report permette la stampa delle transazioni di vendita di un determinato periodo.
 [{{< figure src="/image/TransazionidiFatturazioneR08.png"  width="850"  >}}](/image/TransazionidiFatturazioneR08.png)
 [{{< figure src="/image/ReportTransazioniDiFatturazione.png"  width="850"  >}}](/image/ReportTransazioniDiFatturazione.png)
 ## report dettagli fatture [R.10]
+Il Report permette le stampa dettagliata del fatturato di un periodo.
 [{{< figure src="/image/DettagliFattureR10.png"  width="850"  >}}](/image/DettagliFattureR10.png)
 [{{< figure src="/image/ReportDettagliFatture1.png"  width="850"  >}}](/image/ReportDettagliFatture1.png)
 ## Report totali fatture [R.09]
+Il Report permette la stampa dei totali del fatturato di un periodo.
 [{{< figure src="/image/TotaliFattureR09.png"  width="850"  >}}](/image/TotaliFattureR09.png)
 [{{< figure src="/image/ReportTransazionidiFatturazione.png"  width="850"  >}}](/image/ReportTransazionidiFatturazione.png)
 ## Report fatture per giorno [R.11]
+Il Report permette la stampa di un rapporto delle fatture di un giorno.   
 [{{< figure src="/image/Fatturepergiorno.png"  width="850"  >}}](/image/Fatturepergiorno.png)
 [{{< figure src="/image/ReportFatturePerGiorno.png"  width="850"  >}}](/image/ReportFatturePerGiorno.png)
 ## Report fatture per settimana [R.12]
+Il Report permette la stampa di un rapporto delle fatture di una settimana.
 [{{< figure src="/image/Fatturepersettimana.png"  width="850"  >}}](/image/Fatturepersettimana.png)
 [{{< figure src="/image/ReportFatturePerSettimana.png"  width="850"  >}}](/image/ReportFatturePerSettimana.png)
 ## Report fatture per mese [R.14]
