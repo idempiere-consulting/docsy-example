@@ -8,49 +8,8 @@ pre: "<b></b>"
 ## Documento di Trasporto  [DDT00]
 La maschera permette l'inserimento del Documento di Trasporto.
 [{{< figure src="/image/DocumentoTrasporto0.png"  width="850"  >}}](/image/DocumentoTrasporto0.png)
-## Operazione di Spedizione [ODS00]
-La maschera raccoglie tutte le informazioni della Spedizione.
-[{{< figure src="/image/OperazioneSpedizione0.png"  width="850"  >}}](/image/OperazioneSpedizione0.png)
-## Crea Spedizione (manuale) [CSPEM00]
-La Info Window Form serve a creare la Spedizione manuale del prodotto. 
-[{{< figure src="/image/CreaSpedizioneManuale.png"  width="850"  >}}](/image/CreaSpedizioneManuale.png)
-## Crea Spedizione [CSPE00]
-Il processo crea le Spedizioni dei prodotti.
-[{{< figure src="/image/CreaSpedizioneCSPE00.png"  width="850"  >}}](/image/CreaSpedizioneCSPE00.png)
-## Info crea spedizione da ordine riga [ICSR00]
-La Info Window permette di creare le spedizioni da righe di ordine.
-[{{< figure src="/image/InfoCreaSpedizionedaOrdineRiga.png"  width="850"  >}}](/image/InfoCreaSpedizionedaOrdineRiga.png)
-## Info crea spedizione [ICS00]
-La Info Window permette di creare le spedizioni in maniera automatizzata.
-[{{< figure src="/image/InfoCreaSpedizione.png"  width="850"  >}}](/image/InfoCreaSpedizione.png)
-## Pacchetto spedizione [PCS00]
-La maschera raccoglie le informazioni relative a spedizione di pacchi.
-[{{< figure src="/image/PacchettoSpedizione0.png"  width="850"  >}}](/image/PacchettoSpedizione0.png)
 
-# Report Spedizione
-## Report Dettaglio Ordini [RE.54]
-Il Report mette in evidenza gli ordini non ancora evasi.
-[{{< figure src="/image/DettaglioOrdiniNonEvasiRE54.png"  width="850"  >}}](/image/DettaglioOrdiniNonEvasiRE54.png)
-## Report dettaglio Spedizioni [R.07]
-Il Report mette in evidenza i dettagli della spedizione.
-[{{< figure src="/image/InformazioniDettagliSpedizioniR07.png"  width="850"  >}}](/image/InformazioniDettagliSpedizioniR07.png)
-[{{< figure src="/image/ReportDettagliSpedizioni1.png"  width="850"  >}}](/image/ReportDettagliSpedizioni1.png)
-# Setup Shipping
-## Tariffa Doganale [TFD00]
-La maschera permette di inserire le tariffe doganali relative ai prodotti.
-[{{< figure src="/image/TariffaDoganaleTFD00.png"  width="850"  >}}](/image/TariffaDoganaleTFD00.png)
-
-## Video - Spedizione
-### Video - Quote-to-Invoice - Reopening Shipment Document / Riapertura DDT⁄EM [V158]
-{{<youtube j8PmRsGiWGY>}}
-
-### Video - QuotetoInvoice - Genera spedizione da ordine riga x kit [V098]
-{{<youtube KVIrFFy71yc>}}
-
-# Documento di Trasferimento/Fatturazione Prodotti
-
-## 1. Tipo di Documento in Uscita
-
+## Documento movimentazione/fatturazione prodotti.
 
 | **Descrizione Causale**               |    **Codice**    | **Mag.Interno** | **Mag.Esterno** | **Mov.Contabile** | **Doc.Magazzino**  | **Note** |                                                     
 | --------------------------------------|------------------| ------| -------|-----------| ---------------|--------------------------- |
@@ -142,11 +101,45 @@ La maschera permette di inserire le tariffe doganali relative ai prodotti.
 - [ ] **sdfsdf**
 - [x] **sdf**
 
-**1**
+## Operazione di Spedizione [ODS00]
+La maschera raccoglie tutte le informazioni della Spedizione.
+[{{< figure src="/image/OperazioneSpedizione0.png"  width="850"  >}}](/image/OperazioneSpedizione0.png)
+## Crea Spedizione (manuale) [CSPEM00]
+La Info Window Form serve a creare la Spedizione manuale del prodotto. 
+[{{< figure src="/image/CreaSpedizioneManuale.png"  width="850"  >}}](/image/CreaSpedizioneManuale.png)
+## Crea Spedizione [CSPE00]
+Il processo crea le Spedizioni dei prodotti.
+[{{< figure src="/image/CreaSpedizioneCSPE00.png"  width="850"  >}}](/image/CreaSpedizioneCSPE00.png)
+## Info crea spedizione da ordine riga [ICSR00]
+La Info Window permette di creare le spedizioni da righe di ordine.
+[{{< figure src="/image/InfoCreaSpedizionedaOrdineRiga.png"  width="850"  >}}](/image/InfoCreaSpedizionedaOrdineRiga.png)
+## Info crea spedizione [ICS00]
+La Info Window permette di creare le spedizioni in maniera automatizzata.
+[{{< figure src="/image/InfoCreaSpedizione.png"  width="850"  >}}](/image/InfoCreaSpedizione.png)
+## Pacchetto spedizione [PCS00]
+La maschera raccoglie le informazioni relative a spedizione di pacchi.
+[{{< figure src="/image/PacchettoSpedizione0.png"  width="850"  >}}](/image/PacchettoSpedizione0.png)
 
+# Report Spedizione
+## Report Dettaglio Ordini [RE.54]
+Il Report mette in evidenza gli ordini non ancora evasi.
+[{{< figure src="/image/DettaglioOrdiniNonEvasiRE54.png"  width="850"  >}}](/image/DettaglioOrdiniNonEvasiRE54.png)
+## Report dettaglio Spedizioni [R.07]
+Il Report mette in evidenza i dettagli della spedizione.
+[{{< figure src="/image/InformazioniDettagliSpedizioniR07.png"  width="850"  >}}](/image/InformazioniDettagliSpedizioniR07.png)
+[{{< figure src="/image/ReportDettagliSpedizioni1.png"  width="850"  >}}](/image/ReportDettagliSpedizioni1.png)
+# Setup Shipping
+## Tariffa Doganale [TFD00]
+La maschera permette di inserire le tariffe doganali relative ai prodotti.
+[{{< figure src="/image/TariffaDoganaleTFD00.png"  width="850"  >}}](/image/TariffaDoganaleTFD00.png)
 
-## Tariffa Doganale
-[{{< figure src="/image/TariffaDoganale0.png"  width="850"  >}}](/image/TariffaDoganale0.png)
+## Video - Spedizione
+### Video - Quote-to-Invoice - Reopening Shipment Document / Riapertura DDT⁄EM [V158]
+{{<youtube j8PmRsGiWGY>}}
+
+### Video - QuotetoInvoice - Genera spedizione da ordine riga x kit [V098]
+{{<youtube KVIrFFy71yc>}}
+
 
 
 ## Genera Spedizione Kit da Ordine
