@@ -29,6 +29,10 @@ pre: "<b></b>"
 ### Validazione Indirizzo [VI00]
 [{{< figure src="/image/ValidazioneIndirizzo.png"  width="850"  >}}](/image/ValidazioneIndirizzo.png)
 ### Tassa fornitore [TF00]
+La creazione di rilevamento ore risorse è una funzionalità aggiunta sul plug-in resourse attendance. 
+Questa funzionalità è stata creata per ottimizzare ore e risorsa quando si ha già una creazione di attività pianificata all'interno di questa maschera. 
+Questa creazione avviene quando viene creata una nuova riga in work hours (una cosa importante è che sia impostato il progetto di rifertimento). 
+Per lavorare su un attività bisogna creare una nuova riga ed assegnarli un nuovo rappresentante di vendita e indicare il numero di ore e dara una conferma, successivamente bisogna salvare in modo da poter creare il nuovo record di rilevamento ore Risorsa.
 [{{< figure src="/image/TassaFornitore.png"  width="850"  >}}](/image/TassaFornitore.png)
 ### Migrazione Entità [MIE00]
 [{{< figure src="/image/MigrazioneEntita.png"  width="850"  >}}](/image/MigrazioneEntita.png)
@@ -96,6 +100,7 @@ pre: "<b></b>"
 ### Messaggio broadcast [MB00]
 [{{< figure src="/image/MessaggioBroadcast.png"  width="850"  >}}](/image/MessaggioBroadcast.png)
 ### Post-it [PIT00]
+PEr far vedere il pop-up a livello maschera sulla finesta ordine di vendita quando selezioniamo il business partner il sistema confronta il tipo di pagamento selezionato con il pagamento accettato dal business partner, e se trova una corrispondenza di business partner ID farà vedere il testo come una pop-up di informazione.
 [{{< figure src="/image/PostIT.png"  width="850"  >}}](/image/PostIT.png)
 ### Visualizza chat [VC00]
 [{{< figure src="/image/VisualizzaChat.png"  width="850"  >}}](/image/VisualizzaChat.png)

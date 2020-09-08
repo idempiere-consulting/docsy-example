@@ -43,7 +43,7 @@ description: >
 ### Suggerimento campo Aiuto
 [{{< figure src="/image/HelpField.png"  width="850"  >}}](/image/HelpField.png)
 ### Convalida Regole
-[{{< figure src="/image/RuleValidation.png"  width="850"  >}}](/image/RuleValidation.png)
+[{{< figure src="/image/RuleValidation.png"  width="850"  >}}] (/image/RuleValidation.png)
 ### Gruppo Campo
 [{{< figure src="/image/FieldGroup.png"  width="850"  >}}](/image/FieldGroup.png)
 ### Finestre Tab  & Campi
@@ -57,6 +57,7 @@ description: >
 ### Suggerimento Nomi Campi
 [{{< figure src="/image/FieldSuggestion.png"  width="850"  >}}](/image/FieldSuggestion.png)
 ### Tabella e Colonna
+ Per non segnare la callout direttamente su AD_Column di una determinata tabella è stato creato un applica callout a livello client. Una volta dato l'ok viene settata la classe con il suo classpath con il suo riferimento di post-it. (Ovviamente è necessario fare un refresh a livello di login).
 [{{< figure src="/image/TableColumn.png"  width="850"  >}}](/image/TableColumn.png)
 ### Tipo Entità
 [{{< figure src="/image/EntityType.png"  width="850"  >}}](/image/EntityType.png)

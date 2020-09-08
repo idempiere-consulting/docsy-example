@@ -5,7 +5,6 @@ draft: false
 weight : 310
 pre: "<b></b>"
 ---
-
 ## Ordine di Acquisto [ODA00]
 [{{< figure src="/image/OrdineAcquisto0.png"  width="850"  >}}](/image/OrdineAcquisto0.png)
 ## Info ordine di acquisto con pagamento anticipato [IOAP00]
