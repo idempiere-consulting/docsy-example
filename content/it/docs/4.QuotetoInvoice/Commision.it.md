@@ -70,10 +70,10 @@ Installare nella console felix il jar reperibile su [idempiere-download](https:/
 
 ## Parametrizzazione Plugin
 
-[{{< figure src="/image/Commision_Param.png"  width="850"  >}}](/image/Commision_Param.png)
+[{{< figure src="/image/CommisionParam.png"  width="850"  >}}](/image/CommisionParam.png)
 
 
-![PluginCommisions_Param.png](/image/Commision_Param.png)
+![PluginCommisionsParam.png](/image/CommisionParam.png)
 
 ## Istruzioni Plugin
 
