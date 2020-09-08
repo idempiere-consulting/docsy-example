@@ -252,8 +252,6 @@ AD_Reference_ID IN
 | **MP21**                | SEPA Direct Debit B2B                      |
 | **MP22**                | Trattenuta su somme già riscosse           |
 
-
-
 | Codice   | Tipi di Documento            |
 | -------- | ---------------------------- |
 | **TD01** | Fattura                      |
@@ -262,10 +260,6 @@ AD_Reference_ID IN
 | **TD04** | nota di credito              |
 | **TD05** | nota di debito               |
 | **TD06** | parcella                     |
-
-
-
-
 
 | Codice | VOCI NATURA                                                  |
 | ------ | ------------------------------------------------------------ |
@@ -285,33 +279,15 @@ Si deve verificare esistenza a piano dei conti di un conto nel passivo Patrimoni
 
 Si procede quindi con l' emissione di un Ordine di Vendita che preveda un acconto e che deve essere assoggettata ad iva a norma di legge del 22%.
 
-![](/opt/md/images/Fatture di acconto/Selezione_002.png)
-
-![](/opt/md/images/Fatture di acconto/Selezione_003.png)
-
 Se nel contratto viene previsto un acconto ad es. del 20% si procederà a creare un termine di vendita che indichi questo qualora non esista già.
 
-![](/opt/md/images/Fatture di acconto/Selezione_004.png)
-
-![](/opt/md/images/Fatture di acconto/Selezione_005.png)
-
 Al momento del pagamento dell'acconto si provvedera quindi ad emettere la relativa fattura di acconto
-
-
 
 Nel momento in cui verrà completata la vendita del bene o del servizio in oggetto si procederà all'emissione della fattura definitiva andando a detrarre l'acconto o gli acconti relativi precedentemente fatturati.
 
 ---
 
 # Fattura di Acconto
-
-Indice
-
-## [Setup](#Setup)
-
-## [Procedura](#Procedura)
-
-
 
 ## Setup
 
@@ -346,13 +322,10 @@ Sull'ultima fattura la qty 1 e prezzo zero
 ## link esterni
 ---
 
-```
 https://docs.google.com/spreadsheets/d/1yEO1wISGaw6lprGEOLD8amsxS60i9bYMmO5TZlGl_rw/edit
 http://fatturaelettronicaopensource.org/ http://www.fatturapa.gov.it/export/fatturazione/it/sperimentazione.htm
-```
 
 ## Riferimenti
-
 ---
 
 * link pubblico          : 
