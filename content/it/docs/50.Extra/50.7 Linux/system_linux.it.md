@@ -4,7 +4,7 @@ date: 2020-04-24T22:47:10+02:00
 draft: false
 weight : 15
 pre: "<b></b>"
---- 
+​--- 
 
 # System Linux Comandi
 
@@ -178,8 +178,33 @@ rpm -qa
 ```
 ssh root@”ip"
 ```
+questo metodo è utile per brevi lavori e con buone connessioni, se si vyuole operare dei comandi che durano a lungo senza il rischio che una caduta della connessioni lasci appesa la console senza alcuna possibilità di interazione e con molteplici altri vantaggi è meglio usare l'utilitiy ```screen```
+```
+screen ssh root@”ip"
+```
+si userà una interfaccia praticamente uguale a quella sopra ma con il vantaggio che possiamo "distaccare" la connessione ed i programmi che avremo lanciato continueranno l'esecuzione in modo autonomo (tirato per i capelli in modo simile al lancio in background con il simbolo ```&```)
+Ci sono molti flag utili e molte combinazioni di tasti, ne riassumo qui le principali:
 
-### Tar -Scompattare un file e dichiarare il percorso: 
+- comandi
+
+  - Ctrl-a + d: distacca la sessione (che resterà attiva in remoto )
+
+  - Ctrl-a + h: si salva nel file ```hardcopy.N``` uno screenshot
+
+  - Ctrl-a + a: passa un comando Ctrl-a  al terminale sottostante
+
+- flag sul comando screen:
+
+  - -S sessione : imposta un nome per la sessione
+
+  - -h : imposta il numero di righe da ricordare nello scorrimento all'indietro
+  - -d [sessione]: "distacca" la connessione [sessione]
+  - -R : si riaggancia alla sessione più recente
+  - -r [sessione]: si riaggancia alla connessione [sessione] 
+  - -x : forza la connessione nel caso sia già in uso, condivide così il terminale virtuale con l'altra
+  - -X [comando] :  invia il [comando] alla sessione
+
+###  -Scompattare un file e dichiarare il percorso: 
 
 ```
 tar -C /tmp/ -zxvf nomefile.tar.gz
