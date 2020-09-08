@@ -84,13 +84,8 @@ Una volta creato/aggiornato l'ordine, sul contratto verrà  visualizzato il nume
 
 Creazione di utenze iTop per gestione dei ticket su iTop; la  creazione avviene nel momento del salvataggio dell'utente associato al  BPartner presente sulla *sotto-tab "Contract > Contact (User) for Web Ticket"* e che abbia il **flag "Web Ticket"** abilitato
 [{{< figure src="/image/Contract_4.png"  width="850"  >}}](/image/Contract_4.png)
-[{{< figure src="/image/Contract_5.png"  width="850"  >}}](/image/Contract_5png)
-[{{< figure src="/image/Contract_6.png"  width="850"  >}}](/image/Contract_3.png)
- 6 
- 
+
 ![Contract 4.png](/image/Contract_4.png)
-![Contract 5.png](/image/Contract_5.png)
-![Contract 6.png](/image/Contract_6.png)
 
  Per riferimenti specifici su iTop, vedere la pagina wiki [ITop](http://192.168.178.102/index.php/ITop)
  
