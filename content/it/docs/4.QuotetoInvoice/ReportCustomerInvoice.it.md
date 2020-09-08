@@ -320,17 +320,11 @@ Sull'ultima fattura la qty 1 e prezzo zero
 # "Fatturazione Eletttronica"
 
 ## link esterni
-
-
 https://docs.google.com/spreadsheets/d/1yEO1wISGaw6lprGEOLD8amsxS60i9bYMmO5TZlGl_rw/edit
-
 https://fatturaelettronicaopensource.org/ 
-
 https://www.fatturapa.gov.it/export/fatturazione/it/sperimentazione.htm
 
 ## Riferimenti
-
-
 * link pubblico          : 
 * link idempiere italia  : https://bitbucket.org/consulnet/idempiere-ita-plugin - it.cnet.impl.LIT_E_Invoice
 * link jar               : 
@@ -338,47 +332,29 @@ https://www.fatturapa.gov.it/export/fatturazione/it/sperimentazione.htm
 * versione zk supportata :
 
 ## Descrizione Plugin
-
 Questo plugin crea il file in formato xml da inviare a XX come fattura elettrinca denominata Fattura PA.
-
 Processo obbligatorio per i clienti appartenenti alla Pubblica Amministrazion e facoltatativo per le aziende private.
-
 Nel BP è necessario indicare che lo stesso sia un soggetto che richiede l'invio della fattura PA 
 
 ```
 (probabilmete viene identificato da un codice ....
 .. TO BE DEFINED ...
 ```
-
 La creazione del/dei file xml viene generato da una info window delle fatture che filrano solo i soggetti che richiedono l'invio tramite fattura PA 
-
 ```
 ( copia della info invoice + filtro ) -> Processo "create xml invoice format"
 ```
-
 ## Funzionalità supportate
-
 ---
-
 ## Installazione Plugin
-
 ---
-
 Installare nella console felix il jar reperibile su [https://bitbucket.org/consulnet/idempiere-download idempiere-download]
-
 ## Parametrizzazione Plugin
-
 ---
-
 A livello System, ricordarsi di
-
 1. Impostare nella Reference_LIST **"LIT_TaxTypeBPPartner_ID"**, nel nuovo campo ***Parameter Value*** alle voce corrispondente, il codice/valori ammessi **FPA12** = fattura verso PA  o **FPR12** = fattura verso privati 
 
-![Image](FEPA_3.png)
-
 2. Impostare nella Reference_LIST **"_Payment Rule"**, nel nuovo campo ***Parameter Value*** alla voce corrispondente, i codici dei Tipi_Pagamento 
-
-![Image](FEPA_1.png)
 
 A livello Client, ricordarsi di
 
@@ -393,49 +369,34 @@ A livello Client, ricordarsi di
 ## Istruzioni Plugin
 
 ---
-
 Dalla dashboard principale selezionare la infoWindow **"Sending invoices PA."**  e una volta che si ha l'elenco delle fatture che ci servono, basta selezionare una o più fattura e avviare il processo di generazione.
 
 Il processo creerà il file XML da scaricare e nello stesso tempo, verrà salvato una copia nella maschera**"Folder E-invoices"**
 
-![Image](FEPA_2.png)
-
 ## Documentazione Tecnica Plugin
-
 ---
-
 ### Modifiche all'AD
-
 Creare un Tabella LIT_E-Invoice  / 
-
 ```
 DocumentoNo  [100001]
 DocType  [E-Invoice]  -> Sequence 
 C_Invoice_ID 101
 ```
-
 ```
 NomeFile   
 DataInvio 
 DataInvoiced
 ```
-
 NELLA TABELLA BP SERVER UN CAMPI IDENTIFICATIVO DELL    LIT_FEPA_IPA - Numero/Indice PA
-
 ADD nel DOCTYPE  : LIT_FEPA_DOCTYPE  "TD01"  
-
 #### Tables / Windows esistenti
-
-
 # Fattura elettronica
 # Indice
 ## [Argomento](#Argomento)
 ## [Scadenze](#Scadenze)
 ## [Stato attuazione](#Stato attuazione)
-
 ### Argomento	
 [ATTIVAZIONE DELLE PROCEDURE]
-
 ### Modalità di attivazione 
 fino al 5 novembre era possibile la "messa in delega" per la E-fattura solo tramite intervento diretto del contribuente via Web
 a)accedendo tramite le credenziali in Fisconline
@@ -461,7 +422,6 @@ d) fatturazione elettronica e conservazione fatture elettroniche
 e) accreditamento e censimento dispositivi
 E' ORA FISSATO CHE: OGNI DELEGA DEVE ESSERE CONFERITA AD UN MASSIMO DI 4 SOGGETTI E LA DURATA SALVO REVOCA E' DI DUE ANNI.
 
-
 ## RILIEVI 
 ### Importanza del codice destinatario
    E' un elemento obbligatorio del file formato xml in quanto identifica il canale di trasmissione scelto dal CESSIONARIO/COMMITTENTE per cui il CEDENTE/PRESTATORE deve conoscere tale inforazione prima dell'emissione della fattura 
@@ -485,7 +445,6 @@ c)se codice destinatario = 0000000 ed è valorizzata PECDestinatario invio a cas
 d) se non valorizzata PECDestinatario SDI mette a disposizione file nell'area autenticata dei servizi telematici del cessionario/committente
 ### Impossibilità di recapito
 se è imossibile recapitare la fatture SDI invierà ricevuta di impossibilità di recapito. Il cedente/prestatore dovrà per vie diverse dal SDI comunicare al cessionario/committente che l'originale della fatture elettronica è aa disposizione nell'area riservata dell'Agenzia delle Entrate. In tal caso la fattura risulterà correttamente emessa dal cedente/prestatore ma l'IVA sarà detraibile dal cessionario/committente solo al momento della presa visione del file nell'area riservata.  
-
 ---
 # Fattura Elettronica  Plugin iDempiere
 
