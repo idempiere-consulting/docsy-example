@@ -69,8 +69,9 @@ Plugin commissioni
 Installare nella console felix il jar reperibile su [idempiere-download](https://bitbucket.org/consulnet/idempiere-download)
 
 ## Parametrizzazione Plugin
----
+
 [{{< figure src="/image/Commision_Param.png"  width="850"  >}}](/image/Commision_Param.png)
+
 
 ![PluginCommisions_Param.png](/image/Commision_Param.png)
 
