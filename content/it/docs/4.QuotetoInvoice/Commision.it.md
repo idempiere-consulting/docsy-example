@@ -61,27 +61,18 @@ Plugin commissioni
 [{{< figure src="/image/Commision_1.png"  width="850"  >}}](/image/Commision_1.png)
 
 ## Funzionalità supportate
----
 
 ## Installazione Plugin
 
-***
 Installare nella console felix il jar reperibile su [idempiere-download](https://bitbucket.org/consulnet/idempiere-download)
 
 ## Parametrizzazione Plugin
 
 [{{< figure src="/image/CommisionParam.png"  width="850"  >}}](/image/CommisionParam.png)
 
-
-![PluginCommisionsParam.png](/image/CommisionParam.png)
-
 ## Istruzioni Plugin
 
----
-
 ## Documentazione Tecnica Plugin
-
-***
 
 ### Modifiche all'AD
 
@@ -129,19 +120,7 @@ Installare nella console felix il jar reperibile su [idempiere-download](https:/
  -----------------------------
 ```
 
-## Provvigioni di vendita-enasarco 2018
-
-indice
-
-## [SetUp Agente 2018](#SetUp Agente 2018)
-
-## [SetUp Agente 2019](#SetUp Agente 2019)
-
-## [Procedura Calcolo Provvigioni](#Procedura Calcolo Provvigioni)
-
-## [Indicazioni per il Setup Agenti](#Indicazioni per il Setup Agenti)
-
-
+## Provvigioni di vendita-enasarco 
 
 ## SetUp Agente 2018
 
@@ -201,8 +180,6 @@ e ritenuta enasarco nel seguente:
 
 ## SetUp Agente 2019
 
-
-
 ## Procedura Calcolo Provvigioni
 
 Si parte da dati fattura consolidati quindi fatture contabilizzate (generalmente il calcolo che viene fatto è trimestrale). Il menù dove effettuare la procedura è quello delle provvigioni.
@@ -212,8 +189,6 @@ Si parte da dati fattura consolidati quindi fatture contabilizzate (generalmente
 A questo punto utlilizzeremo il rappresentante correttamente settuppato e utilizzeremo un tipo addebito che avremo creato per indirizzare correttamente in contabilità i dati che si andranno a produrre.
 
 Sarà necessario inserire una configurazione a livello linea commissioni che faccia a nostro caso per il tipo di elaborazione che desideriamo (ad esempio la schermata successiva determinerà una provvigione dello 1% sulle fatture dell' agente in testata in base al solo moltiplicatore importo indicato con 0,01).
-
-
 
 ## Indicazioni per il Setup Agenti
 
@@ -231,14 +206,10 @@ SI ALLEGANO INDICAZIONI PER CALCOLI ENASARCO 2019.
 
 DA VERIFICARE FUNZIONAMENTO PROFORMA
 
-
-
 # Omaggi
 
 
 ##                                        TRATTAMENTO IN ACQUISTO
-
-
 
 ## [Omaggi a Terzi di Beni NON rientranti nell’attività propria dell’impresa](#Omaggi a Terzi di Beni NON rientranti nell’attività propria dell’impresa)
 
@@ -251,8 +222,6 @@ DA VERIFICARE FUNZIONAMENTO PROFORMA
 ## [Omaggi effettuati da Professionisti](#Omaggi effettuati da Professionisti)
 
 ## [TABELLA RIEPILOGATIVA CON TRATTAMENTO IN VENDITA](#TABELLA RIEPILOGATIVA CON TRATTAMENTO IN VENDITA)
-
-
 
 ## Omaggi a Terzi di Beni NON rientranti nell’attività propria dell’impresa
 
