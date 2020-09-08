@@ -203,7 +203,7 @@ Ci sono molti flag utili e molte combinazioni di tasti, ne riassumo qui le princ
   - -x : forza la connessione nel caso sia già in uso, condivide così il terminale virtuale con l'altra
   - -X [comando] :  invia il [comando] alla sessione
 
-###  -Scompattare un file e dichiarare il percorso: 
+###  Scompattare un file e dichiarare il percorso: 
 
 ```
 tar -C /tmp/ -zxvf nomefile.tar.gz
