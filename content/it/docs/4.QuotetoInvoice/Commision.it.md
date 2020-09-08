@@ -208,21 +208,6 @@ DA VERIFICARE FUNZIONAMENTO PROFORMA
 
 # Omaggi
 
-
-##                                        TRATTAMENTO IN ACQUISTO
-
-## [Omaggi a Terzi di Beni NON rientranti nell’attività propria dell’impresa](#Omaggi a Terzi di Beni NON rientranti nell’attività propria dell’impresa)
-
-## [Omaggi a Terzi di Beni rientranti nell’attività propria dell’impresa](#Omaggi a Terzi di Beni rientranti nell'attività propria dell'impresa)
-
-## [Omaggi ai Dipendenti](#Omaggi ai Dipendenti)
-
-## [Pranzi e cene degli Auguri nel periodo natalizio](#Pranzi e cene degli Auguri nel periodo natalizio)
-
-## [Omaggi effettuati da Professionisti](#Omaggi effettuati da Professionisti)
-
-## [TABELLA RIEPILOGATIVA CON TRATTAMENTO IN VENDITA](#TABELLA RIEPILOGATIVA CON TRATTAMENTO IN VENDITA)
-
 ## Omaggi a Terzi di Beni NON rientranti nell’attività propria dell’impresa
 
 I  costi sostenuti per l’acquisto di Beni, ceduti gratuitamente a terzi,  la cui produzione od il cui scambio NON rientra nell’attività propria  dell’impresa sono:
