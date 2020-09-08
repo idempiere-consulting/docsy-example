@@ -320,14 +320,16 @@ Sull'ultima fattura la qty 1 e prezzo zero
 # "Fatturazione Eletttronica"
 
 ## link esterni
----
+
 
 https://docs.google.com/spreadsheets/d/1yEO1wISGaw6lprGEOLD8amsxS60i9bYMmO5TZlGl_rw/edit
+
 http://fatturaelettronicaopensource.org/ 
+
 https://www.fatturapa.gov.it/export/fatturazione/it/sperimentazione.htm
 
 ## Riferimenti
----
+
 
 * link pubblico          : 
 * link idempiere italia  : https://bitbucket.org/consulnet/idempiere-ita-plugin - it.cnet.impl.LIT_E_Invoice
