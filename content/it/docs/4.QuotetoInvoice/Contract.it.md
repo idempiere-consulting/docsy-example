@@ -55,7 +55,7 @@ Maschera gestione contratto , con dettaglio di righe .
 
 [{{< figure src="/image/Contract_2.png"  width="850"  >}}](/image/Contract_2.png)
 
-
+[{{< figure src="/image/Contract_3.png"  width="850"  >}}](/image/Contract_3.png)
 
 ![Contract 2.png](/image/Contract_2.png)
 
