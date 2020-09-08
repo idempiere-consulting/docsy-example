@@ -84,9 +84,9 @@ Per il corretto funzionamento di questa funzione, è IMPORTANTE inserire le gius
  
 [{{< figure src="/image/Contract_7.png"  width="850"  >}}](/image/Contract_7.png)
  
-https://192.168.178.102/images/thumb/e/ee/Contract_7.png/1050px-Contract_7.png
+http://192.168.178.102/images/thumb/e/ee/Contract_7.png/1050px-Contract_7.png
 
-https://192.168.178.102/index.php/File:Contract_7.png
+http://192.168.178.102/index.php/File:Contract_7.png
 ---
 ## Da Fare
 ---
