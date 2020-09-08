@@ -68,39 +68,39 @@ Il Report permette la stampa di un rapporto delle fatture di una settimana.
 [{{< figure src="/image/Fatturepersettimana.png"  width="850"  >}}](/image/Fatturepersettimana.png)
 [{{< figure src="/image/ReportFatturePerSettimana.png"  width="850"  >}}](/image/ReportFatturePerSettimana.png)
 ## Report fatture per mese [R.14]
+Il Report permette la stampa di un rapporto delle fatture di un mese.
 [{{< figure src="/image/Fatturepermese.png"  width="850"  >}}](/image/Fatturepermese.png)
 [{{< figure src="/image/ReportFatturePerMese.png"  width="850"  >}}](/image/ReportFatturePerMese.png)
 ## Report fatture per prodotto per settimana [R.13]
+Il Report permette la stampa di un rapporto per categoria di prodotto delle fatture di una settimana.
 [{{< figure src="/image/FattureperProdottopersettimanaR13.png"  width="850"  >}}](/image/FattureperProdottopersettimanaR13.png)
 [{{< figure src="/image/ReportFatturePerProdottoPerSettimana.png"  width="850"  >}}](/image/ReportFatturePerProdottoPerSettimana.png)
 ## Report fatture per prodotto e per mese [R.17]
+Il Report permette la stampa di un rapporto per prodotto delle fatture di un mese.
 [{{< figure src="/image/FattureProdottoMeseR17.png"  width="850"  >}}](/image/FattureProdottoMeseR17.png)
 [{{< figure src="/image/ReportFatturePerProdottoePerMese.png"  width="850"  >}}](/image/ReportFatturePerProdottoePerMese.png)
 ## Report fatture per prodotto e per trimestre [R.19]
+Il Report permette la stampa di un rapporto per categoria di prodotto delle fatture di un trimestre.
 [{{< figure src="/image/FattureProdottoTrimestreR19.png"  width="850"  >}}](/image/FattureProdottoTrimestreR19.png)
 [{{< figure src="/image/ReportFatturePerProdottoPerTrimestre.png"  width="850"  >}}](/image/FatturePerProdottoPerTrimestre.png)
 ## Report fatture trimestrali per prodotto [R.20]
+Il Report permetta la stampa di un rapporto per prodotto delle fatture di un trimestre.
 [{{< figure src="/image/FattureTrimestraliProdottoR20.png"  width="850"  >}}](/image/FattureTrimestraliProdottoR20.png)
 [{{< figure src="/image/ReportFattureTrimestraliPerProdotto.png"  width="850"  >}}](/image/ReportFattureTrimestraliPerProdotto.png)
 ## Report fatture cliente per fornitore per trimestre [R.18]
+???
 [{{< figure src="/image/FattureCLienteFornitoreperTrimestreR18.png"  width="850"  >}}](/image/FattureCLienteFornitoreperTrimestreR18.png)
 [{{< figure src="/image/ReportFattureClientePerFornitorePerTrimestre.png"  width="850"  >}}](/image/ReportFattureClientePerFornitorePerTrimestre.png)
 ## Report fatture per fornitore per mese [R.16]
+Il Report permette la stampa di un rapporto per categoria di prodotto e Business Partner di un mese.
 [{{< figure src="/image/FattureFornitoreMeseR16.png"  width="850"  >}}](/image/FattureFornitoreMeseR16.png)
 [{{< figure src="/image/ReportFatturePerFornitorePerMese.png"  width="850"  >}}](/image/ReportFatturePerFornitorePerMese.png)
-
+Il report permette la stampa di un rapporto per categoria di prodotto delle fatture di un mese.
 ## Report fatture per prodotto per mese [R.15]
 [{{< figure src="/image/FattureProdottoperMeseR15.png"  width="850"  >}}](/image/FattureProdottoperMeseR15.png)
 [{{< figure src="/image/ReportFatturePerProdottoPerMese.png"  width="850"  >}}](/image/ReportFatturePerProdottoPerMese.png)
 
-
-## Invia Fatture via Email
-### Video - 4- QuotetoInvoice - Invoice by Email / Inviare Fattura via Email [V024]
-{{<youtube NoEa8E6Mzok>}}
-
-# Fattura Cliente
-
-## Video - Fattura Cliente
+## Video - 4. Fattura Cliente
 
 ### Video - 4. Quote to Invoice - Foreign Invoice / Fattura Estera  [V048]
 {{<youtube oqnPbYX-5hU>}}
@@ -147,19 +147,16 @@ Il Report permette la stampa di un rapporto delle fatture di una settimana.
 ### Video - 4. Quote to Invoice - Create Invoice XML / Genera Fattura XML [V166]
 {{<youtube pqruUqqmLKo>}}
 
+### Video - 4- QuotetoInvoice - Invoice by Email / Inviare Fattura via Email [V024]
+{{<youtube NoEa8E6Mzok>}}
+
 ## Fattura Elettronica  Plugin iDempiere
 
 Troubleshooting  d
 
-
-
 FPR12  
 
 FPA12
-
-
-
-
 
 | TD01 | fattura                      |
 | ---- | ---------------------------- |
@@ -168,14 +165,6 @@ FPA12
 | TD04 | nota di credito              |
 | TD05 | nota di debito               |
 | TD06 | parcella                     |
-
-
-
-
-
-
-
-
 
 | **<RegimeFiscale>** |                                                              |
 | ------------------- | ------------------------------------------------------------ |
@@ -197,8 +186,6 @@ FPA12
 | **RF17**            | IVA per cassa (art. 32-bis, DL 83/2012)                      |
 | **RF18**            | Altro                                                        |
 | **RF19**            | Regime forfettario (art.1, c.54-89, L. 190/2014)             |
-
-
 
 | **<TipoCassa>** |                                                              |
 | --------------- | ------------------------------------------------------------ |
@@ -224,10 +211,6 @@ FPA12
 | **TC20**        | Ente nazionale previdenza e assistenza professione infermieristica (ENPAPI) |
 | **TC21**        | Ente nazionale previdenza e assistenza psicologi (ENPAP)     |
 | **TC22**        | INPS                                                         |
-
-
-
-
 
 SELECT name,ParameterValue FROM AD_Ref_List 
 WHERE 
@@ -293,10 +276,6 @@ AD_Reference_ID IN
 | **N5** | Escluso Art. 74 DPR 633/72<                                  |
 | **N6** | Reverse charge Art. 17 DPR 633/72<br />inversione contabile (per le operazioni in reverse charge ovvero nei casi di autofatturazione per acquisti extra UE di servizi ovvero per importazioni di beni nei soli casi previsti) |
 | **N7** | Vendite a distanza Art. 40/41 DL 331/93<br />IVA assolta in altro stato UE (vendite a distanza ex art. 40 c. 3 e 4 e art. 41 c. 1 lett. b,  DL 331/93; prestazione di servizi di telecomunicazioni, tele-radiodiffusione ed elettronici ex art. 7-sexies lett. f, g, art. 74-sexies DPR 633/72) |
-
-
-
-
 
 ## Fattura di Anticipo
 
@@ -365,7 +344,6 @@ Sull'ultima fattura la qty 1 e prezzo zero
 # "Fatturazione Eletttronica"
 
 ## link esterni
-
 ---
 
 ```
@@ -535,23 +513,9 @@ se è imossibile recapitare la fatture SDI invierà ricevuta di impossibilità d
 ---
 # Fattura Elettronica  Plugin iDempiere
 
-
-
-
-
-
-
-
-
-
-
 FPR12  
 
 FPA12
-
-
-
-
 
 | TD01 | fattura                      |
 | ---- | ---------------------------- |
@@ -560,14 +524,6 @@ FPA12
 | TD04 | nota di credito              |
 | TD05 | nota di debito               |
 | TD06 | parcella                     |
-
-
-
-
-
-
-
-
 
 | **<RegimeFiscale>** |                                                              |
 | ------------------- | ------------------------------------------------------------ |
@@ -589,8 +545,6 @@ FPA12
 | **RF17**            | IVA per cassa (art. 32-bis, DL 83/2012)                      |
 | **RF18**            | Altro                                                        |
 | **RF19**            | Regime forfettario (art.1, c.54-89, L. 190/2014)             |
-
-
 
 | **<TipoCassa>** |                                                              |
 | --------------- | ------------------------------------------------------------ |
@@ -616,10 +570,6 @@ FPA12
 | **TC20**        | Ente nazionale previdenza e assistenza professione infermieristica (ENPAPI) |
 | **TC21**        | Ente nazionale previdenza e assistenza psicologi (ENPAP)     |
 | **TC22**        | INPS                                                         |
-
-
-
-
 
 SELECT name,ParameterValue FROM AD_Ref_List 
 WHERE 
@@ -661,8 +611,6 @@ AD_Reference_ID IN
 | **MP21**                | SEPA Direct Debit B2B                      |
 | **MP22**                | Trattenuta su somme già riscosse           |
 
-
-
 | Codice   | Tipi di Documento            |
 | -------- | ---------------------------- |
 | **TD01** | Fattura                      |
@@ -671,10 +619,6 @@ AD_Reference_ID IN
 | **TD04** | nota di credito              |
 | **TD05** | nota di debito               |
 | **TD06** | parcella                     |
-
-
-
-
 
 | Codice | VOCI NATURA                                                  |
 | ------ | ------------------------------------------------------------ |
