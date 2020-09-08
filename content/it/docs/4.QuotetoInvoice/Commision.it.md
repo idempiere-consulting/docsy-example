@@ -58,6 +58,8 @@ FARE REPORT PROVVIGIONI a) revisione report con dettaglio prodotti  B) creare re
 
 ![Provvigioni.png](/images/Commission.png)
 
+[{{< figure src="/image/Commision_1.png"  width="850"  >}}](/image/Commision_1.png)
+
 ![PluginCommisions Videata1.png](/image/Commision_1.png)]
 
 
