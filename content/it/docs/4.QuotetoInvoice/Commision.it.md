@@ -16,6 +16,7 @@ La maschera permette la creazione della fattura da ricevere dall'agente relativa
 Il report permette la stampa del dettaglio delle provvigioni di un periodo in base alle scelte desiderate.
 [{{< figure src="/image/DettagliCommissoniCorrentiR21.png"  width="850"  >}}](/image/DettagliCommissoniCorrentiR21.png)
 [{{< figure src="/image/ReportDettagliProvvigioniCorrenti.png"  width="850"  >}}](/image/ReportDettagliProvvigioniCorrenti.png)
+
 ---
 
 # Video - Provvigioni 
@@ -34,21 +35,13 @@ Il report permette la stampa del dettaglio delle provvigioni di un periodo in ba
 ### Video - 4. QuotetoInvoice Generazione fattura provvigioni [V157]
 {{<youtube UpbH-DoViSU>}}
 
-
+3 BasicData Business partner rappresentante https://youtu.be/OGhb-AYWJZs
 
 
 ## Provvigioni
-
-3 BasicData Business partner rappresentante https://youtu.be/OGhb-AYWJZs
-4 8 QuotetoInvoice Provvigioni impostazioni rappresentante di vendita  https://youtu.be/MyBXpeCkIcU
-4 8 QuotetoInvoice Generazione fattura provvigioni https://youtu.be/UpbH-DoViSU
-4 8 QuotetoInvoice Generazione provvigioni  https://youtu.be/62rZGgbbOFk
-4 8 QuotetoInvoice Provvigioni  Impostazioni percentuali provvigionali categoria  https://youtu.be/Gd0VV0RKTtg
 ## Descrizione Plugin
 
----
 
-```
 TRADUZIONE 
 Commissioni -> Provvigioni  PRO0
 Msk Provvigioni :select su BP deve essere solo agenti (rappresentatnti)
@@ -60,7 +53,7 @@ CalcAllCommissions - it.cnet.idempiere.commissions.process.CalculateAllCommissio
 COSA NEGATIVA : deve generare per ogni agente (???) ci vorrebbe un generara tutti gli agenti
 
 FARE REPORT PROVVIGIONI a) revisione report con dettaglio prodotti  B) creare report con riepilogo Documento (no dettaglio prodotti)
-```
+
  Plugin commissioni
 
 ![Provvigioni.png](/images/Commission.png)
