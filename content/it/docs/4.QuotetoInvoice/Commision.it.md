@@ -54,30 +54,25 @@ COSA NEGATIVA : deve generare per ogni agente (???) ci vorrebbe un generara tutt
 
 FARE REPORT PROVVIGIONI a) revisione report con dettaglio prodotti  B) creare report con riepilogo Documento (no dettaglio prodotti)
 
- Plugin commissioni
+Plugin commissioni
 
-![Provvigioni.png](/images/Commission.png)
+[{{< figure src="/image/Commission.png"  width="850"  >}}](/image/Commission.png)
 
 [{{< figure src="/image/Commision_1.png"  width="850"  >}}](/image/Commision_1.png)
 
-![PluginCommisions Videata1.png](/image/Commision_1.png)]
-
-
 ## Funzionalità supportate
-
 ---
 
 ## Installazione Plugin
 
 ***
-
 Installare nella console felix il jar reperibile su [idempiere-download](https://bitbucket.org/consulnet/idempiere-download)
 
 ## Parametrizzazione Plugin
-
 ---
+[{{< figure src="/image/Commision_Param.png"  width="850"  >}}](/image/Commision_Param.png)
 
-![PluginCommisions Param.png](/image/Commision_Param.png)
+![PluginCommisions_Param.png](/image/Commision_Param.png)
 
 ## Istruzioni Plugin
 
