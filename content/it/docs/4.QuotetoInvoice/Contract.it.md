@@ -6,7 +6,6 @@ weight : 260
 pre: "<b></b>"
 ---
 
-
 ## Crea Contratto da ordine [CCO20]
 La Info Window permette di creare un contratto da un ordine di vendita. 
 [{{< figure src="/image/ContrattodaOrdine.png"  width="850"  >}}](/image/ContrattodaOrdine.png)
@@ -22,32 +21,28 @@ La Info Window permette di selezionare i contratti di vendita apportando anche d
 ## Scheda Business Partner [ICV00]
 [{{< figure src="/image/SchedaBP0.png"  width="850"  >}}](/image/SchedaBP0.png)
 
-
 ## link esterni
 ---
-
 ## Riferimenti
-
 - link pubblico  :
 - link idempeire italia  :
 - link jar  : /opt/repos/idempiere-download/plugin-italia/Contract/
 - versione idempiere  : idempiere 3.1
 - versione zk supportata : na
-
 ---
-
 ## Specifiche di ambiente test/demo
 ```
 database    : idempiere_demobase
 application : idempiere-demobase
 ```
 ---
-
 ## Link documentazione esterna
 ---
 ## Descrizione Funzionalità
 
 Maschera gestione contratto , con dettaglio di righe .
+
+[{{< figure src="/image/Contract_1.png"  width="850"  >}}](/image/Contract_1.png)
 
 ![Contract 1.png](/image/Contract_1.png)
 
@@ -85,12 +80,14 @@ Una volta creato/aggiornato l'ordine, sul contratto verrà  visualizzato il nume
 Creazione di utenze iTop per gestione dei ticket su iTop; la  creazione avviene nel momento del salvataggio dell'utente associato al  BPartner presente sulla *sotto-tab "Contract > Contact (User) for Web Ticket"* e che abbia il **flag "Web Ticket"** abilitato
 [{{< figure src="/image/Contract_4.png"  width="850"  >}}](/image/Contract_4.png)
 
-![Contract 4.png](/image/Contract_4.png)
-
  Per riferimenti specifici su iTop, vedere la pagina wiki [ITop](http://192.168.178.102/index.php/ITop)
- 
  Per il corretto funzionamento di questa funzione, è IMPORTANTE inserire le giuste credenziali di iTop nella *maschera "Client > Client Info"*
- [![Contract 7.png](http://192.168.178.102/images/thumb/e/ee/Contract_7.png/1050px-Contract_7.png)](http://192.168.178.102/index.php/File:Contract_7.png)
+ 
+ [{{< figure src="/image/Contract_7.png"  width="850"  >}}](/image/Contract_7.png)
+ 
+ [![Contract 7.png]
+ 
+ (http://192.168.178.102/images/thumb/e/ee/Contract_7.png/1050px-Contract_7.png)](http://192.168.178.102/index.php/File:Contract_7.png)
 ---
 ## Da Fare
 ---
