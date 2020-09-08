@@ -324,7 +324,7 @@ Sull'ultima fattura la qty 1 e prezzo zero
 
 https://docs.google.com/spreadsheets/d/1yEO1wISGaw6lprGEOLD8amsxS60i9bYMmO5TZlGl_rw/edit
 
-http://fatturaelettronicaopensource.org/ 
+https://fatturaelettronicaopensource.org/ 
 
 https://www.fatturapa.gov.it/export/fatturazione/it/sperimentazione.htm
 
