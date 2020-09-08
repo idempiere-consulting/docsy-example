@@ -78,16 +78,15 @@ Una volta creato/aggiornato l'ordine, sul contratto verrà  visualizzato il nume
 ### Gestione ticket iTop
 
 Creazione di utenze iTop per gestione dei ticket su iTop; la  creazione avviene nel momento del salvataggio dell'utente associato al  BPartner presente sulla *sotto-tab "Contract > Contact (User) for Web Ticket"* e che abbia il **flag "Web Ticket"** abilitato
+
 [{{< figure src="/image/Contract_4.png"  width="850"  >}}](/image/Contract_4.png)
 
- Per riferimenti specifici su iTop, vedere la pagina wiki [ITop](http://192.168.178.102/index.php/ITop)
- Per il corretto funzionamento di questa funzione, è IMPORTANTE inserire le giuste credenziali di iTop nella *maschera "Client > Client Info"*
+Per riferimenti specifici su iTop, vedere la pagina wiki [ITop](http://192.168.178.102/index.php/ITop)
+Per il corretto funzionamento di questa funzione, è IMPORTANTE inserire le giuste credenziali di iTop nella *maschera "Client > Client Info"*
  
- [{{< figure src="/image/Contract_7.png"  width="850"  >}}](/image/Contract_7.png)
+[{{< figure src="/image/Contract_7.png"  width="850"  >}}](/image/Contract_7.png)
  
- [![Contract 7.png]
- 
- (http://192.168.178.102/images/thumb/e/ee/Contract_7.png/1050px-Contract_7.png)](http://192.168.178.102/index.php/File:Contract_7.png)
+(http://192.168.178.102/images/thumb/e/ee/Contract_7.png/1050px-Contract_7.png)](http://192.168.178.102/index.php/File:Contract_7.png)
 ---
 ## Da Fare
 ---
