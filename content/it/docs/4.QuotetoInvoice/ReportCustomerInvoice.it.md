@@ -323,7 +323,8 @@ Sull'ultima fattura la qty 1 e prezzo zero
 ---
 
 https://docs.google.com/spreadsheets/d/1yEO1wISGaw6lprGEOLD8amsxS60i9bYMmO5TZlGl_rw/edit
-http://fatturaelettronicaopensource.org/ http://www.fatturapa.gov.it/export/fatturazione/it/sperimentazione.htm
+http://fatturaelettronicaopensource.org/ 
+http://www.fatturapa.gov.it/export/fatturazione/it/sperimentazione.htm
 
 ## Riferimenti
 ---
