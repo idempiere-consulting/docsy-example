@@ -188,11 +188,10 @@ Ci sono molti flag utili e molte combinazioni di tasti, ne riassumo qui le princ
 - comandi
 
   - Ctrl-a + d: distacca la sessione (che resterà attiva in remoto )
-
-  - Ctrl-a + h: si salva nel file ```hardcopy.N``` uno screenshot
-
+- Ctrl-a + h: si salva nel file ```hardcopy.N``` uno screenshot
   - Ctrl-a + a: passa un comando Ctrl-a  al terminale sottostante
-
+- exit: digitando exit si chiude il programma screen perdendo tutto
+  
 - flag sul comando screen:
 
   - -S sessione : imposta un nome per la sessione
