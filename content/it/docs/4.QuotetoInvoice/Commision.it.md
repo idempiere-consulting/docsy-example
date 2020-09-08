@@ -7,10 +7,13 @@ pre: "<b></b>"
 ---
 
 ## Provvigioni [PRV00]
+La maschera permette la generazione delle provvigioni sulle fatture.
 [{{< figure src="/image/Commissioni0.png"  width="850"  >}}](/image/Commissioni0.png)
 ## Crea Provvigione [CPRV00]
+La maschera permette la creazione della fattura da ricevere dall'agente relativa alle provvigioni sulle fatture di vendite del periodo.
 [{{< figure src="/image/CreaProvvigione0.png"  width="850"  >}}](/image/CreaProvvigione0.png)
 ## Report dettagli provvigioni correnti [R.21]
+Il report permette la stampa del dettaglio delle provvigioni di un periodo in base alle scelte desiderate.
 [{{< figure src="/image/DettagliCommissoniCorrentiR21.png"  width="850"  >}}](/image/DettagliCommissoniCorrentiR21.png)
 [{{< figure src="/image/ReportDettagliProvvigioniCorrenti.png"  width="850"  >}}](/image/ReportDettagliProvvigioniCorrenti.png)
 ---
@@ -58,10 +61,7 @@ COSA NEGATIVA : deve generare per ogni agente (???) ci vorrebbe un generara tutt
 
 FARE REPORT PROVVIGIONI a) revisione report con dettaglio prodotti  B) creare report con riepilogo Documento (no dettaglio prodotti)
 ```
-
-
  Plugin commissioni
-
 
 ![Provvigioni.png](/images/Commission.png)
 
