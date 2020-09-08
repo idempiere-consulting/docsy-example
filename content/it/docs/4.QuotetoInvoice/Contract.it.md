@@ -57,21 +57,13 @@ Maschera gestione contratto , con dettaglio di righe .
 
 [{{< figure src="/image/Contract_3.png"  width="850"  >}}](/image/Contract_3.png)
 
-![Contract 2.png](/image/Contract_2.png)
-
-![Contract 3.png](/image/Contract_3.png)
-
-
  Processo che permette di associare i contratti presenti ad un nuovo ordine o ad un ordine già presente.
-
 - Validity date: criterio → ricerca i contratti che sono ancora attivi, in base alla data impostata
 
 > MContract.COLUMNNAME_validfromdate + "<= ? AND " +
 >  MContract.COLUMNNAME_validtodate + ">= ? AND " +
 >  MContract.COLUMNNAME_DateInvoiced + "< ? AND "
-
 - I contratti creati sono associati ad un Business Partner, quindi la scelta del BusinessPartner risulta obbligatoria
-
 - Si può associare i contratti ad un ordine già presente, selezionando Sales Order desiderato
 Il processo creerà un nuovo ordine (se non è esistente) e rispettive  linee ordine in base al numero delle linee di contratto presenti.
  Dati salvati:
@@ -91,6 +83,10 @@ Una volta creato/aggiornato l'ordine, sul contratto verrà  visualizzato il nume
 ### Gestione ticket iTop
 
 Creazione di utenze iTop per gestione dei ticket su iTop; la  creazione avviene nel momento del salvataggio dell'utente associato al  BPartner presente sulla *sotto-tab "Contract > Contact (User) for Web Ticket"* e che abbia il **flag "Web Ticket"** abilitato
+[{{< figure src="/image/Contract_4.png"  width="850"  >}}](/image/Contract_4.png)
+[{{< figure src="/image/Contract_5.png"  width="850"  >}}](/image/Contract_5png)
+[{{< figure src="/image/Contract_6.png"  width="850"  >}}](/image/Contract_3.png)
+ 6 
  
 ![Contract 4.png](/image/Contract_4.png)
 ![Contract 5.png](/image/Contract_5.png)
