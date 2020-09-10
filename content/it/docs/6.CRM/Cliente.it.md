@@ -7,5 +7,6 @@ pre: "<b></b>"
 ---
 
 ## Cliente [CLI00]
+La Maschera permette di inserire i dettagli del "cliente".
 [{{< figure src="/image/Cliente0.png"  width="850"  >}}](/image/Cliente0.png)
 
