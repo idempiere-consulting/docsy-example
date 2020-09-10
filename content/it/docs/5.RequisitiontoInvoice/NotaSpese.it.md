@@ -21,15 +21,14 @@ La Maschera permette di avere un Report delle ore e delle spese che interessano.
 Il Processo permette la creazione di ordini di vendita dal Report delle spese. 
 [{{< figure src="/image/OrdinediVenditadalleSpese.png"  width="850"  >}}](/image/OrdinediVenditadalleSpese.png)
 
+# Setup Nota Spese
+## Tipo Spese [TS00]
+La Maschera permette di inserire il tipo di spesa.
+[{{< figure src="/image/TipoSpese0.png"  width="850"  >}}](/image/TipoSpese0.png)
+
 ## Video - Riepilogo Ore e Spese  
 ### 5. Requisition-to-Invoice - Expenses / Nota Spesa [V012]
 {{<youtube iy8vP43yZAs>}}
-
-# Setup Note Spesa
-## Tipo Spese [TS00]
-[{{< figure src="/image/TipoSpese0.png"  width="850"  >}}](/image/TipoSpese0.png)
-
-
 
 
 
