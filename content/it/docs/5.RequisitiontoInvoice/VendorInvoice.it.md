@@ -7,6 +7,7 @@ pre: "<b></b>"
 ---
 
 ## Fattura di Acquisto [FDA00]
+La Maschera permette l'inserimento della fattura del fornitore.
 [{{< figure src="/image/FatturaAcquisto0.png"  width="850"  >}}](/image/FatturaAcquisto0.png)
 # Omaggi
 ## Omaggi a Terzi di Beni NON rientranti nell’attività propria dell’impresa
@@ -136,19 +137,21 @@ Ai fini I.V.A. l’articolo 2, comma 2, n. 4), del D.P.R. n. 633/1972 esclude da
 | **Oltre 50 milioni di euro**                                 | **0,40%**                    |
 |                                                              |                              |
 
-
-
-## Info completa fatture di acquisto 
+## Info completa fatture di acquisto
+La Info Window permette il completamento della fattura di acquisto.
 [{{< figure src="/image/FatturaAcquisto0.png"  width="850"  >}}](/image/FatturaAcquisto0.png)
 ## Info crea fattura acquisto da entrata merci [ICFAE00]
+La Info Window permette la creazione della fattura di acquisto dal movimento di entrata merce.
 [{{< figure src="/image/FatturaAcquisto0.png"  width="850"  >}}](/image/FatturaAcquisto0.png)
 ## Fatturazione Batch [FB00]
+la Maschera permette la creazione di un gruppo di fatture.
 [{{< figure src="/image/FatturazioneBatch0.png"  width="850"  >}}](/image/FatturazioneBatch0.png)
 ## Controllo Bolla Fattura [CBF00]
+La Info Form permette la generazione della fattura dal movimento di entrata merce.
 [{{< figure src="/image/FatturazioneBatch0.png"  width="850"  >}}](/image/FatturazioneBatch0.png)
 ## Fattura Abbinata [FABB00]
+La Maschera permette la visualizzazione del processo di abbinamento delle fatture generate da movimento di magazzino.
 [{{< figure src="/image/FatturaAbbinata0.png"  width="850"  >}}](/image/FatturaAbbinata0.png)
-
 
 ## Video - Fattura di Acquisto
 ### Video - 5. Requisition-to-Invoice - Registration Purchase invoice / Reg. Fattura di Acquisto Servizi [V037]
@@ -187,8 +190,6 @@ Ai fini I.V.A. l’articolo 2, comma 2, n. 4), del D.P.R. n. 633/1972 esclude da
 ### Video - 5. Requisition-to-Invoice - Vendor Invoice Vat Error / Fattura Acquisto con errore iva [V151]
 {{<youtube BhsXb5d3TeQ>}}
 
-
-#  Bolletta Doganale  
 ## Video - Bolletta Doganale  
 ### Video - 5. Requisition to Invoice - Custom Bill / Bolletta doganale [V035]
 {{<youtube DCyHXWdt6CA>}}
@@ -198,8 +199,6 @@ Ai fini I.V.A. l’articolo 2, comma 2, n. 4), del D.P.R. n. 633/1972 esclude da
 
 ### Video - 5. Requisition-to-Invoice - Payment BIl / Bolletta Pagam Spediz Saldo [V068]
 {{<youtube Hcou77p8_l8>}}
-
-
 
 ## Nota di Accredito Fornitore
 ##  1. Fase d'import file xml
