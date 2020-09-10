@@ -11,7 +11,7 @@ La Maschera permette l'inserimento dell'ordine di acquisto.
 ## Info ordine di acquisto con pagamento anticipato [IOAP00]
 La Info Window permette la creazione della fattura Anticipata e quindi l'abbinamento del pagamento alla stessa.
 [{{< figure src="/image/InfoOrdineAcquistoPagamentoAnticipato.png"  width="850"  >}}](/image/InfoOrdineAcquistoPagamentoAnticipato.png)
-## Info completa ordini di acquisto
+## Info completa ordini di acquisto [ICOA00]
 La Info Window permette il completamento dell'ordine.
 [{{< figure src="/image/InfoCompletaOrdiniAcquisto.png"  width="850"  >}}](/image/InfoCompletaOrdiniAcquisto.png)
 ## Ordini di acquisto abbinati [OAA00]
@@ -20,7 +20,7 @@ La Maschera mette in evidenza l'ordine abbinato e il processo a fronte.
 
 # Report ordine di acquisto
 ## Stampa e invia ordine di acquisto [SODA00]
-Il processo permette la stampa dell'ordine o cartacea o l'invio dello stesso via posta elettronica.
+Il Processo permette la stampa dell'ordine o cartacea o l'invio dello stesso via posta elettronica.
 [{{< figure src="/image/StampaOrdineAcquisto.png"  width="850"  >}}](/image/StampaOrdineAcquisto.png)
 
 ## Video - Ordine di Acquisto
