@@ -7,5 +7,6 @@ pre: "<b></b>"
 ---
 
 ## Lead [LEA00]
+La Maschera permette di inserire i dettagli del "lead". 
 [{{< figure src="/image/Lead0.png"  width="850"  >}}](/image/Lead0.png)
 
