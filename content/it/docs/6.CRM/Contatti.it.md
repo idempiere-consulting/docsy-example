@@ -7,5 +7,6 @@ pre: "<b></b>"
 ---
 
 ## Contatti [CON00]
+La Maschera permette di inserire i contatti necessari per la gestione.
 [{{< figure src="/image/Contatti0.png"  width="850"  >}}](/image/Contatti0.png)
 
