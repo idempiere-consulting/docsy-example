@@ -13,13 +13,13 @@ La Maschera permette la registrazione dell'entrata del prodotto in magazzino.
 La Maschera permette la registrazione dell'entrata del prodotto destinato al Conto Lavoro attivo.
 [{{< figure src="/image/EntrataMerceContoLavoroAttivo0.png"  width="850"  >}}](/image/EntrataMerceContoLavoroAttivo0.png)
 
-# Report Entrata Merci
+# Report Entrata Merce
 ## Report dettagli ricevimento merci [R.26]
 Il Report permmette una stampa delle informazioni relative alla merce entrata a magazzino.
 [{{< figure src="/image/ReportDettagliRicevimentoMerci.png"  width="850"  >}}](/image/ReportDettagliRicevimentoMerci.png)
 [{{< figure src="/image/ReportDettagliRicevimentoMerci1.png"  width="850"  >}}](/image/ReportDettagliRicevimentoMerci1.png)
 
-## Video - Entrata Merci
+## Video - Entrata Merce
 ### Video - 5. Requisition-to-Invoice - Material Receipt / Magazzino c⁄to deposito clienti [V009]
 {{<youtube P4ZA0B7mBHM>}}
 
