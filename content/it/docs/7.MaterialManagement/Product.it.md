@@ -166,3 +166,13 @@ BasciData Prodotto Supplementary Product da rivedere https://youtu.be/k2EyCK0CBJ
 
 BasicData Prodotto Gestione Quantità Default per Packaging   Gestione con Codice a Barre https://youtu.be/IkfERa-Fkfw
 
+## Video - 7 Gestione Materiali
+
+### Video - 7 Gestione Materiali - BasicData Prodotto Inserimento lotto
+{{<youtu.be/voBwasAboM4>}}
+
+### Video - 7 Gestione Materiali - BasciData Prodotto Supplementary Product da rivedere
+{{<youtu.be/k2EyCK0CBJ0>}}
+
+### Video - 7 Gestione Materiali - BasicData Prodotto Gestione Quantità Default per Packaging   Gestione con Codice a Barre
+{{<youtu.be/IkfERa-Fkfw>}}
