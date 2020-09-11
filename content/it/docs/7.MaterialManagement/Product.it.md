@@ -6,6 +6,10 @@ weight : 460
 pre: "<b></b>"
 ---
 
+## Prodotto [PRD00]
+
+[{{< figure src="/image/RMAResoClienti.png"  width="850"  >}}](/image/RMAResoClienti.png)
+
 BasicData Prodotto Inserimento lotto  https://youtu.be/voBwasAboM4
 
 BasciData Prodotto Supplementary Product da rivedere https://youtu.be/k2EyCK0CBJ0
