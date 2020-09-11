@@ -6,8 +6,13 @@ weight : 490
 pre: "<b></b>"
 ---
 
-## Lotto
+## Lotto [LTTO00]
+La Maschera permette di creare, nel caso necessario per un prodotto e la sua gestione, un lotto di produzione.  
 [{{< figure src="/image/Lotto0.png"  width="850"  >}}](/image/Lotto0.png)
+
+## Griglia attributo prodotto
+La Window Form permette di selezionare per delle classificazioni desiderate il gruppo di prodotto stabilito.
+[{{< figure src="/image/Grigliaattributoprodotto.png"  width="850"  >}}](/image/Grigliaattributoprodotto.png)
 
 ## Controllo Lotto
 [{{< figure src="/image/ControlloLotto0.png"  width="850"  >}}](/image/ControlloLotto0.png)
