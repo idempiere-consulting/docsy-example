@@ -6,13 +6,16 @@ weight : 460
 pre: "<b></b>"
 ---
 
-## Prodotto [PRD00]
-La Maschera permette l'inserimento di un prodotto.
-[{{< figure src="/image/Prodotto.png"  width="850"  >}}](/image/Prodotto.png)
+BasicData Prodotto Inserimento lotto  https://youtu.be/voBwasAboM4
+
+BasciData Prodotto Supplementary Product da rivedere https://youtu.be/k2EyCK0CBJ0
+
+BasicData Prodotto Gestione Quantità Default per Packaging   Gestione con Codice a Barre https://youtu.be/IkfERa-Fkfw
 
 Caso da gestire
 
-### CASO A - Barattoli con la stessa quantittà
+CASO A - Barattoli con la stessa quantittà
+
 Prodotto OLIVE NERE 
 
 * Venduto dal Fornitore A in barattoli da 1 KG  a 3,4 € al KG 
@@ -21,16 +24,20 @@ Prodotto OLIVE NERE
 Efficare nel confrontare i listini 
 
 Gestito internamente logisticamente come "Pezzi" 
-ossia carico 1 barattolo da 1KG 
+ ossia carico 1 barattolo da 1KG 
 
-### CASO B
+----
+
+CASO B
 
 Prodotto OLIVE NERE  [attribute]
 
 * Venduto dal Fornitore A in barattoli da 1 KG  a 3,4 € al KG 
 * Venduto dal Fornitore B in barattoli da 2 KG a 3,1 al KG
 
-### CASO C 
+
+
+CASO C 
 
 Prodotto Tovaglioli 
 
@@ -40,7 +47,7 @@ Consumo a confezioni
 
 opzione caso b  - vendo a pezzi .
 
-### CASO D
+CASO D
 
 Prodotto Coca Cola
 
@@ -73,6 +80,7 @@ Unità di Misura
 ===============
 
 ### Area
+
 `iDempiere Cod.Iso Simbolo          Descrizione`  
 `----------------------------------------------------------------------------------`  
 `m2        m2      m2               metro quadrato`  
@@ -80,12 +88,14 @@ Unità di Misura
 `ha        ha      ha               ettare                    1 ha = 1hm2 = 104 m2`
 
 ### Velocità
+
 `iDempiere Cod.Iso Simbolo          Descrizione`  
 `-----------------------------------------------------------------------------------`  
 `ms        ms      ms               metri al secondo`  
 `km/h      km/h    km/h              kilometri all'ora`
 
 ### Lunghezza
+
 Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 
 `iDempiere Cod.ISO  Simbolo          Descrizione              Metri equivalenti`  
@@ -95,6 +105,7 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 `Km        Km      Km               Kilometro                 1000 m`
 
 ### Massa/ Peso
+
 `iDempiere Cod.Iso Simbolo          Descrizione`  
 `----------------------------------------`  
 `g         g         g                grammo                                         0,001 kg = 10−3 kg`  
@@ -103,11 +114,13 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 `mg        mg        mg               milligrammo                                  0,000 001 kg = 10−6 kg`
 
 ### Temperatura
+
 `iDempiere Simbolo          Descrizione`  
 `-----------------------------------`  
 `°C        °C                Grado Celsius`
 
 ### Tempo
+
 `iDempiere Simbolo Cod/EDI Descrizione`  
 `-------------------------------------`  
 ` d        DA    day / giorno`  
@@ -120,12 +133,14 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 ` s               secondo`
 
 ### Volume
+
 `Simbolo          Descrizione`  
 `----------------------------------------`  
 `l         volume                  litro                          l, L        1 l = 10−3 m3`  
 `m3        metro cubo                     mc`
 
 ### Quantità / Pezzi
+
 `iDempiere Grandezza               Nome dell’unità       Codice UPS        Simbolo       Equivalenza nel SI`  
 `-------------------------------------------------------------------------------------------`  
 `BX        box  Scatola / Box / Confezione`  
@@ -137,10 +152,12 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 `ROL Rotolo                 ROL`
 
 ### Potenza
+
 `CV        potenza                 cavallo vapore                 CV          1 CV = 7,35 × 102 W`  
 `                                 `
 
 ### Pressione
+
 `bar          pressione               bar                            bar         1 bar = 105 Pa`  
 `                                 `
 
@@ -148,14 +165,4 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 
 [Category:Documentazione]: Category:Documentazione "wikilink"
 
-## Video - 7 Gestione Materieli
-
-### Video - 7 Gestione Materieli - BasicData Prodotto Inserimento lotto
-{{<youtu.be/voBwasAboM4>}}
-
-### Video - 7 Gestione Materieli - BasciData Prodotto Supplementary Product da rivedere
-{{<youtu.be/k2EyCK0CBJ0>}}
-
-### Video - 7 Gestione Materieli - BasicData Prodotto Gestione Quantità Default per Packaging   Gestione con Codice a Barre
-{{<youtu.be/IkfERa-Fkfw>}}
 
