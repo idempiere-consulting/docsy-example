@@ -6,7 +6,7 @@ weight : 480
 pre: "<b></b>"
 ---
 ## Gruppo di Promozione [GDP00]
-[{{< figure src="/image/GruppodiPromozione0.png"  width="850"  >}}](/image/GruppoPromozione0.png)
+[{{< figure src="/image/GruppoPromozione0.png"  width="850"  >}}](/image/GruppoPromozione0.png)
 
 ## Gruppo Markup [GM01]
 [{{< figure src="/image/GruppoMarkup.png"  width="850"  >}}](/image/GruppoMarkup.png)
