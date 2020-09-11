@@ -148,7 +148,8 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 
 [Category:Documentazione]: Category:Documentazione "wikilink"
 
-## Video - Prodotto
+## Video - 7 Gestione Materieli
+
 BasicData Prodotto Inserimento lotto  https://youtu.be/voBwasAboM4
 
 BasciData Prodotto Supplementary Product da rivedere https://youtu.be/k2EyCK0CBJ0
