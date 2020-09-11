@@ -6,12 +6,6 @@ weight : 460
 pre: "<b></b>"
 ---
 
-BasicData Prodotto Inserimento lotto  https://youtu.be/voBwasAboM4
-
-BasciData Prodotto Supplementary Product da rivedere https://youtu.be/k2EyCK0CBJ0
-
-BasicData Prodotto Gestione Quantità Default per Packaging   Gestione con Codice a Barre https://youtu.be/IkfERa-Fkfw
-
 Caso da gestire
 
 CASO A - Barattoli con la stessa quantittà
