@@ -7,8 +7,8 @@ pre: "<b></b>"
 ---
 
 ## Prodotto [PRD00]
-
-[{{< figure src="/image/RMAResoClienti.png"  width="850"  >}}](/image/RMAResoClienti.png)
+La Maschera permette l'inserimento di un prodotto.
+[{{< figure src="/image/Prodotto.png"  width="850"  >}}](/image/Prodotto.png)
 
 BasicData Prodotto Inserimento lotto  https://youtu.be/voBwasAboM4
 
