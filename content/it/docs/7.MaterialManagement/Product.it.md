@@ -150,15 +150,12 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 
 ## Video - 7 Gestione Materieli
 
-BasicData Prodotto Inserimento lotto  https://youtu.be/voBwasAboM4
+### Video - 7 Gestione Materieli - BasicData Prodotto Inserimento lotto
+{{<youtu.be/voBwasAboM4>}}
 
-BasciData Prodotto Supplementary Product da rivedere https://youtu.be/k2EyCK0CBJ0
+### Video - 7 Gestione Materieli - BasciData Prodotto Supplementary Product da rivedere
+{{<youtu.be/k2EyCK0CBJ0>}}
 
-BasicData Prodotto Gestione Quantità Default per Packaging   Gestione con Codice a Barre https://youtu.be/IkfERa-Fkfw
-
-
-
-
-
-
+### Video - 7 Gestione Materieli - BasicData Prodotto Gestione Quantità Default per Packaging   Gestione con Codice a Barre
+{{<youtu.be/IkfERa-Fkfw>}}
 
