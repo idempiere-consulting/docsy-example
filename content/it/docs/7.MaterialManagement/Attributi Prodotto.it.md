@@ -24,7 +24,7 @@ La Windows Form permette di modificare il lotto di produzione di un prodotto.
 
 ## Parametrizzazione Estensione Tabella Attributo [PTA13]
 La Maschera permette un ampliamento dell'attributo originario del prodotto con ulteriori caratteristiche che si intendono aggiungere.
-[{{< figure src="/image/Attributo0.png"  width="850"  >}}](/image/Attributo0.png)
+[{{< figure src="/image/ParametrizzazioneEstensioneTabellaAttributo.png"  width="850"  >}}](/image/ParametrizzazioneEstensioneTabellaAttributo.png)
 
 # Setup Attributi Prodotto
 
