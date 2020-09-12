@@ -9,8 +9,7 @@ pre: "<b> </b>"
 
 ## Impostare SMTP - Video
 
-### Video - 1. SystemAdmin - Mail Setup SMTP / Setup Posta Impostare SMTP [V026]
-{{<youtube Uc94dR-fU4E>}}
+
 
 
 
