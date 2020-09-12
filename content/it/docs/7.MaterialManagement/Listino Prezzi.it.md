@@ -6,16 +6,20 @@ weight : 510
 pre: "<b></b>"
 ---
 
-## Listino Prezzi
+## Listino Prezzi [LSP00]
+La Maschera permette di creare il Listino Prezzi che si desidera. 
 [{{< figure src="/image/ListinoPrezzi0.png"  width="850"  >}}](/image/ListinoPrezzi0.png)
 
 ## Sconto Multiplo [SM01]
+La Maschera permette di creare una scontistica per prodotto fino a tre livelli.
 [{{< figure src="/image/ScontoMultiplo.png"  width="850"  >}}](/image/ScontoMultiplo.png)
 
-## Ricalcola Prezzo
+## Ricalcola Prezzo [RPOF00]
+Il Processo permette per ordini clienti aperti e fatture non completate il ricalcolo del prezzo in base all'ultimo listino di vendita.
 [{{< figure src="/image/RicalcolaPrezzoOrdine_Fattura.png"  width="850"  >}}](/image/RicalcolaPrezzoOrdine_Fattura.png)
 
-## Promozione
+## Promozione [PRO00]
+La Maschera permette la creazione di una campagna promozionale in base alle esigenze desiderate. 
 [{{< figure src="/image/Promozione.png"  width="850"  >}}](/image/Promozione.png)
 
 
