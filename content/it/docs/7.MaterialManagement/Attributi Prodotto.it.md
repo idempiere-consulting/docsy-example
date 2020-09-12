@@ -20,7 +20,7 @@ La Maschera permette di effettuare un controllo del numero di serie.
 
 ## Rettifica Lotti [RL13]
 La Windows Form permette di modificare il lotto di produzione di un prodotto.
-[{{< figure src="/image/Attributo0.png"  width="850"  >}}](/image/Attributo0.png)
+[{{< figure src="/image/RettificaLotti.png"  width="850"  >}}](/image/RettificaLotti.png)
 
 ## Parametrizzazione Estensione Tabella Attributo [PTA13]
 La Maschera permette un ampliamento dell'attributo originario del prodotto con ulteriori caratteristiche che si intendono aggiungere.
