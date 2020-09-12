@@ -22,6 +22,15 @@ La Maschera permette di effettuare un controllo del numero di serie.
 La Windows Form permette di modificare il lotto di produzione di un prodotto.
 [{{< figure src="/image/Attributo0.png"  width="850"  >}}](/image/Attributo0.png)
 
+## Parametrizzazione Estensione Tabella Attributo [PTA13]
+La Maschera permette un ampliamento dell'attributo originario del prodotto con ulteriori caratteristiche che si intendono aggiungere.
+[{{< figure src="/image/Attributo0.png"  width="850"  >}}](/image/Attributo0.png)
+
+# Setup Attributi Prodotto
+
+## Controllo Lotto
+[{{< figure src="/image/ControlloLotto0.png"  width="850"  >}}](/image/ControlloLotto0.png)
+
 ## Attributo
 [{{< figure src="/image/Attributo0.png"  width="850"  >}}](/image/Attributo0.png)
 
@@ -31,5 +40,3 @@ La Windows Form permette di modificare il lotto di produzione di un prodotto.
 ## Serie Attributi di Istanza
 [{{< figure src="/image/SerieAttributiIstanza0.png"  width="850"  >}}](/image/SerieAttributiIstanza0.png)
 
-## Controllo Lotto
-[{{< figure src="/image/ControlloLotto0.png"  width="850"  >}}](/image/ControlloLotto0.png)
