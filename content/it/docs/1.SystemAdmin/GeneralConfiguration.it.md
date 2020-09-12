@@ -28,6 +28,11 @@ This is a code block following a header.
 
 
 
+### Video - 1. SystemAdmin - Mail Setup SMTP / Setup Posta Impostare SMTP [V026]
+{{<youtube Uc94dR-fU4E>}}
+
+
+
 ## Configurazione del Sistema
 
 
