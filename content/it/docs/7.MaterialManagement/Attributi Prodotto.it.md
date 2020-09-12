@@ -28,15 +28,19 @@ La Maschera permette un ampliamento dell'attributo originario del prodotto con u
 
 # Setup Attributi Prodotto
 
-## Controllo Lotto
+## Controllo Lotto [CONL00]
+La Maschera permette di effettuare i controlli sul lotto che interessa.
 [{{< figure src="/image/ControlloLotto0.png"  width="850"  >}}](/image/ControlloLotto0.png)
 
-## Attributo
+## Attributo [ATBO00]
+La Maschera permette di creare un attributo in base alle esigenze dell'utente.
 [{{< figure src="/image/Attributo0.png"  width="850"  >}}](/image/Attributo0.png)
 
-## Serie di Attributi
+## Serie di Attributi di Istanza [SADI00]
+La Maschera permette di impostare una istanza ove controllare le varie movimentazion/documentazioni di un lotto di produzione.
 [{{< figure src="/image/SerieAttributi0.png"  width="850"  >}}](/image/SerieAttributi0.png)
 
-## Serie Attributi di Istanza
+## Serie Attributi di Istanza [ATBS00]
+La Maschera permette di impostare gli attributi da collegare ad una determinata istanza.
 [{{< figure src="/image/SerieAttributiIstanza0.png"  width="850"  >}}](/image/SerieAttributiIstanza0.png)
 
