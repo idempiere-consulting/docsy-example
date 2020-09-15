@@ -25,20 +25,26 @@ La Maschera permette la creazione di una campagna promozionale in base alle esig
 
 # Report Price List
 ## Report Scheda Prodotto [RP.342]
+Il Report permette una stampa del listino prezzi selezionato.
 [{{< figure src="/image/ReportSchedaProdottoRP342.png"  width="850"  >}}](/image/ReportSchedaProdottoRP342.png)
 ## Report Scheda Prodotto [RP.341]
+Il Report permette una stampa del listino prezzi selezionato.
 [{{< figure src="/image/ReportListinoPrezziRP341.png"  width="850"  >}}](/image/ReportListinoPrezziRP341.png)
 ## Report Scheda Prodotto [Rp.343]
+Il Report permette una stampa delle variazioni dei listino di un BP.
 [{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
 
 
 # Setup Price List
+## Configurazione listini
+Lo Schema raffigura le relazioni tra menù della gestione del Listino Prezzi.
+[{{< figure src="/image/ConfigurazioneListini.png"  width="850"  >}}](/image/ConfigurazioneListini.png)
 ## Schema della Scontistica
+La Maschera permette di configurare una tipologia di sconto desiderata. 
 [{{< figure src="/image/SchemadellaScontistica.png"  width="850"  >}}](/image/SchemadellaScontistica.png)
 ## Schema Listino Prezzi
+La Maschera permette di configurare il Listino Prezzi in base alle proprie esigenze.
 [{{< figure src="/image/SchemaListinoPrezzi0.png"  width="850"  >}}](/image/SchemaListinoPrezzi0.png)
-## Configurazione listini
-[{{< figure src="/image/ConfigurazioneListini.png"  width="850"  >}}](/image/ConfigurazioneListini.png)
 
 
 
