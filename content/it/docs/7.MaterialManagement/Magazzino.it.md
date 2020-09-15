@@ -26,7 +26,7 @@ La MAschera
 ## Info Movimenti Magazzino CLienti [IMMC00]
 La Info Window fornisce informazioni sulle movimentazioni del prodotto nel magazzino di un BP.
 [{{< figure src="/image/InfoMovimentiMagazinoClienti.png"  width="850"  >}}](/image/InfoMovimentiMagazinoClienti.png)
-## Recreate Storage Reservation [RSR00]
+## Ricrea Quantità Riservata a Magazzino [RSR00]
 Il Processo permette di verificare differenze tra quantità riservata a Magazzino e Quantità riservata da ordini Clienti. 
 [{{< figure src="/image/RecreateStorageReservation.png"  width="850"  >}}](/image/RecreateStorageReservation.png)
 ## Spedizioniere [SPE00]
@@ -41,7 +41,7 @@ Il Processo permette di creare il movimento di magazzino dall'ordine di distribu
 ## Ordine di Distribuzione [ODD00]
 @errore
 [{{< figure src="/image/Spedizioniere.png"  width="850"  >}}](/image/Spedizioniere.png)
-## Report Distribution Order Detail [R.45]
+## Report Dettaglio Ordine di Distribuzione [R.45]
 Il Report fornisce una stampa del dettaglio dell'ordine di distribuzione.
 [{{< figure src="/image/ReportDistributionOrderRetail.png"  width="850"  >}}](/image/ReportDistributionOrderRetail.png)
 [{{< figure src="/image/ReportDistributionOrderDetail.png"  width="850"  >}}](/image/ReportDistributionOrderDetail.png)
@@ -54,21 +54,25 @@ La Maschera permette di gestire una lista di distribuzione al BP.
 ## Rete di Distribuzione [RDD00]
 La Maschera permette la gestione di una rete di distribuzione.
 [{{< figure src="/image/RetediDistribuzione.png"  width="850"  >}}](/image/RetediDistribuzione.png)
-## Genera Movimenti Manuali
+## Genera Movimenti Manuali Distribuzione [GMM00]
 @errore
 [{{< figure src="/image/Spedizioniere.png"  width="850"  >}}](/image/Spedizioniere.png)
-## Distribution Run Orders
-Il Processo permette la creazione dell'esecuzione della distribuzione in base alla lista di  
+## Crea Piano di Distribuzione [CPD00]
+Il Processo permette la creazione di un piano di distribuzione in base alla lista degli ordini di distribuzione stessi. 
 [{{< figure src="/image/DistributionRunOrders.png"  width="850"  >}}](/image/DistributionRunOrders.png)
-## Distribution Run
+## Elaborazione distribuzione [ED00]
+LA Maschera permette la creazione di un Ordine di Distribuzione.
 [{{< figure src="/image/ElaboraDistribuzioni.png"  width="850"  >}}](/image/ElaboraDistribuzioni.png)
-## Distribution Order [DOR00]
+## Ordine di Distribuzione [DOR00]
+@errore
 [{{< figure src="/image/Spedizioniere.png"  width="850"  >}}](/image/Spedizioniere.png)
 
 # Conferme Magazzino e Report 
 ## Conferma Spedizione/Ricevimento [CASR00]
+La Maschera permette l'iserimento dei dati relativi alla Spedizione/Ricevimento dei prodotti.
 [{{< figure src="/image/ConfermaSpedizioneRicevimento0.png"  width="850"  >}}](/image/ConfermaSpedizioneRicevimento0.png)
 ## Conferma Movimentazione [CONM00]
+Ls Maschera permette la confrma del processo di movimentazione dei prodotti.
 [{{< figure src="/image/ConfermaMovimentazione0.png"  width="850"  >}}](/image/ConfermaMovimentazione0.png)
 
 # Report Confirm Movement
