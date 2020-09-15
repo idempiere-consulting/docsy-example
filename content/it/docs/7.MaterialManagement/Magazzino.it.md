@@ -61,7 +61,7 @@ La Maschera permette la gestione di una rete di distribuzione.
 Il Processo permette la creazione di un piano di distribuzione in base alla lista degli ordini di distribuzione stessi. 
 [{{< figure src="/image/DistributionRunOrders.png"  width="850"  >}}](/image/DistributionRunOrders.png)
 ## Elaborazione distribuzione [ED00]
-LA Maschera permette la creazione di un Ordine di Distribuzione.
+La Maschera permette la creazione di un Ordine di Distribuzione.
 [{{< figure src="/image/ElaboraDistribuzioni.png"  width="850"  >}}](/image/ElaboraDistribuzioni.png)
 ## Ordine di Distribuzione [DOR00]
 @errore
@@ -72,17 +72,21 @@ LA Maschera permette la creazione di un Ordine di Distribuzione.
 La Maschera permette l'iserimento dei dati relativi alla Spedizione/Ricevimento dei prodotti.
 [{{< figure src="/image/ConfermaSpedizioneRicevimento0.png"  width="850"  >}}](/image/ConfermaSpedizioneRicevimento0.png)
 ## Conferma Movimentazione [CONM00]
-Ls Maschera permette la confrma del processo di movimentazione dei prodotti.
+La Maschera permette la confrma del processo di movimentazione dei prodotti.
 [{{< figure src="/image/ConfermaMovimentazione0.png"  width="850"  >}}](/image/ConfermaMovimentazione0.png)
 
-# Report Confirm Movement
+# Report Conferma Movimento Materiali
 ## Report Dettagli Conferme Aperte [R.30]
+Il Report permette una stampa del dettaglio della conferma spedizione ancora aperta. 
 [{{< figure src="/image/ReportDettagliConfermeSpedizione.png"  width="850"  >}}](/image/ReportDettagliConfermeSpedizione.png)
 ## Report Conferme Aperte [R.31]
+Il Report permette una stampa della conferma spedizione ancora aperta.
 [{{< figure src="/image/ReportConfermeAperte.png"  width="850"  >}}](/image/ReportConfermeAperte.png)
 [{{< figure src="/image/ReportConfermeAperte1.png"  width="850"  >}}](/image/ReportConfermeAperte1.png)
+
 # Report Magazzino
 ## Report Giacenza per prodotto
+Il Report permette una stampa della giacenza a magazzino per prodotto.
 ReportGiacenzaPerProdotto.png
 [{{< figure src="/image/ReportGiacenzaperProdotto.png"  width="850"  >}}](/image/ReportGiacenzaperProdotto.png)
 [{{< figure src="/image/ReportGiacenzaPerProdotto1.png"  width="850"  >}}](/image/ReportGiacenzaPerProdotto1.png)
