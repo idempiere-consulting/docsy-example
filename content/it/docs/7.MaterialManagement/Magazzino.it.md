@@ -127,18 +127,25 @@ Il Report permette di ottenere una stampa dettagliata delle scorte di magazzino.
 Il Processo permette di verificare organizzazione e struttura del magazzino di tutte le entità dell'azienda.
 [{{< figure src="/image/OrganizzazioneMagazzino.png"  width="850"  >}}](/image/OrganizzazioneMagazzino.png)
 ## Categoria spesa di trasporto [CSDT00]
+La Maschera permette di identificare una categoria di spesa di trasporto.
 [{{< figure src="/image/CategoriaSpesadiTrasporto.png"  width="850"  >}}](/image/CategoriaSpesadiTrasporto.png)
 ## Configurazione Spedizioniere [CS01]
+La Maschera permette di collegare uno spedizioniere ad un BP.
 [{{< figure src="/image/ConfigurazioneSpedizioniere.png"  width="850"  >}}](/image/ConfigurazioneSpedizioniere.png)
 ## Configurazione di Trasporto [CDT00]
+La Maschera permette di configurare il trasporto al fine di renderlo "tracciabile".
 [{{< figure src="/image/ConfigurazioneTrasporto0.png"  width="850"  >}}](/image/ConfigurazioneTrasporto0.png)
 ## Tipo Ubicazione [TUB00]
+La Maschera permette di configurare l'ubicazione in base alla attività stabilita.
 [{{< figure src="/image/TipoUbicazione0.png"  width="850"  >}}](/image/TipoUbicazione0.png)
-## Configurazione prodotti 
+## Configurazione prodotti
+Lo Schema evidenzia la relazione tra i menù per una corretta configurazione del prodotto.
 [{{< figure src="/image/ConfigurazioneProdotti.png"  width="850"  >}}](/image/ConfigurazioneProdotti.png)
 ## Processo di Spedizione [PDS00]
+La Maschera permette di definire un 
 [{{< figure src="/image/ProcessoSpedizione0.png"  width="850"  >}}](/image/ProcessoSpedizione0.png)
 ## Causale DDT [CAD01]
+La Maschera permette di definire una causale identificativa di un Documento di Trasporto.
 [{{< figure src="/image/CausaleDDT.png"  width="850"  >}}](/image/CausaleDDT.png)
 
 
