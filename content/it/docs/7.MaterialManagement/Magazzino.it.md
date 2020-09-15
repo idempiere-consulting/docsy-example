@@ -6,43 +6,59 @@ weight : 520
 pre: "<b> </b>"
 ---
 ## Carico/Scarico Materiale [CSM00]
+La Maschera permette di gestire la movimentazione di carico e scarico da magazzino di un prodotto.
 [{{< figure src="/image/CaricoScaricoMateriale.png"  width="850"  >}}](/image/CaricoScaricoMateriale.png)
 ## Documento di Trasporto - Magazzino [DDTM00]
+La Maschera permette di inserire un Documento di Trasporto.
 [{{< figure src="/image/DocumentoTrasportoMagazzino0.png"  width="850"  >}}](/image/DocumentoTrasportoMagazzino0.png)
 ## Genera Storno DDT di Magazzino (IGD13)
+La Info Window permette lo storno di un Documento di Trasporto.
 [{{< figure src="/image/GeneraStornoDDT.png"  width="850"  >}}](/image/GeneraStornoDDT.png)
 ## Movimento di Magazzino [MOM00]
+La Window Form permette di selezionare i movimenti di Magazzino in base alle proprie esigenze.
 [{{< figure src="/image/MovimentodiMagazzino.png"  width="850"  >}}](/image/MovimentodiMagazzino.png)
 ## Info Giacenza Prodotto [IGM01]
+La Info Window permette di ottenere la informazione sulla giacenza del prodotto di un determinato magazzino.
 [{{< figure src="/image/InfoGiacenzaProdotto.png"  width="850"  >}}](/image/InfoGiacenzaProdotto.png)
 ## Transazione di Materiale (uso indiretto) [TDM00]
+La MAschera 
 [{{< figure src="/image/TransazionediMateriale.png"  width="850"  >}}](/image/TransazionediMateriale.png)
 ## Info Movimenti Magazzino CLienti [IMMC00]
+La Info Window fornisce informazioni sulle movimentazioni del prodotto nel magazzino di un BP.
 [{{< figure src="/image/InfoMovimentiMagazinoClienti.png"  width="850"  >}}](/image/InfoMovimentiMagazinoClienti.png)
 ## Recreate Storage Reservation [RSR00]
+Il Processo permette di verificare differenze tra quantità riservata a Magazzino e Quantità riservata da ordini Clienti. 
 [{{< figure src="/image/RecreateStorageReservation.png"  width="850"  >}}](/image/RecreateStorageReservation.png)
 ## Spedizioniere [SPE00]
+La Maschera permette di codificare lo spedizioniere.
 [{{< figure src="/image/Spedizioniere.png"  width="850"  >}}](/image/Spedizioniere.png)
 
 
 # Gestione Distribuzione
-## Generate Movement [CMOD00]
+## Crea Movimento da ODD [CMOD00]
+Il Processo permette di creare il movimento di magazzino dall'ordine di distribuzione.
 [{{< figure src="/image/CreaMovimentidaODD.png"  width="850"  >}}](/image/CreaMovimentidaODD.png)
-## Ordine di Distribuzione 
+## Ordine di Distribuzione [ODD00]
 @errore
 [{{< figure src="/image/Spedizioniere.png"  width="850"  >}}](/image/Spedizioniere.png)
 ## Report Distribution Order Detail [R.45]
+Il Report fornisce una stampa del dettaglio dell'ordine di distribuzione.
 [{{< figure src="/image/ReportDistributionOrderRetail.png"  width="850"  >}}](/image/ReportDistributionOrderRetail.png)
 [{{< figure src="/image/ReportDistributionOrderDetail.png"  width="850"  >}}](/image/ReportDistributionOrderDetail.png)
-## Distribution Management Setup
+## Configurazione della Gestione della Distribuzione
+Lo Schema evidenzia i rapporti tra menù nella gestione della distribuzione.
 [{{< figure src="/image/DistributionManagementSetup.png"  width="850"  >}}](/image/DistributionManagementSetup.png)
-## Distribution List
+## Lista di Distribuzione [DL00]
+La Maschera permette di gestire una lista di distribuzione al BP.  
 [{{< figure src="/image/ListadiDistribuzione.png"  width="850"  >}}](/image/ListadiDistribuzione.png)
 ## Rete di Distribuzione [RDD00]
+La Maschera permette la gestione di una rete di distribuzione.
 [{{< figure src="/image/RetediDistribuzione.png"  width="850"  >}}](/image/RetediDistribuzione.png)
 ## Genera Movimenti Manuali
+@errore
 [{{< figure src="/image/Spedizioniere.png"  width="850"  >}}](/image/Spedizioniere.png)
 ## Distribution Run Orders
+Il Processo permette la creazione dell'esecuzione della distribuzione in base alla lista di  
 [{{< figure src="/image/DistributionRunOrders.png"  width="850"  >}}](/image/DistributionRunOrders.png)
 ## Distribution Run
 [{{< figure src="/image/ElaboraDistribuzioni.png"  width="850"  >}}](/image/ElaboraDistribuzioni.png)
