@@ -6,41 +6,53 @@ weight : 550
 pre: "<b></b>"
 ---
 
-## Distinta Produzione
+## Distinta Base [DB00]
+La Maschera permetta la creazione della distinta base del prodotto.
 [{{< figure src="/image/DistintaBase.png"  width="850"  >}}](/image/DistintaBase.png)
+
 # Gestione della Pianificazione
 # DRP
-## Distribution Resource Planning Setup
+## Configurazione Pianificazione delle Risorse di Distribuzione
+Lo Schema evidenzia il rapporto tra menù nella Pianificazione delle Risorse di Distribuzione.
 [{{< figure src="/image/DistributionResourcePlanning.png"  width="850"  >}}](/image/DistributionResourcePlanning.png)
-## Calculate Distribution Planning
+## Calcolo del Piano di Distribuzione [CPDD00]
+Il Processo permette la elaborazione di un piano di Distribuzione.
 [{{< figure src="/image/CalculateDistributionPlan.png"  width="850"  >}}](/image/CalculateDistributionPlan.png)
-## Report DROP Details
+## Report Dettagli Piano di Config. Risorse di Distr. [R.40]
+Il Report permette di ottenere una stampa della configurazione del piano delle risorse di distribuzione.
 [{{< figure src="/image/ReportDRPDetails.png"  width="850"  >}}](/image/ReportDRPDetails.png)
 
 # CRP 
-## Capacity Requirement Planning Setup
+## Configurazione Pianificazione del Fabbisogno di Capacità
+Lo Schema evidenzia il rapporto tra i menù necessari alla pianificazione del fabbisogno di capacità.
 [{{< figure src="/image/CapacityRequirementPlanning.png"  width="850"  >}}](/image/CapacityRequirementPlanning.png)
-## Carico Risorse di Produzione
+## Carico Risorse di Produzione [CRDP00]
 @errore
 [{{< figure src="/image/GruppoPromozione0.png"  width="850"  >}}](/image/GruppoPromozione0.png)
-## CRP Info
+## CRP Info [CRPI00]
 @errore
 [{{< figure src="/image/GruppoPromozione0.png"  width="850"  >}}](/image/GruppoPromozione0.png)
-## Calculate Capacity Plan
+## Calcola il Piano di Capacità [CPDC00]
+Il Processo permette di conoscere il tempo disponibile per ciascuna risorsa ed il tempo necessario al programma di produzione.
 [{{< figure src="/image/CalculateCapacityPlan.png"  width="850"  >}}](/image/CalculateCapacityPlan.png)
 
 # Pianificazione Prodotto
-## Create Product Planning
+## Crea Pianificazione del Prodotto [CPDP00]
+Il Processo permette la creazione del piano di produzione del prodotto.
 [{{< figure src="/image/CreateProductPlanning.png"  width="850"  >}}](/image/CreateProductPlanning.png)
-## Dati Prodotto di Pianificazione
+## Dati Prodotto di Pianificazione [DPDP00]
+La Maschera permette di inserire i dati necessari per pianificare la produzione del prodotto. 
 [{{< figure src="/image/DatiProdottodiPianificazione.png"  width="850"  >}}](/image/DatiProdottodiPianificazione.png)
 
 # MRP 
-## Material Requirment Planning Setup
+## Configurazione Pianificazione Fabbisogno Materiale
+Lo Schema evidenzia i collegamenti tra i menù al fine della gestione corretta della procedura.   
 [{{< figure src="/image/MaterialRequirementPlanning.png"  width="850"  >}}](/image/MaterialRequirementPlanning.png)
-## Approvazione Ordine Pianificato
+## Approvazione Ordine Pianificato 
+@errore
 [{{< figure src="/image/GruppoPromozione0.png"  width="850"  >}}](/image/GruppoPromozione0.png)
 ## Create Record MRP
+Il Processo crea una elaborazione della domanda di materiali di produzione in base agli ordini di vendita aperti approvati.
 [{{< figure src="/image/CreateRecordMRP.png"  width="850"  >}}](/image/CreateRecordMRP.png)
 ## Calculate Low Level
 [{{< figure src="/image/calculateLowLevel.png"  width="850"  >}}](/image/calculateLowLevel.png)
