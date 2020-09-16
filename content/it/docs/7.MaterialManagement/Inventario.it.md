@@ -23,4 +23,4 @@ Il Report permette una stampa dell'inventario.
 ## Report Valutazione Inventario alla Data [RP.132]
 Il Report permette una stampa valorizzata dell'inventarioa di magazzino.
 [{{< figure src="/image/ReportValutazioneInventarioallaData.png"  width="850"  >}}](/image/ReportValutazioneInventarioallaData.png)
-[{{< figure src="/image/ReportValutazioneInventarioAllaData.png "  width="850"  >}}](/image/ReportValutazioneInventarioAllaData.png )
+
