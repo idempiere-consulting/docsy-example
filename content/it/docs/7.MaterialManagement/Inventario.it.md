@@ -14,10 +14,10 @@ Il Processo permette la cancellazione dei dati inventariali.
 [{{< figure src="/image/PuliziaDatiInventario.png"  width="850"  >}}](/image/PuliziaDatiInventario.png)
 
 # Report Inventario
-## Report Inventory Diff. Value [RP.732]
+## Report Valore Differenziale Inventario [RP.732]
 Il Report permette una stampa del valore differenziale inventariale per prodotto.
 [{{< figure src="/image/ReportInventoryDiffValue.png"  width="850"  >}}](/image/ReportInventoryDiffValue.png)
-## Report Inventory [RP.731]
+## Report Inventario [RP.731]
 Il Report permette una stampa dell'inventario.
 [{{< figure src="/image/ReportInventarioRP731.png"  width="850"  >}}](/image/ReportInventarioRP731.png)
 ## Report Valutazione Inventario alla Data [RP.132]
