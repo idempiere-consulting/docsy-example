@@ -24,7 +24,7 @@ Then run these commands:
  $ sudo apt-get install ansible
 
 
- /etc/ansible
+ -- /etc/ansible
 
  hosts
  [webservers]
