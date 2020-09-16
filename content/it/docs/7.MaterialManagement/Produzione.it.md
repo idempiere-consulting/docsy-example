@@ -7,18 +7,24 @@ pre: "<b></b>"
 ---
 
 ## Produzione (Prodotto Singolo)
+La Maschera permette di inserire i dati per la produzione di un quantitativo di un determinato prodotto.
 [{{< figure src="/image/ProduzioneProdottoSingolo.png"  width="850"  >}}](/image/ProduzioneProdottoSingolo.png)
 ## Crea Ordine di Produzione da Riga Ordine [ICOP13]
+Il Processo permette la creazione di un ordine di produzione dall'ordine di vendita.
 [{{< figure src="/image/CreaOrdinediProduzione.png"  width="850"  >}}](/image/CreaOrdinediProduzione.png)
 ## Dichiarazione/Prelievo Ordine di Produzione [ODP13]
+Il Processo permette la dichirazione del prodotto finito, e, a fronte, il prelievo dei componenti necessari alla produzione dello stesso.  
 [{{< figure src="/image/DichiarazionePrelievoOrdine.png"  width="850"  >}}](/image/DichiarazionePrelievoOrdine.png)
-## Dettaglio Dichiar/Prelievo Ordine di Produzione [ODPL13]
+## Dettaglio Dichiarazione/Prelievo Ord. di Produzione [ODPL13]
+Il Processo permette di eseguire il prelievo dei componenti necessari alla produzione del prodotto finito.
 [{{< figure src="/image/DettaglioDichiarPrelievo.png"  width="850"  >}}](/image/DettaglioDichiarPrelievo.png)
 
 # Distine Base
 ## Componenti di Distinta Base [CDDB00]
+La Maschera permette l'inserimento dei componenti di una distinta base.
 [{{< figure src="/image/ComponentidiDistintaBase.png"  width="850"  >}}](/image/ComponentidiDistintaBase.png)
 ## Distinta Base (Drop) [DIB00]
+La Window Form permette la visualizzazione della distinta base completa per un determinato ordine/fattura/progetto. 
 [{{< figure src="/image/DistintaBaseDIB00.png"  width="850"  >}}](/image/DistintaBaseDIB00.png)
 ## Visualizza Distinta Base Avanzata
 [{{< figure src="/image/VisualizzaDistintaBaseAvanzata.png"  width="850"  >}}](/image/VisualizzaDistintaBaseAvanzata.png)
