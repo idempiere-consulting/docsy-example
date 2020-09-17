@@ -6,11 +6,14 @@ weight : 555
 pre: "<b></b>"
 ---
 
-## Costo Prodotto
+## Costo Prodotto [CP00]
+La Maschera permette di associare il costo da attribuire al prodotto.
 [{{< figure src="/image/CostoProdotto.png"  width="850"  >}}](/image/CostoProdotto.png)
-## Crea registrazione del costo
+## Crea registrazione del costo [CRDC00]
+Il Processo permette una attribuzione raggruppata di costi al prodotto.
 [{{< figure src="/image/CreaRegistraizonedelCosto.png"  width="850"  >}}](/image/CreaRegistraizonedelCosto.png)
-## Aggiornamento dei costi del prodotto
+## Aggiornamento dei costi del prodotto [ACP00]
+Il Processo permette un aggiornamento automatico del listino in oggetto.
 [{{< figure src="/image/AggiornamentodeiCosti.png"  width="850"  >}}](/image/AggiornamentodeiCosti.png)
 # Report Product Cost
 ## Report totale costi di produzione
