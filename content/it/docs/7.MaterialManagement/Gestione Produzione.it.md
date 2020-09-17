@@ -67,8 +67,7 @@ La Maschera permette di attivare al sistema le notifiche necessarie a seguito de
 ## MRP [MRP00]
 La Maschera permette di selezionare il dettaglio di un MRP.
 [{{< figure src="/image/MRP.png"  width="850"  >}}](/image/MRP.png)
-
-# Gestione Costi
+## Gestione Costi
 ## Aggiorna costo distinta base
 Il Processo permette l'aggiornamento dei costi nella distinta base in base al listino desiderato.
 [{{< figure src="/image/AggiornaCostoDistintaBase.png"  width="850"  >}}](/image/AggiornaCostoDistintaBase.png)
