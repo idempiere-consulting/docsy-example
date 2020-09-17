@@ -7,20 +7,28 @@ pre: "<b></b>"
 ---
 
 ## Prima Nota [PRNA00]
+La Maschera permette di effettuare la registrazione di prima nota generale.
 [{{< figure src="/image/PrimaNota.png"  width="850"  >}}](/image/PrimaNota.png)
 ## Prime Note [PRNE00]
+La Maschera perlette di effettuare la registrazione di una serie di prime note preconfigurate.
 [{{< figure src="/image/PrimeNote.png"  width="850"  >}}](/image/PrimeNote.png)
 ## Documenti non registrati [DNR00]
+La Maschera permette di effettuare un controllo di quelle registrazioni che non sono passate in contabilità con stato definitivo.
 [{{< figure src="/image/DocumentinonRegistrati.png"  width="850"  >}}](/image/DocumentinonRegistrati.png)
 ## Interrogazione registrazione contabili [IRC01]
+La maschera permette di effettuare una interrogazione delle registrazioni contabili generiche.
 [{{< figure src="/image/InterrogazioneRegistrazioneContabili.png"  width="850"  >}}](/image/InterrogazioneRegistrazioneContabili.png)
 ## Elenco registrazioni contabili [EDC00]
+La Maschera permette di effettuare una interrogazione delle registrazioni contabili che interessano il BP con la possibilità di analisi dei prodotti e delle movimentazioni ad essi concernenti. 
 [{{< figure src="/image/ElencoRegistrazioniContabili.png"  width="850"  >}}](/image/ElencoRegistrazioniContabili.png)
 ## Crea giornale prima nota [GPRN00]
+La Maschera permette di creare registrazioni contabili concatenate e/o ripetitive anche sporadiche (ne è un esempio la chiusura/apertura di bilancio).
 [{{< figure src="/image/CreaGiornalePrimaNota.png"  width="850"  >}}](/image/CreaGiornalePrimaNota.png)
 ## Quadratura giornaliera [QUG00]
+La Maschera propone la estrazione dei dati contabili di un periodo al fine di una eventuale verifica della quadratura contabile stessa.
 [{{< figure src="/image/QuadraturaGiornaliera.png"  width="850"  >}}](/image/QuadraturaGiornaliera.png)
 ## Riassegnazione contabile [RIC00]
+
 [{{< figure src="/image/RiassegnazioneContabile.png"  width="850"  >}}](/image/RiassegnazioneContabile.png)
 ## Budget CG [BCG00]
 [{{< figure src="/image/BudgetCG.png"  width="850"  >}}](/image/BudgetCG.png)
