@@ -10,7 +10,7 @@ pre: "<b></b>"
 La Maschera permette di effettuare la registrazione di prima nota generale.
 [{{< figure src="/image/PrimaNota.png"  width="850"  >}}](/image/PrimaNota.png)
 ## Prime Note [PRNE00]
-La Maschera perlette di effettuare la registrazione di una serie di prime note preconfigurate.
+La Maschera permette di effettuare la registrazione di una serie di prime note preconfigurate.
 [{{< figure src="/image/PrimeNote.png"  width="850"  >}}](/image/PrimeNote.png)
 ## Documenti non registrati [DNR00]
 La Maschera permette di effettuare un controllo di quelle registrazioni che non sono passate in contabilità con stato definitivo.
