@@ -45,27 +45,32 @@ La Maschera permette di inserire i dati necessari per pianificare la produzione 
 [{{< figure src="/image/DatiProdottodiPianificazione.png"  width="850"  >}}](/image/DatiProdottodiPianificazione.png)
 
 # MRP 
-## Configurazione Pianificazione Fabbisogno Materiale
+## Configurazione Pianificazione Fabbisogno Materiale [CPFM00]
 Lo Schema evidenzia i collegamenti tra i menù al fine della gestione corretta della procedura.   
 [{{< figure src="/image/MaterialRequirementPlanning.png"  width="850"  >}}](/image/MaterialRequirementPlanning.png)
-## Approvazione Ordine Pianificato 
+## Approvazione Ordine Pianificato [AOP00]
 @errore
 [{{< figure src="/image/GruppoPromozione0.png"  width="850"  >}}](/image/GruppoPromozione0.png)
-## Create Record MRP
+## Crea MRP [CMRP00]
 Il Processo crea una elaborazione della domanda di materiali di produzione in base agli ordini di vendita aperti approvati.
 [{{< figure src="/image/CreateRecordMRP.png"  width="850"  >}}](/image/CreateRecordMRP.png)
-## Calculate Low Level
+## Calcolo Scorta Minima [CSM01] 
+Il Processo permette il controllo della scorta minima del prodotto necessaria all'elaborazione del MRP partendo dal dato inserito in distinta base. 
 [{{< figure src="/image/calculateLowLevel.png"  width="850"  >}}](/image/calculateLowLevel.png)
-## Report MRP Details
+## Report Dettaglio MRP [R.39]
+Il Report permette di ottenere una stampa dettagliata del MRP.
 [{{< figure src="/image/ReportMRPDetails.png"  width="850"  >}}](/image/ReportMRPDetails.png)
 [{{< figure src="/image/ReportMRPDetails1.png"  width="850"  >}}](/image/ReportMRPDetails1.png)
-## MRP Notifica
+## MRP Notifica [MRPN00]
+La Maschera permette di attivare al sistema le notifiche necessarie a seguito dell'elaborazione del MRP.
 [{{< figure src="/image/MRPNotifica.png"  width="850"  >}}](/image/MRPNotifica.png)
-## MRP
+## MRP [MRP00]
+La Maschera permette di selezionare il dettaglio di un MRP.
 [{{< figure src="/image/MRP.png"  width="850"  >}}](/image/MRP.png)
-
-# Gestione Costi
+## Gestione Costi
 ## Aggiorna costo distinta base
+Il Processo permette l'aggiornamento dei costi nella distinta base in base al listino desiderato.
 [{{< figure src="/image/AggiornaCostoDistintaBase.png"  width="850"  >}}](/image/AggiornaCostoDistintaBase.png)
 ## Adeguamento Costi
+La Maschera permette di effettuare l'adeguamento dei costi ad una determinata data prescelta.
 [{{< figure src="/image/AdeguamentoCosti.png"  width="850"  >}}](/image/AdeguamentoCosti.png)
