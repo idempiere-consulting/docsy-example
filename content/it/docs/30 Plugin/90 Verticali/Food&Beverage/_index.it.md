@@ -1,6 +1,33 @@
-# Ciclo lavoro Food & Beverage
+---
+title: "Food % Beverage"
+date: 2020-04-24T22:47:10+02:00
+draft: false
+weight : 60
+pre: "<b> </b>"
+---
+
+
+
+[{{< figure src="/image/Food&Beverage1.png"  width="850"  >}}](/image/Food&Beverage1.png)
 
 ## Organizzazione Il Pane Quotidiano
+
+
+Food&Beverage Accettazione materiale   Entrata Merci nel Negozio V119 https://youtu.be/MsRwpo96U6M
+
+Food&Beverage Evasione Ordine di Distribuzione V122 https://youtu.be/Z3HvCYdaKJg
+
+Food&Beverage Ordine da Negozio Parte   1 V116 https://youtu.be/BXPCmUMM6QY
+
+Food&Beverage Ordine Distribuzione da Laboratorio V121 https://youtu.be/E8RgApUKch8
+
+Food&Beverage Ordini da Clienti Terzi V120 https://youtu.be/rvLqud76xK0
+
+Food&Beverage Ordini Ricevuti in Produzione + Conferma Panetteria   Pasticceria  Salato V118 https://youtu.be/yJH8hNuzt5o
+
+Food&Beverage Ricerca Ordine da Negozio in Stato Bozza Parte   2 V117 https://youtu.be/cqleU9pMi1E
+
+Food&Beverage Ricerca Ordine POS PV Stato Bozza https://youtu.be/txom1FfzAF8
 
 ### Magazzino Operatore Luca Morrone (accesso a iDempiere come Utente +Password+ruolo IPQ Trade)
 Al magazzino arrivano gli ordini inseriti dai vari punti vendita (Organizzazione IPQ Trade) 
