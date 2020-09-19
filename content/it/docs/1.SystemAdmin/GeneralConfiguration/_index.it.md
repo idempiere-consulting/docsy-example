@@ -1,5 +1,5 @@
 ---
-title: "Utilità"
+title: "Configurazione Generale"
 date: 2020-04-24T22:47:10+02:00
 draft: false
 weight : 20
@@ -187,4 +187,7 @@ PEr far vedere il pop-up a livello maschera sulla finesta ordine di vendita quan
 [{{< figure src="/image/CopiaRuoloUtente.png"  width="850"  >}}](/image/CopiaRuoloUtente.png)
 ### Reset Password [REP00]
 [{{< figure src="/image/ResetPassword.png"  width="850"  >}}](/image/ResetPassword.png)
+
+### Video - 1. SystemAdmin - Mail Setup SMTP / Setup Posta Impostare SMTP [V026]
+{{<youtube Uc94dR-fU4E>}}
 
