@@ -6,11 +6,17 @@ weight : 200
 pre: "<b></b>"
 ---
 Menù Idempiere
+
 [Richesta / Ticket [TIK00]]({{< ref "_index.it.md#TIK00" >}} "Richesta / Ticket") <br>
+
 [Richiesta Tutto [RICT00]]({{< ref "_index.it.md#RICT00" >}} "Richiesta Tutto") <br>
+
 [Risoluzione Richiesta [RR01]]({{< ref "_index.it.md#RR01" >}} "Risoluzione Richiesta") <br>
+
 [Risposta Standard Richiesta [RSR00]]({{< ref "_index.it.md#RSR00" >}} "Risposta Standard Richiesta") <br>
+
 [Riaprire Richiesta [RR03]]({{< ref "_index.it.md#RR03" >}} "Riaprire Richiesta") <br>
+
 [Fattura per richiesta [FR00]]({{< ref "_index.it.md#FR00" >}} "Fattura per richiesta") <br>
 [Tipo Richiesta [TR01]]({{< ref "_index.it.md#TR01" >}} "Tipo Richiesta") <br>
 [Gruppo Richiesta [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Richiesta") <br>
