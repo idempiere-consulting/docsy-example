@@ -20,6 +20,10 @@ GEstione Materiali - Riaprire Documento S/Carico  [PR.702]
 
 Completa Ordine  [PR.402]
 
+Completa Fatture [PR.403]
+
+
+
 
 
 
