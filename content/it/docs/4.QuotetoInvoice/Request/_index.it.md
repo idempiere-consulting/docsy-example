@@ -9,7 +9,7 @@ Menù Idempiere
 
 [Richesta / Ticket [TIK00]]({{< ref "_index.it.md#TIK00" >}} "Richiesta / Ticket") <br>
 
-[Richiesta Tutto [RICT00]]({{< ref "_index.it.md#RICT00" >}} "Richiesta Tutto") <br>
+[Richiesta Tutto [RICT00]]({{< ref "_index.it.md#RICT00" >}} "About US")
 
 
 
