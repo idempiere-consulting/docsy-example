@@ -6,14 +6,14 @@ weight : 210
 pre: "<b></b>"
 ---
 
-
 ## Report Ordini Aperti [R.05]
-IlReport Permette di ottenere una stampa degli ordini Aperti 
+Il Report Permette di ottenere una stampa degli ordini aperti. 
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
 
-
 ## Report Dettagli Ordine [R.06]
+Il Report permette di ottenere una stampa del detteglio degli ordini.
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
 
 ## Report Transazione Ordini [R.04]
+Il Report permette di ottenere una stampa delle transazioni legate agli ordini di vendita. 
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
