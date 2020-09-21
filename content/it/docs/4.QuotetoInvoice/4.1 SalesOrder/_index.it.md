@@ -13,12 +13,10 @@ Menù Idempiere
 [Elabora Gruppo di Ordine [EGO00]]({{< ref "_index.it.md#EGO00" >}} "Elabora Gruppo di Ordine") <br>
 [Info Completa Ordini di Vendita [ICOV00]]({{< ref "_index.it.md#ICOV00" >}} "Info Completa Ordini di Vendita") <br>
 [Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]]({{< ref "_index.it.md#COVOA00" >}} "Crea Ordine di Acquisto dall'Ordine di Vendita") <br>
-[Crea ordine di acquisto dall'ordine di vendita [COVOA00]]({{< ref "_index.it.md#CR02" >}} "Configurazione richieste") <br>
-[Tipo Richiesta [TR01]]({{< ref "_index.it.md#TR01" >}} "Tipo Richiesta") <br>
-[Gruppo Richiesta [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Richiesta") <br>
-[Categoria Richiesta [CR00]]({{< ref "_index.it.md#CR00" >}} "Categoria Richiesta") <br>
-[Stato Richiesta [SR00]]({{< ref "_index.it.md#SR00" >}} "Stato Richiesta") <br>
-
+[Riapertura ordine [RIO00]]({{< ref "_index.it.md#RIO00" >}} "Riapertura ordine") <br>
+[Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00]]({{< ref "_index.it.md#COVOA00" >}} "Crea Ordine di Vendita dall'Ordine di Acquisto") <br>
+[Conversione Preventivo [COP00]]({{< ref "_index.it.md#COP00" >}} "Conversione Preventivo") <br>
+[Crea Ordine/Offerta di Vendita da Modello [CODM12]]({{< ref "_index.it.md#COD12" >}} "Crea Ordine/Offerta di Vendita da Modello") <br>
 
 ## Offerta Ordine di Vendita [ODV00] {#ODV00}
 La maschera permette l'inserimento dell'offerta/ordine di vendita.
@@ -236,16 +234,16 @@ La Info Window permette di selezionare e completare gli ordini.
 ## Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00] {#ICOV00}
 Il processo permette di creare ordini di acquisto da ordini di vendita. 
 [{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
-## Riapertura ordine [RIO00]
+## Riapertura ordine [RIO00] {#RIO00}
 Il processo permette di riaprire un ordine già chiuso. 
 [{{< figure src="/image/RiaperturaOrdineRIO00.png"  width="850"  >}}](/image/RiaperturaOrdineRIO00.png)
-## Crea ordine di vendita dall'ordine di acquisto [COVOA00]
+## Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00] {#COVOA00}
 Il processo permette di creare ordini di vendita da ordini di acquisto.
 [{{< figure src="/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png)
-## Conversione Preventivo [COP00]
+## Conversione Preventivo [COP00] {#COP00}
 Il processo permette di convertire un preventivo in un ordine di vendita.
 [{{< figure src="/image/ConversionePreventivoCOP00.png"  width="850"  >}}](/image/ConversionePreventivoCOP00.png)
-## Crea ordine/offerta di vendita da modello [CODM12]
+## Crea Ordine/Offerta di Vendita da Modello [CODM12] {#CODM12}
 La maschera permette di creare un ordine da un ordine modello.
 [{{< figure src="/image/CreaOrdineModelloCODM12.png"  width="850"  >}}](/image/CreaOrdineModelloCODM12.png)
 
