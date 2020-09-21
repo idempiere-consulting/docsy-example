@@ -17,6 +17,10 @@ Menù Idempiere
 [Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00]]({{< ref "_index.it.md#COVOA00" >}} "Crea Ordine di Vendita dall'Ordine di Acquisto") <br>
 [Conversione Preventivo [COP00]]({{< ref "_index.it.md#COP00" >}} "Conversione Preventivo") <br>
 [Crea Ordine/Offerta di Vendita da Modello [CODM12]]({{< ref "_index.it.md#COD12" >}} "Crea Ordine/Offerta di Vendita da Modello") <br>
+[Parametrizzazione Modello Ordine [PMO00]]({{< ref "_index.it.md#RIO00" >}} "Parametrizzazione Modello Ordine") <br>
+[Configurazione Vendite [CV00]]({{< ref "_index.it.md#COVOA00" >}} "Configurazione Vendite") <br>
+[Tipo Pagamento POS [TPP00]]({{< ref "_index.it.md#COP00" >}} "Tipo Pagamento POS") <br>
+[Origine Offerta [OO00]]({{< ref "_index.it.md#COD12" >}} "Origine Offerta") <br>
 
 ## Offerta Ordine di Vendita [ODV00] {#ODV00}
 La maschera permette l'inserimento dell'offerta/ordine di vendita. Il documento ancora in stato bozza viene considerato come offerta ovvero ordine non confermato. Nella stampa del report infatto viene interpretato lo stato del docuemnto stesso e compare la dicitura "Offerta" invece che "Conferma d'Ordine" proprio in base allo stato del documento. Questo permette di avere in un unica maschera si tutti i preventi che le offerte .
@@ -237,16 +241,16 @@ Il processo permette di convertire un preventivo in un ordine di vendita.
 La maschera permette di creare un ordine da un ordine modello.
 [{{< figure src="/image/CreaOrdineModelloCODM12.png"  width="850"  >}}](/image/CreaOrdineModelloCODM12.png)
 # Setup Ciclo Attivo
-## Parametrizzazione Modello Ordine [PMO00]
+## Parametrizzazione Modello Ordine [PMO00] {#PMO00}
 La Maschera permette la parametrizzazione dell'ordine in relazione ad un BP.
 [{{< figure src="/image/ParametrizzazioneModelloOrdine.png"  width="850"  >}}](/image/ParametrizzazioneModelloOrdine.png)
-## Configurazione Vendite [CV00]
+## Configurazione Vendite [CV00] {#CV00}
 Lo Schema evidenzia il rapporto tra menù per la corretta gestione della procedura.
 [{{< figure src="/image/ConfigurazioneVendite.png"  width="850"  >}}](/image/ConfigurazioneVendite.png)
-## Tipo Pagamento POS [TPP00]
+## Tipo Pagamento POS [TPP00] {#TPP00}
 La Maschera permette di inserire il tipo di pagamento POS.
 [{{< figure src="/image/TipoPagamentoPOS.png"  width="850"  >}}](/image/TipoPagamentoPOS.png)
-## Origine Offerta [OO00]
+## Origine Offerta [OO00] {#OO00}
 La Maschera permette 
 [{{< figure src="/image/OrigineOfferta.png"  width="850"  >}}](/image/OrigineOfferta.png)
 
