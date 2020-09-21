@@ -7,9 +7,10 @@ pre: "<b></b>"
 ---
 Menù Idempiere
 
-[Richesta / Ticket [TIK00]]({{< ref "_index.it.md#FTIK00" >}} "Richiesta / Ticket") <br>
+[Richesta / Ticket [TIK00]]({{< ref "_index.it.md#TIK00" >}} "Richiesta / Ticket") <br>
 
-[Crea Fattura di Vendita(manuale)[CFVM00]]({{< ref "_index.it.md#CFVM00" >}} "About US")
+[Richiesta Tutto [RICT00]]({{< ref "_index.it.md#RICT00" >}} "About US")
+
 
 
 
