@@ -5,9 +5,25 @@ draft: false
 weight : 210
 pre: "<b></b>"
 ---
-## Offerta Ordine di Vendita [ODV00]
+Menù Idempiere
+
+[Offerta Ordine di Vendita [ODV00]]({{< ref "_index.it.md#ODV00" >}} "Offerta Ordine di Vendita") <br>
+[Info Ordine di vendita con Pagamento Anticipato [IOVP00]]({{< ref "_index.it.md#IOVP00" >}} "Info Ordine di vendita con Pagamento Anticipato") <br>
+[Ordine Conto Lavoro Attivo Light [CLAL13]]({{< ref "_index.it.md#CLAL13" >}} "Ordine Conto Lavoro Attivo Light") <br>
+[Elabora Gruppo di Ordine [EGO00]]({{< ref "_index.it.md#EGO00" >}} "Elabora Gruppo di Ordine") <br>
+[Info Completa Ordini di Vendita [ICOV00]]({{< ref "_index.it.md#ICOV00" >}} "Info Completa Ordini di Vendita") <br>
+[Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]]({{< ref "_index.it.md#COVOA00" >}} "Crea Ordine di Acquisto dall'Ordine di Vendita") <br>
+[Crea ordine di acquisto dall'ordine di vendita [COVOA00]]({{< ref "_index.it.md#CR02" >}} "Configurazione richieste") <br>
+[Tipo Richiesta [TR01]]({{< ref "_index.it.md#TR01" >}} "Tipo Richiesta") <br>
+[Gruppo Richiesta [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Richiesta") <br>
+[Categoria Richiesta [CR00]]({{< ref "_index.it.md#CR00" >}} "Categoria Richiesta") <br>
+[Stato Richiesta [SR00]]({{< ref "_index.it.md#SR00" >}} "Stato Richiesta") <br>
+
+
+## Offerta Ordine di Vendita [ODV00] {#ODV00}
 La maschera permette l'inserimento dell'offerta/ordine di vendita.
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
+### Tipi di Ordini/Preventivi
 Si ricorda per informazioni sui campi cliccare su icona relativa in barra strumenti menù.
 [{{< figure src="/image/Ordinidivendita2.png"  width="850"  >}}](/image/Ordinidivendita2.png)
 Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
@@ -205,19 +221,19 @@ prezzi  link LISTINO PREZZI
 
 ### **NOTE INTERNE SU TIPI ELABORAZIONE**
 
-## Info ordine di vendita [IOVP00]
+## Info Ordine di Vendita con Pagamento Anticipato [IOVP00] {#IOVP00}
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
-## Ordine conto lavoro attivo light [CLAL13]
+## Ordine Conto Lavoro Attivo Light [CLAL13] {#CLAL13}
 La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
 [{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
-## Elabora Gruppo di Ordine [EGO00]
+## Elabora Gruppo di Ordine [EGO00] {#EGO00}
 Il processo permette di elaborare gruppi di ordini.
 [{{< figure src="/image/ElaboraGruppodiOrdineEGO00.png"  width="850"  >}}](/image/ElaboraGruppodiOrdineEGO00.png)
-## Info completa ordini di vendita [ICOV00]
+## Info Completa Ordini di Vendita [ICOV00] {#ICOV00}
 La Info Window permette di selezionare e completare gli ordini.
 [{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
-## Crea ordine di acquisto dall'ordine di vendita [COVOA00]
+## Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00] {#ICOV00}
 Il processo permette di creare ordini di acquisto da ordini di vendita. 
 [{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
 ## Riapertura ordine [RIO00]
