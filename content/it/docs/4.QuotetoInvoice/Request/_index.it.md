@@ -9,12 +9,17 @@ Menù Idempiere
 
 [Richesta / Ticket [TIK00]]({{< ref "_index.it.md#TIK00" >}} "Richiesta / Ticket") <br>
 
-[Richiesta Tutto [RICT00]]({{< ref "_index.it.md#RICT00" >}} "About US")
+[Richiesta Tutto [RICT00]]({{< ref "_index.it.md#RICT00" >}} "Richiesta Tutto") <br>
+
+
+
+
+
 
 ## Richesta / Ticket [TIK00] {#TIK00}
 La maschera permetta la compilazione di un ticket. In corpo del ticket, nel corso del suo procedere verranno salvate le varie azioni apportate.
 [{{< figure src="/image/TicketTIK00.png"  width="850"  >}}](/image/TicketTIK00.png)
-## Richiesta Tutto [RICT00]
+## Richiesta Tutto [RICT00] {#RICT00}
 La maschera permette di visualizzare qualsiasi informazione relativa ad un determinato Ticket in oggetto.
 ```
 Visualizza e lavora su tutte le richieste
