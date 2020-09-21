@@ -22,6 +22,8 @@ Completa Ordine  [PR.402]
 
 Completa Fatture [PR.403]
 
+Riaprire Documento Entrata Merce [PR.501]
+
 
 
 
