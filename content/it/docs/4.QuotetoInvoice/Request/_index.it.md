@@ -8,15 +8,10 @@ pre: "<b></b>"
 Menù Idempiere
 
 [Richesta / Ticket [TIK00]]({{< ref "_index.it.md#TIK00" >}} "Richesta / Ticket") <br>
-
 [Richiesta Tutto [RICT00]]({{< ref "_index.it.md#RICT00" >}} "Richiesta Tutto") <br>
-
 [Risoluzione Richiesta [RR01]]({{< ref "_index.it.md#RR01" >}} "Risoluzione Richiesta") <br>
-
 [Risposta Standard Richiesta [RSR00]]({{< ref "_index.it.md#RSR00" >}} "Risposta Standard Richiesta") <br>
-
 [Riaprire Richiesta [RR03]]({{< ref "_index.it.md#RR03" >}} "Riaprire Richiesta") <br>
-
 [Fattura per richiesta [FR00]]({{< ref "_index.it.md#FR00" >}} "Fattura per richiesta") <br>
 [Tipo Richiesta [TR01]]({{< ref "_index.it.md#TR01" >}} "Tipo Richiesta") <br>
 [Gruppo Richiesta [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Richiesta") <br>
@@ -41,16 +36,16 @@ Le richieste sono differenti dalle email
 ```
 ---
 [{{< figure src="/image/RichiestaTutto0.png"  width="850"  >}}](/image/RichiestaTutto0.png)
-## Risoluzione Richiesta [RR01]
+## Risoluzione Richiesta [RR01] {#RR01}
 La maschera permette di generare delle definizioni per la risoluzione alla richiesta di un Ticket. 
 [{{< figure src="/image/RisoluzioneRichiesta0.png"  width="850"  >}}](/image/RisoluzioneRichiesta0.png)
-## Risposta Standard Richiesta [RSR00]
+## Risposta Standard Richiesta [RSR00] {#RSR00}
 La maschera permette di generare delle definizioni standardizzate per la risoluzione alla richiesta di un Ticket.
 [{{< figure src="/image/RispostaStandardRichiesta0.png"  width="850"  >}}](/image/RispostaStandardRichiesta0.png)
-## Riaprire Richiesta [RR03]
+## Riaprire Richiesta [RR03] {#RR03}
 Il processo permette la riapertura di una richiesta già ultimata.
 [{{< figure src="/image/RiaprireRichiestaRR03.png"  width="850"  >}}](/image/RiaprireRichiestaRR03.png)
-##  Fattura per richiesta [FR00]
+##  Fattura per richiesta [FR00] {#FR00}
 Il processo permette di generare fattura a fronte di richieste.
 [{{< figure src="/image/FatturaRichiestaFR00.png"  width="850"  >}}](/image/FatturaRichiestaFR00.png)
 
@@ -89,16 +84,16 @@ Da menù andiamo nel Processo "Fattura per Richieste" ed inseriamo i dati che ci
 [{{< figure src="/image/Request7.png"  width="850"  >}}](/image/Request7.png)
 Dopo aver completato la nostra fattura è stata generata con successo
 [{{< figure src="/image/Request3.png"  width="850"  >}}](/image/Request3.png)
-## Tipo Richiesta [TR01]
+## Tipo Richiesta [TR01] {#TR01}
 La maschera permette di generare il tipo di richiesta.
 [{{< figure src="/image/TipoRichiesta0.png"  width="850"  >}}](/image/TipoRichiesta0.png)
-## Gruppo Richiesta [GR00]
+## Gruppo Richiesta [GR00] {#GR00}
 La maschera permette di generare un raggruppamento in base alle esigenze delle richieste.
 [{{< figure src="/image/GruppoRichiesta0.png"  width="850"  >}}](/image/GruppoRichiesta0.png)
-## Categoria Richiesta [CR00]
+## Categoria Richiesta [CR00] {#CR00}
 La maschera permette di generare la categoria della richiesta.
 [{{< figure src="/image/CategoriaRichiesta0.png"  width="850"  >}}](/image/CategoriaRichiesta0.png)
-## Stato Richiesta [SR00]
+## Stato Richiesta [SR00] {#SR00}
 La maschera permette di generare i tipi di stato della richiesta.
 [{{< figure src="/image/StatoRichiesta0.png"  width="850"  >}}](/image/StatoRichiesta0.png)
 
