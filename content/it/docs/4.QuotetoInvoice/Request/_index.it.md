@@ -5,6 +5,15 @@ draft: false
 weight : 200
 pre: "<b></b>"
 ---
+Menù Idempiere
+
+[Richesta / Ticket [TIK00]]({{< ref "_index.it.md#FTIK00" >}} "Richiesta / Ticket") <br>
+
+[Crea Fattura di Vendita(manuale)[CFVM00]]({{< ref "_index.it.md#CFVM00" >}} "About US")
+
+
+
+
 ## Richesta / Ticket [TIK00]
 La maschera permetta la compilazione di un ticket. In corpo del ticket, nel corso del suo procedere verranno salvate le varie azioni apportate.
 [{{< figure src="/image/TicketTIK00.png"  width="850"  >}}](/image/TicketTIK00.png)
