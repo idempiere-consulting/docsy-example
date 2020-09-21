@@ -8,8 +8,13 @@ menu:
     weight: 20
 ---
 
-Ordine di Vendita Toolbar 
-Reimpostare Qtà Riservata a 0 [PR.501]  
+Processi
+
+Ordine di Vendita Toolbar  - Reimpostare Qtà Riservata a 0 [PR.501]  
+
+Contabilità - Pagamenti - Riaprire Seleziona Fatture per Pagamento [PR.801]
+
+Gestiona Materiali - Riaprire Documento DDTM [PR.701]
 
 
 
