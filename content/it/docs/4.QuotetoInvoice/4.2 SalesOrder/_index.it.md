@@ -209,37 +209,45 @@ c) completamento
 
 #### **NOTE INTERNE SU TIPI ELABORAZIONE**
 
-#### Info Ordine di Vendita con Pagamento Anticipato [IOVP00] {#IOVP00}
+## Info Ordine di Vendita con Pagamento Anticipato [IOVP00] {#IOVP00}
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
-#### Ordine Conto Lavoro Attivo Light [CLAL13] {#CLAL13}
+## Ordine Conto Lavoro Attivo Light [CLAL13] {#CLAL13}
 La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
 [{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
-#### Elabora Gruppo di Ordine [EGO00] {#EGO00}
+## Elabora Gruppo di Ordine [EGO00] {#EGO00}
 Il processo permette di elaborare gruppi di ordini.
 [{{< figure src="/image/ElaboraGruppodiOrdineEGO00.png"  width="850"  >}}](/image/ElaboraGruppodiOrdineEGO00.png)
-#### Info Completa Ordini di Vendita [ICOV00] {#ICOV00}
+## Info Completa Ordini di Vendita [ICOV00] {#ICOV00}
 La Info Window permette di selezionare e completare gli ordini.
 [{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
-#### Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00] {#COAOA00}
+## Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00] {#COAOA00}
 Il processo permette di creare ordini di acquisto da ordini di vendita. 
 [{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
-#### Riapertura ordine [RIO00] {#RIO00}
+## Riapertura ordine [RIO00] {#RIO00}
 Il processo permette di riaprire un ordine già chiuso. 
 [{{< figure src="/image/RiaperturaOrdineRIO00.png"  width="850"  >}}](/image/RiaperturaOrdineRIO00.png)
-#### Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00] {#COVOA00}
+## Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00] {#COVOA00}
 Il processo permette di creare ordini di vendita da ordini di acquisto.
 [{{< figure src="/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png)
-#### Conversione Preventivo [COP00] {#COP00}
+## Conversione Preventivo [COP00] {#COP00}
 Il processo permette di convertire un preventivo in un ordine di vendita.
 [{{< figure src="/image/ConversionePreventivoCOP00.png"  width="850"  >}}](/image/ConversionePreventivoCOP00.png)
-#### Crea Ordine/Offerta di Vendita da Modello [CODM12] {#CODM12}
+## Crea Ordine/Offerta di Vendita da Modello [CODM12] {#CODM12}
 La maschera permette di creare un ordine da un ordine modello.
 [{{< figure src="/image/CreaOrdineModelloCODM12.png"  width="850"  >}}](/image/CreaOrdineModelloCODM12.png)
 # Setup Ciclo Attivo
 ## Parametrizzazione Modello Ordine [PMO00]
+La Maschera permette la parametrizzazione dell'ordine in relazione ad un BP.
+[{{< figure src="/image/ParametrizzazioneModelloOrdine.png"  width="850"  >}}](/image/ParametrizzazioneModelloOrdine.png)
 ## Configurazione Vendite [CV00]
+Lo Schema evidenzia il rapporto tra menù per la corretta gestione della procedura.
+[{{< figure src="/image/ConfigurazioneVendite.png"  width="850"  >}}](/image/ConfigurazioneVendite.png)
 ## Tipo Pagamento POS [TPP00]
+La Maschera permette di inserire il tipo di pagamento POS.
+[{{< figure src="/image/TipoPagamentoPOS.png"  width="850"  >}}](/image/TipoPagamentoPOS.png)
 ## Origine Offerta [OO00]
+La Maschera permette 
+[{{< figure src="/image/OrigineOfferta.png"  width="850"  >}}](/image/OrigineOfferta.png)
 
 
