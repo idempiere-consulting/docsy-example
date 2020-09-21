@@ -9,6 +9,7 @@ pre: "<b></b>"
 Menu iDempiere
 
 [Fattura di Vendita[FDV00]]({{< ref "_index.it.md#FDV00" >}} "Fattura di Vendita") <br>
+
 [Crea Fattura di Vendita(manuale)[CFVM00]]({{< ref "_index.it.md#CFVM00" >}} "About US")
 
 
