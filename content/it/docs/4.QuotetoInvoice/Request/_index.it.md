@@ -13,7 +13,7 @@ Menù Idempiere
 [Risposta Standard Richiesta [RSR00]]({{< ref "_index.it.md#RSR00" >}} "Risposta Standard Richiesta") <br>
 [Riaprire Richiesta [RR03]]({{< ref "_index.it.md#RR03" >}} "Riaprire Richiesta") <br>
 [Fattura per richiesta [FR00]]({{< ref "_index.it.md#FR00" >}} "Fattura per richiesta") <br>
-[Configurazione richieste]({{< ref "_index.it.md#" >}} "Configurazione richieste") <br>
+[Configurazione richieste]({{< ref "_index.it.md#CR02" >}} "Configurazione richieste") <br>
 [Tipo Richiesta [TR01]]({{< ref "_index.it.md#TR01" >}} "Tipo Richiesta") <br>
 [Gruppo Richiesta [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Richiesta") <br>
 [Categoria Richiesta [CR00]]({{< ref "_index.it.md#CR00" >}} "Categoria Richiesta") <br>
@@ -51,7 +51,7 @@ Il processo permette di generare fattura a fronte di richieste.
 [{{< figure src="/image/FatturaRichiestaFR00.png"  width="850"  >}}](/image/FatturaRichiestaFR00.png)
 
 # Setup Richieste
-## Configurazione richieste
+## Configurazione richieste [CR02] {#CR02}
 Nello schema si vedono gli step delle richieste.
 [{{< figure src="/image/ConfigurazioneRichieste.png"  width="850"  >}}](/image/ConfigurazioneRichieste.png)
 #### Gestione delle Request
