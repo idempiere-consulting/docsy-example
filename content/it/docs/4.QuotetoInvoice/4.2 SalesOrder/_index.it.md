@@ -17,10 +17,10 @@ Menù Idempiere
 [Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00]]({{< ref "_index.it.md#COVOA00" >}} "Crea Ordine di Vendita dall'Ordine di Acquisto") <br>
 [Conversione Preventivo [COP00]]({{< ref "_index.it.md#COP00" >}} "Conversione Preventivo") <br>
 [Crea Ordine/Offerta di Vendita da Modello [CODM12]]({{< ref "_index.it.md#COD12" >}} "Crea Ordine/Offerta di Vendita da Modello") <br>
-[Parametrizzazione Modello Ordine [PMO00]]({{< ref "_index.it.md#RIO00" >}} "Parametrizzazione Modello Ordine") <br>
-[Configurazione Vendite [CV00]]({{< ref "_index.it.md#COVOA00" >}} "Configurazione Vendite") <br>
-[Tipo Pagamento POS [TPP00]]({{< ref "_index.it.md#COP00" >}} "Tipo Pagamento POS") <br>
-[Origine Offerta [OO00]]({{< ref "_index.it.md#COD12" >}} "Origine Offerta") <br>
+[Parametrizzazione Modello Ordine [PMO00]]({{< ref "_index.it.md#PMO00" >}} "Parametrizzazione Modello Ordine") <br>
+[Configurazione Vendite [CV00]]({{< ref "_index.it.md#CV00" >}} "Configurazione Vendite") <br>
+[Tipo Pagamento POS [TPP00]]({{< ref "_index.it.md#TPP00" >}} "Tipo Pagamento POS") <br>
+[Origine Offerta [OO00]]({{< ref "_index.it.md#OO00" >}} "Origine Offerta") <br>
 
 ## Offerta Ordine di Vendita [ODV00] {#ODV00}
 La maschera permette l'inserimento dell'offerta/ordine di vendita. Il documento ancora in stato bozza viene considerato come offerta ovvero ordine non confermato. Nella stampa del report infatto viene interpretato lo stato del docuemnto stesso e compare la dicitura "Offerta" invece che "Conferma d'Ordine" proprio in base allo stato del documento. Questo permette di avere in un unica maschera si tutti i preventi che le offerte .
