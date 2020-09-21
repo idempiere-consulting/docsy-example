@@ -236,6 +236,10 @@ Il processo permette di convertire un preventivo in un ordine di vendita.
 #### Crea Ordine/Offerta di Vendita da Modello [CODM12] {#CODM12}
 La maschera permette di creare un ordine da un ordine modello.
 [{{< figure src="/image/CreaOrdineModelloCODM12.png"  width="850"  >}}](/image/CreaOrdineModelloCODM12.png)
-
+# Setup Ciclo Attivo
+## Parametrizzazione Modello Ordine [PMO00]
+## Configurazione Vendite [CV00]
+## Tipo Pagamento POS [TPP00]
+## Origine Offerta [OO00]
 
 
