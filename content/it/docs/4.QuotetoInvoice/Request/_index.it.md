@@ -25,18 +25,19 @@ La maschera permetta la compilazione di un ticket. In corpo del ticket, nel cors
 [{{< figure src="/image/TicketTIK00.png"  width="850"  >}}](/image/TicketTIK00.png)
 ## Richiesta Tutto [RICT00] {#RICT00}
 La maschera permette di visualizzare qualsiasi informazione relativa ad un determinato Ticket in oggetto.
+[{{< figure src="/image/RichiestaTutto0.png"  width="850"  >}}](/image/RichiestaTutto0.png)
+### Nota bene
 ```
 Visualizza e lavora su tutte le richieste
 Questa window "Request (All) " viene utilizzata per visualizzare tutte le richieste disponibili.
 La scheda Richiesta definisce qualsiasi richiesta inviata da un Business Partner o internamente.
 ```
-Le richieste sono differenti dalle email
+### Le richieste sono differenti dalle email
 ```
 - Le email sono private e informative (alcune azioni)
 - Le richieste sono pubbliche e oriente all’azione
 ```
 ---
-[{{< figure src="/image/RichiestaTutto0.png"  width="850"  >}}](/image/RichiestaTutto0.png)
 ## Risoluzione Richiesta [RR01] {#RR01}
 La maschera permette di generare delle definizioni per la risoluzione alla richiesta di un Ticket. 
 [{{< figure src="/image/RisoluzioneRichiesta0.png"  width="850"  >}}](/image/RisoluzioneRichiesta0.png)
