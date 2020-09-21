@@ -12,20 +12,32 @@ Menù Idempiere
 [Ordine Conto Lavoro Attivo Light [CLAL13]]({{< ref "_index.it.md#CLAL13" >}} "Ordine Conto Lavoro Attivo Light") <br>
 [Elabora Gruppo di Ordine [EGO00]]({{< ref "_index.it.md#EGO00" >}} "Elabora Gruppo di Ordine") <br>
 [Info Completa Ordini di Vendita [ICOV00]]({{< ref "_index.it.md#ICOV00" >}} "Info Completa Ordini di Vendita") <br>
-[Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]]({{< ref "_index.it.md#COVOA00" >}} "Crea Ordine di Acquisto dall'Ordine di Vendita") <br>
+[Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00]]({{< ref "_index.it.md#COAOA00" >}} "Crea Ordine di Acquisto dall'Ordine di Vendita") <br>
 [Riapertura ordine [RIO00]]({{< ref "_index.it.md#RIO00" >}} "Riapertura ordine") <br>
 [Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00]]({{< ref "_index.it.md#COVOA00" >}} "Crea Ordine di Vendita dall'Ordine di Acquisto") <br>
 [Conversione Preventivo [COP00]]({{< ref "_index.it.md#COP00" >}} "Conversione Preventivo") <br>
 [Crea Ordine/Offerta di Vendita da Modello [CODM12]]({{< ref "_index.it.md#COD12" >}} "Crea Ordine/Offerta di Vendita da Modello") <br>
 
 ## Offerta Ordine di Vendita [ODV00] {#ODV00}
-La maschera permette l'inserimento dell'offerta/ordine di vendita.
+La maschera permette l'inserimento dell'offerta/ordine di vendita. Il documento ancora in stato bozza viene considerato come offerta ovvero ordine non confermato. Nella stampa del report infatto viene interpretato lo stato del docuemnto stesso e compare la dicitura "Offerta" invece che "Conferma d'Ordine" proprio in base allo stato del documento. Questo permette di avere in un unica maschera si tutti i preventi che le offerte .
+
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
-### Tipi di Ordini/Preventivi
-Si ricorda per informazioni sui campi cliccare su icona relativa in barra strumenti menù.
-[{{< figure src="/image/Ordinidivendita2.png"  width="850"  >}}](/image/Ordinidivendita2.png)
+
+L'inserimento dell' offerta/ordine richiede pochi dati obbligatori :
+- organizzazione ( determinata di default in base all'utente e se una sola)
+- business partner
+
+Il tipo di offerta gestito tramite il campo TIPO DOCUMENTO determina lo sviluppo del processo al suo completamento .
 Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
-#### **Preventivo non Vincolante**
+
+### Tipi di Documento 
+
+- Standard Order 
+-  [Preventivo]({{< ref "_index.it.md#TDNV" >}})
+- Fattura Accompagnatoria
+
+
+#### **Preventivo non Vincolante**  {#TDNV}
 ***Un preventivo non vincolante crea un documento stampabile ed inviabile al cliente senza fare altro.***
 Come si inserisce: Semplicemente si indica il BP  (è bene sia il più correttamente schedulato perchè a cascata si riprenderanno i dati inseriti) a cui si dovrà indirizzare ***il preventivo non vincolante***. E' bene indicare il periodo di tempo di valità dell'offerta e i dati fondamentali quali magazzino partenza merce, termini consegna, pagamento ove non indicati nel BP.
 In particolare:
@@ -50,17 +62,17 @@ In particolare:
      L'emissione della fattura avviene in base a programma impostato (1volta mese/settimana).
 3.  Compilazione BP.
 Si conferma la testata e si inseriscono gli articoli o i codici servizi che si andranno a preventivare e si completa. Nel momento in cui riceviamo la conferma dal BP procederemo col riattivare il preventivo e a cambiare in testata il tipo documento a Ordine Standard. Si completa l'ordine e da processo si crea il ***Documento di trasporto DDT00*** dopo di che si proseguirà con la creazione e contabilizzazione della Fattura di Vendita. 
-### **Preventivo Vincolante**
+#### **Preventivo Vincolante**
 ***Un preventivo Vincolante aggiunge un impegno e riserva (a differenza del precedente) il relativo quantitativo merce a Magazzino.***
-### **Ordine Standard** 
+#### **Ordine Standard** 
 Una volta confermata l'offerta da parte del BP, cambiamo il tipo documento e lo rinominiamo ad ordine standard dopo di che lo completiamo, si potranno cosi stampare i ***Documenti di spedizione DDT00***
-### **Ordine Magazzino**
+#### **Ordine Magazzino**
 Come per il precedente completata offerta andremo da processo a creare il DDT00; la creazione sarà possibile solo se tutte le merci dell'ordine sono a stock.
-### **Ordine Conto Lavoro Attivo**
+#### **Ordine Conto Lavoro Attivo**
 non attivo
-### **Ordine Prepagato**
+#### **Ordine Prepagato**
 Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corrispondente.
-### **Ordine Fattura Accompagnatoria**
+#### **Ordine Fattura Accompagnatoria**
 Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
 
 **Tabella riassuntiva Tipi di documento**
@@ -84,34 +96,16 @@ ID=8
 Non lo vedo piu'
 
 
-### **FAQ** 
----
-D: Come faccio a inserie una scadenza diversa ?
+### Processi 
+- Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}})
+-
+-
+-
 
-R:
 
----
-ID=1
 
-D: Non accetta completare il pagamento , manca il collegamento alla banca: error no account defined for this organization. Create an account on the bank account window for the organization/currency.
 
-R:
-
----
-D: quando il pagamento viene processato posso andargli a mettere per esempio i dati dell'assegno?
-
-R:
-
----
-D: posso indicare le modalita' di pagamento prima di completare l'ordine? e quindi non usare le impostazioni di default (banca)-  esempio per vendite CASH.
-
-R:
-
----
-
-### **COME CORREGGERE DATI - ERRORI**
-
-#### **Ciclo Attivo : Ordine di Vendita - Documento di Trasporto - Fattura di Vendita**
+#### **Ciclo Attivo : Ordine di Vendita - Documento di Trasporto - Fattura di Vendita** 
 
 ##### Modifica Prezzi 
 ---
@@ -162,7 +156,7 @@ a) Eseguo la modifica nella Fattura (Special Editor) ed eseguo una rettifica di 
 
 #### **Ciclo Passivo : Ordine di Acquisto - Entrata Merci - Fattura di Acquisto**
 
-### **Offerte**
+
 
 #### **Offerta Chiusa Materiale a Magazzino**
 
@@ -184,7 +178,7 @@ a) Eseguo la modifica nella Fattura (Special Editor) ed eseguo una rettifica di 
 
 ---
 
-### **Processo approvazione**
+#### **Processo approvazione**
 
 ```
 a) creazione offerta in stato bozza
@@ -192,7 +186,7 @@ b) richiesta approvazione
 c) completamento
 ```
 
-### **Controllo Offerte**
+#### **Controllo Offerte**
 
 ```
 - controllo offerte in stato bozza 
@@ -204,46 +198,42 @@ c) completamento
 ```
 - controllo offerte servizi non fatturate
 ```
-## Drop Shipping
-link a documenti esistenti 
----
-http://www.adempiere.com/Sponsored_Development:_Drop_Ship
----
-https://idempiere.atlassian.net/browse/IDEMPIERE-2619
----
-http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
----
-
-prezzi  link LISTINO PREZZI
+#### Drop Shipping
+ link a documenti esistenti 
+ http://www.adempiere.com/Sponsored_Development:_Drop_Ship
+ https://idempiere.atlassian.net/browse/IDEMPIERE-2619
+ http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
+ 
+ prezzi  link LISTINO PREZZI
 
 
-### **NOTE INTERNE SU TIPI ELABORAZIONE**
+#### **NOTE INTERNE SU TIPI ELABORAZIONE**
 
-## Info Ordine di Vendita con Pagamento Anticipato [IOVP00] {#IOVP00}
+#### Info Ordine di Vendita con Pagamento Anticipato [IOVP00] {#IOVP00}
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
-## Ordine Conto Lavoro Attivo Light [CLAL13] {#CLAL13}
+#### Ordine Conto Lavoro Attivo Light [CLAL13] {#CLAL13}
 La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
 [{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
-## Elabora Gruppo di Ordine [EGO00] {#EGO00}
+#### Elabora Gruppo di Ordine [EGO00] {#EGO00}
 Il processo permette di elaborare gruppi di ordini.
 [{{< figure src="/image/ElaboraGruppodiOrdineEGO00.png"  width="850"  >}}](/image/ElaboraGruppodiOrdineEGO00.png)
-## Info Completa Ordini di Vendita [ICOV00] {#ICOV00}
+#### Info Completa Ordini di Vendita [ICOV00] {#ICOV00}
 La Info Window permette di selezionare e completare gli ordini.
 [{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
-## Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00] {#ICOV00}
+#### Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00] {#COAOA00}
 Il processo permette di creare ordini di acquisto da ordini di vendita. 
 [{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
-## Riapertura ordine [RIO00] {#RIO00}
+#### Riapertura ordine [RIO00] {#RIO00}
 Il processo permette di riaprire un ordine già chiuso. 
 [{{< figure src="/image/RiaperturaOrdineRIO00.png"  width="850"  >}}](/image/RiaperturaOrdineRIO00.png)
-## Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00] {#COVOA00}
+#### Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00] {#COVOA00}
 Il processo permette di creare ordini di vendita da ordini di acquisto.
 [{{< figure src="/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediVenditaOrdinediAcquistoCOVOA00.png)
-## Conversione Preventivo [COP00] {#COP00}
+#### Conversione Preventivo [COP00] {#COP00}
 Il processo permette di convertire un preventivo in un ordine di vendita.
 [{{< figure src="/image/ConversionePreventivoCOP00.png"  width="850"  >}}](/image/ConversionePreventivoCOP00.png)
-## Crea Ordine/Offerta di Vendita da Modello [CODM12] {#CODM12}
+#### Crea Ordine/Offerta di Vendita da Modello [CODM12] {#CODM12}
 La maschera permette di creare un ordine da un ordine modello.
 [{{< figure src="/image/CreaOrdineModelloCODM12.png"  width="850"  >}}](/image/CreaOrdineModelloCODM12.png)
 

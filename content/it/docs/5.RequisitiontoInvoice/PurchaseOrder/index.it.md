@@ -24,3 +24,6 @@ Il Processo permette la stampa dell'ordine o cartacea o l'invio dello stesso via
 [{{< figure src="/image/StampaOrdineAcquisto.png"  width="850"  >}}](/image/StampaOrdineAcquisto.png)
 
 
+
+
+
