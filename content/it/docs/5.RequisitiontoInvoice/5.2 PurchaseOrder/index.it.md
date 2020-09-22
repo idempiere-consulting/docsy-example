@@ -24,7 +24,7 @@ La Info Window permette la creazione della fattura Anticipata e quindi l'abbinam
 La Info Window permette il completamento dell'ordine.
 [{{< figure src="/image/InfoCompletaOrdiniAcquisto.png"  width="850"  >}}](/image/InfoCompletaOrdiniAcquisto.png)
 ## Ordini di Acquisto Abbinati [OAA00] {#OAA00}
-La Maschera mette in evidenza l'ordine abbinato e il processo a fronte.  
+La Maschera mette in evidenza l'ordine abbinato e il processo a fronte.
 [{{< figure src="/image/OrdiniAcquistoAbbinati0.png"  width="850"  >}}](/image/OrdineAcquistoAbbinati0.png)
 
 
