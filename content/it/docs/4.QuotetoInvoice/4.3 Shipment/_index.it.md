@@ -18,7 +18,7 @@ Menù Idempiere
 [Tariffa Doganale [TFD00]]({{< ref "_index.it.md#TDF00" >}} "Tariffa Doganale") <br>
 
 
-## Documento di Trasporto  [DDT00] {#TIK00}
+## Documento di Trasporto  [DDT00] {#DDT00}
 La maschera permette l'inserimento del Documento di Trasporto.
 [{{< figure src="/image/DocumentoTrasporto0.png"  width="850"  >}}](/image/DocumentoTrasporto0.png)
 
