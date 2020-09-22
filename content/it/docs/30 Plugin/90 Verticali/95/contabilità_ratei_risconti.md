@@ -12,7 +12,8 @@ typora-root-url: ./
 
 ## Contabilità - Periodo di competenza in Fattura di Acquisto e di Vendita [RISCONTO]
 
-![image](800px-CompetenzaRateiRisconti.png)
+[{{< figure src="/image/CompetenzaRateiRisconti.png"  width="850"  >}}](/image/CompetenzaRateiRisconti.png)
+
 
 Per la gestione di creazione Risconto, si fa utilizzo della Info Window da dashboard "Info Ratei/Risconti"
 ![800px-InfoRisconti](/800px-InfoRisconti.png)
