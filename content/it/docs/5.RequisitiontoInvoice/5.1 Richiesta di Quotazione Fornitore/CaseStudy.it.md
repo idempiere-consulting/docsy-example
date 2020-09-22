@@ -1,10 +1,9 @@
 ---
-title: "1.Amministrazione del Sistema"
+title: "Casi Pratici"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 10
+weight : 90
 pre: "<b></b>"
 ---
-
 
 

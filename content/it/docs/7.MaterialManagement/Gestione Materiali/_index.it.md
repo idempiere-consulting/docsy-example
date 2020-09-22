@@ -1,9 +1,10 @@
 ---
-title: "Gestione Materiali"
+title: "7. Gestione Materiali"
 date: 2020-04-24T22:47:10+02:00
 draft: false
 weight : 600
-pre: "<b></b>"
+linkTitle: "7. Gestione Materiali"
+pre: "<b>7. </b>"
 ---
 
 ## Gruppo di Promozione
