@@ -7,6 +7,10 @@ pre: "<b></b>"
 ---
 
 
+
+
+
+
 ## Dettagli Fornitore [DF00]
 La maschera permette la visualizzazione delle informazioni generali del fornitore.
 [{{< figure src="/image/DettagliFornitore0.png"  width="850"  >}}](/image/DettagliFornitore0.png)
