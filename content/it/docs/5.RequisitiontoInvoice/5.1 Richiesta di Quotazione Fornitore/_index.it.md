@@ -8,11 +8,11 @@ pre: "<b></b>"
 
 Menù Idempiere
 
-[Rich. Quotazione [RQF00]]({{< ref "_index.it.md#RQF00" >}} "Rich. Quotazione [RQF00]") <br>
+[Rich. Quotazione [RQF00]]({{< ref "_index.it.md#RQF00" >}} "Rich. Quotazione") <br>
 [Risposta Richiesta di Quotazione [RRQ00]]({{< ref "_index.it.md#RRQ00" >}} "Risposta Richiesta di Quotazione") <br>
 [Richiesta di Acquisto [RDA00]]({{< ref "_index.it.md#RDA00" >}} "Richiesta di Acquisto") <br>
 [Crea ordini di acquisto dalle richieste [COAR00]]({{< ref "_index.it.md#PPV00" >}} "Crea ordini di acquisto dalle richieste") <br>
-[Argomento della Richiesta [ADR00]]({{< ref "_index.it.md#ADR00" >}} "Argomento della Richiesta [ADR00]") <br>
+[Argomento della Richiesta [ADR00]]({{< ref "_index.it.md#ADR00" >}} "Argomento della Richiesta") <br>
 
 
 ## Rich. Quotazione [RQF00] {#RQF00}
