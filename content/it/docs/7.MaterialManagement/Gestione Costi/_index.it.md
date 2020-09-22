@@ -34,3 +34,5 @@ La Maschera permette la configurazione di un elemento di costo (ad. es. Costo St
 ## Tipo di costo [TDC00]
 La Maschera permette la configurazione di un tipo di costo.
 [{{< figure src="/image/TipodiCosto.png"  width="850"  >}}](/image/TipodiCosto.png)
+
+
