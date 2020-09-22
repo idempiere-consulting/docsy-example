@@ -7,7 +7,7 @@ pre: "<b> </b>"
 
 ---
 
-## Setup mail 
+## Setup mail
 
 lo scopo di questa guida è quello di configutrare un sistema di MTA (mail transfer agent) 
 per poter notificare via mail eventi "interessanti", nel caso specifico tratteremo il reboot
