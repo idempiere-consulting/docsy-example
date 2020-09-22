@@ -15,7 +15,7 @@ Menù Idempiere
 [Pagamento POS [PPOS00]]({{< ref "_index.it.md#PPOS00" >}} "Info Contratto di Vendita") <br>
 
 
-## POS - Punto di Vendita [PPV00] {#CC020}
+## POS - Punto di Vendita [PPV00] {#PPV00}
 La Info Form 
 [{{< figure src="/image/POS0.png"  width="850"  >}}](/image/POST0.png)
 ## POS [POST00] {#POST00}
