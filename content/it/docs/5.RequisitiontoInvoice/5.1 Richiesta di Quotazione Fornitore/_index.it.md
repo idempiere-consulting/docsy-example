@@ -28,7 +28,7 @@ La maschera permette l'inserimento di una richesta di acquisto di prodotti.
 Il processo permette la creazione dell'ordine di acquisto successivamente alla richiesta.
 [{{< figure src="/image/CreaOrdiniAcquistoRichiesteCOAR00.png"  width="850"  >}}](/image/CreaOrdiniAcquistoRichiesteCOAR00.png)
 # Setup Richieste Quotazione fornitore
-## Argomento della Richiesta [ADR00]
+## Argomento della Richiesta [ADR00] {#ADR00}
 La maschera permette la configurazione degli argomenti delle richieste di acquisto.
 [{{< figure src="/image/ArgomentodellaRichiesta.png"  width="850"  >}}](/image/ArgomentodellaRichiesta.png)
 
