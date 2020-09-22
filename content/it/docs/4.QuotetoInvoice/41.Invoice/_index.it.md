@@ -6,14 +6,23 @@ weight : 230
 pre: "<b></b>"
 ---
 
-Menu iDempiere
+Menù Idempiere
 
-[Fattura di Vendita[FDV00]]({{< ref "_index.it.md#FDV00" >}} "Fattura di Vendita") <br>
+[Fattura di Vendita [FDV00]]({{< ref "_index.it.md#FDV00" >}} "Fattura di Vendita [FDV00]") <br>
+[Crea Fattura di Vendita (manuale) [CFVM00]]({{< ref "_index.it.md#CFVM00" >}} "Crea Fattura di Vendita (manuale)") <br>
+[Crea Fattura di Vendita [CFV00]]({{< ref "_index.it.md#CFV00" >}} "Crea Fattura di Vendita") <br>
+[Info Crea Fattura ad Avanzamento [ICFVA12]]({{< ref "_index.it.md#ICFVA12" >}} "Info Crea Fattura ad Avanzamento") <br>
+[Info Crea Fattura da DDT [ICFDT00]]({{< ref "_index.it.md#ICFDT00" >}} "Info Crea Fattura da DDT [ICFDT00]") <br>
+[Info Completa Fatture di Vendita [ICOFV00]]({{< ref "_index.it.md#ICOFV00" >}} "Info Completa Fatture di Vendita") <br>
+[Info Crea Autofattura da DDT [ICFDT00]]({{< ref "_index.it.md#ICFDT00" >}} "Info Crea Autofattura da DDT") <br>
+[Info Crea Fattura di Vendita [ICFV00]]({{< ref "_index.it.md#ICFV00" >}} "Info Crea Fattura di Vendita") <br>
+[Info Crea Fattura Elettronica [ICFE00]]({{< ref "_index.it.md#ICFE00" >}} "Info Crea Fattura Elettronica") <br>
+[Stampa Fattura su carta e/o invia EMail [SIFV00]]({{< ref "_index.it.md#SIFV00" >}} "Stampa Fattura su carta e/o invia EMail") <br>
+[Archivio Fattura Elettronica [AFE00]]({{< ref "_index.it.md#ICFV00" >}} "Archivio Fattura Elettronica") <br>
+[Scadenziario Pagamento Fattura [SPF00]]({{< ref "_index.it.md#SPF00" >}} "Scadenziario Pagamento Fattura") <br>
 
-[Crea Fattura di Vendita(manuale)[CFVM00]]({{< ref "_index.it.md#CFVM00" >}} "About US")
 
-
-## Fattura di vendita [FDV00]  {#FDV00}
+## Fattura di Vendita [FDV00]  {#FDV00}
 La maschera permette l'inserimento delle fatture di vendita.
 [{{< figure src="/image/FatturadivenditaFDV00.png"  width="850"  >}}](/image/FatturadivenditaFDV00.png)
 
@@ -312,24 +321,41 @@ AD_Reference_ID IN
 | **N7** | Vendite a distanza Art. 40/41 DL 331/93<br />IVA assolta in altro stato UE (vendite a distanza ex art. 40 c. 3 e 4 e art. 41 c. 1 lett. b,  DL 331/93; prestazione di servizi di telecomunicazioni, tele-radiodiffusione ed elettronici ex art. 7-sexies lett. f, g, art. 74-sexies DPR 633/72) |
 
 
-## Crea fattura di vendita (manuale) [CFVM00]  {#CFVM00}
+## Crea Fattura di Vendita (manuale) [CFVM00]  {#CFVM00}
 La Info Form permette di selezionare più documenti, completarli e/o elaborarli e generare le fatture di vendita. 
 [{{< figure src="/image/CreaFatturaVenditaManuale.png"  width="850"  >}}](/image/CreaFatturaVenditaManuale.png)
-## Crea fattura di vendita [CFV00]
+## Crea Fattura di Vendita [CFV00] {#CFV00}
 Il processo permette di selezionare completare e creare la fattura di vendita singolarmente per Business Partner. 
 [{{< figure src="/image/CreaFatturadivenditaCFV00.png"  width="850"  >}}](/image/CreaFatturadivenditaCFV00.png)
-## Info crea fattura ad avanzamento [ICFVA12]
+## Info Crea Fattura ad Avanzamento [ICFVA12] {#ICFVA12}
 La Info Window permette di creare la fattura in base a stati di avanzamento per un Business Partner.  
 [{{< figure src="/image/InfoCreaFatturaAvanzamento.png"  width="850"  >}}](/image/InfoCreaFatturaAvanzamento.png)
-## Info crea fattura da DDT [ICFDT00]
+## Info Crea Fattura da DDT [ICFDT00] {#ICFDT00}
 La Info Window permette di creare la fattura. 
 [{{< figure src="/image/InfoCreaFatturaDDT.png"  width="850"  >}}](/image/InfoCreaFatturaDDT.png)
-## Info completa fatture di vendita [ICOFV00]
+## Info Completa Fatture di Vendita [ICOFV00] {#ICOFV00}
 La Info Window permette di completare la fattura.
 [{{< figure src="/image/InfoCompletaFatturadivendita.png"  width="850"  >}}](/image/InfoCompletaFatturadivendita.png)
-## Info crea autofattura da DDT [ICFDT00]
+## Info Crea Autofattura da DDT [ICFDT00] {#ICFDT00}
 La Info Window permette di creare Autofatture a seguito di cessioni promozionali omaggio.
 [{{< figure src="/image/InfoCreaAutofatturaDDT.png"  width="850"  >}}](/image/InfoCreaAutofatturaDDT.png)
+## Info Crea Fattura di Vendita [ICFV00] {#ICFV00}
+La Info Window permette la creazione delle fattura di vendita 
+[{{< figure src="/image/InfoCreaFatturadivendita.png"  width="850"  >}}](/image/InfoCreaFatturadivendita.png)
+## Info Crea Fattura Elettronica [ICFE00] {#ICFE00}
+La Info Window permette di creare la fattura in formato elettonico.
+[{{< figure src="/image/InfoCreaFatturaElettronica.png"  width="850"  >}}](/image/InfoCreaFatturaElettronica.png)
+## Stampa Fattura su carta e/o invia EMail [SIFV00] {#SIFV00}
+Il processo permette la generazione della fattura cartacea o la spedizione della stessa via email. 
+[{{< figure src="/image/StampaFatturaInviaEmail.png"  width="850"  >}}](/image/StampaFatturaInviaEmail.png)
+## Archivio Fattura Elettronica [AFE00] {#AFE00}
+La maschera propone l'archivio elettronico delle fatture.
+[{{< figure src="/image/ArchivioFatturaElettronica.png"  width="850"  >}}](/image/ArchivioFatturaElettronica.png)
+## Scadenziario Pagamento Fattura [SPF00] {#SPF00}
+La maschera propone lo scadenzario delle fatture non incassate.
+[{{< figure src="/image/ScadenzarioPagamentoFattura.png"  width="850"  >}}](/image/ScadenzarioPagamentoFattura.png)
+
+
 # Omaggi
 
 ## Omaggi a Terzi di Beni NON rientranti nell’attività propria dell’impresa
@@ -460,21 +486,6 @@ Ai fini I.V.A. l’articolo 2, comma 2, n. 4), del D.P.R. n. 633/1972 esclude da
 |                                                              |                              |
 
 
-## Info crea fattura di vendita [ICFV00]
-La Info Window permette la creazione delle fattura di vendita 
-[{{< figure src="/image/InfoCreaFatturadivendita.png"  width="850"  >}}](/image/InfoCreaFatturadivendita.png)
-## Info crea fattura elettronica [ICFE00]
-La Info Window permette di creare la fattura in formato elettonico.
-[{{< figure src="/image/InfoCreaFatturaElettronica.png"  width="850"  >}}](/image/InfoCreaFatturaElettronica.png)
-## Stampa fattura su carta e/o invia email [SIFV00]
-Il processo permette la generazione della fattura cartacea o la spedizione della stessa via email. 
-[{{< figure src="/image/StampaFatturaInviaEmail.png"  width="850"  >}}](/image/StampaFatturaInviaEmail.png)
-## Archivio fattura elettronica [AFE00]
-La maschera propone l'archivio elettronico delle fatture.
-[{{< figure src="/image/ArchivioFatturaElettronica.png"  width="850"  >}}](/image/ArchivioFatturaElettronica.png)
-## Scadenziario pagamento fattura [SPF00]
-La maschera propone lo scadenzario delle fatture non incassate.
-[{{< figure src="/image/ScadenzarioPagamentoFattura.png"  width="850"  >}}](/image/ScadenzarioPagamentoFattura.png)
 
 
 
