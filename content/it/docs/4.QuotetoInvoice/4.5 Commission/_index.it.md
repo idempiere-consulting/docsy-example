@@ -9,7 +9,7 @@ pre: "<b></b>"
 
 Menù Idempiere
 
-[Provvigione [PRV00]]({{< ref "_index.it.md#PRV00" >}} " Provvigione") <br>
+[Provvigione [PRV00]]({{< ref "_index.it.md#PRV00" >}} "Provvigione") <br>
 [Crea Provvigione [CPRV00]]({{< ref "_index.it.md#CPRV00" >}} "Crea Provvigione") <br>
 
 ## Provvigione [PRV00] {#PRV00}

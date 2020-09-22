@@ -6,18 +6,40 @@ weight : 260
 pre: "<b></b>"
 ---
 
-## Crea Contratto da ordine [CCO20]
+
+Menù Idempiere
+
+[Crea Contratto da ordine [CCO20]]({{< ref "_index.it.md#CC020" >}} "Crea Contratto da ordine") <br>
+[Contratto di Vendita [CDV20]]({{< ref "_index.it.md#CDV20" >}} "Contratto di Vendita") <br>
+[Crea Ordine di Vendita da Contratto [COVC20]]({{< ref "_index.it.md#COVC20" >}} "Crea Ordine di Vendita da Contratto") <br>
+[Info Contratto di Vendita [ICV00]]({{< ref "_index.it.md#ICV00" >}} "Info Contratto di Vendita") <br>
+
+
+## Crea Contratto da ordine [CCO20] {#CC020}
 La Info Window permette di creare un contratto da un ordine di vendita. 
 [{{< figure src="/image/ContrattodaOrdine.png"  width="850"  >}}](/image/ContrattodaOrdine.png)
-## Contratto di Vendita [CDV20]
+## Contratto di Vendita [CDV20] {#CDV20}
 La maschera permette l'inserimento manuale di un cotratto di vendita.
 [{{< figure src="/image/Contrattodivendita.png"  width="850"  >}}](/image/Contrattodivendita.png)
-## Crea ordine di vendita da contratto [COVC20]
+## Crea Ordine di Vendita da Contratto [COVC20] {#COVC20}
 Il processo genera un ordine di vendita partendo da un contratto.
 [{{< figure src="/image/CreaOrdinediVenditaContrattoCOVC20.png"  width="850"  >}}](/image/CreaOrdinediVenditaContrattoCOVC20.png)
-## Info contratto di vendita [COVC20]
+## Info Contratto di Vendita [ICV00] {#ICV00}
 La Info Window permette di selezionare i contratti di vendita apportando anche determinate modifiche (ad es. rinnovo)
 [{{< figure src="/image/IfoContrattodiVendita.png"  width="850"  >}}](/image/IfoContrattodiVendita.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Scheda Business Partner [ICV00]
 [{{< figure src="/image/SchedaBP0.png"  width="850"  >}}](/image/SchedaBP0.png)
 
