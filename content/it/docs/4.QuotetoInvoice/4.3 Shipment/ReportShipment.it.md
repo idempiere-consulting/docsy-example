@@ -6,7 +6,6 @@ weight : 10
 pre: "<b></b>"
 ---
 
-# Report Spedizione
 ## Report Dettaglio Ordini [RE.54]
 Il Report mette in evidenza gli ordini non ancora evasi.
 [{{< figure src="/image/DettaglioOrdiniNonEvasiRE54.png"  width="850"  >}}](/image/DettaglioOrdiniNonEvasiRE54.png)
