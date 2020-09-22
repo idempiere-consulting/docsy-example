@@ -19,15 +19,15 @@ della macchina
 ```
 apt install msmtp msmtp-mta 
 ```
-abilitiamo il servizio al boot
+- abilitiamo il servizio al boot
 ```
  systemctl enable msmtpd.service 
 ```
-avviamolo (senza riavviare il server)
+- avviamolo (senza riavviare il server)
 ```
 service msmtpd start
 ```
-verifichiamo che abbia agganciato il server correttamente
+- verifichiamo che abbia agganciato il server correttamente
 ```
 msmtp --serverinfo
 ```
@@ -69,21 +69,20 @@ la prima parte è comune ai possibili più account configurati
 la seconda è "account-specifica"
 l'ultima indica banalmente quale sarà l'utente da usare di default
 
-- testiamo il servizio
-per testare il servizio usiamo il comando da riga di terminale:
+- testiamo il servizio da riga di comando:
 ```
 echo "Subject: $(hostname) was rebooted at: $(date +%m.%d.%Y.%H.%M)" | msmtp user@mail.server
 ```
-con l'opzione -a posso specificare un utente alternativo
+  con l'opzione -a posso specificare un utente alternativo
 ```
 echo "Subject: $(hostname) was rebooted at: $(date +%m.%d.%Y.%H.%M)" | msmtp -a altroaccount user@mail.server
 ```
 
-- installiamo un servizio che al boot manda una mail di alert
+### alert on reboot
 
-(NOTA: Da debian Jessie  il sistema di avvio tramite ```init``` è deprecato in favore di ```SystemD```)
+(NOTA: Da debian Jessie  il sistema di avvio tramite ```init``` è deprecato in favore di ```SystemD``` ma 
 siccome il compito è molto semplice è più "comodo" creare il servizio alla vecchia maniera e convertirlo poi, quindi:
-- creiamo lo script che invierà la mail di alert in ```/etc/init.d/mail_on_reboot.sh```
+- creiamo lo script che invierà la mail di alert  ```/etc/init.d/mail_on_reboot.sh```
 
 ```
 #!/bin/bash
@@ -102,13 +101,13 @@ echo "Subject: $(hostname) was rebooted at: $(date +%m.%d.%Y.%H.%M)" | msmtp -a 
 #
 # cat testo.mail | msmtp -a root user@mail.server
 ```
-(NOTA: attenzione che se non arrivano magari sono finite nella spam)
+(NOTA: attenzione che se le mail non arrivano magari sono finite nella spam)
 
-lo rendiamo eseguibile con il solito
+- lo rendiamo eseguibile con il solito:
 ```
 chmod u+x mail_on_reboot
 ```
-verifichiamo il corretto funzionamento dello script eseguendolo
+- verifichiamo il corretto funzionamento dello script eseguendolo:
 ```
 /etc/init.d/mail_on_reboot
 ```
@@ -124,12 +123,12 @@ systemctl enable mail_on_reboot
 Qui potrebbe generarsi un errore a causa del fatto che non abbiamo creato la unit systemD ma 
 non inficerà la funzionalità del servizio
 
-per proseguire con i test avviamo il servizio appena creato:
+- avviamo il servizio appena creato (per proseguire con i test):
 ```
 service mail_on_reboot start
 ```
 
-il test finale è un riavvio della macchina:
+- il test finale è un riavvio della macchina:
 ```
 reboot
 ```
