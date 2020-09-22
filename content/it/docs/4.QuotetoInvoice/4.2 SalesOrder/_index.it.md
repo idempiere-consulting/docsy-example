@@ -7,7 +7,7 @@ pre: "<b></b>"
 ---
 Menù Idempiere
 
-[Offerta Ordine di Vendita [ODV00]]({{< ref "_index.it.md#ODV00" >}} "Offerta Ordine di Vendita") <br>
+[Offerta/Ordine di Vendita [ODV00]]({{< ref "_index.it.md#ODV00" >}} "Offerta Ordine di Vendita") <br>
 [Info Ordine di vendita con Pagamento Anticipato [IOVP00]]({{< ref "_index.it.md#IOVP00" >}} "Info Ordine di vendita con Pagamento Anticipato") <br>
 [Ordine Conto Lavoro Attivo Light [CLAL13]]({{< ref "_index.it.md#CLAL13" >}} "Ordine Conto Lavoro Attivo Light") <br>
 [Elabora Gruppo di Ordine [EGO00]]({{< ref "_index.it.md#EGO00" >}} "Elabora Gruppo di Ordine") <br>
