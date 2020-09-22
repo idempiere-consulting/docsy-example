@@ -2,7 +2,7 @@
 title: "Ordine di Acquisto"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 311
+weight : 309
 pre: "<b></b>"
 ---
 
@@ -26,11 +26,6 @@ La Info Window permette il completamento dell'ordine.
 ## Ordini di Acquisto Abbinati [OAA00] {#OAA00}
 La Maschera mette in evidenza l'ordine abbinato e il processo a fronte.  
 [{{< figure src="/image/OrdiniAcquistoAbbinati0.png"  width="850"  >}}](/image/OrdineAcquistoAbbinati0.png)
-
-# Report ordine di acquisto
-## Stampa e invia ordine di acquisto [SODA00]
-Il Processo permette la stampa dell'ordine o cartacea o l'invio dello stesso via posta elettronica.
-[{{< figure src="/image/StampaOrdineAcquisto.png"  width="850"  >}}](/image/StampaOrdineAcquisto.png)
 
 
 

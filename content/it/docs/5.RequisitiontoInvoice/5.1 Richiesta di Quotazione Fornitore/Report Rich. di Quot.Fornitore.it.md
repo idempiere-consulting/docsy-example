@@ -21,9 +21,3 @@ Il Report permette la stampa delle risposte alle richieste di acquisto effettuat
 [{{< figure src="/image/DettagliRispostaRichiestaQuotazioneR24.png"  width="850"  >}}](/image/DettagliRispostaRichiestaQuotazioneR24.png)
 [{{< figure src="/image/ReportRisposteAllaRichestaQuotazione.png"  width="850"  >}}](/image/ReportRisposteAllaRichestaQuotazione.png)
 
-# Setup Richieste Quotazione fornitore
-## Argomento della richiesta [ADR00]
-La maschera permette la configurazione degli argomenti delle richieste di acquisto.
-[{{< figure src="/image/ArgomentodellaRichiesta.png"  width="850"  >}}](/image/ArgomentodellaRichiesta.png)
-
-

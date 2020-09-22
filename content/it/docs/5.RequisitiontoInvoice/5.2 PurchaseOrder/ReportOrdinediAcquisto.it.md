@@ -1,20 +1,17 @@
 ---
-title: "Video Ordine di Acquisto"
+title: "Report Ordine di Acquisto"
 date: 2020-04-24T22:47:10+02:00
 draft: false
 weight : 310
 pre: "<b></b>"
 ---
 
-## Video - Ordine di Acquisto
-### Video - 5 Requisition to Invoice - Purchase Order / Ordine di Tipo Fattura Accompagnatoria [V011]
-{{<youtube 0ZvFAkDnf18>}} 
 
-### Video - 5 Requisition to Invoice - Create Purchase Order / Creazione Ordine Acquisto [V044]
-{{<youtube xYWpc4UcSno>}}
+# Report ordine di acquisto
+## Stampa e invia ordine di acquisto [SODA00]
+Il Processo permette la stampa dell'ordine o cartacea o l'invio dello stesso via posta elettronica.
+[{{< figure src="/image/StampaOrdineAcquisto.png"  width="850"  >}}](/image/StampaOrdineAcquisto.png)
 
-### Video - 5 Requisition to Invoice - Offer by Purchase Order / Creazione Offera da Ordine di Acquisto [V045]
-{{<youtube UklbmNE2-x4>}}
 
-### Video - 5. Requisition-to-Invoice - Purchase order from Contract / Ordine di Acquisto da Contratto [V181]
-{{<youtube nZB4tNkDV60>}}
+
+
