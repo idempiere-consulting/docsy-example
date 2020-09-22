@@ -5,7 +5,20 @@ draft: false
 weight : 220
 pre: "<b></b>"
 ---
-## Documento di Trasporto  [DDT00]
+Menù Idempiere
+
+[Documento di Trasporto  [DDT00]]({{< ref "_index.it.md#DDT00" >}} "Documento di Trasporto") <br>
+[Operazione di Spedizione [ODS00]]({{< ref "_index.it.md#ODS00" >}} "Operazione di Spedizione") <br>
+[Crea Spedizione (manuale) [CSPEM00]]({{< ref "_index.it.md#CSPEM00" >}} "Crea Spedizione (manuale)") <br>
+[Crea Spedizione [CSPE00]]({{< ref "_index.it.md#CSPE00" >}} "Crea Spedizione") <br>
+[Info Crea Spedizione da Ordine Riga [ICSR00]]({{< ref "_index.it.md#ICSR03" >}} "Info Crea Spedizione da Ordine Riga") <br>
+[Info Crea Spedizione [ICS00]]({{< ref "_index.it.md#ICS00" >}} "Info Crea Spedizione") <br>
+[Pacchetto Spedizione [PCS00]]({{< ref "_index.it.md#PCS00" >}} "Pacchetto Spedizione") <br>
+[Tipo Richiesta [TR01]]({{< ref "_index.it.md#TR01" >}} "Tipo Richiesta") <br>
+[Tariffa Doganale [TFD00]]({{< ref "_index.it.md#TDF00" >}} "Tariffa Doganale") <br>
+
+
+## Documento di Trasporto  [DDT00] {#TIK00}
 La maschera permette l'inserimento del Documento di Trasporto.
 [{{< figure src="/image/DocumentoTrasporto0.png"  width="850"  >}}](/image/DocumentoTrasporto0.png)
 
@@ -160,35 +173,28 @@ creato un nuovo Document Type "MM Shipment_Custom", uguale identico al "MM Shipm
 
 
 
-## Operazione di Spedizione [ODS00]
+## Operazione di Spedizione [ODS00] {#ODS00}
 La maschera raccoglie tutte le informazioni della Spedizione.
 [{{< figure src="/image/OperazioneSpedizione0.png"  width="850"  >}}](/image/OperazioneSpedizione0.png)
-## Crea Spedizione (manuale) [CSPEM00]
+## Crea Spedizione (manuale) [CSPEM00] {#CSPEM00}
 La Info Window Form serve a creare la Spedizione manuale del prodotto. 
 [{{< figure src="/image/CreaSpedizioneManuale.png"  width="850"  >}}](/image/CreaSpedizioneManuale.png)
-## Crea Spedizione [CSPE00]
+## Crea Spedizione [CSPE00] {#CSPE00}
 Il processo crea le Spedizioni dei prodotti.
 [{{< figure src="/image/CreaSpedizioneCSPE00.png"  width="850"  >}}](/image/CreaSpedizioneCSPE00.png)
-## Info crea spedizione da ordine riga [ICSR00]
+## Info Crea Spedizione da Ordine Riga [ICSR00] {#ICSR00}
 La Info Window permette di creare le spedizioni da righe di ordine.
 [{{< figure src="/image/InfoCreaSpedizionedaOrdineRiga.png"  width="850"  >}}](/image/InfoCreaSpedizionedaOrdineRiga.png)
-## Info crea spedizione [ICS00]
+## Info Crea Spedizione [ICS00] {#ICS00}
 La Info Window permette di creare le spedizioni in maniera automatizzata.
 [{{< figure src="/image/InfoCreaSpedizione.png"  width="850"  >}}](/image/InfoCreaSpedizione.png)
-## Pacchetto spedizione [PCS00]
+## Pacchetto Spedizione [PCS00] {#PCS00}
 La maschera raccoglie le informazioni relative a spedizione di pacchi.
 [{{< figure src="/image/PacchettoSpedizione0.png"  width="850"  >}}](/image/PacchettoSpedizione0.png)
 
-# Report Spedizione
-## Report Dettaglio Ordini [RE.54]
-Il Report mette in evidenza gli ordini non ancora evasi.
-[{{< figure src="/image/DettaglioOrdiniNonEvasiRE54.png"  width="850"  >}}](/image/DettaglioOrdiniNonEvasiRE54.png)
-## Report dettaglio Spedizioni [R.07]
-Il Report mette in evidenza i dettagli della spedizione.
-[{{< figure src="/image/InformazioniDettagliSpedizioniR07.png"  width="850"  >}}](/image/InformazioniDettagliSpedizioniR07.png)
-[{{< figure src="/image/ReportDettagliSpedizioni1.png"  width="850"  >}}](/image/ReportDettagliSpedizioni1.png)
+
 # Setup Shipping
-## Tariffa Doganale [TFD00]
+## Tariffa Doganale [TFD00] {#TFD00}
 La maschera permette di inserire le tariffe doganali relative ai prodotti.
 [{{< figure src="/image/TariffaDoganaleTFD00.png"  width="850"  >}}](/image/TariffaDoganaleTFD00.png)
 
