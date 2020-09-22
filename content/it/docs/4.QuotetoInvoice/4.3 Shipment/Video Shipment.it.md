@@ -6,8 +6,6 @@ weight : 220
 pre: "<b></b>"
 ---
 
-## Video - Spedizione
-
 ### Video - Quote-to-Invoice - Reopening Shipment Document / Riapertura DDT⁄EM [V158]
 {{<youtube j8PmRsGiWGY>}}
 
