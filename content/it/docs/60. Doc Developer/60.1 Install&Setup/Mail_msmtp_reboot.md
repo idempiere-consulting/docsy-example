@@ -13,7 +13,7 @@ lo scopo di questa guida è quello di configutrare un sistema di MTA (mail trans
 per poter notificare via mail eventi "interessanti", nel caso specifico tratteremo il reboot
 della macchina 
 
-### installazione e configurazione
+### installazione
 
 - installiamo il pacchetto `msmtp` che andrà a sostituire l'ormai obsoleto `smtp`
 ```
@@ -31,7 +31,7 @@ verifichiamo che abbia agganciato il server correttamente
 ```
 msmtp --serverinfo
 ```
-
+###  configurazione
 
 - configuriamo l'utente che userà il servizio
 creiamo (```msmtp --configure user@mail.server```) o modifichiamo il file  ~/.msmtprc 
@@ -124,7 +124,7 @@ systemctl enable mail_on_reboot
 Qui potrebbe generarsi un errore a causa del fatto che non abbiamo creato la unit systemD ma 
 non inficerà la funzionalità del servizio
 
-per proseguire con i test avviamo ilservizio appena creato:
+per proseguire con i test avviamo il servizio appena creato:
 ```
 service mail_on_reboot start
 ```
