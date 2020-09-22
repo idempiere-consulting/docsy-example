@@ -6,21 +6,20 @@ weight : 240
 pre: "<b></b>"
 ---
 
-## Provvigioni [PRV00]
+
+Menù Idempiere
+
+[Provvigione [PRV00]]({{< ref "_index.it.md#PRV00" >}} " Provvigione") <br>
+[Crea Provvigione [CPRV00]]({{< ref "_index.it.md#CPRV00" >}} "Crea Provvigione") <br>
+
+## Provvigione [PRV00] {#PRV00}
 La maschera permette la generazione delle provvigioni sulle fatture.
 [{{< figure src="/image/Commissioni0.png"  width="850"  >}}](/image/Commissioni0.png)
-## Crea Provvigione [CPRV00]
+## Crea Provvigione [CPRV00] {#CPRV00}
 La maschera permette la creazione della fattura da ricevere dall'agente relativa alle provvigioni sulle fatture di vendite del periodo.
 [{{< figure src="/image/CreaProvvigione0.png"  width="850"  >}}](/image/CreaProvvigione0.png)
-## Report dettagli provvigioni correnti [R.21]
-Il report permette la stampa del dettaglio delle provvigioni di un periodo in base alle scelte desiderate.
-[{{< figure src="/image/DettagliCommissoniCorrentiR21.png"  width="850"  >}}](/image/DettagliCommissoniCorrentiR21.png)
-[{{< figure src="/image/ReportDettagliProvvigioniCorrenti.png"  width="850"  >}}](/image/ReportDettagliProvvigioniCorrenti.png)
 
 ---
-
-
-
 
 ## Provvigioni
 ## Descrizione Plugin
