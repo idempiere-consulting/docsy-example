@@ -2,13 +2,27 @@
 title: "Ordine di Acquisto"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 309
+weight : 315
 pre: "<b></b>"
 ---
 
 Menù Idempiere
 
 [Ordine di Acquisto [ODA00]]({{< ref "_index.it.md#ODA00" >}} "Ordine di Acquisto") <br>
+[Risposta Richiesta di Quotazione [RRQ00]]({{< ref "_index.it.md#RRQ00" >}} "Risposta Richiesta di Quotazione") <br>
+[Richiesta di Acquisto [RDA00]]({{< ref "_index.it.md#RDA00" >}} "Richiesta di Acquisto") <br>
+[Crea ordini di acquisto dalle richieste [COAR00]]({{< ref "_index.it.md#PPV00" >}} "Crea ordini di acquisto dalle richieste") <br>
+[Argomento della Richiesta [ADR00]]({{< ref "_index.it.md#ADR00" >}} "Argomento della Richiesta") <br>
+
+
+
+
+
+
+
+
+
+
 [Info Ordine di Acquisto con Pagamento Anticipato [IOAP00]]({{< ref "_index.it.md#IOAP00" >}} "Info Ordine di Acquisto con Pagamento Anticipato") <br>
 [Info Completa Ordini di Acquisto [ICOA00]]({{< ref "_index.it.md#ICOA00" >}} "Info Completa Ordini di Acquisto") <br>
 [Ordini di Acquisto Abbinati [OAA00]]({{< ref "_index.it.md#OAA00" >}} "Ordini di Acquisto Abbinati") <br>
