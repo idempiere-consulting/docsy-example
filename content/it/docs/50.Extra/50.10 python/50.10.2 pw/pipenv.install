@@ -1,3 +1,0 @@
-pip install --user pipenv
-cd project_folder
-pipenv install requests
