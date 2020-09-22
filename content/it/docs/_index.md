@@ -15,10 +15,10 @@ Processi
  Utilizzato in : Ordine di Acquisto e Ordine di Vendita
 
 In caso di ordine in elaborazione o completato o riaperto è possibile azzerare la qtà impegnata a livello di magazzino.
-### Completa Ordine  [PR.402](script)
+### Completa Ordine  [PR.402] (script)
  Utilizzato in
 
-### Completa Fatture [PR.403](script)
+### Completa Fatture [PR.403] (script)
   Utilizzato in
   
 ### Riaprire Fattura [PR.404]
