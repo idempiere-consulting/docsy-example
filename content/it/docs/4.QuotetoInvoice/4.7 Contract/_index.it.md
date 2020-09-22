@@ -29,20 +29,6 @@ La Info Window permette di selezionare i contratti di vendita apportando anche d
 [{{< figure src="/image/IfoContrattodiVendita.png"  width="850"  >}}](/image/IfoContrattodiVendita.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-## Scheda Business Partner [ICV00]
-[{{< figure src="/image/SchedaBP0.png"  width="850"  >}}](/image/SchedaBP0.png)
-
 ## link esterni
 ---
 ## Riferimenti
