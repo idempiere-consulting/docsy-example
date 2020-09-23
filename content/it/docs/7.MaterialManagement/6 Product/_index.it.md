@@ -6,13 +6,17 @@ weight : 460
 pre: "<b></b>"
 ---
 
-## Prodotto [PRD00]
+Menù Idempiere
+
+[Prodotto [PRD00]]({{< ref "_index.it.md#PRD00" >}} "Prodotto") <br>
+
+## Prodotto [PRD00] {#prd00}
 La Maschera permette l'inserimento di un prodotto.
 [{{< figure src="/image/Prodotto.png"  width="850"  >}}](/image/Prodotto.png)
 
-Caso da gestire
+### Esempi prodotto da gestire
 
-### CASO A - Barattoli con la stessa quantittà
+#### CASO A - Barattoli con la stessa quantittà
 Prodotto OLIVE NERE 
 
 * Venduto dal Fornitore A in barattoli da 1 KG  a 3,4 € al KG 
@@ -23,14 +27,14 @@ Efficare nel confrontare i listini
 Gestito internamente logisticamente come "Pezzi" 
 ossia carico 1 barattolo da 1KG 
 
-### CASO B
+#### CASO B
 
 Prodotto OLIVE NERE  [attribute]
 
 * Venduto dal Fornitore A in barattoli da 1 KG  a 3,4 € al KG 
 * Venduto dal Fornitore B in barattoli da 2 KG a 3,1 al KG
 
-### CASO C 
+#### CASO C 
 
 Prodotto Tovaglioli 
 
@@ -40,7 +44,7 @@ Consumo a confezioni
 
 opzione caso b  - vendo a pezzi .
 
-### CASO D
+#### CASO D
 
 Prodotto Coca Cola
 
@@ -72,20 +76,20 @@ Sistema internaziona di unità di misura
 Unità di Misura
 ===============
 
-### Area
+#### Area
 `iDempiere Cod.Iso Simbolo          Descrizione`  
 `----------------------------------------------------------------------------------`  
 `m2        m2      m2               metro quadrato`  
 `km2       km2     km2              kilometro quadrato   `  
 `ha        ha      ha               ettare                    1 ha = 1hm2 = 104 m2`
 
-### Velocità
+#### Velocità
 `iDempiere Cod.Iso Simbolo          Descrizione`  
 `-----------------------------------------------------------------------------------`  
 `ms        ms      ms               metri al secondo`  
 `km/h      km/h    km/h              kilometri all'ora`
 
-### Lunghezza
+#### Lunghezza
 Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 
 `iDempiere Cod.ISO  Simbolo          Descrizione              Metri equivalenti`  
@@ -94,7 +98,7 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 `m         m       m                LM linear meter / metro   -`  
 `Km        Km      Km               Kilometro                 1000 m`
 
-### Massa/ Peso
+#### Massa/ Peso
 `iDempiere Cod.Iso Simbolo          Descrizione`  
 `----------------------------------------`  
 `g         g         g                grammo                                         0,001 kg = 10−3 kg`  
@@ -102,12 +106,12 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 `t         t         t                tonnellata                                   1 t = 103 kg`  
 `mg        mg        mg               milligrammo                                  0,000 001 kg = 10−6 kg`
 
-### Temperatura
+#### Temperatura
 `iDempiere Simbolo          Descrizione`  
 `-----------------------------------`  
 `°C        °C                Grado Celsius`
 
-### Tempo
+#### Tempo
 `iDempiere Simbolo Cod/EDI Descrizione`  
 `-------------------------------------`  
 ` d        DA    day / giorno`  
@@ -119,13 +123,13 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 ` M        WM    Work Month / Mese Lavorativo`  
 ` s               secondo`
 
-### Volume
+#### Volume
 `Simbolo          Descrizione`  
 `----------------------------------------`  
 `l         volume                  litro                          l, L        1 l = 10−3 m3`  
 `m3        metro cubo                     mc`
 
-### Quantità / Pezzi
+#### Quantità / Pezzi
 `iDempiere Grandezza               Nome dell’unità       Codice UPS        Simbolo       Equivalenza nel SI`  
 `-------------------------------------------------------------------------------------------`  
 `BX        box  Scatola / Box / Confezione`  
@@ -136,11 +140,11 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 `PAL  Pallet                 PAL`  
 `ROL Rotolo                 ROL`
 
-### Potenza
+#### Potenza
 `CV        potenza                 cavallo vapore                 CV          1 CV = 7,35 × 102 W`  
 `                                 `
 
-### Pressione
+#### Pressione
 `bar          pressione               bar                            bar         1 bar = 105 Pa`  
 `                                 `
 
