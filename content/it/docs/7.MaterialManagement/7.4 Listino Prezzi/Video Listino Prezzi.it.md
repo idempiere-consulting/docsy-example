@@ -17,3 +17,6 @@ pre: "<b></b>"
 
 ### Video - 3 BasicData Price Listini prezzi speciali [V084]
 {{<youtube RoE5pO3bIiI>}}
+
+### 3 BasicData - Cash Discount /Sconto Cassa [V016]
+{{<youtube olE6KQdOdNY>}}

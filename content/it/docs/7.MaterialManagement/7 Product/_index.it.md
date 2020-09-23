@@ -17,8 +17,6 @@ La Maschera permette l'inserimento di un prodotto.
 [{{< figure src="/image/Prodotto.png"  width="850"  >}}](/image/Prodotto.png)
 
 
-
-
 ### Costo del Prodotto a Standard e Medio Fattura
 
 
