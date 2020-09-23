@@ -8,11 +8,14 @@ pre: "<b></b>"
 
 ## Video - 7 Gestione Materiali
 
-### Video - 7 Gestione Materiali - BasicData Prodotto Inserimento lotto
+## Video - BasicData Prodotto Inserimento lotto [V095]
 {{<youtube voBwasAboM4>}}
 
-### Video - 7 Gestione Materiali - BasciData Prodotto Supplementary Product da rivedere
+## Video - BasicData Prodotto Gestione Quantità Default per Packaging   Gestione con Codice a Barre [V096]
+{{<youtube IkfERa-Fkfw>}}
+
+## Video - BasciData Prodotto Supplementary Product da rivedere [V097]
 {{<youtube k2EyCK0CBJ0>}}
 
-### Video - 7 Gestione Materiali - BasicData Prodotto Gestione Quantità Default per Packaging   Gestione con Codice a Barre
-{{<youtube IkfERa-Fkfw>}}
+## Video - BasicData Crea Prodotto da Barcode [V115]
+{{<youtube o040_55_F-Q>}}
