@@ -160,7 +160,7 @@ la Maschera permette la creazione di un gruppo di fatture.
 ## Controllo Bolla Fattura [CBF00] {#CBF00}
 La Info Form permette la generazione della fattura dal movimento di entrata merce.
 [{{< figure src="/image/FatturazioneBatch0.png"  width="850"  >}}](/image/FatturazioneBatch0.png)
-## Fattura Abbinata [FABB00] {#ICFA00}
+## Fattura Abbinata [FABB00] {#FABB00}
 La Maschera permette la visualizzazione del processo di abbinamento delle fatture generate da movimento di magazzino.
 [{{< figure src="/image/FatturaAbbinata0.png"  width="850"  >}}](/image/FatturaAbbinata0.png)
 
