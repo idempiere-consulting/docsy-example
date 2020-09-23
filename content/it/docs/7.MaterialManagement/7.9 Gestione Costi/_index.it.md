@@ -9,6 +9,11 @@ pre: "<b></b>"
 ## Costo Prodotto [CP00]
 La Maschera permette di associare il costo da attribuire al prodotto.
 [{{< figure src="/image/CostoProdotto.png"  width="850"  >}}](/image/CostoProdotto.png)
+
+
+
+
+
 ## Crea registrazione del costo [CRDC00]
 Il Processo permette una attribuzione raggruppata di costi al prodotto.
 [{{< figure src="/image/CreaRegistraizonedelCosto.png"  width="850"  >}}](/image/CreaRegistraizonedelCosto.png)

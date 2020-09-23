@@ -9,10 +9,18 @@ pre: "<b></b>"
 Menù Idempiere
 
 [Prodotto [PRD00]]({{< ref "_index.it.md#PRD00" >}} "Prodotto") <br>
+[Ricerca EAN per creazione prodotto [RECP00]]({{< ref "_index.it.md#RECP00" >}} "Ricerca EAN per creazione prodotto") <br>
 
-## Prodotto [PRD00] {#prd00}
+
+## Prodotto [PRD00] {#PRD00}
 La Maschera permette l'inserimento di un prodotto.
 [{{< figure src="/image/Prodotto.png"  width="850"  >}}](/image/Prodotto.png)
+
+
+
+
+### Costo del Prodotto a Standard e Medio Fattura
+
 
 ### Esempi prodotto da gestire
 
@@ -152,5 +160,8 @@ Tipo um idempiere \[LE -length \] nessuna um inserita in idempiere
 
 [Category:Documentazione]: Category:Documentazione "wikilink"
 
+## Ricerca EAN per creazione prodotto [RECP00] {#RECP00}
+La Window Form permette la ricerca del prodotto partendo da un codice a barre al quale il prodotto stesso è associato.
+[{{< figure src="/image/RicercaEANCreazioneProdotto.png"  width="850"  >}}](/image/RicercaEANCreazioneProdotto.png)
 
 
