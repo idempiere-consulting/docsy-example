@@ -9,21 +9,12 @@ pre: "<b></b>"
 Menù Idempiere
 
 [RMA Fornitore [RMAF00]]({{< ref "_index.it.md#RMAF00" >}} "RMA Fornitore") <br>
-[Info Completa Fatture di Acquisto [ICFA00]]({{< ref "_index.it.md#ICFA00" >}} "Info Completa Fatture di Acquisto") <br>
-[Info crea fattura Acquisto da Entrata Merci [ICFAE00]]({{< ref "_index.it.md#ICFAE00" >}} "Info crea fattura Acquisto da Entrata Merci") <br>
-[Fatturazione Batch [FB00]]({{< ref "_index.it.md#FB00" >}} "Fatturazione Batch ") <br>
-[Controllo Bolla Fattura [CBF00]]({{< ref "_index.it.md#CBF00" >}} "Controllo Bolla Fattura") <br>
-[Fattura Abbinata [FABB00]]({{< ref "_index.it.md#FABB00" >}} "Fattura Abbinata") <br>
+[Reso Fornitore [REF00]]({{< ref "_index.it.md#REF00" >}} "Reso Fornitore") <br>
 
 
-## RMA Fornitore [RMAF00]
+## RMA Fornitore [RMAF00] {#RMAF00}
 La Maschera permette l'attivazione della procedura di Reso al Fornitore.
 [{{< figure src="/image/RMAFornitore.png"  width="850"  >}}](/image/RMAFornitore.png)
-## Reso Fornitore [REF00]
-La Maschera permette la registrazione della Nota di Accredito del Fornitore.
-[{{< figure src="/image/ResoFornitore.png"  width="850"  >}}](/image/ResoFornitore.png)
-
-
 
 ## Nota di Accredito Fornitore
 ##  1. Fase d'import file xml
@@ -46,4 +37,15 @@ i_invoice.setTaxIndicator(lineaFattura.getAliquotaIVA().toString());
 
 Il filtro di ricerca si basa su 
 *"IsDefault='Y' AND Parent_Tax_ID IS NULL AND SOPOType='B' AND Rate=?"*
+
+
+
+
+## Reso Fornitore [REF00] {#REF00} 
+La Maschera permette la registrazione della Nota di Accredito del Fornitore.
+[{{< figure src="/image/ResoFornitore.png"  width="850"  >}}](/image/ResoFornitore.png)
+
+
+
+
 
