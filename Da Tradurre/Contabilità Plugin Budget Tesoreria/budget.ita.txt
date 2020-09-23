@@ -1,0 +1,1655 @@
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+BILANCIO MODERNO             
+
+PER ADEMPIERE / IDEMPIERE
+
+ 
+
+INTELLIGENZA SU MISURA PER IL TUO ERP
+
+-
+
+UNA GUIDA TOTALE
+
+ 
+
+di REDHUAN D. OON
+
+www.red1.org
+
+ 
+
+ 
+
+Doc versione 1.2
+
+2 luglio 2014
+
+
+AVANZARE CON LA MIGLIORE COMUNITÀ ERP NEL MONDO
+
+Compiere dal 1999, con progetti fork nel 2006 (ADempiere) e 2012 (iDempiere) *
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Ora pienamente supportato da TrekGlobal, USA e SYSNOVA, Bangladesh
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* iDempiere è fuso da due forcelle piuttosto buone della famiglia Compiere: GlobalQSS-361 e HengSin-OSGi
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sponsor e d b y              
+
+ 
+
+BANGLADESH
+
+www.sysnova.com
+
+ 
+
+ 
+
+ 
+
+Le 3 leggi del rosso1:
+
+L'informazione è gratuita
+
+DEVI SAPERE
+
+Le persone non lo sono
+
+DEVI PAGARE
+
+Collaboratori sono Priceless
+
+DEVI ESSERE
+
+
+SOMMARIO
+
+Introduzione 7             
+
+Controllo intelligente nel moderno ERP 7              
+
+Moderna pianificazione del budget 7              
+
+Comprensione della soluzione totale 8              
+
+YouTube Movie Resource 11              
+
+Licenze e considerazioni commerciali 11              
+
+Caratteristiche 12             
+
+Controllo incrociato dei documenti 12              
+
+Budgeting lato vendite 12              
+
+I ricavi base budgeting 13              
+
+Formula di tendenza 14              
+
+Alternative alle entrate 14              
+
+Coprendo tutti gli scenari 15              
+
+Importo del budget fisso tradizionale 16              
+
+Base anno e mese e Pro Rata 16              
+
+Ricerca Year-OnYear (YOY) 17              
+
+Tracciabilità del prodotto e della quantità 19              
+
+Regole del prodotto Avvertenza 23              
+
+Accoppiamento allentato con ERP 24              
+
+Caricatore di importazione 24              
+
+Installazione 26             
+
+Download 26             
+
+Disinstallazione 26             
+
+ADempiere 361 versione 27              
+
+Modifiche al dizionario delle applicazioni (AD) 28              
+
+Impostazione del configuratore del budget 29              
+
+Definizione di una regola di bilancio 30              
+
+Funzione di traduzione 32              
+
+Test-Drive 34             
+
+Esercizi del processo di acquisto 34              
+
+Esercizio sui documenti associati 36              
+
+Stima delle entrate fisse 38              
+
+Esercizio base percentuale 40              
+
+Test dei fatti contabili sulla popolazione 41              
+
+
+Riferimento per l' applicazione 43              
+
+Dizionario delle applicazioni 43              
+
+Entrate degli anni precedenti 45              
+
+Entrate dei mesi precedenti 45              
+
+Importi delle entrate nel codice 46              
+
+Chiave delle entrate 46              
+
+Base percentuale 46              
+
+Stop Excess 46              
+
+Interruttore Pro Rata 46              
+
+Criteri nella regola di bilancio 47              
+
+Criteri di corrispondenza 47              
+
+Param trimming 48              
+
+Caso ambiguo 48              
+
+Tracciamento per organizzazione 49              
+
+Tracciamento per periodo 49              
+
+Tracciato da Transazione vendite 50              
+
+Tracciato dal prodotto 50              
+
+Seguito da quantità 50              
+
+Registrazione contabile generale 51              
+
+Bilanciamento del debito / credito 51              
+
+Riferimento del codice sorgente 52              
+
+Progetto Dizionario delle applicazioni (AD) 52              
+
+Considerazione sul progetto 53              
+
+Design funzionale 54              
+
+Il processo di abbinamento 56              
+
+Test di idoneità 57              
+
+Script di storie automatizzati 57              
+
+Copertura del codice di prova 57              
+
+Risultati del test 58              
+
+
+ 
+
+C'è qualcosa che devi sapere sull'autore
+
+ 
+
+Ho iniziato come un COBOL programmatore sul stupidi terminali collegati ad un mini mainframe nei primi anni '80, che vive certamente noioso giorni, che ho ucciso per flirtare con più posti di lavoro interessanti, come diventare un insegnante di inglese, attivista politico cum speaker-scrittore, mettendo come un candidato parlamentare contro il ministro delle finanze nel 1986, perse prontamente , finendo con uno spirito più stabile fondando una famiglia alla curva del decennio facendo affidamento sulla vendita di PC e tessuti per batik e persino tende da campeggio. Poi mi è stato resuscitato con l'avvento di Internet a metà anni '90, lavorando come webmaster per una grande banca, poi con il crollo delle dot-com a cavallo del millennio, lasciato per morto in un periferia Farm- terreni, l'allevamento di tilapia pesce e ortaggi da coltivazione per autoconsumo. Nel 2003, mi è stato introdotto per Compiere ed il seguente anno cominciato contribuendo tutorial sul sfatare la nebbia fitta sotto il suo cofano. Via il mio sito web creato appositamente per inviare i miei file PDF e gestire una crescente comunità di intorno esso, ho intemperie attraverso sottili , piuttosto che di spessore, quando il settembre del 2006, Compiere è stato venduto ad un chiuso commerciale entità, lasciando l'elevato comunità, ma abbastanza furioso per chiedere io a guidare una rivolta per biforcarla come ADempiere. Sono rinato mentre ero alle prese con un mondo nuovo di zecca, ingoiando il più possibile nel profondo mare blu del pranzo libero contro la libertà di una comunità di software open source integrata con codici Java, script SQL, diversi domini ERP, progetti, problemi e nuove esperienze. Ottengo ad andare in giro per il mondo per tre volte, trekking di 23 paesi negli ultimi tempi, lavoro-ing stranamente, appeso su di una rapida crescita in linea Web. Ma si è di nuovo in questa periferia terreni agricoli che cerco di difendere la mia passione per perfezionare il mio mestiere come un Jedi combattere il lato oscuro con la condivisione della conoscenza libera. Non è stato facile e quando sono quasi andato nel lato oscuro, in cerca di un lavoro diurno, ho ricevuto un'e-mail da un grande sostenitore del Bangladesh che mi chiedeva come possano aiutare a sponsorizzare i miei giorni di combattenti per la libertà. Questo è stato verso la fine del 2010, il mio più buio ora, e dal momento che allora SYSNOVA continuo sostegno del mio passatempo ha risparmiato mi ampio respiro spazio per continuare questo sogno di uccide il SAP dinosauro, un bel giorno.
+
+Se si desidera più di mia missione e sostenere lo più si può raggiungere me a red1@red1.org
+
+Grazie per sostenere la libertà.
+
+ 
+
+Che Ether / Dharma / Tao / Allah ci benedica tutti nella sua conservazione. red1
+
+Kuang, Selangor
+
+ 
+
+12 maggio 2014
+
+
+ 
+
+INTRODUZIONE
+
+ 
+
+Controllo intelligente nel moderno ERP
+
+Oggi, il mondo di ERP applicazioni è recuperando fino con moderni e versatili esigenze. V'è la necessità di controllare la spesa e di solito un bilancio del sistema verrà venire a mente. Ma non ci sono vincoli di velocità e cambiando l'ambiente in molte moderne aziende di oggi in cui non alcun bilancio sistema farà fare. V'è una necessità per la proattiva e preventiva pianificazione piuttosto che post- mortem e disaster recovery dopo il fatto. V'è una necessità per la intelligente di controllo.
+
+ 
+
+Moderna pianificazione del budget
+
+Bilancio di pianificazione e di monitoraggio è sempre stato fatto in un passivo maniera in cui le figure ei numeri sono impostati prima le imprese operazioni iniziano per l' esercizio dell'anno. Ma tali previsioni Be- vengono irrilevante a causa di cambiare le condizioni di come le attività o operazioni progressi, si potranno prendere tempo per resettaggio. Un moderno di bilancio del sistema dovrebbe essere più dinamico in cui essi prendono la base del budget di pianificazione quali come entrate in conto.
+
+Alcuni esperti anche andare più a dire che un moderno budget del sistema dovrebbe essere in tempo reale come ble pos- dove si può prendere figure to-date o nei precedenti mesi per rotolare il budget. Così questo mese budget viene regolata in base alla la prestazione come di ultima serie di mese di.
+
+Di Naturalmente , non ogni mese, nel l' anno è uguale e in certi momenti del l' anno, alcune attività sono evidenziati portando a specifiche transazioni e di spesa. Ci sono feste stagioni, alta vetta e bassi picco momenti di l' anno. Così un anno-su-anno, mensile concetto sarebbe essere l'ideale.
+
+La buona notizia è che ora siamo qui con questo plugin qui sia per ADempiere che per iDempiere. Si è fatto da sé tramite una certa linea di ricerca e di parlare con i reali commercialisti e busi- ness utenti nel nostro progetto.
+
+ 
+
+
+ 
+
+Comprensione della soluzione totale
+
+Molti hanno idee su un totale di soluzione che si rivolge per ogni budget esigenze. E di solito si siedono in un complesso Excel foglio di calcolo. La sfida è non solo venuta fuori con un una dimensione adatta tutti, ma per trasmettere il potere di uno strumento per le masse in un semplice modo. Quando qualcosa prova a fare every- cosa, esso diventa complessa e difficile da imparare. La sua piena potenza sarà non essere realizzato se adeguata stru- mento per capire di che è non è dato. Sebbene questa guida rende tutti i dettagli possibili, l'elevato livello e avviamento comprensione di esso è vitale. Così ho affinare la mia abilità in arte per visualizzare per esem- pio la voce di livello di menu azione piano di sotto di aiuto verso quel fine.
+
+
+
+ 
+
+Una volta che si è installato il bilancio del modulo, si dovrà vedere un nuovo menù, Budget Vendite Planning che consente si di configurare alcune impostazioni dove si può poi pianificare le tue budget regole per qualsiasi scenario nella vostra azienda o organizzazione che centri in tutto le transazioni e il generale libro mastro. È possibile anche pianificare il vostro budget su un foglio di calcolo e caricarlo esso tramite l' importazione di bilancio.
+
+Successivo Pagina noi saltiamo direttamente ad un 'con la fine in mente' nelle nostre schede immobiliari che mostra intorno alla uscita mes- saggio di dialogo, illustrando i punti salienti della del bilancio del modulo e molti dei suoi freddi caratteristiche, con il bilancio Configurator e Budget pianificazione scheda di seguito è per comodo riferimento in questa guida. Vedere se si può riferire alcune delle le voci tra le immagini. I numeri tenere traccia delle le stesse caratteristiche come essi sono ulteriormente spiegati in seguito. Si prega di segnalare a me qualsiasi errore che io possa aver trascurato o fornire migliori idee sul miglioramento di esso, come si inizia a digerire questa guida.
+
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+V'è un altro bel uno schermo alcune pagine giù dal titolo 'copre tutti gli scenari'. Si è a pagina 15 al il momento di questa scrittura.
+
+ 
+
+
+ 
+
+Questo PDF manuale è scritto in morbido copia per consentire collegamenti ipertestuali per semplice click-thru per le risorse descritte. La scrittura stile è in miei soliti noti (auto-vantarsi diritti) colloquiale moda per evitare stato asciutto e troppo tecnico nel presentare nulla. Si è anche al fine di evitare il dolore di noioso emotivo terrore io ricevo ogni volta che ho a documentare questo molto. Così potrebbe , come pure lasciare che alcuni flusso succhi di frutta. Tuttavia lungo tempo seguaci si noterà che io ho tagliato fuori gli scherzi e le foto di mio exploit in questo PDF. Beh, io non lo so. Dovrei ? Mi sento questo bilancio modulo è troppo incontaminata che io faccio , non voglio a distrarre con niente altro.
+
+Io ho diviso il contenuto di grandi titoli come visto nella la tabella di contenuti . In primo luogo, come un totale Guida io voglio a inserirsi nel persino il codice di esporre. Anche come la mia molto prima originale enorme creazione, mentre altri sono sempre stati 3 ° partito il lavoro che mi converto o lavorare su, questo è fatto esclusivamente da me dalla terra in su per entrambi ADempiere e iDempiere. Si è in sé piuttosto un risultato e mi piace incoraggiare qualsiasi cinica pari revisione di cui io essere onorato se mi faccio ricevo alcuna. Lodi di corso sono ugualmente benvenuti.
+
+Questa Introduzione tentativi per dare l' utente e sviluppatore allo stesso modo di una buona voce di alto livello di punto di cogliere questo modulo, soprattutto in aiutando la decisione presto su, se questo modulo è la pena di esso o praticabile per esame , senza nemmeno leggere ulteriormente. Così ho fatto quelli ad alto livello un'immagine di riferimento guida con rosso dot numeri di correlazione come ogni funzione è rappresentata sul l' interfaccia utente. Ho quindi procedere ad utilizzare gli stessi rossi puntini per marcare la particolare spiegazione dei i principali ture fea-. Ho scelto di lasciare fuori tecnico discussione su ogni caratteristica per un successive sezioni in cui si richiede più esperti di riferimento.
+
+Ho fatto un 'Test Drive' sezione per svolgere una due volte vantaggio: per consentire qualsiasi utente per facilitare in questo passo del modulo per passo; e per ottenere me a confermare che manualmente che esso funziona di cui mi scopro runtime Tical pra- bug o problemi e potevo risolverlo è di conseguenza. Il " Riferimento applicazione " aiuta a spiegare alcuni importanti progetti di architettura per una comprensione più profonda .
+
+La 'Fonte codice di riferimento' è dove mi espongo la chiave fonte di codice e come o perché ho intenzione di loro quel modo. Esso si è evoluto attraverso la mia propria iterativo recensione in cui alcuni hanno sottoposti ing refactor- per sempre mantenere la visibilità e la leggibilità del del Codice in mente. Ho sempre ricordo il mantra grida di 'Documento tuo codice! Rendere è facile da capire l'inglese! Un metodo, un compito! Renderlo riutilizzabile! '. Certamente si può mai essere la mia intenzione di rendere inaccessibile il codice che vi darà è uno dei primi tomba. Infine, 'FitnesseTesting' è di vitale importanza non solo per risparmiare tempo , ma danno la garanzia di questo mo- di ule qualità.
+
+ 
+
+
+ 
+
+YouTube Movie Resource
+
+Io ho fatto alcuni film mentre si fa questo progetto in corso. Qui sono i collegamenti a ciascun relativo filmato:
+
+Budget360 per ADempiere http://youtu.be/stucPHLJwyo
+
+ 
+
+Test FitNesse su ERP budget http://youtu.be/J3fGyeQ4Rrg
+
+ 
+
+Budget Piano Lookup Calcolatrice http://youtu.be/U0Mm4rCsc2s
+
+ 
+
+ 
+
+Licenza e considerazione commerciale
+
+Questa libertà è esteso solo per non commerciale utilizzo come esso è non è gratuito come nella libera pranzo. Licenza sovvenzioni possono essere ottenuti da me come l' originale modulo di autore. Al il momento mi sto concedo l'uso gratuito per soltanto i collaboratori e gli sponsor del del iDempiere progetto. Altri saranno essere negoziabili su un caso per caso base. Io continuo a ripetere questa questione al giorno d'oggi a causa della la grave malinteso ing da entrambe le parti su ciò che è aperto fonte e come noi facciamo i soldi in esso. È possibile leggere ulteriori sul l' equivoco a mio preferito di riferimento da grande uomo stesso a questo link:
+
+http://www.gnu.org/philosophy/selling.html
+
+ 
+
+Spero che questo chiarisca un'altra incomprensione o leggenda urbana secondo cui il software libero è senza licenza o con licenza gratuita (senza pagamento) . Il diritto d'autore avviso in questo PDF documento, si estende sopra il codice come autore, in cui il disegno di novità e originali lavoro resti protette da universale convenzione paternità e quindi rimane l' intellettuale di proprietà del l' autore e non aperta a copiare o Dis tributato senza esplicita autorizzazione da autore.
+
+Di Naturalmente si è invitati a forcella e il lavoro sul tuo proprio, ma si non si può cambiare la condizione indicata in esso, che mantiene l' originale fonte di collegamento e di licenza clausola di uso non commerciale. Gli globali utenti a larga sono in libertà per scegliere il vostro versione , anche se si fa in modo sollecitare in proprietà private , senza la clausola, che ancora forniscono accettabili di mercato forze quali come lo spostamento di altri ERP per ottenere per il mittente. Di solito il mittente è contento con il 'google gravita' gene- erated da forcelle, per essere la prima mossa e il mantenimento di un alto mano è più facile quando il con- distri- continua a fornire l'utilità e beneficio per il mondo a beneficio e attestano al loro re - originalità, capacità e competenza. Questo dopo tutto è il migliore e più progressiva phi- losophy di un aperto e liberamente fiorente mercato.
+
+ 
+
+
+ 
+
+CARATTERISTICHE
+
+ 
+
+Controllo incrociato dei documenti
+
+ 
+
+1
+
+Il design potente ed elegante ereditato da Compiere (di proprietà di Jorg Janke 1999-
+
+2006) permette il budget di controllo durante l' acquisto per verificare attraverso fatture e pagamenti che rientra nell'ambito degli stessi definiti budget di controllo criteri. Tutti e tre i tipi di documento utilizzano la stessa struttura di tabella, prima nel formato di dettaglio principale, e in seguito in gran parte delle sue proprietà come Business Partner, Periodo o Data / ora di ricorrenza, tipo di Progetto, Attività o Campagna, per il livello master ; e Prodotto, Qtà, Importo del prezzo per il suo livello di dettaglio . Così i corrispondenti criteri della regola di bilancio possono essere riutilizzati attraverso questi documenti piuttosto spontaneamente. L'unica preoccupazione è non a sovrapporsi alla stessa operazione di ciclo, cioè una fattura o di pagamento derivante da un Ordine sono la stessa uno e dovrebbe non essere conteggiato come diverse transazioni o più di uno.
+
+
+
+ 
+
+ 
+
+Budgeting lato vendite
+
+ 
+
+2 Un altro potente aspetto dalla progettazione è che la vendita lato cioè di vendita Ordini, del Servizio assistenza clienti fatture, e AR pagamenti sono semplicemente indicato sia per isSOTrx impostato per true (vedi schema sopra) che transazione mezzi vendite in ordini di vendita e fatture e AR pagamenti. Simile al acquisto lato, tutte e tre tipo di documenti sono la stessa struttura , ma l'isSOTrx impostato su false. Entrambi di vendita Ordini e acquisto ordini sono fatte da dei della stessa C_Order nel il database. Lo stesso con C_Invoice per entrambi fornitore e clienti fatture. E in terzo luogo C_Payment. Per- tanto dal monitoraggio della IsSOTrx bandiera, siamo in grado di definire nel nostro bilancio sistema per la vendita lato operazioni in cui bilancio infrazioni sono considerati positivi come raggiunto o superato vendita bersagli.
+
+ 
+
+
+ 
+
+Budgeting basato sulle entrate
+
+ 
+
+3
+
+Questo modulo si discosta dalle nozioni tradizionali sul budgeting in ERP consentendo anche
+
+ing l' entrate per essere previsto per il presente anno come una base di quantità per utilizzare nel il bilancio siste- TEM. La base delle entrate è una stima annuale basata sul numero di anni o mesi precedenti .
+
+
+
+ 
+
+1 3             
+
+In primo luogo, un Entrate chiave viene scelto per essere il contabile elemento che una percentuale di essere insieme                            
+
+contro. L'intervallo per i fatti relativi alle entrate è impostato in Entrate precedenti o Precedenti
+
+2
+
+Entrate mensili . Nella regola del budget , l' utente può impostare un riferimento alternativo come percentuale              
+
+base ( 5 - vedi anche argomento successivo).
+
+Le percentuali sono utilizzati durante l'acquisto e generale Ledger distacco nei confronti del reddito cal- colati. È possibile impostare le regole per applicare a determinate categorie quali come business partner, Progetto, tività Ac-, campagna o da Periodo mese (vedi successivo paragrafo seguente). È possibile anche effettuare una combinazione di questi criteri.
+
+La stima delle entrate può essere effettuata in tre modi:
+
+ 
+
+1. Zero impostazione significa che un anno stima è non utilizzato e un altro nei pressi di mensile base in utilizzato.
+
+ 
+
+2. 1 a 100, dove si sta per il numero di anni a cercare di nuovo per l'entrate stima per essere basata su. 100 o più sarà essere trattati come indicato in (3) di seguito.  
+
+3. Un importo di entrate fisse da 100 in poi. 
+
+ 
+
+
+ 
+
+Formula di tendenza
+
+ 
+
+4 Il reddito di base, da precedenti anni o mesi è solo una serie di versione. Siamo in grado di sottoporlo secondo il seguente       
+
+Selezione BudgetTrend :
+
+ 
+
+1. Accumulativo
+
+ 
+
+2. In media 
+
+ 
+
+3. Come un media sulla parte superiore della della scorso anno le entrate  
+
+4. Tasso di variazione progressivo 
+
+ 
+
+5. Year-to-date , che è il reddito così lontano per il presente anno.  
+
+La percentuale figura è non soggetta a variazione in quanto essa è relativa. Per fisso importo figura, non cambiare anche come esso viene fissato sotto presupposto per l' anno e non anni varia sono applicabili. Vedi anche Pro Rata Rule in seguito.
+
+ 
+
+Alternative alle entrate
+
+ 
+
+5 Questo risponde alla domanda, “Cosa se entrate è non è l' ideale di base per set contro per certo budget percentuali regole?” Dire per esempio, se il budget per l'elettricità è dipendente sulla build- ing di asset o di proprietà del valore. Ora, questo è già possibile in questo meraviglioso modulo di budget tramite il campo di selezione dell'elemento contabile PercentageBase . Mentre entrate rimane un difetto costante, qualsiasi nuova regola che specifica la sua propria preferenza sarà raggiungere a ignorare il difetto con la sua propria scelta. Questo è utile anche per l'acquisto o vendita di movimentazione in cui determinati criteri in l' attività possono essere impostate contro una diversa gamma di conti.       
+
+ 
+
+
+ 
+
+Coprendo tutti gli scenari
+
+
+
+Ulteriore applicazione della della percentuale di base, è un sottostante 'calcolatrice' scheda chiamato Budget Riferi- mento che vi permetterà qualsiasi insieme di Contabilità Facts possibile. Accoppiato con l' on-the-fly generato descrizione informativa di ricerca, la pianificazione diventa più emozionante. Ogni record di riferimento può essere impostato per entrambi +. -. *, / , Che sono tutti i matematici operatori di più, sottrarre, moltiplicare e di- vide.
+
+La scelta di conto ID e di quello periodo gamma che si sia delimitato su una o entrambe le estremità sono possibili. L' assenza di una contabilità ID permette il riferimento di essere solo un determinato importo o denominatore seconda sul l' operatore. Questo dovrebbe consentire un sacco di possibilità per fare riferimento a. Un filmato per spiegare il funzionamento interno di questo è anche realizzato su http://youtu.be/U0Mm4rCsc2s .
+
+Gli sviluppatori possono comunque estendere ulteriormente il codice con un'espressione condizionale come 'If <field.value>
+
+= o più di Importo, quindi aggiungi Importo2 '. Io voglio esporre di più sotto la sorgente codice di riferimento
+
+per consentire agli sviluppatori di vedere come estendere il codice a questo scopo.
+
+ 
+
+
+ 
+
+Importo del budget fisso tradizionale
+
+ 
+
+6 Questo modulo può ancora facilmente utilizzare il tradizionale budget di importo fisso . Si tratta di una questione di mettere in un credito o di debito importo al posto del della percentuale di valore. L' impostazione della categoria e dei criteri rimane applicabile. Così questo rende il modulo versatile , dove l' utente può avere una scelta Be- tween ricavi percentuali e fisse quantità di bilancio i dettagli.       
+
+ 
+
+Base anno e mese e Pro Rata
+
+Qualsiasi importo budget definito o in percentuale in una regola si assumerà per governare per l' intera del del presente anno si è in operazioni.
+
+L' eccezione sarà sia quando si è
+
+definito per un determinato periodo di mesi o diviso per 12 per un pro -rata di impostazione. Questa pro rata impostazione anche scatta automaticamente effetto nel corso di una precedente misura mese di riferimento come il reve- risultante nue è destinata ad essere un mensile stima per il presente mese di operazioni. Così qualsiasi non peri- odica regola deve per essere ripartito proporzionalmente prima che esso possa essere applicato.
+
+Un'altra eccezione è quando la regola ha un criterio di periodo o si dice che sia solo per quel mese di periodo . Si tratta quindi di un mensile figura.
+
+Ad esempio, un 10% Salario budget per il progetto 'Threadstone' al periodo marzo 2014, in cui entrate annuali stima è $ 120k sarà ottenere tutte contabile I fatti per Stipendio per quel mese aggiunto fino a l' attuale GL invio di stipendio ad essere non più di $ 1 K.
+
+Per un determinato budget quantità, esso è previsto per essere in quel mese, ha dichiarato nel il periodo di. Quando ing check- per tutti gli altri documenti per totale su insieme con l' nel processo del documento, esso sarà solo accedere a tale mese in questione. Ad esempio, un acquisto budget di $ 300 per il mese di marzo, 2014 che è in progetto 'Threadstone' si ottiene tutti i simili progetti OP nel attualmente marzo, 2014 recuperati e le loro grandi totali insieme con il presente PO essere non più di $ 300.
+
+Durante precedenti mesi utilizzati come il reddito stima, dove Periodo mese è non impostata, sia rEF- erenza e le transazioni vengono presi come definito, soggetto a BudgetTrend .
+
+ 
+
+
+ 
+
+Ricerca Year-OnYear (YOY)
+
+ 
+
+7
+
+Con il passare degli anni, è possibile consultare il database delle prestazioni contabili degli anni precedenti
+
+durante il processo di pianificazione del budget, utilizzando l'opzione del configuratore del budget della casella di controllo Mese-Mese . Esso gruppi gli stessi mesi di precedenti anni, applicare il BudgetTrend selezione e assegnare per un nuovo budget periodo come specificato dal l' utente. La seguente tabella fornisce un quadro che cosa si intende per base annua sotto il MonthToMonth funzione.
+
+In fine per vedere che lavoro si deve avere i dati di cui sopra, ma se siete impazienti come me, mi ha fatto un test di popola- fine processo per fare così. Dal sottomenu budget si può cliccare su Popola Account e scegliere cosa e come a popolare la tabella Fact_Acct con. Nel l' immagine mostrata sulla destra si sta creando 3 anni di Cash voci.
+
+ 
+
+
+
+ 
+
+
+ 
+
+Dopo aver creato alcuni esempi di conteggio di fatti ac, è quindi possibile impostare il flag configuratore MonthToMonth come mostrato qui. Poi si deve per ripristinare l'istanza di bilancio da un processo presso il sottomenu.
+
+Quindi nella scheda Piano di budget - Regola è possibile visualizzare la Ricerca funzionante ogni volta che si fa clic sulla casella Generato . Nota che si deve selezionare un mese futuro come mostrato a Periodo ( questo screen-shot è stato fatto nel mese di giugno-14).
+
+ 
+
+Una demo dettagliata può essere vista sul mio film su YouTube qui http://youtu.be/stucPHLJwyo .
+
+ 
+
+Siate attenti che si fa , non si preme il Generated campo due volte consecutivamente , se si fa non desidera che impostare le cifre sulle i budget quantità o cento campi. È necessario disporre di una nuova criteri cambiamento prima cliccando di nuovo se si solo desidera per visualizzare la ricerca di valore. A due click , senza alcun cambiamento nella tra avrà influenzerà il trasferimento del l' guardato-up valore al vostro piano di.
+
+Se si accidentalmente doppio clic su di esso, si può cliccare su Annulla sull'icona che il ritorno di nuovo a precedenti valori. Quindi, solo quando si salva è che esso è persistente sulle i di database e modelli di dati.
+
+ 
+
+
+ 
+
+Tracciabilità del prodotto e della quantità
+
+
+
+ 
+
+Nel il sopra di bilancio Piano linea, io ho definito un prodotto, Hoe e impostare un budget importo di 400 . Con nessun altro criterio impostato, esso sarà significa che si deve tenere traccia ALL d'acquisto che è stato fatto per quel prodotto prima di questo. Così dal spingendo il Generated scatola, noi otteniamo su Descrizione qualche rapido introito. Dal 2002 gli acquisti sono stati pari a 663,00 contro una stima delle entrate di 520,40.
+
+Molto informativo per aiutare il pianificatore del budget. A destra è il risultato quando un ordine di acquisto di una singola Zappa tenta di essere completato.
+
+L' eccesso di avviso indica un eccesso di $ 234,25 a causa di un to tal fino ad oggi di $ 167,75. Il nome del prodotto viene anche specificato per far sapere all'utente quale prodotto è stato trasportato .
+
+Avanti ci proviamo a fare certi che , se non v'è un in più criteri quali come campagna nel il budget regola, essa sarà bypass il resto del del sacco , che sono non venduti in campagna il codice in precedenza.
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+Ora noi vediamo se è in realtà rappresentato per un singolo prodotto di prezzo al posto del l' intero acquisto Or- der , che è ora impostato per simile campagna di codice.
+
+
+
+Nota del del PO grande totale è molto più elevato , perché ho messo in un paio di Rake metalli prima di esso, e un paio di Seminatrici dopo di esso, e anche rendere esso un paio di zappe, per dimostrare l' intricata logica tiene in robuste condizioni. E ha funzionato brillantemente come indicato sul il conseguente screen-shot di seguito.
+
+
+
+Vedere come si prende solo i 2 zappe e trovato loro a costare soltanto $ 25.50 , che è ancora $ 374.50 da i $ 400 di bilancio.
+
+Ora impostiamo un'altra nuova regola che è solo una quantità solitaria di 30 per il prodotto Hoe 4 ft.
+
+ 
+
+
+ 
+
+Con nessun altro criterio che sta andando a confrontare per tutte le quantità precedenti, come il caso prima , ma questa volta per la Quantità di valore.
+
+ 
+
+ 
+
+ 
+
+Lo schermo a destra mostra come risulta molto bene.
+
+Il bilancio controllo raccoglie fuori solo il mezzo fila linea di 2 Hoes cui data aggiunta con precedente 12 qty comprato così lontano, a 14 dando ance bal- del 16 dalla del limite di 30 elementi.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anche in questo caso, a confermare con un Cam pagna codice, per testare se è davvero unico fuori del prodotto.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sì, si scopre fuori bene. Solo 2 sono selezionati per controllare esso come positivo 28 dal budget per eted 30.
+
+ 
+
+
+ 
+
+Ultimo esercizio abbiamo intenzione di mostrare in questo fresco funzione del budget del sistema è di impostare un prodotto regola con una percentuale figura, in modo che esso è misurato in base al suo costo sui ricavi.
+
+ 
+
+Senza altri criteri questo significa anche che sta prendendo in considerazione tutti gli altri acquisti per quel prodotto. Il risultato qui sotto.
+
+Dice con calma che l'acquisto totale inclusa questa transazione attuale è
+
+178,50 che ha ancora un saldo di 81,70 rispetto al limite del budget del 50% di
+
+Stima delle entrate 520.40.
+
+ 
+
+Avendo ultima po ' di divertimento, abbiamo impostato la campagna di codice in sia la regola e questo documento per individuare il prodotto.
+
+Con il codice campagna impostato, durante l'elaborazione
+
+il documento, dà la schermata qui sotto.
+
+ 
+
+Solo  2  zappe costano
+
+$ 25,50 ad oggi e che è entro il budget di 234,70. Il  totale del documento  di
+
+96.90 non viene preso completamente.
+
+ 
+
+
+ 
+
+Regole del prodotto Avvertenza
+
+Tuttavia non v'è un avvertimento quando si pianifica per questo. Di solito non ci può essere un sacco di diversi pro- dotti in distinte linee insieme in una singola operazione, ma si deve ad essere solo una regola che colpisce ogni riga. Se ci sono altre regole che riguardano altri prodotti linee, che verranno non saranno presi in considerazione una volta che la prima regola è abbinato. Ciò significa anche che il documento non dovrebbe avere altre regole sugli altri criteri del documento principale . Ad esempio nel la campagna codice impostazione, se non v'è an- altra regola con stessa Campaign codice con nessun riferimento ad un prodotto, esso sarà non prende effetto di questo documento che ha un definito prodotto. A meno di corso della transazione del documento i prodotti sono non nei budget regole, le sole della campagna codice di regole di bastoni.
+
+In altre parole, tra la verifica di altre regole che riguardano lo stesso documento di transazione , alla regola del prodotto viene assegnato un trattamento esclusivo . Se quel prodotto di bilancio passa attraverso, l' altra regola che potrebbe fallire l' operazione come un complesso sarà non essere considerato.
+
+Ecco un saggio piano nel caso che si desidera per riuscire una transazione in una spesa di bilancio. È possibile impostare una nuova regola per un diverso criterio vale a dire del progetto, e non specificare alcun prodotto definizione per essa. Poi se la transazione è anche impostato per quel progetto di codice, l' ex regola per Hoe, sia con o senza Campaign codice, sarà non essere colpiti.
+
+Quindi i pianificatori devono essere consapevoli di tali vincoli. Che se si mette su un progetto che è impostato per un diverso budget, quindi l' acquisto reparto può decidere di mettere sotto che per sfuggire alla regola che il suo prodotti di acquisto potrebbe cadere su un'altra diversa budget. Si tratta in realtà fino al il coordinamento tra gli utenti per scegliere da. In l' estremità che dovremmo essere in grado di venire su con un rapporto che dice che l'attività è stata effettuata sotto il cui budget regola. (Si veda anche il tecnico di riferimento, criteri di bilancio Rule argomenti in poi per più di dettaglio spiegazioni.)
+
+ 
+
+
+ 
+
+Accoppiamento allentato con ERP
+
+Questo modulo di budget è stato redatto sia per ADempiere 361 FINAL edition che per iDempiere ultima edizione 2.0. In entrambi i casi si utilizzano il ModelValidator o Document Type - Evento validazione che è una sorta di plug o aggiuntivo metodo per il sottostante ERP applicazione con alcuna modifica al nucleo codice. Tuttavia ci sono alcuni imperativi modifiche a qualche nucleo modello o il codice , ma questo è fatto in un add-on modo con praticamente senza toccare del del nucleo di sorta.
+
+(Altrove nei tutorial precedenti ha già notato l'approccio separato di entrambe le edizioni all'aggiunta , quindi non verrà ripetuto qui.)
+
+In entrambe le edizioni, la capacità di fare come un add-on viene ereditata da Compiere originale design stesso , che permette ogni evento in un documento tipo per ispezionare l' esistenza di richiamo di codice che gestisce tali eventi. Nel il bilancio modulo di caso, io sto facendo la chiamata da citati docu- menti presso il BEFORE_PREPARE evento , senza influenzare alcun inventario prenotazione, per fare il bilancio di controllo e rendere la risultante di notifica prima di procedere.
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Caricatore di importazione
+
+Secondo a Steven Sackett, ADAXA, il lungo termine collaboratore da Giù Sotto, veri mondo gli utenti ancora preferiscono un foglio di calcolo per pianificare le loro dati finanziari e quindi ho fatto un BudgetPlanLine im- porto loader che sarà caricare un file CSV (comma separati valori) di file in un Importa Budget modello e poi elaborano è nel bilancio Piano finestra. Di seguito è il caricatore in azione. Un campione di CSV file BudgetImportTest.csv è anche previsto nel il SourceForge repository sito.
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+L' importazione di file Loader ha nella sua lista Importa Budget formato come indicato sopra. Una volta selezionato si visualizzerà i campi abbassano nella il pannello. Quindi si può selezionare il vostro CSV file. Il campione ha una fila di intestazioni per guidare la pianificazione dei i budget linee. È necessario per rimuovere che prima fila , prima di salvarlo come un CSV file. Le colonne in l' importazione loader formato corrispondono a dei budget piano di linee e gli eventuali sub di riferimento le linee che si potrebbe desiderare di mettere in. Si potranno creare un nuovo Budget Piano di intestazione del file.
+
+
+
+Dopo aver completato l' importazione, si deve ad elaborare essa da l' importazione di bilancio finestra per visualizzare ciascun valore importato per revisione , se essi siano correttamente posizionati. Ogni valore deve essere esatto o è essere indi- cato nel l' importazione errore Messaggio di colonna in l' alto quando processo Ora il pulsante viene cliccato. Re- visualizzare i risultati in del bilancio Plan finestra. Se gli errori sono piccole, si potrebbe avere a modificare, o se essi sono un sacco, quindi eliminare e ripetere di nuovo.
+
+ 
+
+
+ 
+
+IMPOSTARE
+
+Per quei primi timer puoi imparare a configurare iDempiere da: http://wiki.idempiere.org/en/IDempiere_Debian_Installer o
+
+http://www.chuckboecking.com/blog/bid/258749/Install-iDempiere-Open-Source-ERP-on- a-AWS-Linux-Server-in-10-Min
+
+Per professionale assistenza si è altamente consigliato per contattare i creatori di cui sopra. Do resistere chiunque altro che inferiori a quelli loro tasse. A meno che non si desidera per sprecare tempo con minori dei.
+
+ 
+
+Download
+
+1. http://sourceforge.net/projects/red1/files/p2/Budget/ è dove puoi trovare il plugin e   un file zip 2Pack . V'è un README.txt file di che spiega ogni file di più preciso.
+
+2. È possibile installare l'iDempiere fascio direttamente presso l' OSGi console o Felix pannello. 
+
+ 
+
+3. Il codice sorgente per la versione di iDempiere è http://bitbucket.org/red1/org.idempiere.budget . 
+
+ 
+
+La versione FINALE 361 di ADempiere viene spiegata in seguito insieme alle fasi operative iniziali.
+
+ 
+
+Disinstallare
+
+Per qualsiasi motivo che si desidera per disinstallare il sistema che sarà essere l'inferno e il vostro ERP sarà mai essere la stessa di nuovo per fare il più grande errore nella vostra vita.
+
+Solo scherzando! Va bene, è così semplice:
+
+ 
+
+1. Eliminare la Budget360.jar nel l' pacchetti cartella.
+
+ 
+
+2. RUN_silentsetup. 
+
+ 
+
+3. Poi vai al tuo sistema di amministrazione, nel il menu della finestra appena deselezionare l' attivo di dialogo nel bilancio di pianificazione oggetto.  
+
+Il modello di budget è progettato separatamente dal core e non ha alcun impatto su nient'altro.
+
+ 
+
+Per iDempiere basta disinstallare il plugin dalla console OSGi. Non è necessario alcun run_setup.
+
+ 
+
+
+ 
+
+Versione ADempiere 361
+
+Io ho di nuovo la porta del budget del modulo per l' utilizzo con ADempiere 361 FINALE da GlobalQSS da Car- los Ruiz. Il codice sorgente è qui:
+
+http://bitbucket.org/red1/Budget360 . Puoi prendere il binario e 2pack da qui: http://sourceforge.net/projects/red1/files/p2/Budget/
+
+
+
+ 
+
+Per prima cosa prendi budget360.jar e crea una cartella sotto ADempiere_Home / pacchetti / budget / lib e posizionalo alla fine.
+
+Quindi RUN_silientsetup per farlo unire nel tuo ADempiere di base. Quindi avviare con RUN_ADempiere.bat o sh e accedere come amministratore di sistema con il solito SuperUser / System.
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+Modifiche al dizionario delle applicazioni (AD)
+
+Il prossimo è solo per ottenere le modifiche AD e il sistema di menu nel database. Pack nei Budget360_2pack.zip dal l' Packin finestra al il sistema di menu (vedi sopra). Lasciare la Up- date Manutenzione casella vuota. Esistono anche script di migrazione che ottengono lo stesso risultato se PackIn presenta errori. Gli script di migrazione sono realizzati con ID decentralizzati .
+
+Dopo questo passaggio, si può fare il solito ruolo di accesso di aggiornamento presso la GardenWorld o client di menu per ottenere che appaiono in pieno (vedi sotto). È necessario per chiudere l' applicazione e lanciare di nuovo per ottenere il ModelValidator per essere attivato , come visto nel il fondo di registro di seguito:
+
+<<BUDGET>> MODULO INIZIALIZZATO
+
+
+
+ 
+
+In iDempiere voi non non c'è bisogno di uscire o addirittura logout, ma appena inizia il fascio ID nella console. Poi solo un ruolo di accesso di aggiornamento, e nuovo login per vedere il sopra.
+
+ 
+
+
+ 
+
+Impostazione del configuratore del budget
+
+Per testare esso destra via si avrà avere la base impostazione già Packin come di seguito. Abbiamo attivato il bug De- modalità in modo che , anche se non supera il budget l' eccezione si è gettato a conferma che è pienamente funzionante. È possibile anche studiare l' eccezione messaggio per vedere se le cifre sono corrette. È possibile cambiare lo fuori durante vivo test o di produzione successiva.
+
+
+
+ 
+
+ 
+
+Alternative saranno essere per testare il mensile campo, Pro Rata interruttore e persino l' arresto in eccesso? interruttore che , se non controllato sarà non fermarsi , ma scrivere per un avviso tavolo i dettagli di eccesso.
+
+La casella MonthToMonth non viene utilizzata durante il controllo del budget . Si tratta di utilizzare come una bandiera durante Budget Planning.
+
+Si noti che la tendenza del budget è predefinita su Media. È possibile impostare su Accumulativo poiché GardenWorld ha importi bassi . Se il vostro RevenueKey è non corretto, si può cambiare esso e le percentuali si riferiscono contro di essa.
+
+ 
+
+
+ 
+
+Creazione del piano di budget
+
+ 
+
+Una volta che il codice e database di cambiamento vengono applicate, si è pronti ad usare esso. Richiamare up il bilancio di pianificazione, la finestra e impostare la principale scheda per l'informazioni qui di seguito. L' obiettivo di bilancio impostazione è obbligatoria per esso a essere utilizzato dal il bilancio del sistema.
+
+
+
+ 
+
+ 
+
+Solo un bilancio Piano può essere impostato come un TargetBudget. Se non v'è più il sistema sarà non fare alcun controllo , come si sarà lanciare un errore.
+
+ 
+
+Definizione di una regola di bilancio
+
+ 
+
+7
+
+Procediamo a definire ulteriori regole. Possiamo usare un esempio come mostrato di seguito. L' account
+
+elemento è per una regola di budget GL Journal, se lasciato vuoto è per Vendite o Acquisti.
+
+ 
+
+È possibile quindi impostare qualsiasi delle le ulteriori proprietà come ad esempio business partner , Campagna , Progetto , Riod Pe- , e Documento Org come le ulteriori criteri per impostare questa regola. Tale impostazione sarà fare è catturare qualsiasi acquisto ordine, fattura (fornitore) e AR pagamento che si adatta ai criteri da ora su.
+
+ 
+
+
+ 
+
+ 
+
+
+
+I prodotti e quantità campi utilizzati per acquisti , come pure di vendita di documenti. Si deve finire in questa regola con un controllo o limite di cifra di entrambi una fonte di credito o di percentuale. Ora basta impostare ad esempio il 30% nella la percentuale regola, insieme Campagna di primavera Mailer , e lasciare l' altro vuoto a prova di destra via. I campi riempiti sopra sono solo a scopo dimostrativo e non utilizzati in questo modo. UM e Asset è non in uso in questo bilancio sistema , ma potrebbe essere in futuro , quando definito nel il codice.
+
+La vendite di transazione campo è spuntato se si vuole per fare un Vendite documento regola invece. La base percentuale è l' alternativa per sovrascrivere la chiave delle entrate in precedenza nel configuratore del budget .
+
+
+
+ 
+
+
+ 
+
+Funzione di traduzione
+
+È possibile tradurre il nuovo modello BELS La- nel suo menu, di Windows e le schede così come i campi di conseguenza tramite le traduzioni schede in più di loro. (Switch on la Mostra di traduzione Tab nella finestra Preferenze dal il menu in alto bar.)
+
+Una volta fatto, puoi accedere nuovamente, scegliere la tua lingua e visualizzarne l'effetto. (Puoi esportare indietro l' edizione in lingua tramite il menu Import / Export traduzione.)
+
+Ho anche creato elementi di messaggio per i messaggi pop- up . Sotto il messaggio della finestra si può cercare per EntityType
+
+= Le applicazioni per visualizzare loro e traducono ogni conseguenza.
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+Alcuni della traduzione in effetti può essere visto in questo esempio, pop-up. Confronta che con l' originale di sotto di esso. E sembra che la Msg metodo ha bisogno di qualche modifica per fare via con qualche nuova linea di ingresso. Beh, a meno che funziona e tutte le impostazioni locali utente può mettere in loro preferita traduzione.
+
+(Ho già scambiato il DebugMode messaggio con la presente debug livello messaggio già exist- ing nel sistema.)
+
+
+
+ 
+
+ 
+
+È possibile vedere il reale codice sorgente consegna di questo presso il Technical sezione sotto arresto in eccesso Message Box .
+
+ 
+
+
+ 
+
+TEST DI GUIDA
+
+ 
+
+Esercizi del processo di acquisto
+
+Ora si è pronti per testare un acquisto Ordine in una serie di diversi scenari. Si noti inoltre che questo modulo di budget controlla allo stesso modo una fattura e anche qualsiasi processo di pagamento. Lo farà con i documenti indipendenti cioè non associati ad altri ordini o fatture per evitare la duplicazione di totale d'acquisto importo per che i corrispondenti criteri di del budget regola.
+
+
+
+Fai finta di acquistare da Joe Block 5 Hoes per un importo di 63,75. Completare esso e il modulo di budget verifica sarà calci in e dare una visualizzazione nel pop-up. Qui il sistema di bilancio riporta un valore negativo di -50,74 , il che significa che è in eccesso rispetto al bilancio al 30% di 43,37 = 13,01. La stima dei ricavi per 12 anni sembra piccola perché ricorda che abbiamo avuto la tendenza media su, che si dividerà per 12 anni da cui prende . L' etichetta Acquisti indica che si tratta di una regola del budget lato acquisti destinata ai documenti Ordine di acquisto , Fattura (fornitore) e Pagamento AP . L' organico Merce etichetta è la descrizione in del abbinato budget regola finestra.
+
+Prova a impostare la tendenza su Accumulativo e riavvia nuovamente l'applicazione. C'è un nuovo trick in cui si appena eseguito GenerateBudget con lo zero anni e mesi :). In iDempiere si solo aggiorna il pacchetto ID o allo stesso modo fare un manichino GenerateBudget.
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+Ora si dovrà ottenere una diversa quella che è non è un eccesso , come si è positiva 92.37 , ma dal momento che abbiamo trasformato il DebugMode su esso si darà il pop-up in ogni caso lasciare noi questo sistema più conven- iently senza rifare OP. Ciò dimostra che molte cose stanno funzionando bene. Il RevenueEstimate, 2 BudgetTrends, corrispondenti da 1 criteri, misurando il Diff tra To-Date e preventivato, e il DebugMode. Avanti ci sarà provare qualcosa non nei corrispondenti criteri. Basta impostare la campagna su nessuna e completare di nuovo. Nota il risultato qui sotto.
+
+
+
+ 
+
+ 
+
+Con il campo Campagna lasciato vuoto, vediamo che l'ordine di acquisto è stato completato correttamente. Ciò dimostra che una non corrispondenza funziona come previsto.
+
+ 
+
+
+ 
+
+Esercizio di documenti associati
+
+Ora cerchiamo di noi prova un altro documento connesso con un PO per vedere se i sistemi di controlli relativi criteri attraverso i documenti in modo che un bilancio di controllo veramente tagli in tutto e copre tutte le attività sotto un criteri impostati. Ora dal momento che abbiamo già abbiamo un elaborato PO con nessun criterio che saremo utilizzare che come un inizio. Il trucco qui è che il PO in realtà già ha due implicite criteri , che sono l' Org e Pe- riodo è stato completato, vale a dire HQ e maggio il 2014.
+
+Abbiamo ora impostato un nuovo Budget Piano regola per quei due criteri o chiunque di loro. Due può essere più utile qui perché ci piace per vedere se un più impliciti criteri realmente funziona. Qui noi siamo e notiamo che io sto usando un determinato importo di 200 invece di una percentuale per testare questa nuova funzione.
+
+
+
+ 
+
+ 
+
+Ma anche notare che con un periodo impostato, esso sarà assumerà Pro Rata base, che si significa che deve prendere solo verificarsi entro il maggio il 2014 , come per qualsiasi acquisto fatto, invece di anno-to-date. Dal momento che noi facciamo non abbiamo altri mensili dei dati, noi non può confermare che questo viene testato. Ora cerchiamo noi chiamiamo up di una voce In- (Vendor) e proviamo a completare una corrente fattura di diverso valore, dicono 7 Hoes. Di seguito è quello che otteniamo.
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+Questo dimostra che i budget di sistema si rivolge per una fattura (fornitore), DebugMode ancora lavorando a pop-up , anche se essa è positiva per dire che il totale qui di 89.25 aggiunta al la precedente com- pleted Acquisto Ordine di 63,75 dare 153.00 è non superato la BudgetAmount di 200 come definito nel la nuova budget regola. Il sistema anche garantire che i documenti analizzati cadute all'interno del presente periodo , che è dal 1 ° maggio fino al 31 maggio il 2014 per la DateOrdered e DateAcct (in fattura e pagamento documenti).
+
+ 
+
+
+ 
+
+Stima delle entrate fisse
+
+Se non ci sono entrate commerciali (solitamente registrate da vendite precedenti) nella tua storia di 12 anni, allora tu
+
+
+
+può impostare un un preciso figura come una stima. È possibile impostare per esempio, 12.000 nel il precedente Anni Entrate del del bilancio Configurator finestra. Questo vi significherà si stima un fatturato questo anno di 1.200 o di un Pro Rata mensile del valore di 1.000.
+
+In alternativa, utilizzare la percentuale di base per stabilire un'altra serie di conti come la tua 'entrate' fonte di basare le vostre budget percentuali su, e così via, attivare il Budget di riferimento scheda se più elaborata serie di calcoli è necessario.
+
+Si noti sotto il collaudo di una diretta impostazione del '12, 000' come entrate stima. Come si è sopra 99 si è preso a faccia valore esatto quantità e la risultante PO prova si apre su una corretta descrizione del l' entrate. Noi usiamo lo SpringMailer budget regola per Hoe set al 50%.
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Avanti andiamo messo un periodo in un nuova regola con nessun prodotto e cercano fuori una fattura al posto e la sua da pagare per un Grass seminatrice. Vedere di seguito si è impostato per l' attuale mese di questo schermo colpo di del test.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Nota sotto il $ 100 entrate dovuta al pro rata convenzione applicata quando si tratta di un periodo di base regola, che prende il $ 1.200 dividendo è da 12 mesi.
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Il 50% di 1000 = $ 500, meno da $ 25,50 = Saldo $ 474,50 come mostrato.
+
+ 
+
+Questo quindi dimostra fisso previsione per le entrate, Pro Rata regola si applica per la stima, e ancora lavora attraverso i documenti.
+
+ 
+
+Esercizio base percentuale
+
+Ora noi cerchiamo testare la nuova PercentageBase caratteristica che permette una regola per fare riferimento ad un'altra serie di contabilità di riferimento invece di entrate.
+
+Torna al Budget Planning regola, noi scegliamo 51400-Inventory Clearing , che ha alcuni cal storica- record da GardenWorld. Assicurarsi che il precedente Anni Entrate è non fisso stima, cioè impostarlo di nuovo a 12. Nota che la selezione di dialogo per PercentageBase può facilmente cercare per il conto che si desidera sia di base sulla testuale o numerica parte del suo elemento.
+
+Di seguito è riportato il risultato per la fattura.
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+Impostazione delle modifiche a Budget Planning linee fa non hanno bisogno di aggiornare il configuratore. Il risultato di cui sopra mostra un'altra transazione è andato in prima di fare è una doppia quantità to-date. La In- ventory Clearing è mostrata corretto come selezionato nel il budget regola.
+
+Si noti la differenza ho fatto per il layout. Ho messo un debug log di testo se si è DebugMode in modo che utente sa che essa è così, come questo pop uo sarà vomitare fino ogni volta c'è un evento che soddisfa qualsiasi budget regola. Nota anche il testo Balance / Short per valori negativi / positivi .
+
+ 
+
+Test di fatti sulla popolazione
+
+Io ho creato un ulteriore processo che è esclusivamente per generare dati di test nella Fact_Acct tavolo per la GenerateBudget processo di prova sul perché nella maggior parte delle installazioni che sono nuovi, là forse nessun dati ancora e la creazione di tali test di dati può essere ingombrante.
+
+Questo processo è esclusivamente a scopo di test e quindi non deve mai essere eseguito su un server live o di produzione . Può essere usato per generare qualsiasi lunghezza di anni e mesi entro i anni gamma per un conto in un momento. L' iniziale importo sarà essere inserito nella il tavolo sotto il specificata contabile elemento e per ogni periodo successivo fino presente mese, essere incrementato consecutivamente dal valore determinato.
+
+ 
+
+
+ 
+
+Tuttavia si deve per assicurarsi duttori alleato che le Calendario anno e PE riods di qualsiasi anni mancanti a Be- tween hanno da creato e aperto prima.
+
+Nella sezione Test FitNesse in seguito, tutte queste azioni vengono create automaticamente in modo silenzioso e ripristinate alla fine del test.
+
+Così questo processo agisce soltanto come più manuale approccio dove l' utente può ex- ercise alcuni veloci prove, insieme ad eseguire il GenerateBudget per esaminare da vicino la risultante analisi sotto diversi con- figurator e Budget bersaglio regole.
+
+ 
+
+
+ 
+
+RIFERIMENTO PER L'APPLICAZIONE
+
+Qui noi andiamo in tecniche proprietà del del budget modulo. Alcuni possono già essere spiegato ribalta Be- ma qui si è affermato in più oggettivi termini di convenienza di riferimento in un glossario for- mat.
+
+ 
+
+Dizionario delle applicazioni
+
+Lungo tempo gli utenti saranno già essere familiarità con questo e il bilancio modulo viene utilizzato appunto come standard di una della della Compiere famiglia in cui tutti modellazione del il nuovo modulo viene effettuata in base a l' AD per la sua potente framework e di facile manutenzione.
+
+
+
+ 
+
+Quindi, quando ciò accade, arrivano molte capacità intrinseche:
+
+ 
+
+1. Scheda Traduzione . Ciascuna etichetta del del menù elemento, finestra, scheda e colonna come pure come elementi di processo può essere tradotto e localizzato. V'è anche un trucco di adattare tutte le etichette ad una particolare attività , anche se nella la stessa lingua , ma con diversa terminologia da utilizzando il Trans- mento Tab funzione.
+
+2. PrintFormat generato . Ogni tabella di informazioni che viene visualizzato può essere stampato sul volo come essa ha la sua intrinseca stampa generatore. Una stampa formato sarà essere generato e l' utente può manipola- tardi ulteriormente la disposizione dei campi e così via.
+
+ 
+
+
+ 
+
+3. CRUD . Il creare, leggere, aggiornare e cancellare la capacità del del modello è di serie in tutta l' ap- plicatura tra cui il nuovo modulo. 
+
+4. User-Role accesso viene anche controllato e l' amministratore può gestire ciò che gli elementi del del modulo possono essere esposti in base al l' autorità del l' utente definito.  
+
+5. Doppia interfaccia utente , per Java Swing e il più moderno ZK Ajax. Questo budget modulo è volutamente fatto , senza utilizzare alcun raro AD disegno tale come la ZK Ajax InfoWindow che si renda esso inutile nel l' oscillazione UI. Così tutto quello che si può vedere nel l' oscillazione modalità sarà anche essere operativa nel la ZK Ajax versione e vice- versa.  
+
+6. Convalida del modello . Come spiegato all'inizio , l' uso degli hook di modifica degli eventi all'interno del codice consente l' intercettazione della programmazione esterna senza interferire con il core. Si tratta quindi di un livello migliore pra- tice dove future modifiche possono essere incorporate anche in un pulito taglio separazione tra i principali e terze parti moduli tale da questo bilancio modulo. 
+
+7. Livello registro preferenze . Ci sono comunemente due log livello nel l' bilancio modulo come script nel codice, che è 'bene' e Finer'. 'Belle' deve visualizzare la classe di metodo che è stata letta. '' Finer mostra i valori dei parametri oi risultati della il metodo. 
+
+8. 2Pack . Grazie a l' uso di Packin e PackOut caratteristica ha contribuito da un serie di sviluppatori da Marco Lombardo per Robert Klein a Heng Sin, che sta diventando una normale funzione per utilizzare nel reticolo mi- dati da modulo a una fresca ERP istanza. Tuttavia ADempiere e iDempiere è non compatibile nella sua 2Pack progettazione e così ho preparato separati rispettivi 2packs. 
+
+Puoi vedere ulteriori informazioni sul design effettivo dei modelli AD sotto il riferimento al codice sorgente.
+
+ 
+
+
+ 
+
+Avanti ci saremo passare attraverso un glossario dei campi in del bilancio Configurator. Essi sono rosso dot codificati per un facile riferimento al il grande collage guida sulla pagina 9, e la parte tirato fino qui.
+
+ 
+
+
+
+ 
+
+Entrate degli anni precedenti 12
+
+1 al del 99 a distinguersi per il numero di anni compreso nel la storica RevenueKey o PercentageBase ac- contare al totale in su. Esso sarà non includerà presente anno. Se il valore è sopra 99 che sarà essere considerata come un unico importo fisso RevenueEstimate . Il totale importo viene chiamato BudgetAmount nel il codice.
+
+Il BudgetAmount sarà derivata dal presente anno to-data dell'operazione.
+
+ 
+
+ 
+
+Entrate dei mesi precedenti 12
+
+Numero di mesi gamma basata sulla storica RevenueKey o PercentageBase conto alla totale su un RevenueAmount (se RevenueKey è vero) o BudgetAmount. Esso comprende attualmente i dettagli del mese to-date. Si può dare un rotolamento effetto per esempio, se questo mese è maggio e si seleziona 6 mesi che si darà una gamma da quando lo scorso novembre fino a maggio to-date. Poi, quando il prossimo mese arriva esso sarà essere dal dicembre fino al giugno to-date.
+
+Il BudgetAmount sarà derivata dai mesi specificati varia to-data dell'operazione.
+
+ 
+
+
+ 
+
+Importi delle entrate nel codice
+
+Il RevenueEstimate è definitiva nel codice. Viene copiato in BaseAmt che è aggiornabile nel codice.
+
+ 
+
+ 
+
+Chiave delle entrate 3
+
+Elemento contabile per derivare RevenueEstimate .
+
+ 
+
+Andamento del budget 4
+
+Cinque fisse formule per prendere effetto sul l' BaseAmt . Trend anche influenzare BudgetAmount durante piano generato sguardo fino (vedi Budget Piano, Ricerca di Base).
+
+ 
+
+Base percentuale
+
+Alternativa a RevenueKey .
+
+ 
+
+Modalità debug 9
+
+Questo quando insieme si segnalare qualsiasi corrispondenza budget regola per il documento di stato processato se la verifica dà un equilibrio di breve valore. Se arresto in eccesso è non impostato, si deve scrivere per l' Avviso tavolo.
+
+ 
+
+Stop Excess 13
+
+Smettere di qualsiasi breve o negativo valore durante il budget regola il controllo da parte lanciando uno zione AdempiereExcep- che devono comparire sul la visualizzazione del pannello o pop-up di un errore di visualizzazione scatola. Esso sarà non permetterà completa- mento del del documento. Tuttavia, le transazioni di vendita non vengono interrotte ma scritte in Avviso.
+
+ 
+
+Switch Pro Rata 11
+
+La casella di controllo per questo permette di BaseAmt di essere diviso da 12 per un piatto mensile base. L' annuale entrate stima e un non-periodo basata BudgetAmount saranno entrambi essere sottoposti al la stessa sione divi-. Tuttavia per cento impostazione, la percentuale figura rimane lo stesso. In un precedente mesi Entrate impostazione, pro rata interruttore sarà ancora dividere la sua BaseAmt da 12.
+
+ 
+
+
+ 
+
+Ora esaminiamo le regole del piano di budget. La parte del collage viene nuovamente estratta qui.
+
+ 
+
+
+
+ 
+
+Criteri nella regola di bilancio 8              
+
+Budget governa criteri o dimensioni che sono presenti per entrambi acquisto e GL sono - Organization zione, mese-periodo, business partner, Progetto, Attività, Campagna, e del prodotto . Per GL distacco che ha in più le dimensioni di Accounting ID o di Element . Per acquisti si può specificare di prodotto con o senza quantità.
+
+ 
+
+Criteri di corrispondenza
+
+Quando un documento viene elaborato, i criteri in quel documento, è abbinato al la disposizione regola di bilancio per vedere quale regola o le regole bastone. Ci sono tre modi un budget regola viene scelto come una partita.
+
+1. espliciti criteri - esattamente basati sulla la progetto, attività e campagna criteri , che si esplicita in un budget regola. Quindi, se un budget regola solo utilizza questi tre criteri, non ci sarà , non sarà alcun ity ambigu-. Supponiamo che ora utilizziamo una di queste regole : Progetto = "Paesaggio" e altri vuoti. La sua regola sarà essere “Progetto = 'paesaggio' E Activity è nullo E Campagna è nullo”.
+
+2. impliciti criteri - non espliciti criteri in un budget regola perché il documento elaborato sarà sempre avere tali valori. Ad esempio, nel l' intestazione di acquisto Ordine, non è business Part- ner, Organizzazione e Data (Periodo-Month). Se un budget regola ha qualsiasi di questi criteri, il corrispondenze mette ing processo si comprenderà regole che fanno non utilizzano tali criteri. Ad esempio, se si aggiunge ad una regola  
+
+ 
+
+
+ 
+
+a (1) di cui sopra si sarà essere qualcosa di simile, “(Business Partner = 'Joe Block' OR) E Progetto = 'paesaggio' E Activity è nullo E Campagna è nullo”. Quindi, se si dispone di due di tali norme sono entrambi tirato su da un documento di avere Joe Block e Progetto = 'paesaggio'. Solo la regola che ha Joe Block sarà essere assicurato durante ParamTrimming nel il codice quando il controllo di un docu- mento che porta Joe blocco nella sua intestazione.
+
+3. Sottocriteri : ciò accade quando la regola di budget ha valori Prodotto o / e Qtà . Tali criteri simili a impliciti criteri sono anche rendendo più regole stati abbinati , come i espliciti criteri possono anche sovrapposizione. Ad esempio , possiamo avere regole più simili a (1) e (2) ma con valori di combinazione Prodotto / Qtà diversi o nulli in alcuni di essi. 
+
+Un buon esito del l' utilizzo di (2) e (3) è la scrittura di meno esplicite di bilancio regole , ma l'ambiguità potrebbe accadere se il pianificatore è non è attento.
+
+ 
+
+Param taglio
+
+Questo è un metodo di che filtri fuori più corrispondenti regole che fanno non in realtà corrispondono a quando un docu- mento è stato elaborato contro il bersaglio budget plan.
+
+ 
+
+Caso ambiguo
+
+Tali casi si verificano quando ci sono più di un corrispondente regola alla alla fine del la corrispondenza Pro- ess. Essa significa il ParamTrimming è riuscita a ridurre il la partita a nessuno o one.The prima regola della pila sarà essere utilizzato dai il documento, ma un errore si è riferito in modo che l' utente prende atto e rivedere i budget regole. Questo di solito accade quando si dispone di più le regole che stanno utilizzando più impliciti criteri con nessun cambiamento nel espliciti criteri. Ad esempio, se si aggiunge una regola per il sopra, Org = 'HQ' E Paesaggio' di stesse esplicite regole, allora il documento di Joe Block , che penne suc- ad essere da HQ, sarà ottenere un finale a due regola partita, questa regola più la precedente regola di "Joe Block AND Landscape".
+
+Le seguenti bilancio regole di impostazione serie guida dovrebbero lavorare con alcuna ambiguità caso per Vendite e Acquisti:
+
+1. Con l' unico business partner con tutte le altre i campi vuoti.
+
+2. Con l' unico Org con tutte le altre i campi in bianco
+
+3. Per solo periodo con tutti gli altri campi vuoti
+
+4. In qualsiasi attività, o di progetto o di campagna o di qualsiasi unica combinazione di qualsiasi di del tre.
+
+5. Ogni di 4 con regolazione di 1, 2, o 3, purché quelli usati qui sono non ripetuti a 1, 2, 3
+
+ 
+
+
+ 
+
+GL distacco ha meno ambiguità perché esso è non elaborato a l' intestazione livello che ha Org e periodo. Esso viene elaborato a GL JournalLine livello che è esplicito nel suo uso di tali criteri.
+
+ 
+
+Tracciamento per organizzazione 8             
+
+Qui mi spiego come sia Org fatto come un criterio nella la corrispondenza set. Tecnicamente questo è stato non possibile perché Org è un obbligo di applicazione Dizionario campo nel il database. Così per consentire un Balaguère definizione di che nella del corrispondente set, io ho aggiunto un separato nuovo campo, AD_OrgDoc_ID nella il GL_JournalLine tavolo oltre l'AD_Org_ID.
+
+
+
+Così ora il budget regola ha come un modo per specificare per quale organizzazione come parte della sua criteri set. Ma essi sono differenti in nomi e come avrebbero io corrispondere loro in alla fine? Facilmente risolto come ho analizzato questo OrgDoc_ID torna in ORG_ID durante Acquisto Ordine e contabili Fact tavoli accedere in modo non v'è alcun bisogno di preoccuparsi di campo nome caos qui.
+
+ 
+
+Monitoraggio per periodo 8 11              
+
+Anche se nel l' acquisto ordine o fattura (fornitore) non v'è alcun periodo ID, che hanno creato un helper metodo che converte il valore DateOrdered o timestamp nella sua corrispondente periodo ID durante l'esecuzione. In questo modo si facilita il monitoraggio dei documenti di acquisto in base alla
+
+mese facilmente per l'utilizzo nei mesi precedenti.
+
+ 
+
+Questo è utile anche per il calcolo annuale su base mensile che deve tenere traccia degli articoli esclusivamente su base mensile.
+
+ 
+
+
+ 
+
+Come un promemoria, qualsiasi budget regola che imposta un periodo di valore controlli delle prestazioni durante quel particolare periodo (vedi precedente Periodo Base sezione). La sua entrate di base o percentuale di base è anche pro -rata dur- ing percentuale confronto.
+
+ 
+
+Tracciato da Transazione vendite 2
+
+Contrassegna per contrassegnare la regola per Vendite o Acquisti. Se controllato o vero, si tratta di vendite collaterali documenti come ad esempio Vendite Ordini, AR fattura (cliente), e AR pagamento. Se incontrollato o falso, esso è l'acquisto collaterali documenti come ad esempio acquisto Ordini, AP fattura (Vendor) e AP pagamento. La pubblicazione di GL Journal non è influenzata da questo flag.
+
+ 
+
+Tracciato dal prodotto 10 8              
+
+Budget regola per qualsiasi transazione che ha corrispondenza del prodotto. Quando specificato, che sarà la ricerca all'interno dei documenti linee di tali prodotti e calcolare il suo valore per il check contro la BudgetAmount o come cento contro il BaseAmt.
+
+ 
+
+Seguito da quantità 6
+
+Questo funziona in congiunzione con prodotti criteri. Quando specificato, esso sarà essere un check riferimento a quanto BaseAmt per controllare con la transazione prodotto quantità. Tutti gli altri simili prodotti quantità entro il presente anno o mesi Gamma sono anche presi in considerazione. Il controllo percentuale non è applicabile .
+
+ 
+
+
+ 
+
+Registrazione contabile generale
+
+Le regole di bilancio GL possono utilizzare tutti gli altri elementi contabili a condizione che non siano quelli controllati dal documento . L' ID contabilità è un criterio obbligatorio ed esplicito di cui deve possedere ciascuna regola di budget per la registrazione GL . Così noi non possiamo avere un budget regola con nessun contabile Elemento che verrà trattato come un / regola vendite acquisti. Allo stesso modo tutti i fatti contabili montaggio dello stesso elemento e le sue altre corrispondenti criteri entro il tempo di telaio vengono tirati fino e ammontano a vedere se essi ex Ceed i budget controlli. Il controllo viene effettuato presso il GL ufficiale Linea livello così se solo una linea è una violazione, si può fermare l' intero GL ufficiale processo. Una buona soluzione per l' elaborazione ininterrotta di Riviste consiste nel deselezionare Stop Excess? box e analizzare la tabella degli avvisi dopo una registrazione.
+
+ 
+
+Bilanciamento del debito
+
+Ho bisogno di non essere un commercialista o di sapere esattamente quale parte ogni budget regola dovrebbe essere acceso, essere esso il credito lato o se si dovrebbe essere sul il debito lato. Questo budget sistema utilizzato un tempo di esecuzione di rilevamento dinamico e lasciare che fino a l' budget planner. Se lui o lei mette su un budget regola e posto una figura del credito lato quindi la trasformazione deve prendere tutte le credito lati di corrispondenza JournalLines. Se esso è impostato per l' addebito lato, anche tutti gli addebiti saranno essere aggiunti su.
+
+ 
+
+
+ 
+
+RIFERIMENTO CODICE SORGENTE
+
+Questo può essere molto grande sulla sua propria. Il mio scopo qui è per conformarsi alle incontaminate principi di libertà in aperta Fonte Software, dove gli altri possono imparare da esso, migliorare esso e in ultima analisi, fanno le loro modifiche indietro per la fonte. La possibilità di esaminare fonte anche di risparmiare tempo prima di una finale o più ferma decisione di prendere in considerazione questo software del progetto come una base per costruire un completo ERP su. Come- saggi molti utenti che non sono riusciti sono spesso coloro che hanno o prendono il codice per concesso (spesso accettare che questo è gratuitamente il pranzo e quindi supporre che esso sia minore rischio, ingiustamente) o non possedendo il CA- pability al codice sorgente maniglia e quindi derubato si dell'originario vantaggio di avere AC cesso di codice sorgente nel primo posto. Quello che sto presentando qui è per consentire un anteprima di mia plicatura ap- e il codice di progettazione prima che lo sviluppatore lettore decide di davvero salti in con un carico di Eclipse, o l' utente salta in con un vuoto di controllo.
+
+ 
+
+Progettazione di Application Dictionary (AD)
+
+Come parte del del Compiere legacy, la fonte dietro l' applicazione di progettazione è non solo il codice , ma anche l' applicazione Dizionario o meta-dati dei i database di modelli. Ciò è rappresentato in XML format nel PackOut zip file iBudget.zip (Budget360_2pack.zip per ADempiere).
+
+L'intero modulo è contenuto in una struttura di menu, Budget Sales Planning per un facile trans porto come si è definito in una singola riga nel l' PackOutFormat. È possibile accedere a quel formato qui:
+
+http://sourceforge.net/projects/red1/files/p2/Budget/iBudgetPackOutFormat.zip/download
+
+ 
+
+Si tratta semplicemente solo due linee - uno per ottenere i definiti messaggi voci e un altro il top menu di collegamento per il bilancio del modulo.
+
+
+
+Il menu di tag sarà ottenere l' intera struttura di 2 finestre, le sue schede di tabelle e campi, e 2 processi. Il bilancio Piano principale dispone di due schede e insieme con il configuratore sono indipen- ent tabella modelli con nessun impatto per le precedenti tabelle.
+
+ 
+
+
+ 
+
+Considerazione sul design
+
+Il primo e più importante considerazione è che il sistema è di essere flessibile, riutilizzabile e ex tendable con una manutenzione minima. Ciò significherà anche che il progetto deve adattarsi bene con mini- mal sforzo per l'uso tra le due versioni di ADempiere e iDempiere. Così mi hanno sostenuto che le migrazioni script generati dai i Packin in ADempiere possono essere applicati in iDempiere cuscinetto che le indice tabelle e UUID generazioni sono fatte per rendere esso iDempiere pronto. I rispettivi 2Pack sono applicabili solo nelle rispettive versioni.
+
+Il codice evita personalizzato di progettazione e quindi ho evitare di versione specifici SmartBrowser / infowindow definizioni del tutto e utilizzare il più tradizionale processo direttamente dal menù e PRINTFORMAT per reporting. Gli AD cambiamenti saranno quindi essere trasferibili tramite migrazione degli script da ADempiere a iDempiere ma non iDempiere a ADempiere, dove ogni cambiamento in iDempiere deve ad essere duttori alleato realizzato nel l' AD di ADempiere. Ma questo è non è previsto ad essere richiesto come non si avrà voglia di tornare indietro e il sistema di bilancio che ho fatto qui è già avendo una versione equivalente per ADempiere 361 finale.
+
+L'unico piccolo cambiamento nel codice è il layout pacchetto dove ADempiere necessita della stessa org.compiere.model per sovrascrivere i principali modelli come non v'è alcun altro modo per riutilizzare esso. Mentre in iDempiere è garantita la separazione del nucleo dal modulo e le nuove classi hanno il proprio nome di pacchetto. Al di là di questo, i OSGi Equinox estensioni vengono ridefiniti per tutte le didascalie e processi , nonché il servizio Eventi ModelValidator rimuovere l'uso di definizioni AD per consentire un ambiente pulito plug-in e plug-out del del modulo di codice con nessun negativo impatto neanche modo.
+
+Tutta la fonte viene inviata a http://bitbucket.org/red1 . I file binari di lavoro vengono caricati su http://sf.net/projects/red1/files/p2/Budget . C'è un testo README per dare istruzioni finali che possono cambiare come gli ultimi aggiornamenti sono fatti.
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+Design funzionale
+
+Le principali funzioni del modulo sono:
+
+ 
+
+1. Definire Budget di configurazione delle impostazioni e Budget Plan regole (per lo più gestito da l' dC).
+
+ 
+
+2. Gestire la transazione o l' elaborazione del Document Event di: 
+
+ 
+
+un. Prima Preparare evento di Ordine, fattura e di pagamento di business documenti 
+
+ 
+
+b. Prima dell'evento completo di GL Journal con le sue righe di giornale 
+
+ 
+
+3. Maniglia risposta sia come Exception messaggio o avviso contenuto 
+
+ 
+
+(2) è preso cura per le due principali: BudgetUtils.java e SQLfromDoc.java come visto sopra. Il processo dei documenti aziendali che viene catturato da DocEvent viene gestito da eventGLJournal o eventPurchasesSales, che si spiega da sé.
+
+ 
+
+
+ 
+
+Ognuno di questi gestori ha le rispettive routine di accesso ai documenti: selectPurchasesSales e selectAccountingFacts. Per eventPurchasesSales si è più elaborato , come si deve a prendere in considerazione questi tre tipi di documenti:
+
+
+
+Ma prima di arrivare a questa succosa parte di ottenere tutte le transazioni correlate , si sottopongono al processo di corrispondenza dei criteri che entrambi i tipi di documenti condividono da un metodo di avviamento, matchingBudget che setWhereMatches e lookupBudgetRule .
+
+/ ** Ciò restituisce abbinato budget amt o% con le variabili per le partite
+
+* Abbinato è di credito o di debito amt ,             
+
+private MBudgetPlanLine matchingBudget (PO poLine) { log .fine ( "MBudgetPlanLine matchingProcess (PO poLine)" ); sDoc = new SQLfromDoc ( runtimePO , previousMonths ); sDoc .setWhereMatches ();
+
+MBudgetPlanLine matchedMJournalLine = lookupBudgetRule (poLine, sDoc .getWhereMatches (), sDoc .getWhereMatchesSQL (), sDoc .getWhereMatchesIDs ());
+
+return matchedMJournalLine;
+
+}
+
+ 
+
+
+ 
+
+È il setWhereMatch che organizza il set di strumenti corrispondente:
+
+public void setWhereMatches () { whereMatches = MatchFromDoc ();
+
+whereMatchesSQL = whereClauseMatches ( whereMatches ); whereMatchesIDs = MatchToIDs ( whereMatches );
+
+}
+
+ 
+
+Il processo di abbinamento
+
+Il metodo di matchesFromDoc () è l' inizio della la vicenda del tentativo di adattare ogni criteri per ogni documento. Esso è uno dei metodi fondamentali in SQLfromDoc.java. La classe di contorno è mostrato qui sopra la destra.
+
+Nel metodo, gestisce tre tipi di modello per raccogliere i criteri di corrispondenza in un array: BudgetPlanLine, GLJournalLine e i documenti aziendali.
+
+Inizialmente si trattava di ottenere corrispondenze dai documenti commerciali di origine. Il
+
+il risultato di questo metodo è di restituire l' array whereMatches che viene utilizzato per creare la clausola SQL tramite
+
+whereClauseMatches (restituisce whereMatchesSQL ) e mantiene un array di parametri per esso tramite matchToIDs (restituisce whereMatchesIDs ). Questi valori vengono utilizzati per accedere alle tabelle delle regole del piano di budget .
+
+whereClauseExistMatches è un helper separato solo per la ricerca durante la generazione del piano di chiamata in quanto l' origine è la stessa regola del piano di budget.
+
+Il secondo importante metodo è paramTrimming che viene spiegata in precedenza sulla pagina 46, che fa il strippaggio dei criteri dalle partite array per consentire il corretto accesso ai i bersaglio documenti aziendali. Il resto dei i metodi fanno tutti sorta di ruoli per garantire un buon funzionamento ciclo in una vasta modo. Si può passare attraverso la fonte del codice direttamente in un integrato sviluppatore ambiente come Eclipse.
+
+ 
+
+
+ 
+
+PROVE FITNESSE
+
+ 
+
+Script di storie automatizzati
+
+L' uso del motore di test FitNesse è molto potente per risparmiare tempo durante il debug o la modifica del codice, per accertare rapidamente se qualcosa è stato rotto. Gli script che hanno scritto le coperture di una serie di transazioni e configurazione di attività quali come Vendite, Acquisti, GL ufficiale di entrata che copre diversi criteri e la ripetizione.
+
+Lo stesso codice e script vengono utilizzati in entrambe ADempiere e iDempiere. Io ho scoperto che iDempiere è non solo più veloce, ma più facile da eseguire e il debug e meglio supportato. Gran parte dei miei progressi è in l' ultima parte del del Forum di collegamento.
+
+Il codice sorgente per entrambi i progetti FitNesse è nel mio repository bitbucket . https://bitbucket.org/red1/fitnessebudget360 per ADempiere. https://bitbucket.org/red1/org.idempiere.fitnesse.budget per iDempiere. Puoi adattarti dallo script della trama incollato nel forum: http://red1.org/adempiere/viewtopic.php?f=45&t=1798&start=25#p8615
+
+L'iDempiere versione non ha alcuna necessità per il variabili impostazione né la distanza di debug interruttore quando il debug in fonte. Proprio l'esecuzione di esso contro la mia Eclipse esempio permette di me a rompere ovunque.
+
+ 
+
+Copertura del codice di prova
+
+Il codice creato per l'uso in FitNesse è la ricerca di bug durante il seguente caso d'uso:
+
+ 
+
+1. Budget Configurator, impostazione dei valori degli anni e dei mesi precedenti, andamento del budget, include fatture, stop in eccesso?, Modalità debug e chiave delle entrate
+
+2. Budget Piano, tutti i criteri di essere essi espliciti, impliciti o sub-criteri e ambigue casi 
+
+ 
+
+3. Budget Plan, cento o quantità di controllo, di prodotto e / o qty controllo 
+
+ 
+
+4. Piano di bilancio , base percentuale e regole di riferimento secondario 
+
+ 
+
+5. Elaborazione di PO, fattura e GL Journal 
+
+ 
+
+
+ 
+
+Risultati del test
+
+Io sto incollando sotto la comune configurazione e quindi la finale risultati uscita come catturato dal l' Tale informazione tavolo. Essi sono utili sufficienti a revisione , se il codice viene eseguito bene. I codici a rotoli indietro tutti Actional trans- l'attività in modo che essi non non disturbano il DB per ulteriori test durante la stessa del ciclo di vita.
+
+Il primo set è per i 3 anni precedenti anni vanno. Il secondo set è per un intervallo di 3 mesi . Prima immagine qui sotto è solo un campione , ma che contiene il comune di bilancio Piano regole e di configurazione per entrambi periodo di gamma e la tendenza progressione.
+
+
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
+
+In qualche modo un documento di sequenziamento salto accade mentre prendere questo test. Ho poi modificare che per l' effettiva uscita in modo che esso rimanga verde la prossima volta. Ci sono altri test che può essere fatto o che essere che li rende ben presto abbastanza. La nuova formula di riferimento secondario per PercentageBase non è ancora nel codice e nello script di test . E ho scoperto fuori che più di business plan governa a coprire tutte le condizioni come ad esempio per la GL distacco sono necessari. Queste necessità non il codice ulteriormente , ma semplicemente aggiungendo in più combinazione di wiki linee.
+
+ 
+
+
+ 
+
+ 
+
+
+
+ 
