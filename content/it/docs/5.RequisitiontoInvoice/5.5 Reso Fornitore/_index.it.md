@@ -10,6 +10,7 @@ Menù Idempiere
 
 [RMA Fornitore [RMAF00]]({{< ref "_index.it.md#RMAF00" >}} "RMA Fornitore") <br>
 [Reso Fornitore [REF00]]({{< ref "_index.it.md#REF00" >}} "Reso Fornitore") <br>
+[Tipo Autorizzazione Restituzione Merci [TARM00]]({{< ref "_index.it.md#TARM00" >}} "Tipo Autorizzazione Restituzione Merci") <br>
 
 
 ## RMA Fornitore [RMAF00] {#RMAF00}
@@ -39,13 +40,14 @@ Il filtro di ricerca si basa su
 *"IsDefault='Y' AND Parent_Tax_ID IS NULL AND SOPOType='B' AND Rate=?"*
 
 
-
-
 ## Reso Fornitore [REF00] {#REF00} 
 La Maschera permette la registrazione della Nota di Accredito del Fornitore.
 [{{< figure src="/image/ResoFornitore.png"  width="850"  >}}](/image/ResoFornitore.png)
 
-
+# Setup Reso
+## Tipo Autorizzazione Restituzione Merci [TARM00] {#TARM00} 
+La Maschera permette di codificare un tipo di autorizzazione alla restituzione delle merci.
+[{{< figure src="/image/TipoAutorizzazioneRestituzioneMerci.png"  width="850"  >}}](/image/TipoAutorizzazioneRestituzioneMerci.png)
 
 
 
