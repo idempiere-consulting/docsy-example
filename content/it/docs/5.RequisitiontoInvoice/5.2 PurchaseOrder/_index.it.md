@@ -12,7 +12,6 @@ Menù Idempiere
 [Info Ordine di Acquisto con Pagamento Anticipato [IOAP00]]({{< ref "_index.it.md#IOAP00" >}} "Info Ordine di Acquisto con Pagamento Anticipato") <br>
 [Info Completa Ordini di Acquisto [ICOA00]]({{< ref "_index.it.md#ICOA00" >}} "Info Completa Ordini di Acquisto [ICOA00]") <br>
 [Ordini di Acquisto Abbinati [OAA00]]({{< ref "_index.it.md#OAA00" >}} "Ordini di Acquisto Abbinati") <br>
-[Argomento della Richiesta [ADR00]]({{< ref "_index.it.md#ADR00" >}} "Argomento della Richiesta") <br>
 
 
 ## Ordine di Acquisto [ODA00] {#ODA00}
