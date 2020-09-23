@@ -6,7 +6,11 @@ weight : 410
 pre: "<b></b>"
 ---
 
-## Contatti [CON00]
+Menù Idempiere
+
+[Contatti [CON00]]({{< ref "_index.it.md#CON00" >}} "Contatti [CON00]") <br>
+
+## Contatti [CON00] {#CON00}
 La Maschera permette di inserire i contatti necessari per la gestione.
 [{{< figure src="/image/Contatti0.png"  width="850"  >}}](/image/Contatti0.png)
 
