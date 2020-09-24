@@ -8,10 +8,10 @@ pre: "<b></b>"
 
 Menù Idempiere
 
-[Gruppo di Promozione [GDP00]]({{< ref "_index.it.md#GDP00" >}} "Gruppo di Promozione [GDP00]") <br>
-[Gruppo Markup [GM01]]({{< ref "_index.it.md#GM01" >}} "Gruppo Markup [GM01]") <br>
+[Gruppo di Promozione [GDP00]]({{< ref "_index.it.md#GDP00" >}} "Gruppo di Promozione") <br>
+[Gruppo Markup [GM01]]({{< ref "_index.it.md#GM01" >}} "Gruppo Markup") <br>
 [Categoria Merceologica [CM01]]({{< ref "_index.it.md#CM01" >}} "Categoria Merceologica") <br>
-[Organizzazione Prodotto [ORP00]]({{< ref "_index.it.md#ORP00" >}} "Organizzazione Prodotto [ORP00]") <br>
+[Organizzazione Prodotto [ORP00]]({{< ref "_index.it.md#ORP00" >}} "Organizzazione Prodotto") <br>
 [Intrastat [INT15]]({{< ref "_index.it.md#INT15" >}} "Intrastat") <br>
 [Unità di Misura [UM00]]({{< ref "_index.it.md#UM00" >}} "Unità di Misura") <br>
 [Categoria Prodotto [CP01]]({{< ref "_index.it.md#CP01" >}} "Categoria Prodotto") <br>
