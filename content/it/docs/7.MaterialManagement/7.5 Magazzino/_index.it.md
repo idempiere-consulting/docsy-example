@@ -19,7 +19,7 @@ Menù Idempiere
 [Spedizioniere [SPE00]]({{< ref "_index.it.md#SPE00" >}} "Spedizioniere") <br>
 [Crea Movimento da ODD [CMOD00]]({{< ref "_index.it.md#CMOD00" >}} "Crea Movimento da ODD") <br>
 [Ordine di Distribuzione [ODD00]]({{< ref "_index.it.md#ODD00" >}} "Ordine di Distribuzione") <br>
-[Configurazione della Gestione della Distribuzione [CGD00]]({{< ref "_index.it.md#CGD00.45" >}} "Configurazione della Gestione della Distribuzione") <br>
+[Configurazione della Gestione della Distribuzione [CGD00]]({{< ref "_index.it.md#CGD00" >}} "Configurazione della Gestione della Distribuzione") <br>
 [Lista di Distribuzione [DL00]]({{< ref "_index.it.md#DL00" >}} "Lista di Distribuzione") <br>
 [Rete di Distribuzione [RDD00]]({{< ref "_index.it.md#RDD00" >}} "Rete di Distribuzione") <br>
 [Genera Movimenti Manuali Distribuzione [GMM00]]({{< ref "_index.it.md#GMM00" >}} "Genera Movimenti Manuali Distribuzione") <br>
