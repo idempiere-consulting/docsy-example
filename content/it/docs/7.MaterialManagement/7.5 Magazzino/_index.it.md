@@ -24,7 +24,6 @@ Menù Idempiere
 [Rete di Distribuzione [RDD00]]({{< ref "_index.it.md#RDD00" >}} "Rete di Distribuzione") <br>
 [Genera Movimenti Manuali Distribuzione [GMM00]]({{< ref "_index.it.md#GMM00" >}} "Genera Movimenti Manuali Distribuzione") <br>
 [Crea Piano di Distribuzione [CPD00]]({{< ref "_index.it.md#CPD00" >}} "Crea Piano di Distribuzione") <br>
-[Elaborazione distribuzione [ED00]]({{< ref "_index.it.md#CPD00" >}} "Elaborazione distribuzione") <br>
 [Elaborazione Distribuzione [ED00]]({{< ref "_index.it.md#ED00" >}} "Elaborazione Distribuzione") <br>
 [Ordine di Distribuzione [DOR00]]({{< ref "_index.it.md#DOR00" >}} "Ordine di Distribuzione") <br>
 [Conferma Spedizione/Ricevimento [CASR00]]({{< ref "_index.it.md#CASR00" >}} "Conferma Spedizione/Ricevimento") <br>
