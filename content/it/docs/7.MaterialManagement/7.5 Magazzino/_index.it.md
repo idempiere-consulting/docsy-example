@@ -21,13 +21,24 @@ Menù Idempiere
 [Ordine di Distribuzione [ODD00]]({{< ref "_index.it.md#ODD00" >}} "Ordine di Distribuzione") <br>
 [Configurazione della Gestione della Distribuzione [CGD00]]({{< ref "_index.it.md#CGD00.45" >}} "Configurazione della Gestione della Distribuzione") <br>
 [Lista di Distribuzione [DL00]]({{< ref "_index.it.md#DL00" >}} "Lista di Distribuzione") <br>
-[Spedizioniere [SPE00]]({{< ref "_index.it.md#SPE00" >}} "Spedizioniere") <br>
-
-
-
-
-
-
+[Rete di Distribuzione [RDD00]]({{< ref "_index.it.md#RDD00" >}} "Rete di Distribuzione") <br>
+[Genera Movimenti Manuali Distribuzione [GMM00]]({{< ref "_index.it.md#GMM00" >}} "Genera Movimenti Manuali Distribuzione") <br>
+[Crea Piano di Distribuzione [CPD00]]({{< ref "_index.it.md#CPD00" >}} "Crea Piano di Distribuzione") <br>
+[Elaborazione distribuzione [ED00]]({{< ref "_index.it.md#CPD00" >}} "Elaborazione distribuzione") <br>
+[Elaborazione Distribuzione [ED00]]({{< ref "_index.it.md#ED00" >}} "Elaborazione Distribuzione") <br>
+[Ordine di Distribuzione [DOR00]]({{< ref "_index.it.md#DOR00" >}} "Ordine di Distribuzione") <br>
+[Conferma Spedizione/Ricevimento [CASR00]]({{< ref "_index.it.md#CASR00" >}} "Conferma Spedizione/Ricevimento") <br>
+[Conferma Movimentazione [CONM00]({{< ref "_index.it.md#CONM00" >}} "Conferma Movimentazione") <br>
+[Report Dettagli Conferme Aperte [R.30]]({{< ref "_index.it.md#R.30" >}} "Report Dettagli Conferme Aperte") <br>
+[Report Conferme Aperte [R.31]]({{< ref "_index.it.md#R.31" >}} "Report Conferme Aperte") <br>
+[Organizzazione Magazzino [ORM00]]({{< ref "_index.it.md#ORM00" >}} "Organizzazione Magazzino") <br>
+[Categoria spesa di trasporto [CSDT00]]({{< ref "_index.it.md#CSDT00" >}} "Categoria spesa di trasporto") <br>
+[Configurazione Spedizioniere [CS01]]({{< ref "_index.it.md#CS01" >}} "Configurazione Spedizioniere") <br>
+[Configurazione di Trasporto [CDT00]]({{< ref "_index.it.md#CDT00" >}} "Configurazione di Trasporto") <br>
+[Tipo Ubicazione [TUB00]]({{< ref "_index.it.md#TUB00" >}} "Tipo Ubicazione") <br>
+[Configurazione Prodotti [CP00]]({{< ref "_index.it.md#CP00" >}} "Configurazione Prodotti") <br>
+[Processo di Spedizione [PDS00]]({{< ref "_index.it.md#PDS00" >}} "Processo di Spedizione") <br>
+[Causale DDT [CAD01]]({{< ref "_index.it.md#CAD01" >}} "Causale DDT") <br>
 
 ## Carico/Scarico Materiale [CSM00] {#CSM00}
 La Maschera permette di gestire la movimentazione di carico e scarico da magazzino di un prodotto.
@@ -517,19 +528,19 @@ Lo Schema evidenzia i rapporti tra menù nella gestione della distribuzione.
 ## Lista di Distribuzione [DL00] {#DL00}
 La Maschera permette di gestire una lista di distribuzione al BP.  
 [{{< figure src="/image/ListadiDistribuzione.png"  width="850"  >}}](/image/ListadiDistribuzione.png)
-## Rete di Distribuzione [RDD00]
+## Rete di Distribuzione [RDD00] {#RDD00}
 La Maschera permette la gestione di una rete di distribuzione.
 [{{< figure src="/image/RetediDistribuzione.png"  width="850"  >}}](/image/RetediDistribuzione.png)
-## Genera Movimenti Manuali Distribuzione [GMM00]
+## Genera Movimenti Manuali Distribuzione [GMM00] {#GMM00}
 @errore
 [{{< figure src="/image/Spedizioniere.png"  width="850"  >}}](/image/Spedizioniere.png)
-## Crea Piano di Distribuzione [CPD00]
+## Crea Piano di Distribuzione [CPD00] {#CPD00}
 Il Processo permette la creazione di un piano di distribuzione in base alla lista degli ordini di distribuzione stessi. 
 [{{< figure src="/image/DistributionRunOrders.png"  width="850"  >}}](/image/DistributionRunOrders.png)
-## Elaborazione distribuzione [ED00]
+## Elaborazione Distribuzione [ED00] {#ED00}
 La Maschera permette la creazione di un Ordine di Distribuzione.
 [{{< figure src="/image/ElaboraDistribuzioni.png"  width="850"  >}}](/image/ElaboraDistribuzioni.png)
-## Ordine di Distribuzione [DOR00]
+## Ordine di Distribuzione [DOR00] {#DOR00}
 @errore
 [{{< figure src="/image/Spedizioniere.png"  width="850"  >}}](/image/Spedizioniere.png)
 
@@ -627,83 +638,46 @@ In questa Info Window possiamo selezionare gli Ordini di  Distribuzione Completa
 
 
 # Conferme Magazzino e Report 
-## Conferma Spedizione/Ricevimento [CASR00]
+## Conferma Spedizione/Ricevimento [CASR00] {#CASR00}
 La Maschera permette l'iserimento dei dati relativi alla Spedizione/Ricevimento dei prodotti.
 [{{< figure src="/image/ConfermaSpedizioneRicevimento0.png"  width="850"  >}}](/image/ConfermaSpedizioneRicevimento0.png)
-## Conferma Movimentazione [CONM00]
+## Conferma Movimentazione [CONM00] {#CONM00}
 La Maschera permette la confrma del processo di movimentazione dei prodotti.
 [{{< figure src="/image/ConfermaMovimentazione0.png"  width="850"  >}}](/image/ConfermaMovimentazione0.png)
 
 # Report Conferma Movimento Materiali
-## Report Dettagli Conferme Aperte [R.30]
+## Report Dettagli Conferme Aperte [R.30] {#R.30}
 Il Report permette una stampa del dettaglio della conferma spedizione ancora aperta. 
 [{{< figure src="/image/ReportDettagliConfermeSpedizione.png"  width="850"  >}}](/image/ReportDettagliConfermeSpedizione.png)
-## Report Conferme Aperte [R.31]
+## Report Conferme Aperte [R.31] {#R.31}
 Il Report permette una stampa della conferma spedizione ancora aperta.
 [{{< figure src="/image/ReportConfermeAperte.png"  width="850"  >}}](/image/ReportConfermeAperte.png)
 [{{< figure src="/image/ReportConfermeAperte1.png"  width="850"  >}}](/image/ReportConfermeAperte1.png)
 
-# Report Magazzino
-## Report Giacenza per prodotto
-Il Report permette una stampa della giacenza a magazzino per prodotto.
-[{{< figure src="/image/ReportGiacenzaperProdotto.png"  width="850"  >}}](/image/ReportGiacenzaperProdotto.png)
-[{{< figure src="/image/ReportGiacenzaPerProdotto1.png"  width="850"  >}}](/image/ReportGiacenzaPerProdotto1.png)
-## Report Dettagli transazioni [R.29]
-Il Report permette una stampa dettagliata della transazione del prodotto.
-[{{< figure src="/image/ReportdiDettagliosulleTransazioni.png"  width="850"  >}}](/image/ReportdiDettagliosulleTransazioni.png)
-[{{< figure src="/image/ReportDettagliTransazioni.png"  width="850"  >}}](/image/ReportDettagliTransazioni.png)
-## Deport Totali transazioni di prodotto [R.27]
-Il Report permette una stampa del totale prodotto movimentato per magazzino.
-[{{< figure src="/image/ReportTotaliTransazioni.png"  width="850"  >}}](/image/ReportTotaliTransazioni.png)
-[{{< figure src="/image/ReportTotaliTransazioniDiProdotto.png"  width="850"  >}}](/image/ReportTotaliTransazioniDiProdotto.png)
-## Report Prodotto "Dove Usato" [R.34]
-Il Report permette una stampa nella quale si evince la/le distinte basi dove è utilizzato il prodotto indicato.
-[{{< figure src="/image/ReportProdottoDoveUsato.png"  width="850"  >}}](/image/ReportProdottoDoveUsato.png)
-[{{< figure src="/image/ReportProdottoDoveUsato1.png"  width="850"  >}}](/image/ReportProdottoDoveUsato1.png)
-## Report Valutazione Inventario [R.32]
-Il Report permette di ottenere una stampa dell'inventario vaolrizzato "al giorno" in base al listino indicato.
-[{{< figure src="/image/ReportValutazioneInventario.png"  width="850"  >}}](/image/ReportValutazioneInventario.png)
-[{{< figure src="/image/ReportValutazioneInventario1.png"  width="850"  >}}](/image/ReportValutazioneInventario1.png)
-## Report Valore di Transazione del Prodotto [R.28]
-Il Report permette di ottenere una stampa del valore della movimentazione di un prodotto.
-[{{< figure src="/image/ReportValorediTransazione.png"  width="850"  >}}](/image/ReportValorediTransazione.png)
-[{{< figure src="/image/ReportValoreDiTransizioneDelProdotto.png"  width="850"  >}}](/image/ReportValoreDiTransizioneDelProdotto.png)
-## Riferimenti dei Materiali [RM00]
-Il Report permette di ottenere una stampa del riferimento, del documento di interesse, relativo alla transazione del prodotto.
-[{{< figure src="/image/RiferimentideiMateriali.png"  width="850"  >}}](/image/RiferimentideiMateriali.png)
-[{{< figure src="/image/RiferimentideiMateriali.png"  width="850"  >}}](/image/RiferimentiDeiMateriali.png)
-## Report Giornale di Magazzino [RP.714]
-Il Report permette di ottenere una stampa del Giornale di Magazzino.
-[{{< figure src="/image/ReportGiornalediMagazzino.png"  width="850"  >}}](/image/ReportGiornalediMagazzino.png)
-## Report Dettaglio scorte [RDS00]
-Il Report permette di ottenere una stampa dettagliata delle scorte di magazzino.
-[{{< figure src="/image/ReportDettaglioScorte1.png"  width="850"  >}}](/image/ReportDettaglioScorte1.png)
-[{{< figure src="/image/ReportDettaglioScorte1.png"  width="850"  >}}](/image/ReportDettaglioScorte1.png)
-
 
 # Setup Magazzino
-## Organizzazione magazzino [ORM00]
+## Organizzazione Magazzino [ORM00] {#ORM00}
 Il Processo permette di verificare organizzazione e struttura del magazzino di tutte le entità dell'azienda.
 [{{< figure src="/image/OrganizzazioneMagazzino.png"  width="850"  >}}](/image/OrganizzazioneMagazzino.png)
-## Categoria spesa di trasporto [CSDT00]
+## Categoria spesa di trasporto [CSDT00] {#CSDT00}
 La Maschera permette di identificare una categoria di spesa di trasporto.
 [{{< figure src="/image/CategoriaSpesadiTrasporto.png"  width="850"  >}}](/image/CategoriaSpesadiTrasporto.png)
-## Configurazione Spedizioniere [CS01]
+## Configurazione Spedizioniere [CS01] {#CS01}
 La Maschera permette di collegare uno spedizioniere ad un BP.
 [{{< figure src="/image/ConfigurazioneSpedizioniere.png"  width="850"  >}}](/image/ConfigurazioneSpedizioniere.png)
-## Configurazione di Trasporto [CDT00]
+## Configurazione di Trasporto [CDT00] {#CDT00}
 La Maschera permette di configurare il trasporto al fine di renderlo "tracciabile".
 [{{< figure src="/image/ConfigurazioneTrasporto0.png"  width="850"  >}}](/image/ConfigurazioneTrasporto0.png)
-## Tipo Ubicazione [TUB00]
+## Tipo Ubicazione [TUB00] {#TUB00}
 La Maschera permette di configurare l'ubicazione in base alla attività stabilita.
 [{{< figure src="/image/TipoUbicazione0.png"  width="850"  >}}](/image/TipoUbicazione0.png)
-## Configurazione prodotti
+## Configurazione Prodotti [CP00] {#CP00}
 Lo Schema evidenzia la relazione tra i menù per una corretta configurazione del prodotto.
 [{{< figure src="/image/ConfigurazioneProdotti.png"  width="850"  >}}](/image/ConfigurazioneProdotti.png)
-## Processo di Spedizione [PDS00]
+## Processo di Spedizione [PDS00] {#PDS00}
 La Maschera permette di definire un 
 [{{< figure src="/image/ProcessoSpedizione0.png"  width="850"  >}}](/image/ProcessoSpedizione0.png)
-## Causale DDT [CAD01]
+## Causale DDT [CAD01] {#CAD01}
 La Maschera permette di definire una causale identificativa di un Documento di Trasporto.
 [{{< figure src="/image/CausaleDDT.png"  width="850"  >}}](/image/CausaleDDT.png)
 
