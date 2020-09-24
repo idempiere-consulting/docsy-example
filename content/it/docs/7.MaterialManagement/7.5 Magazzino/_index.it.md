@@ -28,7 +28,7 @@ Menù Idempiere
 [Elaborazione Distribuzione [ED00]]({{< ref "_index.it.md#ED00" >}} "Elaborazione Distribuzione") <br>
 [Ordine di Distribuzione [DOR00]]({{< ref "_index.it.md#DOR00" >}} "Ordine di Distribuzione") <br>
 [Conferma Spedizione/Ricevimento [CASR00]]({{< ref "_index.it.md#CASR00" >}} "Conferma Spedizione/Ricevimento") <br>
-[Conferma Movimentazione [CONM00]({{< ref "_index.it.md#CONM00" >}} "Conferma Movimentazione") <br>
+[Conferma Movimentazione [CONM00]]({{< ref "_index.it.md#CONM00" >}} "Conferma Movimentazione") <br>
 [Report Dettagli Conferme Aperte [R.30]]({{< ref "_index.it.md#R.30" >}} "Report Dettagli Conferme Aperte") <br>
 [Report Conferme Aperte [R.31]]({{< ref "_index.it.md#R.31" >}} "Report Conferme Aperte") <br>
 [Organizzazione Magazzino [ORM00]]({{< ref "_index.it.md#ORM00" >}} "Organizzazione Magazzino") <br>
