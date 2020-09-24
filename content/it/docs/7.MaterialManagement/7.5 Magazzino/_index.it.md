@@ -7,6 +7,7 @@ pre: "<b> </b>"
 ---
 
 Menù Idempiere
+
 [Carico/Scarico Materiale [CSM00]]({{< ref "_index.it.md#CSM00" >}} "Carico/Scarico Materiale") <br>
 [Documento di Trasporto - Magazzino [DDTM00]]({{< ref "_index.it.md#DDTM00" >}} "Documento di Trasporto - Magazzino") <br>
 [Genera Storno DDT di Magazzino [IGD13]]({{< ref "_index.it.md#IGD13" >}} "Genera Storno DDT di Magazzino") <br>
