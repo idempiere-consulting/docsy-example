@@ -6,7 +6,17 @@ weight : 510
 pre: "<b></b>"
 ---
 
-## Listino Prezzi [LSP00]
+Menù Idempiere
+
+[Listino Prezzi [LSP00]]({{< ref "_index.it.md#LSP00" >}} "Listino Prezzi") <br>
+[Sconto Multiplo [SM01]]({{< ref "_index.it.md#SM01" >}} "Sconto Multiplo") <br>
+[Ricalcola Prezzo Ordine/Fattura [RPOF00]]({{< ref "_index.it.md#RPOF00" >}} "Ricalcola Prezzo Ordine/Fattura") <br>
+[Promozione [PRO00]]({{< ref "_index.it.md#CNSE00" >}} "Promozione [PRO00]") <br>
+[Configurazione Listini [CL00]]]({{< ref "_index.it.md#CL00" >}} "Configurazione Listini") <br>
+[Schema della Scontistica [SDS00]]({{< ref "_index.it.md#SDS00" >}} "Schema della Scontistica") <br>
+[Schema Listino Prezzi [SLP00]]({{< ref "_index.it.md#SLP00" >}} "Schema Listino Prezzi") <br>
+
+## Listino Prezzi [LSP00] {#LSP00}
 La Maschera permette di creare il Listino Prezzi che si desidera. 
 [{{< figure src="/image/ListinoPrezzi0.png"  width="850"  >}}](/image/ListinoPrezzi0.png)
 
@@ -60,40 +70,28 @@ Come possiamo vedere dall'immagine qui sopra, quando inseriamo un  nuovo prodott
 
 
 
-## Sconto Multiplo [SM01]
+## Sconto Multiplo [SM01] {#SM01}
 La Maschera permette di creare una scontistica per prodotto fino a tre livelli.
 [{{< figure src="/image/ScontoMultiplo.png"  width="850"  >}}](/image/ScontoMultiplo.png)
 
-## Ricalcola Prezzo [RPOF00]
+## Ricalcola Prezzo Ordine/Fattura [RPOF00] {#RPOF00}
 Il Processo permette per ordini clienti aperti e fatture non completate il ricalcolo del prezzo in base all'ultimo listino di vendita.
 [{{< figure src="/image/RicalcolaPrezzoOrdine_Fattura.png"  width="850"  >}}](/image/RicalcolaPrezzoOrdine_Fattura.png)
 
-## Promozione [PRO00]
+## Promozione [PRO00] {#PRO00}
 La Maschera permette la creazione di una campagna promozionale in base alle esigenze desiderate. 
 [{{< figure src="/image/Promozione.png"  width="850"  >}}](/image/Promozione.png)
 
 
 
-# Report Price List
-## Report Scheda Prodotto [RP.342]
-Il Report permette una stampa del listino prezzi selezionato.
-[{{< figure src="/image/ReportSchedaProdottoRP342.png"  width="850"  >}}](/image/ReportSchedaProdottoRP342.png)
-## Report Scheda Prodotto [RP.341]
-Il Report permette una stampa del listino prezzi selezionato.
-[{{< figure src="/image/ReportListinoPrezziRP341.png"  width="850"  >}}](/image/ReportListinoPrezziRP341.png)
-## Report Scheda Prodotto [Rp.343]
-Il Report permette una stampa delle variazioni dei listino di un BP.
-[{{< figure src="/image/ReportVariazionePrezzoProdottoRP343.png"  width="850"  >}}](/image/ReportVariazionePrezzoProdottoRP343.png)
-
-
 # Setup Price List
-## Configurazione listini
+## Configurazione Listini [CL00] {#CL00}
 Lo Schema raffigura le relazioni tra menù della gestione del Listino Prezzi.
 [{{< figure src="/image/ConfigurazioneListini.png"  width="850"  >}}](/image/ConfigurazioneListini.png)
-## Schema della Scontistica
+## Schema della Scontistica [SDS00] {#SDS00}   
 La Maschera permette di configurare una tipologia di sconto desiderata. 
 [{{< figure src="/image/SchemadellaScontistica.png"  width="850"  >}}](/image/SchemadellaScontistica.png)
-## Schema Listino Prezzi
+## Schema Listino Prezzi [SLP00] {#SLP00}
 La Maschera permette di configurare il Listino Prezzi in base alle proprie esigenze.
 [{{< figure src="/image/SchemaListinoPrezzi0.png"  width="850"  >}}](/image/SchemaListinoPrezzi0.png)
 
