@@ -31,16 +31,16 @@ In caso di ordine in elaborazione o completato o riaperto è possibile azzerare 
   Utilizzato in
 ## 7 Gestione Materiali
 ### Riaprire Documento DDTM [PR.701] (script)
-  Utilizzato in
+  Utilizzato in Movimentazione [DDTM00]
 ### Riaprire Documento S/Carico  [PR.702]  (script)
-  Utilizzato in 
+  Utilizzato in  Carico/Scarico Materiale [CSM00]
 ### Stornare Trasferimento DDTM [PR.703]
   Utilizzato in Movimentazione [DDTM00] 
   
 ## 8 Contabilità
 
 ### Contabilità - Pagamenti - Riaprire Seleziona Fatture per Pagamento [PR.801] (script)
- Utilizzato in
+ Utilizzato in Seleziona Fattura per Pagamento [SPF00]
 Processo InfoConto [PR.802]
 
 
