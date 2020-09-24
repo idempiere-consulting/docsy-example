@@ -648,7 +648,7 @@ La Maschera permette la confrma del processo di movimentazione dei prodotti.
 ## Report Dettagli Conferme Aperte [R.30] {#R.30}
 Il Report permette una stampa del dettaglio della conferma spedizione ancora aperta. 
 [{{< figure src="/image/ReportDettagliConfermeSpedizione.png"  width="850"  >}}](/image/ReportDettagliConfermeSpedizione.png)
-## Report Conferme Aperte [R.31] {#R.31}
+## Report Conferme Aperte [R.31] {#R31}
 Il Report permette una stampa della conferma spedizione ancora aperta.
 [{{< figure src="/image/ReportConfermeAperte.png"  width="850"  >}}](/image/ReportConfermeAperte.png)
 [{{< figure src="/image/ReportConfermeAperte1.png"  width="850"  >}}](/image/ReportConfermeAperte1.png)
