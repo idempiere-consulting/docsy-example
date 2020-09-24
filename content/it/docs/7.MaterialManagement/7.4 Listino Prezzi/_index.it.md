@@ -12,7 +12,7 @@ Menù Idempiere
 [Sconto Multiplo [SM01]]({{< ref "_index.it.md#SM01" >}} "Sconto Multiplo") <br>
 [Ricalcola Prezzo Ordine/Fattura [RPOF00]]({{< ref "_index.it.md#RPOF00" >}} "Ricalcola Prezzo Ordine/Fattura") <br>
 [Promozione [PRO00]]({{< ref "_index.it.md#CNSE00" >}} "Promozione [PRO00]") <br>
-[Configurazione Listini [CL00]]]({{< ref "_index.it.md#CL00" >}} "Configurazione Listini") <br>
+[Configurazione Listini [CL00]]({{< ref "_index.it.md#CL00" >}} "Configurazione Listini") <br>
 [Schema della Scontistica [SDS00]]({{< ref "_index.it.md#SDS00" >}} "Schema della Scontistica") <br>
 [Schema Listino Prezzi [SLP00]]({{< ref "_index.it.md#SLP00" >}} "Schema Listino Prezzi") <br>
 
