@@ -7,7 +7,7 @@ pre: "<b> </b>"
 ---
 
 Menù Idempiere
-
+Magazzino
 [Carico/Scarico Materiale [CSM00]]({{< ref "_index.it.md#CSM00" >}} "Carico/Scarico Materiale") <br>
 [Documento di Trasporto - Magazzino [DDTM00]]({{< ref "_index.it.md#DDTM00" >}} "Documento di Trasporto - Magazzino") <br>
 [Genera Storno DDT di Magazzino [IGD13]]({{< ref "_index.it.md#IGD13" >}} "Genera Storno DDT di Magazzino") <br>
@@ -17,6 +17,7 @@ Menù Idempiere
 [Info Movimenti Magazzino CLienti [IMMC00]]({{< ref "_index.it.md#IMMC00" >}} "Info Movimenti Magazzino CLienti") <br>
 [Ricrea Quantità Riservata a Magazzino [RSR00]]({{< ref "_index.it.md#RSR00" >}} "Ricrea Quantità Riservata a Magazzino") <br>
 [Spedizioniere [SPE00]]({{< ref "_index.it.md#SPE00" >}} "Spedizioniere") <br>
+Gestione Distribuzione
 [Crea Movimento da ODD [CMOD00]]({{< ref "_index.it.md#CMOD00" >}} "Crea Movimento da ODD") <br>
 [Ordine di Distribuzione [ODD00]]({{< ref "_index.it.md#ODD00" >}} "Ordine di Distribuzione") <br>
 [Configurazione della Gestione della Distribuzione [CGD00]]({{< ref "_index.it.md#CGD00.45" >}} "Configurazione della Gestione della Distribuzione") <br>
@@ -32,7 +33,7 @@ Menù Idempiere
 [Report Dettagli Conferme Aperte [R.30]]({{< ref "_index.it.md#R.30" >}} "Report Dettagli Conferme Aperte") <br>
 [Report Conferme Aperte [R.31]]({{< ref "_index.it.md#R.31" >}} "Report Conferme Aperte") <br>
 [Organizzazione Magazzino [ORM00]]({{< ref "_index.it.md#ORM00" >}} "Organizzazione Magazzino") <br>
-[Categoria spesa di trasporto [CSDT00]]({{< ref "_index.it.md#CSDT00" >}} "Categoria spesa di trasporto") <br>
+[Categoria Spesa di Trasporto [CSDT00]]({{< ref "_index.it.md#CSDT00" >}} "Categoria spesa di trasporto") <br>
 [Configurazione Spedizioniere [CS01]]({{< ref "_index.it.md#CS01" >}} "Configurazione Spedizioniere") <br>
 [Configurazione di Trasporto [CDT00]]({{< ref "_index.it.md#CDT00" >}} "Configurazione di Trasporto") <br>
 [Tipo Ubicazione [TUB00]]({{< ref "_index.it.md#TUB00" >}} "Tipo Ubicazione") <br>
@@ -659,7 +660,7 @@ Il Report permette una stampa della conferma spedizione ancora aperta.
 ## Organizzazione Magazzino [ORM00] {#ORM00}
 Il Processo permette di verificare organizzazione e struttura del magazzino di tutte le entità dell'azienda.
 [{{< figure src="/image/OrganizzazioneMagazzino.png"  width="850"  >}}](/image/OrganizzazioneMagazzino.png)
-## Categoria spesa di trasporto [CSDT00] {#CSDT00}
+## Categoria Spesa di Trasporto [CSDT00] {#CSDT00}
 La Maschera permette di identificare una categoria di spesa di trasporto.
 [{{< figure src="/image/CategoriaSpesadiTrasporto.png"  width="850"  >}}](/image/CategoriaSpesadiTrasporto.png)
 ## Configurazione Spedizioniere [CS01] {#CS01}
