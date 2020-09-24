@@ -24,7 +24,7 @@ Menù Idempiere
 [Workflow di Produzione [WP13]]({{< ref "_index.it.md#WP13" >}} "Workflow di Produzione") <br>
 [Tipo Parte [TP00]]({{< ref "_index.it.md#TP00" >}} "Tipo Parte") <br>
 
-## Produzione (Prodotto Singolo) [PPS00] {#CSM00}
+## Produzione (Prodotto Singolo) [PPS00] {#PPS00}
 La Maschera permette di inserire i dati per la produzione di un quantitativo di un determinato prodotto.
 [{{< figure src="/image/ProduzioneProdottoSingolo.png"  width="850"  >}}](/image/ProduzioneProdottoSingolo.png)
 ## Crea Ordine di Produzione da Riga Ordine [ICOP13] {#ICOP13}
