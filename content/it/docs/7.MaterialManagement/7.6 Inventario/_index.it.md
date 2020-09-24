@@ -6,21 +6,15 @@ weight : 530
 pre: "<b></b>"
 ---
 
-## Inventario Fisico [IF00]
+Menù Idempiere
+
+[Inventario Fisico [IF00]]({{< ref "_index.it.md#IFOO" >}} "Inventario Fisico") <br>
+[Pulizia Dati Inventario [PDI00]]({{< ref "_index.it.md#PDI00" >}} "Pulizia Dati Inventario [PDI00]") <br>
+
+## Inventario Fisico [IF00] {#IFOO}
 La Maschera permette l'inserimento dei quantitativi dei prodotti inventariati.
 [{{< figure src="/image/InventarioFisico.png"  width="850"  >}}](/image/InventarioFisico.png)
-## Pulizia Dati Inventario [PDI00]
+## Pulizia Dati Inventario [PDI00] {#PDI00}
 Il Processo permette la cancellazione dei dati inventariali.
 [{{< figure src="/image/PuliziaDatiInventario.png"  width="850"  >}}](/image/PuliziaDatiInventario.png)
-
-# Report Inventario
-## Report Valore Differenziale Inventario [RP.732]
-Il Report permette una stampa del valore differenziale inventariale per prodotto.
-[{{< figure src="/image/ReportInventoryDiffValue.png"  width="850"  >}}](/image/ReportInventoryDiffValue.png)
-## Report Inventario [RP.731]
-Il Report permette una stampa dell'inventario.
-[{{< figure src="/image/ReportInventarioRP731.png"  width="850"  >}}](/image/ReportInventarioRP731.png)
-## Report Valutazione Inventario alla Data [RP.132]
-Il Report permette una stampa valorizzata dell'inventarioa di magazzino.
-[{{< figure src="/image/ReportValutazioneInventarioallaData.png"  width="850"  >}}](/image/ReportValutazioneInventarioallaData.png)
 
