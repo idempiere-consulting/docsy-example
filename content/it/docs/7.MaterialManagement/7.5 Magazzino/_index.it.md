@@ -11,7 +11,7 @@ Menù Idempiere
 [Carico/Scarico Materiale [CSM00]]({{< ref "_index.it.md#CSM00" >}} "Carico/Scarico Materiale") <br>
 [Documento di Trasporto - Magazzino [DDTM00]]({{< ref "_index.it.md#DDTM00" >}} "Documento di Trasporto - Magazzino") <br>
 [Genera Storno DDT di Magazzino [IGD13]]({{< ref "_index.it.md#IGD13" >}} "Genera Storno DDT di Magazzino") <br>
-[Movimento di Magazzino [MOM00]]({{< ref "_index.it.md#MOM00" >}} "Movimento di Magazzino") <br>
+[Movimento di Magazzino [MOM00]]({{< ref "_index.it.md#RL13" >}} "Movimento di Magazzino") <br>
 [Info Giacenza Prodotto [IGM01]]({{< ref "_index.it.md#IGM01" >}} "Info Giacenza Prodotto") <br>
 [Transazione di Materiale (uso indiretto) [TDM00]]({{< ref "_index.it.md#TDM00" >}} " Transazione di Materiale (uso indiretto)") <br>
 [Info Movimenti Magazzino CLienti [IMMC00]]({{< ref "_index.it.md#IMMC00" >}} "Info Movimenti Magazzino CLienti") <br>
@@ -19,11 +19,12 @@ Menù Idempiere
 [Spedizioniere [SPE00]]({{< ref "_index.it.md#SPE00" >}} "Spedizioniere") <br>
 [Crea Movimento da ODD [CMOD00]]({{< ref "_index.it.md#CMOD00" >}} "Crea Movimento da ODD") <br>
 [Ordine di Distribuzione [ODD00]]({{< ref "_index.it.md#ODD00" >}} "Ordine di Distribuzione") <br>
-[Configurazione della Gestione della Distribuzione [CGD00]]({{< ref "_index.it.md#CGD00" >}} "Configurazione della Gestione della Distribuzione") <br>
+[Configurazione della Gestione della Distribuzione [CGD00]]({{< ref "_index.it.md#CGD00.45" >}} "Configurazione della Gestione della Distribuzione") <br>
 [Lista di Distribuzione [DL00]]({{< ref "_index.it.md#DL00" >}} "Lista di Distribuzione") <br>
 [Rete di Distribuzione [RDD00]]({{< ref "_index.it.md#RDD00" >}} "Rete di Distribuzione") <br>
 [Genera Movimenti Manuali Distribuzione [GMM00]]({{< ref "_index.it.md#GMM00" >}} "Genera Movimenti Manuali Distribuzione") <br>
 [Crea Piano di Distribuzione [CPD00]]({{< ref "_index.it.md#CPD00" >}} "Crea Piano di Distribuzione") <br>
+[Elaborazione distribuzione [ED00]]({{< ref "_index.it.md#CPD00" >}} "Elaborazione distribuzione") <br>
 [Elaborazione Distribuzione [ED00]]({{< ref "_index.it.md#ED00" >}} "Elaborazione Distribuzione") <br>
 [Ordine di Distribuzione [DOR00]]({{< ref "_index.it.md#DOR00" >}} "Ordine di Distribuzione") <br>
 [Conferma Spedizione/Ricevimento [CASR00]]({{< ref "_index.it.md#CASR00" >}} "Conferma Spedizione/Ricevimento") <br>
