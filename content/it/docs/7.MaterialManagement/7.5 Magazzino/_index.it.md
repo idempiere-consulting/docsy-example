@@ -7,6 +7,7 @@ pre: "<b> </b>"
 ---
 
 Menù Idempiere
+
 Magazzino
 [Carico/Scarico Materiale [CSM00]]({{< ref "_index.it.md#CSM00" >}} "Carico/Scarico Materiale") <br>
 [Documento di Trasporto - Magazzino [DDTM00]]({{< ref "_index.it.md#DDTM00" >}} "Documento di Trasporto - Magazzino") <br>
@@ -17,6 +18,7 @@ Magazzino
 [Info Movimenti Magazzino CLienti [IMMC00]]({{< ref "_index.it.md#IMMC00" >}} "Info Movimenti Magazzino CLienti") <br>
 [Ricrea Quantità Riservata a Magazzino [RSR00]]({{< ref "_index.it.md#RSR00" >}} "Ricrea Quantità Riservata a Magazzino") <br>
 [Spedizioniere [SPE00]]({{< ref "_index.it.md#SPE00" >}} "Spedizioniere") <br>
+
 Gestione Distribuzione
 [Crea Movimento da ODD [CMOD00]]({{< ref "_index.it.md#CMOD00" >}} "Crea Movimento da ODD") <br>
 [Ordine di Distribuzione [ODD00]]({{< ref "_index.it.md#ODD00" >}} "Ordine di Distribuzione") <br>
