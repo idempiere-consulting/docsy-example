@@ -7,9 +7,6 @@ pre: "<b> </b>"
 ---
 
 Menù Idempiere
-
-             **Magazzino**
-
 [Carico/Scarico Materiale [CSM00]]({{< ref "_index.it.md#CSM00" >}} "Carico/Scarico Materiale") <br>
 [Documento di Trasporto - Magazzino [DDTM00]]({{< ref "_index.it.md#DDTM00" >}} "Documento di Trasporto - Magazzino") <br>
 [Genera Storno DDT di Magazzino [IGD13]]({{< ref "_index.it.md#IGD13" >}} "Genera Storno DDT di Magazzino") <br>
@@ -19,12 +16,9 @@ Menù Idempiere
 [Info Movimenti Magazzino CLienti [IMMC00]]({{< ref "_index.it.md#IMMC00" >}} "Info Movimenti Magazzino CLienti") <br>
 [Ricrea Quantità Riservata a Magazzino [RSR00]]({{< ref "_index.it.md#RSR00" >}} "Ricrea Quantità Riservata a Magazzino") <br>
 [Spedizioniere [SPE00]]({{< ref "_index.it.md#SPE00" >}} "Spedizioniere") <br>
-
-              **Gestione Distribuzione**
-
 [Crea Movimento da ODD [CMOD00]]({{< ref "_index.it.md#CMOD00" >}} "Crea Movimento da ODD") <br>
 [Ordine di Distribuzione [ODD00]]({{< ref "_index.it.md#ODD00" >}} "Ordine di Distribuzione") <br>
-[Configurazione della Gestione della Distribuzione [CGD00]]({{< ref "_index.it.md#CGD00.45" >}} "Configurazione della Gestione della Distribuzione") <br>
+[Configurazione della Gestione della Distribuzione [CGD00]]({{< ref "_index.it.md#CGD00" >}} "Configurazione della Gestione della Distribuzione") <br>
 [Lista di Distribuzione [DL00]]({{< ref "_index.it.md#DL00" >}} "Lista di Distribuzione") <br>
 [Rete di Distribuzione [RDD00]]({{< ref "_index.it.md#RDD00" >}} "Rete di Distribuzione") <br>
 [Genera Movimenti Manuali Distribuzione [GMM00]]({{< ref "_index.it.md#GMM00" >}} "Genera Movimenti Manuali Distribuzione") <br>
