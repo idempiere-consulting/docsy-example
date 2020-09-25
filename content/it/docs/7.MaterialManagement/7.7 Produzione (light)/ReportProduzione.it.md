@@ -21,7 +21,7 @@ Il Report permette di ottenere una stampa di sintesi degli arrivi/consumi prodot
 ## Report Analisi Arrivi Consumi Mensili [RP.713]
 Il Report permette di ottenere una stampa analitica (per data) degli arrivi/consumi prodotto.
 [{{< figure src="/image/ReportAnalisiArriviConsumiMensili.png"  width="850"  >}}](/image/ReportAnalisiArriviConsumiMensili.png)
-## Report Gross Requirement [RP.561]
+## Report Fabbisogno Lordo [RP.561]
 Il Report permette di ottenere una stampa del fabbisogno lordo di prodotto.
 [{{< figure src="/image/ReportGrossRequirement.png"  width="850"  >}}](/image/ReportGrossRequirement.png)
 
