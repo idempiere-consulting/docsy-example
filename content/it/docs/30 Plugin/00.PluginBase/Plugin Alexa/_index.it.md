@@ -31,6 +31,12 @@ Utilizzare  axios per node.js (ricordarsi di dichiarare il nome e la versione de
 3)Fare la chiamata GET/POST su '/services/api/idempierepara/web/search/NOMECHIAMATA'
 [{{< figure src="/image/Alexa03.png" >}}](/image/Alexa03.png)
 
+# Come esportare il lato 'Build' di una skill:
+- build > 'JSON EDITOR' nel menù verticale a sinistra > copiare il json in un file
+
+# Come importare il lato 'Build di una skill:
+- build > 'JSON EDITOR' nel menù verticale a sinistra > trascinare il file json su 'drag and drop json file' > 'save build' > 'build model'
+
 ## Consiglio:
 Usare il sito https://webhook.site per testare il ricevimento e il funzionamento delle chiamate GET/POST
 
