@@ -1,6 +1,6 @@
 ---
-title: " Video Plugin Alexa"
-linkTitle: "Video Plugin Alexa"
+title: " Video Tutorial Alexa"
+linkTitle: "Video Tutorial Alexa"
 weight: 20
 menu:
 main:

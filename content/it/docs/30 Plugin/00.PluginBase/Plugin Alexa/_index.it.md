@@ -45,7 +45,7 @@ Usare il sito https://webhook.site per testare il ricevimento e il funzionamento
 # Case Study iDempiere Consulting Progetto attuale:
 
 
-[{{< figure src="/image/Alexa-Excel-02.png" >}}](/image/Alexa-Excel-02.png)
+[{{< figure src="/image/Alexa-Excel-03.png" >}}](/image/Alexa-Excel-02.png)
 
 
 ## MODELLO INSERIMENTO TASK APERTURA FINESTRE
@@ -75,22 +75,19 @@ Usare il sito https://webhook.site per testare il ricevimento e il funzionamento
 - Apri la info crea ddt
 
 ## MODELLO DI APERTURA TASK INSERIMENTO ORE/APPUNTAMENTI
-[{{< figure src="/image/Alexa-HourInsert.png" >}}](/image/Alexa-HourInsert.png)
+[{{< figure src="/image/Alexa-HourInsert01.png" >}}](/image/Alexa-HourInsert01.png)
 
 ### Parola accettata dallo slot {time}
-[{{< figure src="/image/Alexa-TimeType01.png" >}}](/image/Alexa-TimeType01.png)
-[{{< figure src="/image/Alexa-TimeType02.png" >}}](/image/Alexa-TimeType02.png)
+-  qualsiasi tipo di unità di tempo ( es: 1 ora e cinque minuti)
 
 
 ### Parola accettata dallo slot {intention}
 [{{< figure src="/image/Alexa-IntentionType.png" >}}](/image/Alexa-IntentionType.png)
 
 ### Parola accettata dallo slot {bpName}
-[{{< figure src="/image/Alexa-bpType.png" >}}](/image/Alexa-bpType.png)
+[{{< figure src="/image/Alexa-bpType-01.png" >}}](/image/Alexa-bpType.png)
 
-### Parola accettata dallo slot {data}
-- oggi, domani, ieri
-- il due settembre
+
 
 ### Parola accettata dallo slot {ora}
 - ora
@@ -103,6 +100,27 @@ Usare il sito https://webhook.site per testare il ricevimento e il funzionamento
 ### Esempio frase valida:
 - Segna 1 ora di telefonata con morgera ora
 - Segna appuntamento con il Pane oggi 16 e 55
+
+## MODELLO DI APERTURA TASK INSERIMENTO APPUNTAMENTI
+[{{< figure src="/image/Alexa-Appointment.png" >}}](/image/Alexa-Appointment.png)
+
+### Parola accettata dallo slot {bpName}
+[{{< figure src="/image/Alexa-bpType-01.png" >}}](/image/Alexa-bpType.png)
+
+### Parola accettata dallo slot {data}
+- oggi, domani, ieri
+- il due settembre
+
+### Parola accettata dallo slot {ora}
+- ora
+- 18 e 45
+- mezzogiorno
+
+### Esempio frase valida:
+- segna appuntamento
+- Segna appuntamento con il Pane oggi 16 e 55
+
+
 
 
 
