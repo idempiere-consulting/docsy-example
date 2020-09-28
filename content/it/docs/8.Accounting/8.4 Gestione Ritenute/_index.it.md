@@ -29,4 +29,3 @@ Menù Idempiere
 ## Tipo Soggetto a Ritenuta [TSAR00] {#TSAR00}
 [{{< figure src="/image/TipoSoggettoARitenuta.png"  width="850"  >}}](/image/TipoSoggettoARitenuta.png)
 
-
