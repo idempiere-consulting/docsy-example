@@ -1,11 +1,10 @@
 ---
-title: "Report Project"
+title: "Report Gestione del Progetto"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 760
+weight : 310
 pre: "<b></b>"
 ---
-
 ## Report Attività Ruolo [RP.572]
 [{{< figure src="/image/ReportAttivitaRuolo.png"  width="850"  >}}](/image/ReportAttivitaRuolo.png)
 ## Report Attività Effettuate [RP.571]
