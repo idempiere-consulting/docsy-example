@@ -20,7 +20,7 @@ Menù Idempiere
 [Registrazione Attributi [REGA00]]({{< ref "_index.it.md#REGA00" >}} "Registrazione Attributi") <br>
 [Crea Cespite da Progetto [CCPR00]]({{< ref "_index.it.md#CCPR00" >}} "Crea Cespite da Progetto") <br>
 [Attivazione/Dismissione Cespite [ADC00]]({{< ref "_index.it.md#ADC00" >}} "Attivazione/Dismissione Cespite") <br>
-[Aggiunta Cespite [ACES00]]({{< ref "_index.it.md#ALA00" >}} "Aggiunta Cespite") <br>
+[Aggiunta Cespite [ACES00]]({{< ref "_index.it.md#ACES00" >}} "Aggiunta Cespite") <br>
 
 ## Cespite [CES00] {#CES00}
 [{{< figure src="/image/Cespite.png"  width="850"  >}}](/image/Cespite.png)
