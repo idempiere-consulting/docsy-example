@@ -93,7 +93,7 @@ Menù Idempiere
 ## Cassa e Banca
 ## Estratto Contro Bancario [ECB00] {#ECB00}
 [{{< figure src="/image/EstrattoContoBancario.png"  width="850"  >}}](/image/EstrattoContoBancario.png)
-## Report Movimenti Bancari [R.70] {#RR70}
+## Report Movimenti Bancari [R.70] {#R70}
 [{{< figure src="/image/ReportMovimentiBancari.png"  width="850"  >}}](/image/ReportMovimentiBancari.png)
 ## Report Dettagli Pagamenti [R.62] {#R62}
 [{{< figure src="/image/ReportDettagliPagamenti.png"  width="850"  >}}](/image/ReportDettagliPagamenti.png)
