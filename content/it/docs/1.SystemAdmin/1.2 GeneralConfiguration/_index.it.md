@@ -7,7 +7,6 @@ pre: "<b></b>"
 ---
 Menù Idempiere
 
-[Azzeramento Cache [MRC00]]({{< ref "_index.it.md#MRC00" >}} "Azzeramento Cache [MRC00]") <br>
 [Gestione Setup Wizard [GSW00]]({{< ref "_index.it.md#GSW00" >}} "Gestione Setup Wizard") <br>
 [Procedura Guidata Setup [PGS]]({{< ref "_index.it.md#PGS" >}} "Procedura Guidata Setup") <br>
 [Provider Dati Cloud [PDC00]]({{< ref "_index.it.md#PDC00" >}} "Provider Dati Cloud") <br>
@@ -15,78 +14,73 @@ Menù Idempiere
 [Configurazione Provider Imposta [CPI00]]({{< ref "_index.it.md#CPI00" >}} "Configurazione Provider Imposta") <br>
 [ASP Sottoscrizione Moduli [[ASP00]]({{< ref "_index.it.md#ASP00" >}} "ASP Sottoscrizione Moduli") <br>
 [Configurazione Validazione Indirizzo [CVI00]]({{< ref "_index.it.md#CVI00" >}} "Configurazione Validazione Indirizzo") <br>
+[Remunerazione [RNZ00]]({{< ref "_index.it.md#RNZ00" >}} "Remunerazione") <br>
+[Gruppo Ricorrenza [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Ricorrenza") <br>
 [Validazione Indirizzo [VI00]]({{< ref "_index.it.md#VI00" >}} "Validazione Indirizzo") <br>
-[Accomodamento Pagamento [AP00]]({{< ref "_index.it.md#AP00" >}} "Accomodamento Pagamento") <br>
-[Storno Crediti [STC00]]({{< ref "_index.it.md#STC00" >}} "Storno Crediti") <br>
-[Crea Ricavo Obbiettivo Promozioni [CROP00]]({{< ref "_index.it.md#CROP00" >}} "Crea Ricavo Obbiettivo Promozioni") <br>
-[Allocazione Automatica [ALA00]]({{< ref "_index.it.md#ALA00" >}} "Allocazione Automatica") <br>
-[Abb. Pagamento [AP00]]({{< ref "_index.it.md#AP00" >}} "Abb. Pagamento") <br>
-[Annulla Allocazione Fattura [AAF00]]({{< ref "_index.it.md#AAF00" >}} "Annulla Allocazione Fattura") <br>
-[Abbinamento Pagamenti [ABP00]]({{< ref "_index.it.md#ABP00" >}} "Abbinamento Pagamenti") <br>
-[Report Registrazioni non Riconciliate [R.56]]({{< ref "_index.it.md#R56" >}} "Report Registrazioni non Riconciliate") <br>
-[Stampa lettere Solleciti [SLS00]]({{< ref "_index.it.md#ABP00" >}} "Stampa lettere Solleciti") <br>
-[Elaborazione Sollecito [ELS00]]({{< ref "_index.it.md#ELS00" >}} "Elaborazione Sollecito") <br>
-[Report Registrazioni Contabili Semplice [R.59]]({{< ref "_index.it.md#R59" >}} "Report Registrazioni Contabile Semplici") <br>
-[Setup Sollecito [SS01]]({{< ref "_index.it.md#SS01" >}} "Setup Sollecito") <br>
+[Tassa Fornitore [TF00]]({{< ref "_index.it.md#TF00" >}} "Tassa Fornitore") <br>
+[Migrazione Entità [MIE00]]({{< ref "_index.it.md#MIE00" >}} "Migrazione Entità") <br>
+[Negozio Elettronico [NE00]]({{< ref "_index.it.md#NE00" >}} "Negozio Elettronico") <br>
+[Tabelle [TAB01]]({{< ref "_index.it.md#TAB01" >}} "Tabelle") <br>
+[Gestione Albero [GEA00]]({{< ref "_index.it.md#GEA00" >}} "Gestione Albero") <br>
+[Messaggio d'Errore [ME00]]({{< ref "_index.it.md#ME00" >}} "Messaggio d'Errore") <br>
+[Albero e Immagine Nodo [AIN00]]({{< ref "_index.it.md#AIN00" >}} "Albero e Immagine Nodo") <br>
+[Compito (TASK) [CM00]]({{< ref "_index.it.md#CM00" >}} "Compito (TASK)") <br>
+[Commit Database Porstgres [PR10]]({{< ref "_index.it.md#PR10" >}} "Commit Database Porstgres") <br>
+[Avviso [AV01]]({{< ref "_index.it.md#AV01" >}} "Avviso") <br>
+[Preferiti Menu [PM00]]]({{< ref "_index.it.md#PM00" >}} "Preferiti Menu") <br>
+[Immagine Sistema [IS00]]({{< ref "_index.it.md#IS00" >}} "Immagine Sistema") <br>
 
-# Utilità
-### Azzeramento Cache [MRC00] {#MRC00}
-[{{< figure src="/image/AzzeramentoCache.png"  width="850"  >}}](/image/AzzeramentoCache.png)
-# Configurazione Generale
-## Configurazione Azienda
-### Gestione Setup Wizard [GSW00] {#MRC00}
+# Configurazione Azienda
+## Gestione Setup Wizard [GSW00] {#MRC00}
 [{{< figure src="/image/GestioneSetupWizard.png"  width="850"  >}}](/image/GestioneSetupWizard.png)
-### Procedura Guidata Setup [PGS] {#PGS}
+## Procedura Guidata Setup [PGS] {#PGS}
 [{{< figure src="/image/ProceduraGuidataSetup.png"  width="850"  >}}](/image/ProceduraGuidataSetup.png)
-## Configurazione del Sistema
-### Provider Dati Cloud [PDC00] {#PDC00}
+# Configurazione del Sistema
+## Provider Dati Cloud [PDC00] {#PDC00}
 [{{< figure src="/image/ProviderDatiCloud.png"  width="850"  >}}](/image/ProviderDatiCloud.png)
-### Rivisione configurazione iniziale del client [RCIC00] {#RCIC00} 
+## Rivisione configurazione iniziale del client [RCIC00] {#RCIC00} 
 [{{< figure src="/image/RivisioneConfigurazioneInizialedelClient.png"  width="850"  >}}](/image/RivisioneConfigurazioneInizialedelClient.png)
-### Configurazione Provider Imposta [CPI00] {#CPI00}
+## Configurazione Provider Imposta [CPI00] {#CPI00}
 [{{< figure src="/image/ConfigurazioneProviderImposta.png"  width="850"  >}}](/image/ConfigurazioneProviderImposta.png)
-### ASP Sottoscrizione Moduli [[ASP00] {#CPI00} 
+## ASP Sottoscrizione Moduli [[ASP00] {#CPI00} 
 [{{< figure src="/image/ASPSottoscrizioneModuli.png"  width="850"  >}}](/image/ASPSottoscrizioneModuli.png)
-### Configurazione Validazione Indirizzo [CVI00] {#CVI00}
+## Configurazione Validazione Indirizzo [CVI00] {#CVI00}
 [{{< figure src="/image/ConfigurazioneValidazioneIndirizzo.png"  width="850"  >}}](/image/ConfigurazioneValidazioneIndirizzo.png)
-### Recurring
-#### Validazione Indirizzo [VI00] {#VI00}
+## Recurring
+### Remunerazione [RNZ00] {#RNZ00}
+[{{< figure src="/image/Remunerazione.png"  width="850"  >}}](/image/Remunerazione.png)
+### Gruppo Ricorrenza [GR00] {#GR00}
+[{{< figure src="/image/GruppoRicorrenza.png"  width="850"  >}}](/image/GruppoRicorrenza.png)
+## Validazione Indirizzo [VI00] {#VI00}
 [{{< figure src="/image/ValidazioneIndirizzo.png"  width="850"  >}}](/image/ValidazioneIndirizzo.png)
-#### Tassa Fornitore [TF00] {#TF00}
+## Tassa Fornitore [TF00] {#TF00}
+[{{< figure src="/image/TassaFornitore.png"  width="850"  >}}](/image/TassaFornitore.png)
 La creazione di rilevamento ore risorse è una funzionalità aggiunta sul plug-in resourse attendance. 
 Questa funzionalità è stata creata per ottimizzare ore e risorsa quando si ha già una creazione di attività pianificata all'interno di questa maschera. 
 Questa creazione avviene quando viene creata una nuova riga in work hours (una cosa importante è che sia impostato il progetto di rifertimento). 
 Per lavorare su un attività bisogna creare una nuova riga ed assegnarli un nuovo rappresentante di vendita e indicare il numero di ore e dara una conferma, successivamente bisogna salvare in modo da poter creare il nuovo record di rilevamento ore Risorsa.
-[{{< figure src="/image/TassaFornitore.png"  width="850"  >}}](/image/TassaFornitore.png)
-### Migrazione Entità [MIE00]
+## Migrazione Entità [MIE00] {#MIE00}
 [{{< figure src="/image/MigrazioneEntita.png"  width="850"  >}}](/image/MigrazioneEntita.png)
-### Negozio Elettronico [NE00]
+## Negozio Elettronico [NE00] {#NE00}
 [{{< figure src="/image/NegozioElettronico.png"  width="850"  >}}](/image/NegozioElettronico.png)
-### Tabelle [TAB01]
+## Tabelle [TAB01] {#TAB01}
 [{{< figure src="/image/Tabelle.png"  width="850"  >}}](/image/Tabelle.png)
-### Gestione Albero [GEA00]
+## Gestione Albero [GEA00] {#GEA00}
 [{{< figure src="/image/GestioneAlbero.png"  width="850"  >}}](/image/GestioneAlbero.png)
-### Messaggio d'Errore [ME00]
+## Messaggio d'Errore [ME00] {#ME00}
 [{{< figure src="/image/MessaggioDErrore.png"  width="850"  >}}](/imageMessaggioDErrore.png)
-### Albero e immagine nodo [AIN00]
+## Albero e Immagine Nodo [AIN00] {#AIN00}
 [{{< figure src="/image/AlberoEImmagineNodo.png"  width="850"  >}}](/image/AlberoEImmagineNodo.png)
-### Compito (TASK) [CM00]
+## Compito (TASK) [CM00] {#CM00}
 [{{< figure src="/image/CompitoTask.png"  width="850"  >}}](/image/CompitoTask.png)
-### Commit Database Porstgres [PR10]
+## Commit Database Porstgres [PR10] {#PR10}
 [{{< figure src="/image/CommitDatabasePostgres.png"  width="850"  >}}](/image/CommitDatabasePostgres.png)
-### Avviso [AV01]
+## Avviso [AV01] {#AV01}
 [{{< figure src="/image/Avviso1.png"  width="850"  >}}](/image/Avviso1.png)
-### Preferiti Menu [PM00]
+## Preferiti Menu [PM00] {#PM00}
 [{{< figure src="/image/PreferitiMenu.png"  width="850"  >}}](/image/PreferitiMenu.png)
-### Immagine Sistema [IS00]
+## Immagine Sistema [IS00] {#IS00}
 [{{< figure src="/image/ImmagineSistema.png"  width="850"  >}}](/image/ImmagineSistema.png)
-
-## Recurring
-### Remunerazione [RNZ00]
-[{{< figure src="/image/Remunerazione.png"  width="850"  >}}](/image/Remunerazione.png)
-### Gruppo Ricorrenza [GR00]
-[{{< figure src="/image/GruppoRicorrenza.png"  width="850"  >}}](/image/GruppoRicorrenza.png)
-
 
 ## Impostazioni Organizzazione 
 ### Cruscotto Attività [CRA00]
