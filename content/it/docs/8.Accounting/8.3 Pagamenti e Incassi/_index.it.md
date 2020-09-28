@@ -11,7 +11,7 @@ Menù Idempiere
 [Pagamento/Incasso [PI00]]({{< ref "_index.it.md#PI00" >}} "Pagamento/Incasso") <br>
 [Seleziona Fattura per Pagamento [SPF00]]({{< ref "_index.it.md#SPF00" >}} "Seleziona Fattura per Pagamento") <br>
 [Selezione Pagamento (manuale) [SEP00]]({{< ref "_index.it.md#SEP00" >}} "Selezione Pagamento (manuale)") <br>
-[Crea RIBA e Prima Riba [CRPN00]]({{< ref "_index.it.md#CRPN00" >}} "Crea RIBA e Prima Riba") <br>
+[Crea RIBA e Prima Nota [CRPN00]]({{< ref "_index.it.md#CRPN00" >}} "Crea RIBA e Prima Nota") <br>
 [Info Registra Incassi [IRI00]]({{< ref "_index.it.md#IRI00" >}} "Info Registra Incassi") <br>
 [Info Registra Incassi/Pagamenti da Fattura [IRIF00]]({{< ref "_index.it.md#IRIF00" >}} "Info Registra Incassi/Pagamenti da Fattura") <br>
 [Info Totale RIBA [IR10]]({{< ref "_index.it.md#IR10" >}} "Info Totale RIBA [IR10]") <br>
@@ -44,7 +44,7 @@ Menù Idempiere
 [{{< figure src="/image/SelezionaFatturaPerPagamento.png"  width="850"  >}}](/image/SelezionaFatturaPerPagamento.png)
 ## Selezione Pagamento (manuale) [SEP00] {#SEP00}
 [{{< figure src="/image/SelezionePagamentoManuale.png"  width="850"  >}}](/image/SelezionePagamentoManuale.png)
-## Crea RIBA e Prima Riba [CRPN00] {#CRPN00}
+## Crea RIBA e Prima Nota [CRPN00] {#CRPN00}
 [{{< figure src="/image/CreaRIBAPrimaNota.png"  width="850"  >}}](/image/CreaRIBAPrimaNota.png)
 ## Info Registra Incassi [IRI00] {#IRI00}
 [{{< figure src="/image/InfoRegistraIncassi.png"  width="850"  >}}](/image/InfoRegistraIncassi.png)
