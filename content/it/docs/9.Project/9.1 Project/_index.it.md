@@ -14,7 +14,7 @@ pre: "<b>9.1 </b>"
 ## Attribuire al Progetto
 [{{< figure src="/image/AttribuirealProgetto.png"  width="850"  >}}](/image/AttribuirealProgetto.png)
 ## Crea Prodotto dalla Linea del Progetto
-[{{< figure src="/image/CreaProdottodallaLineadelProgetto.png"  width="850"  >}}](/image/CreaProdottodallaLineadelProgetto.png)
+[{{< figure src="/image/CreaProdottoDallaLineadelProgetto.png"  width="850"  >}}](/image/CreaProdottoDallaLineadelProgetto.png)
 ## Reporting del Progetto
 [{{< figure src="/image/ReportingProgetto0.png"  width="850"  >}}](/image/ReportingProgetto0.png)
 ## Tipo di Progetto
