@@ -17,8 +17,6 @@ pre: "<b></b>"
 [{{< figure src="/image/ReportDettagliContabiliDelProgetto.png"  width="850"  >}}](/image/ReportDettagliContabiliDelProgetto.png)
 ## Report margine progetto [R.50]
 [{{< figure src="/image/ReportMargineProgetto.png"  width="850"  >}}](/image/ReportMargineProgetto.png)
-## Reporting del progetto [RDP00]
-[{{< figure src="/image/ReportingdelProgetto.png"  width="850"  >}}](/image/ReportingdelProgetto.png)
 ## Report ciclo del progetto [R.54]
 [{{< figure src="/image/ReportCicloDelProgetto.png"  width="850"  >}}](/image/ReportCicloDelProgetto.png)
 
