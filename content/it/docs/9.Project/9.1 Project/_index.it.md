@@ -25,7 +25,7 @@ Menù Idempiere
 ## Attribuire al Progetto [ATP00] {#ATP00}
 [{{< figure src="/image/AttribuirealProgetto.png"  width="850"  >}}](/image/AttribuirealProgetto.png)
 ## Crea Prodotto dalla Linea del Progetto [CPLP00] {#CPLP00}
-[{{< figure src="/image/CreaProdottoDallaLineadelProgetto.png"  width="850"  >}}](/image/CreaProdottoDallaLineadelProgetto.png)
+[{{< figure src="/image/CreaProdottoDallaLineaDelProgetto.png"  width="850"  >}}](/image/CreaProdottoDallaLineaDelProgetto.png)
 ## Reporting del Progetto [RDP00] {#RDP00}
 [{{< figure src="/image/ReportingProgetto0.png"  width="850"  >}}](/image/ReportingProgetto0.png)
 ## Tipo di Progetto [TDP00] {#TDP00}
