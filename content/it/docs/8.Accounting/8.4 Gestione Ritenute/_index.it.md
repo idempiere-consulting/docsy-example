@@ -17,7 +17,7 @@ Menù Idempiere
 [Info Totale RIBA [IR10]]({{< ref "_index.it.md#IR10" >}} "Info Totale RIBA [IR10]") <br>
 
 ## Riepilogo Ritenute [RR02] {#RR02}
-[{{< figure src="/image/Riepilogo Ritenute.png"  width="850"  >}}](/image/Riepilogo Ritenute.png)
+[{{< figure src="/image/RiepilogoRitenute.png"  width="850"  >}}](/image/RiepilogoRitenute.png)
 
 ## Setup Witholding
 ## Setup Ritenuta [SR00] {#SR00}
