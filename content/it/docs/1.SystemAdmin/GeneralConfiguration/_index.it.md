@@ -5,30 +5,54 @@ draft: false
 weight : 20
 pre: "<b></b>"
 ---
-### Azzeramento cache [MRC00]
-[{{< figure src="/image/AzzeramentoCache.png"  width="850"  >}}](/image/AzzeramentoCache.png)
+Menù Idempiere
 
+[Azzeramento Cache [MRC00]]({{< ref "_index.it.md#MRC00" >}} "Azzeramento Cache [MRC00]") <br>
+[Gestione Setup Wizard [GSW00]]({{< ref "_index.it.md#GSW00" >}} "Gestione Setup Wizard") <br>
+[Procedura Guidata Setup [PGS]]({{< ref "_index.it.md#PGS" >}} "Procedura Guidata Setup") <br>
+[Provider Dati Cloud [PDC00]]({{< ref "_index.it.md#PDC00" >}} "Provider Dati Cloud") <br>
+[Rivisione configurazione iniziale del client [RCIC00]]({{< ref "_index.it.md#RCIC00" >}} "Rivisione configurazione iniziale del client") <br>
+[Configurazione Provider Imposta [CPI00]]({{< ref "_index.it.md#CPI00" >}} "Configurazione Provider Imposta") <br>
+[ASP Sottoscrizione Moduli [[ASP00]]({{< ref "_index.it.md#ASP00" >}} "ASP Sottoscrizione Moduli") <br>
+[Configurazione Validazione Indirizzo [CVI00]]({{< ref "_index.it.md#CVI00" >}} "Configurazione Validazione Indirizzo") <br>
+[Validazione Indirizzo [VI00]]({{< ref "_index.it.md#VI00" >}} "Validazione Indirizzo") <br>
+[Accomodamento Pagamento [AP00]]({{< ref "_index.it.md#AP00" >}} "Accomodamento Pagamento") <br>
+[Storno Crediti [STC00]]({{< ref "_index.it.md#STC00" >}} "Storno Crediti") <br>
+[Crea Ricavo Obbiettivo Promozioni [CROP00]]({{< ref "_index.it.md#CROP00" >}} "Crea Ricavo Obbiettivo Promozioni") <br>
+[Allocazione Automatica [ALA00]]({{< ref "_index.it.md#ALA00" >}} "Allocazione Automatica") <br>
+[Abb. Pagamento [AP00]]({{< ref "_index.it.md#AP00" >}} "Abb. Pagamento") <br>
+[Annulla Allocazione Fattura [AAF00]]({{< ref "_index.it.md#AAF00" >}} "Annulla Allocazione Fattura") <br>
+[Abbinamento Pagamenti [ABP00]]({{< ref "_index.it.md#ABP00" >}} "Abbinamento Pagamenti") <br>
+[Report Registrazioni non Riconciliate [R.56]]({{< ref "_index.it.md#R56" >}} "Report Registrazioni non Riconciliate") <br>
+[Stampa lettere Solleciti [SLS00]]({{< ref "_index.it.md#ABP00" >}} "Stampa lettere Solleciti") <br>
+[Elaborazione Sollecito [ELS00]]({{< ref "_index.it.md#ELS00" >}} "Elaborazione Sollecito") <br>
+[Report Registrazioni Contabili Semplice [R.59]]({{< ref "_index.it.md#R59" >}} "Report Registrazioni Contabile Semplici") <br>
+[Setup Sollecito [SS01]]({{< ref "_index.it.md#SS01" >}} "Setup Sollecito") <br>
+
+# Utilità
+### Azzeramento Cache [MRC00] {#MRC00}
+[{{< figure src="/image/AzzeramentoCache.png"  width="850"  >}}](/image/AzzeramentoCache.png)
 # Configurazione Generale
 ## Configurazione Azienda
-### Gestione setup Wizard [GSW00]
+### Gestione Setup Wizard [GSW00] {#MRC00}
 [{{< figure src="/image/GestioneSetupWizard.png"  width="850"  >}}](/image/GestioneSetupWizard.png)
-### Procedura guidata Setup [PGS]
+### Procedura Guidata Setup [PGS] {#PGS}
 [{{< figure src="/image/ProceduraGuidataSetup.png"  width="850"  >}}](/image/ProceduraGuidataSetup.png)
-
 ## Configurazione del Sistema
-### Provider dati cloud [PDC00]
+### Provider Dati Cloud [PDC00] {#PDC00}
 [{{< figure src="/image/ProviderDatiCloud.png"  width="850"  >}}](/image/ProviderDatiCloud.png)
-### Rivisione configurazione iniziale del client
+### Rivisione configurazione iniziale del client [RCIC00] {#RCIC00} 
 [{{< figure src="/image/RivisioneConfigurazioneInizialedelClient.png"  width="850"  >}}](/image/RivisioneConfigurazioneInizialedelClient.png)
-### Configurazione provider imposta [CPI00]
+### Configurazione Provider Imposta [CPI00] {#CPI00}
 [{{< figure src="/image/ConfigurazioneProviderImposta.png"  width="850"  >}}](/image/ConfigurazioneProviderImposta.png)
-### ASP sottoscrizione moduli 
+### ASP Sottoscrizione Moduli [[ASP00] {#CPI00} 
 [{{< figure src="/image/ASPSottoscrizioneModuli.png"  width="850"  >}}](/image/ASPSottoscrizioneModuli.png)
-### Configurazione validazione indirizzo [CVI00]
+### Configurazione Validazione Indirizzo [CVI00] {#CVI00}
 [{{< figure src="/image/ConfigurazioneValidazioneIndirizzo.png"  width="850"  >}}](/image/ConfigurazioneValidazioneIndirizzo.png)
-### Validazione Indirizzo [VI00]
+### Recurring
+#### Validazione Indirizzo [VI00] {#VI00}
 [{{< figure src="/image/ValidazioneIndirizzo.png"  width="850"  >}}](/image/ValidazioneIndirizzo.png)
-### Tassa fornitore [TF00]
+#### Tassa Fornitore [TF00] {#TF00}
 La creazione di rilevamento ore risorse è una funzionalità aggiunta sul plug-in resourse attendance. 
 Questa funzionalità è stata creata per ottimizzare ore e risorsa quando si ha già una creazione di attività pianificata all'interno di questa maschera. 
 Questa creazione avviene quando viene creata una nuova riga in work hours (una cosa importante è che sia impostato il progetto di rifertimento). 
