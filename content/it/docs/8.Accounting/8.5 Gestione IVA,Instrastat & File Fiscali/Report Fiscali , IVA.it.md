@@ -1,19 +1,10 @@
 ---
-title: "Gestione IVA,Instrastat & File Fiscali"
+title: "Report Fiscali , IVA"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 690
+weight : 310
 pre: "<b></b>"
 ---
-
-## Generazione file dati fatture (spessometro)
-[{{< figure src="/image/GenerazioneFileDatiFatture.png" width="850"  >}}](/image/GenerazioneFileDatiFatture.png)
-## Generazione file dati fatture (esterometro)
-[{{< figure src="/image/GenerazioneFileDatiFattureEsterometro.png" width="850"  >}}](/image/GenerazioneFileDatiFattureEsterometro.png)
-## Creazione file XML - dichiarazione trimestrale
-[{{< figure src="/image/CreazioneFileXML" width="850"  >}}](/image/CreazioneFileXML)
-## Creazione dati riepilogo IVA da liquidazione
-[{{< figure src="/image/CreazioneDatiRiepilogoIVAdaLiquidazione.png" width="850"  >}}](/image/CreazioneDatiRiepilogoIVAdaLiquidazione.png)
 
 # Report Fiscali, IVA
 ## riepilogo IVA [RPI15]
@@ -30,9 +21,4 @@ pre: "<b></b>"
 [{{< figure src="/image/ReportLiquidazioneIVA.png" width="850"  >}}](/image/ReportLiquidazioneIVA.png)
 ## Report Intra [RP.813]
 [{{< figure src="/image/ReportIntra.png" width="850"  >}}](/image/ReportIntra.png)
-
-# Setup IVA
-## Registro IVA
-[{{< figure src="/image/RegistroIVA.png" width="850"  >}}](/image/RegistroIVA.png)
-
 
