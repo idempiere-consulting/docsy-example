@@ -21,9 +21,9 @@ Menù Idempiere
 
 ## Setup Witholding
 ## Setup Ritenuta [SR00] {#SR00}
-[{{< figure src="/image/Setup Ritenuta.png"  width="850"  >}}](/image/Setup Ritenuta.png)
+[{{< figure src="/image/SetupRitenuta.png"  width="850"  >}}](/image/SetupRitenuta.png)
 ## Categoria Ritenuta [CR01] {#CR01}
-[{{< figure src="/image/Categoria Ritenuta.png"  width="850"  >}}](/image/Categoria Ritenuta.png)
+[{{< figure src="/image/CategoriaRitenuta.png"  width="850"  >}}](/image/CategoriaRitenuta.png)
 ## ISIC [ISIC00] {#ISIC00}
 [{{< figure src="/image/ISIC.png"  width="850"  >}}](/image/ISIC.png)
 ## Tipo Soggetto a Ritenuta [TSAR00] {#TSAR00}
