@@ -40,6 +40,252 @@ Menù Idempiere
 
 ## Pagamento/Incasso [PI00] {#PI00}
 [{{< figure src="/image/PagamentoIncasso.png"  width="850"  >}}](/image/PagamentoIncasso.png)
+
+## Plugin SEPA
+
+## Link esterni
+
+Link wiki idempiere 
+
+[Link/SEPA.xml](http://Link/image/SEPA.xml)
+
+
+---
+
+## Riferimenti
+
+*link pubblico          : http://wiki.idempiere.org/en/Plugin:_SEPA
+*link idempiere italia  : https://bitbucket.org/consulnet/plugin-standard.de.aulersipel.sepapaymentexport
+*link jar               : 
+*versione idempiere     : idempiere 3.1
+*versione zk supportata : 
+
+---
+
+## Descrizione Plugin
+
+```
+SEPA Credit Transfer (SCT), evoluzione del servizio di bonifico domestico; 
+SEPA Direct Debit (SDD), evoluzione del servizio di addebito diretto domestico RID.
+```
+
+3. Codice CUC (Codice Univoco CBI) (stringa 8 caratteri, nullabile): vedi identificativo del creditore 
+
+Per il corretto funzionamento, bisogna avere una banca di default impostata nel Client
+
+[{{< figure src="/image/SEPA_1.png"  width="850"  >}}](/image/SEPA_1.png)
+
+
+'''Window "Bank>Account":''' in questa tab bisogna dichiarare la classe java per la gestione della creazione del documento SEPA; nel campo'''<pre style="color: green">
+
+```
+Payment Export Class
+```
+
+</pre>''' dichiarare il nome della classe del plug-in e cioè '''de.aulersipel.util.SEPAPaymentExport_idIta'''. Inoltre bisogna creare un Bank Account Document per farlo eseguire nella maniera corretta il pagamento e generazione del file SEPA; nella creazione impostare il giusto Payment Rule che si vuole applicare ---- Es. "Direct Debit"
+<br\>
+Prima di avviare l'esportazione del file SEPA, bisogna assicurarsi che il BPartner, a cui fare il pagamento, abbia un bank account impostato. Vedere maschera Business Partner > Bank Account
+<br\>
+
+[{{< figure src="/image/SEPA_4.png"  width="850"  >}}](/image/SEPA_4.png)
+![image](1200px-SEPA_4.png)<br\>
+<br\>
+
+[{{< figure src="/image/SEPA_2.png"  width="850"  >}}](/image/SEPA_2.png)
+![image](1200px-SEPA_2.png)<br>
+'''Window "Payment Print/Export":''' in questa maschera bisogna dichiarare selezionare il pagamento che si vuole effettuare e la generazione del file SEPA
+<br>
+
+[{{< figure src="/image/SEPA_3.png"  width="850"  >}}](/image/SEPA_3.png)
+![image](1200px-SEPA_3.png)<br>
+'''Window "Payment Selection":''' in questa maschera bisogna si può visualizzare e gestire i pagamenti da effettuare
+
+```
+SELECT C_PaySelection.C_PaySelection_ID, 
+       NULL,
+       NVL(C_PaySelection.Name,'-1'),
+       C_PaySelection.IsActive 
+FROM C_PaySelection WHERE   
+C_PaySelection.C_PaySelection_ID=? AND 
+C_PaySelection.AD_Client_ID IN (0,1000008) AND  
+(C_PaySelection.C_PaySelection_ID IS NULL OR   C_PaySelection.C_PaySelection_ID )
+```
+
+
+
+---
+
+## Funzionalità supportate
+
+---
+
+## Installazione Plugin
+
+Installare nella console felix il jar reperibile su [https://bitbucket.org/consulnet/idempiere-download idempiere-download]
+
+---
+
+## Parametrizzazione Plugin
+
+---
+
+## Istruzioni Plugin
+
+---
+
+## Documentazione Tecnica Plugin
+
+Per controllo file xml SEPA, utilizzare il seguente link http://www.cbiservice.com/correttoresepa.php
+
+---
+
+## Modifiche all'AD
+
+### Tables / Windows esistenti
+
+### Nuove Tables /Windows
+
+---
+
+## Funzionalità Future
+
+---
+
+## Errori e bug
+
+---
+
+
+## FILE SEPA
+
+<CBIPaymentRequest xsi:schemaLocation="urn:CBI:xsd:CBIPaymentRequest.00.03.09 CBIPaymentRequest.00.03.09.xsd">
+<GrpHdr>
+<MsgId>ubifeb1720170209123243</MsgId>
+<CreDtTm>2017-02-09T12:32:43+01:00</CreDtTm>
+<NbOfTxs>91</NbOfTxs>
+<CtrlSum>634331</CtrlSum>
+<InitgPty>
+<Nm>nomeAzienda</Nm>
+<Id>
+<OrgId>
+<Othr>
+<Id>1338106H</Id>
+<Issr>CBI</Issr>
+</Othr>
+</OrgId>
+</Id>
+</InitgPty>
+</GrpHdr>
+<PmtInf>
+<PmtInfId>ubifeb1720170209123243</PmtInfId>
+<PmtMtd>TRA</PmtMtd>
+<PmtTpInf>
+<InstrPrty>NORM</InstrPrty>
+<SvcLvl>
+<Cd>SEPA</Cd>
+</SvcLvl>
+</PmtTpInf>
+<ReqdExctnDt>2017-02-09</ReqdExctnDt>
+<Dbtr>
+<Nm>nomeAzienda</Nm>
+<Id>
+<OrgId>
+<Othr>
+<Id>11323900016</Id>
+<Issr>ADE</Issr>
+</Othr>
+</OrgId>
+</Id>
+</Dbtr>
+<DbtrAcct>
+<Id>
+<IBAN>ibanazienda</IBAN>
+</Id>
+</DbtrAcct>
+<DbtrAgt>
+<FinInstnId>
+<ClrSysMmbId>
+<MmbId>03111</MmbId>
+</ClrSysMmbId>
+</FinInstnId>
+</DbtrAgt>
+<ChrgBr>SLEV</ChrgBr>
+<CdtTrfTxInf>
+<PmtId>
+<InstrId>1</InstrId>
+<EndToEndId>ubifeb1720170209123243-0001</EndToEndId>
+</PmtId>
+<PmtTpInf>
+<CtgyPurp>
+<Cd>SUPP</Cd>
+</CtgyPurp>
+</PmtTpInf>
+<Amt>
+<InstdAmt Ccy="EUR">18.91</InstdAmt>
+</Amt>
+<Cdtr>
+<Nm>nomeAziendaFornitore1</Nm>
+<PstlAdr>
+<AdrTp>ADDR</AdrTp>
+<StrtNm>Indirizzo</StrtNm>
+<PstCd>cap</PstCd>
+<TwnNm>Localita</TwnNm>
+<CtrySubDvsn>prov</CtrySubDvsn>
+<Ctry>nazione</Ctry>
+</PstlAdr>
+</Cdtr>
+<CdtrAcct>
+<Id>
+<IBAN>ibanaziendafornitore</IBAN>
+</Id>
+</CdtrAcct>
+<RmtInf>
+<Ustrd>394 29/11/16</Ustrd>
+</RmtInf>
+</CdtTrfTxInf>
+<CdtTrfTxInf>
+<PmtId>
+<InstrId>2</InstrId>
+<EndToEndId>ubifeb1720170209123243-0002</EndToEndId>
+</PmtId>
+<PmtTpInf>
+<CtgyPurp>
+<Cd>SUPP</Cd>
+</CtgyPurp>
+</PmtTpInf>
+<Amt>
+<InstdAmt Ccy="EUR">903.96</InstdAmt>
+</Amt>
+<Cdtr>
+<Nm>nomeAziendaFornitore1</Nm>
+<PstlAdr>
+<AdrTp>ADDR</AdrTp>
+<StrtNm>Indirizzo</StrtNm>
+<PstCd>cap</PstCd>
+<TwnNm>Localita</TwnNm>
+<CtrySubDvsn>prov</CtrySubDvsn>
+<Ctry>nazione</Ctry>
+</PstlAdr>
+</Cdtr>
+<CdtrAcct>
+<Id>
+<IBAN>ibanaziendafornitore</IBAN>
+</Id>
+</CdtrAcct>
+<RmtInf>
+<Ustrd>3389 17/11/16</Ustrd>
+</RmtInf>
+</CdtTrfTxInf>
+</PmtInf>
+</CBIPaymentRequest>
+
+
+
+
+
+
+
+
 ## Seleziona Fattura per Pagamento [SPF00] {#SPF00}
 [{{< figure src="/image/SelezionaFatturaPerPagamento.png"  width="850"  >}}](/image/SelezionaFatturaPerPagamento.png)
 ## Selezione Pagamento (manuale) [SEP00] {#SEP00}

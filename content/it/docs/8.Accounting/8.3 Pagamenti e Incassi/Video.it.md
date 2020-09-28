@@ -1,10 +1,16 @@
 ---
-title: "Turn customers advance money - Video"
+title: "Video Pagamenti/Incassi"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 81
-pre: "<b>8.1.1 </b>"
+weight : 10
+pre: "<b></b>"
 ---
+
+### Video - 8. Accounting  - Rebate closure / Chiusura Importo Aperto centesimi a Abbuoni [V148]
+{{<youtube ytqADHd_E1s>}}
+
+### 8. Accounting - Open Items / Emissione Riba a fronte fattura nota accredito [V010]
+{{<youtube 8SSEVYdZIe4>}}
 
 ### Video - 8. Accounting  - turn customers advance money / Cont. Giro Crediti Clienti  AnticipoDenaro [V167]
 {{<youtube oKl4Jp600xw>}}
@@ -17,3 +23,6 @@ pre: "<b>8.1.1 </b>"
 
 ### Video - 8  Accounting - Pagamenti Annullamento Abbinamento Pagamento Fattura [V064]
 {{<youtube D7alY4Eq3NM>}}
+
+### 8. Accounting -  Bank Receipts Overvieuw & outstanding / Panoramica Generale su RIBA con [V171]
+{{<youtube 5dd2bGqr7HY>}}

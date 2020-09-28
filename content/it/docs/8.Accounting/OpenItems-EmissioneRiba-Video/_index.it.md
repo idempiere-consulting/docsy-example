@@ -6,5 +6,3 @@ weight : 720
 pre: "<b></b>"
 --- 
 
-### 8. Accounting - Open Items / Emissione Riba a fronte fattura nota accredito [V010]
-{{<youtube 8SSEVYdZIe4>}}
