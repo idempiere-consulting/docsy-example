@@ -20,14 +20,14 @@ Menù Idempiere
 [Accomodamento Pagamento [AP00]]({{< ref "_index.it.md#AP00" >}} "Accomodamento Pagamento") <br>
 [Storno Crediti [STC00]]({{< ref "_index.it.md#STC00" >}} "Storno Crediti") <br>
 [Crea Ricavo Obbiettivo Promozioni [CROP00]]({{< ref "_index.it.md#CROP00" >}} "Crea Ricavo Obbiettivo Promozioni") <br>
-[Allocazione Automatica [AA00]]({{< ref "_index.it.md#AA00" >}} "Allocazione Automatica") <br>
-[Abbinamento Pagamento [APA00]]({{< ref "_index.it.md#APA00" >}} "Abbinamento Pagamento") <br>
+[Allocazione Automatica [ALA00]]({{< ref "_index.it.md#ALA00" >}} "Allocazione Automatica") <br>
+[Abb. Pagamento [AP00]]({{< ref "_index.it.md#AP00" >}} "Abb. Pagamento") <br>
 [Annulla Allocazione Fattura [AAF00]]({{< ref "_index.it.md#AAF00" >}} "Annulla Allocazione Fattura") <br>
 [Abbinamento Pagamenti [ABP00]]({{< ref "_index.it.md#ABP00" >}} "Abbinamento Pagamenti") <br>
 [Report Registrazioni non Riconciliate [R.56]]({{< ref "_index.it.md#R56" >}} "Report Registrazioni non Riconciliate") <br>
 [Stampa lettere Solleciti [SLS00]]({{< ref "_index.it.md#ABP00" >}} "Stampa lettere Solleciti") <br>
 [Elaborazione Sollecito [ELS00]]({{< ref "_index.it.md#ELS00" >}} "Elaborazione Sollecito") <br>
-[Report Registrazioni contabili Semplici [R.59]]({{< ref "_index.it.md#R59" >}} "Report Registrazioni contabili Semplici") <br>
+[Report Registrazioni Contabili Semplice [R.59]]({{< ref "_index.it.md#R59" >}} "Report Registrazioni Contabile Semplici") <br>
 [Setup Sollecito [SS01]]({{< ref "_index.it.md#SS01" >}} "Setup Sollecito") <br>
 [Gruppo Pagamenti [GP00]]({{< ref "_index.it.md#GP00" >}} "Gruppo Pagamenti") <br>
 [Estratto Contro Bancario [ECB00]]({{< ref "_index.it.md#ECB00" >}} "Estratto Contro Bancario") <br>
@@ -64,9 +64,9 @@ Menù Idempiere
 [{{< figure src="/image/CreaRicavoObbiettivoPromozioni.png"  width="850"  >}}](/image/CreaRicavoObbiettivoPromozioni.png)
 
 ## Abbinamento
-## Allocazione Automatica [AA00] {#AA00}
+## Allocazione Automatica [ALA00] {#ALA00}
 [{{< figure src="/image/AllocazioneAutomatica.png"  width="850"  >}}](/image/AllocazioneAutomatica.png)
-## Abbinamento Pagamento [APA00] {#APA00}
+## Abb. Pagamento [AP00] {#AP00}
 [{{< figure src="/image/AbbinamentoPagamento.png"  width="850"  >}}](/image/AbbinamentoPagamento.png)
 ## Annulla Allocazione Fattura [AAF00] {#AAF00}
 [{{< figure src="/image/AnnullaAllocazioneFattura.png"  width="850"  >}}](/image/AnnullaAllocazioneFattura.png)
@@ -80,7 +80,7 @@ Menù Idempiere
 [{{< figure src="/image/StampaLettereSolleciti.png"  width="850"  >}}](/image/StampaLettereSolleciti.png)
 ## Elaborazione Sollecito [ELS00] {#ELS00}
 [{{< figure src="/image/ElaborazioneSollecito.png"  width="850"  >}}](/image/ElaborazioneSollecito.png)
-## Report Registrazioni contabili Semplici [R.59] {#R59}
+## Report Registrazioni Contabili Semplice [R.59] {#R59}
 [{{< figure src="/image/ReportRegistrazioniContabiliSemplici.png"  width="850"  >}}](/image/ReportRegistrazioniContabiliSemplici.png)
 
 ## Setup Ragamenti e Solleciti
@@ -93,7 +93,7 @@ Menù Idempiere
 ## Cassa e Banca
 ## Estratto Contro Bancario [ECB00] {#ECB00}
 [{{< figure src="/image/EstrattoContoBancario.png"  width="850"  >}}](/image/EstrattoContoBancario.png)
-## Report Movimenti Bancari [R.70] {#rR70}
+## Report Movimenti Bancari [R.70] {#RR70}
 [{{< figure src="/image/ReportMovimentiBancari.png"  width="850"  >}}](/image/ReportMovimentiBancari.png)
 ## Report Dettagli Pagamenti [R.62] {#R62}
 [{{< figure src="/image/ReportDettagliPagamenti.png"  width="850"  >}}](/image/ReportDettagliPagamenti.png)
