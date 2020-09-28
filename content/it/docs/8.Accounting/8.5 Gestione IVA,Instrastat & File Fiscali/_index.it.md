@@ -19,7 +19,7 @@ Menù Idempiere
 ## Generazione file Dati Fatture (Esterometro) [GDFE00] {#GDFE00}
 [{{< figure src="/image/GenerazioneFileDatiFattureEsterometro.png" width="850"  >}}](/image/GenerazioneFileDatiFattureEsterometro.png)
 ## Creazione file XML - Dichiarazione Trimestrale [CDT00] {#CDT00} 
-[{{< figure src="/image/CreazioneFileXML" width="850"  >}}](/image/CreazioneFileXML)
+[{{< figure src="/image/CreazionefileXMLDichiarazioneTrimestrale.png" width="850"  >}}](/image/CreazionefileXMLDichiarazioneTrimestrale.png)
 ## Creazione Dati Riepilogo IVA da Liquidazione [CDRL00] {#CDRL00}
 [{{< figure src="/image/CreazioneDatiRiepilogoIVAdaLiquidazione.png" width="850"  >}}](/image/CreazioneDatiRiepilogoIVAdaLiquidazione.png)
 
