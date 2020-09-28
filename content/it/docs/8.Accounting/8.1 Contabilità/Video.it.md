@@ -11,3 +11,6 @@ pre: "<b></b>"
 
 ### 8. Accounting - Account Element / Gestione Costi Indeducibili FDA [V022]
 {{<youtube DQIFKpAxoCs>}}
+
+### 8. Accounting - Accounting Rules / Risconto Passivo [V003]
+{{<youtube 4xcL3cQiQLc>}}
