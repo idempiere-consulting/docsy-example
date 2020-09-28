@@ -17,15 +17,13 @@ Menù Idempiere
 [Info Totale RIBA [IR10]]({{< ref "_index.it.md#IR10" >}} "Info Totale RIBA [IR10]") <br>
 
 ## Riepilogo Ritenute [RR02] {#RR02}
-[{{< figure src="/image/Riepilogo Ritenute.png"  width="850"  >}}](/image/Riepilogo Ritenute.png)
+{{< figure src="/image/Riepilogo Ritenute.png"  width="850"  >}}(/image/Riepilogo Ritenute.png)
 
 ## Setup Witholding
 ## Setup Ritenuta [SR00] {#SR00}
-[{{< figure src="/image/Setup Ritenuta.png"  width="850"  >}}](/image/Setup Ritenuta.png)
+{{< figure src="/image/Setup Ritenuta.png"  width="850"  >}}(/image/Setup Ritenuta.png)
 ## Categoria Ritenuta [CR01] {#CR01}
-[{{< figure src="/image/Categoria Ritenuta.png"  width="850"  >}}](/image/Categoria Ritenuta.png)
-
-[{{< figure src="/image/Categoria Ritenuta.png"  width="850"  >}}](/image/Categoria Ritenuta.png)
+{{< figure src="/image/Categoria Ritenuta.png"  width="850"  >}}(/image/Categoria Ritenuta.png)
 ## ISIC [ISIC00] {#ISIC00}
 [{{< figure src="/image/ISIC.png"  width="850"  >}}](/image/ISIC.png)
 ## Tipo Soggetto a Ritenuta [TSAR00] {#TSAR00}
