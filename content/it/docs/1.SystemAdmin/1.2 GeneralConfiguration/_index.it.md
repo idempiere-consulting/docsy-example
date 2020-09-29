@@ -36,6 +36,7 @@ La Maschera permette la gestione guidata dell'installazione di una Azienda Clien
 [{{< figure src="/image/GestioneSetupWizard.png"  width="850"  >}}](/image/GestioneSetupWizard.png)
 ## Procedura Guidata Setup [PGS] {#PGS}
 [{{< figure src="/image/ProceduraGuidataSetup.png"  width="850"  >}}](/image/ProceduraGuidataSetup.png)
+
 # Configurazione del Sistema
 ## Provider Dati Cloud [PDC00] {#PDC00}
 [{{< figure src="/image/ProviderDatiCloud.png"  width="850"  >}}](/image/ProviderDatiCloud.png)
@@ -52,6 +53,7 @@ La Maschera permette la gestione guidata dell'installazione di una Azienda Clien
 [{{< figure src="/image/Remunerazione.png"  width="850"  >}}](/image/Remunerazione.png)
 ### Gruppo Ricorrenza [GR00] {#GR00}
 [{{< figure src="/image/GruppoRicorrenza.png"  width="850"  >}}](/image/GruppoRicorrenza.png)
+
 ## Validazione Indirizzo [VI00] {#VI00}
 [{{< figure src="/image/ValidazioneIndirizzo.png"  width="850"  >}}](/image/ValidazioneIndirizzo.png)
 ## Tassa Fornitore [TF00] {#TF00}
