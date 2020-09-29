@@ -13,7 +13,99 @@ pre: "<b>732. </b>"
 - Connessione ad Internet
 - Conoscere l'IP del server
 
-## Come fare una chiamata all'Api rest
+
+## Istruzione e Mobile
+
+Appena lanciata l'APP si presenterà così:
+
+{{< figure src="loginpage.png" >}}
+
+Premendo l'ingranaggio in passo a destra avremo un input dove impostare l'IP del server
+
+{{< figure src="loginpage2.png" >}}
+
+Effettuato il Login ci troveremo davanti il menù
+
+{{< figure src="menuprincipale.png" >}}
+
+### TODO - Completare gestione password criptata [Prio:Media]
+### TODO - icona app e icone interne  [ Prio:BASSA]
+### TODO - Mettere sottomenu con i tasti come magazzino per tutti menu [Prio:Bassa]
+##
+### TODO - Fare 2Pack  -viste + API REST (Andrea Bellotto)
+
+
+
+## SOTTOMENU - CRM
+
+{{< figure src="crm1.png" >}}
+{{< figure src="crm2.png" >}}
+{{< figure src="dettaglioLead1.png" >}}
+{{< figure src="dettaglioLead2.png" >}}
+
+## SOTTOMENU - SERVICE
+
+## SOTTOMENU - CONTABILITA'
+
+##todo - fare voci : 
+- Fatture di Acquisto
+- Fatture di Vendita
+- Pagamenti e Incassi
+
+
+## TODO - Fatture di Acquisto
+- creare view 
+- impostare filtro
+## TODO - Fatture di Vendita
+- stessa view 
+## TODO - Pagamenti / Incassi
+## TODO - (Riportare : Contatti Clienti)
+##
+
+
+
+## SOTTOMENU - VENDITE
+
+
+## SOTTOMENU - ACQUISTI
+
+## SOTTOMENU - MAGAZZINO
+
+
+## SOTTOMENU - PRODUZIONE
+
+
+## TASK
+
+
+
+## To Do Mobile APP
+
+
+### Contabilità
+
+- Fattura di Acquisto
+- Fattura di Vendita
+
+### Service
+- workorder
+
+
+### Produzione : 
+
+
+
+### Magazzino : 
+- Inventario  : 
+- Consumi 
+- Trasferimenti
+- Entrata Merce 
+
+
+
+## Documentazione Tecnica
+
+### Come fare una chiamata all'Api rest
 
 Per fare una chiamata Api rest da un'applicazione Angular bisogna importare il modulo HttpClientModule in app.module.ts e fare una chiamata (GET, POST, PUT)  alla maschera Sicurezza Web Service
 
@@ -23,7 +115,7 @@ Per fare una chiamata Api rest da un'applicazione Angular bisogna importare il m
 
 Chiave di ricerca e Nome dovranno sempre essere uguali tra di loro, e verranno utilizzare per fare le richieste all'Api rest in questo modo:
 
-### Chiamata GET (richiesta dati)
+#### Chiamata GET (richiesta dati)
 
 {{< figure src="ChiamataApi.jpg" >}}
 in questo caso il nome getLead della maschera è stato utilizzato nella chiamata Api rest.</br>
@@ -46,7 +138,7 @@ Per i field di Output invece andremo a inserire tutti i parametri che necessitia
 
 {{< figure src="campiOutput.png" >}}
 
-### Chiamata POST (inserimento nuovo dato)
+#### Chiamata POST (inserimento nuovo dato)
 
 {{< figure src="ChiamataPost.png" >}}
 
@@ -58,7 +150,7 @@ Nel Campo tabella dovremo inserire il nome della maschera nel quale andremo a sc
 Successivamente nei campi di input andremo ad impostare tutti campi che vogliamo andare a scrivere per la nostra POST
 {{< figure src="ParametriPost.png" >}}
 
-### Chiamata PUT (modifica di un dato già esistente)
+#### Chiamata PUT (modifica di un dato già esistente)
 
 Questo è un esempio di chiamata PUT utilizzata per modificare un elemento già esistente nel DB:
 
@@ -72,41 +164,4 @@ In questo caso la chiamata avrà bisogna di avere dei parametri di input, nel ca
 
 {{< figure src="ParametriPUT.png" >}}
 
-# Applicazione Mobile
 
-Appena lanciata l'APP si presenterà così:
-
-{{< figure src="loginpage.png" >}}
-
-Premendo l'ingranaggio in passo a destra avremo un input dove impostare l'IP del server
-
-{{< figure src="loginpage2.png" >}}
-
-Effettuato il Login ci troveremo davanti il menù
-
-{{< figure src="menuprincipale.png" >}}
-
-# CRM
-
-{{< figure src="crm1.png" >}}
-{{< figure src="crm2.png" >}}
-{{< figure src="dettaglioLead1.png" >}}
-{{< figure src="dettaglioLead2.png" >}}
-
-## To Do Mobile APP
-
-- Completare gestione passoword criptata [Prio:Media]
-- icona appe e icone interne  [ Prio:BASSA]
-- Mettere sottomenu con i tasti come magazzino per tutti menu [Prio:Bassa]
-
-
-
-### Produzione : 
-
-
-
-### Magazzino : 
-- Inventario  : 
-- Consumi 
-- Trasferimenti
-- Entrata Merce 
