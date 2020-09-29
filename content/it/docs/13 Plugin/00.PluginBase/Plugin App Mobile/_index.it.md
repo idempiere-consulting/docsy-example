@@ -28,11 +28,15 @@ Effettuato il Login ci troveremo davanti il menù
 
 {{< figure src="menuprincipale.png" >}}
 
-### TODO - Completare gestione password criptata [Prio:Media]
-### TODO - icona app e icone interne  [ Prio:BASSA]
-### TODO - Mettere sottomenu con i tasti come magazzino per tutti menu [Prio:Bassa]
-##
-### TODO - Fare 2Pack  -viste + API REST (Andrea Bellotto)
+
+> TODO - Completare gestione password criptata [Prio:Media]
+
+> TODO - icona app e icone interne  [ Prio:BASSA]
+
+> TODO - Mettere sottomenu con i tasti come magazzino per tutti menu [Prio:Bassa]
+
+
+> TODO - Fare 2Pack  -viste + API REST (Andrea Bellotto)
 
 
 
@@ -92,9 +96,6 @@ Effettuato il Login ci troveremo davanti il menù
 
 
 ### Produzione : 
-
-
-
 ### Magazzino : 
 - Inventario  : 
 - Consumi 
