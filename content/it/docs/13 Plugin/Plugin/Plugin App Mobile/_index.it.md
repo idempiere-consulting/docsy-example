@@ -53,6 +53,12 @@ Effettuato il Login ci troveremo davanti il menù
 {{< figure src="dettaglioLead1.png" >}}
 {{< figure src="dettaglioLead2.png" >}}
 
+> TODO crm
+- modificare view add search
+- filter per agente 
+- vedere solo i propri lead ?
+
+
 ## SOTTOMENU - SERVICE
 1.
 2.
@@ -137,6 +143,18 @@ Effettuato il Login ci troveremo davanti il menù
 
 
 ## TASK
+> TOTO Fare SottoMenu
+1. Task dettaglio
+2. Crea Task
+3. Riepilogo Giorno
+
+> TODO TASK
+- rename in task 
+- Aggiungere Business Partner
+- modifica vista add search
+- add filter
+- add completa e duplica
+- Crea TASK : Risora (IO) Filtro BUsiness PArtner - show TASK + crea dettaglio 
 
 
 
