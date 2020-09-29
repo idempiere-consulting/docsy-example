@@ -92,3 +92,21 @@ Effettuato il Login ci troveremo davanti il menù
 {{< figure src="crm2.png" >}}
 {{< figure src="dettaglioLead1.png" >}}
 {{< figure src="dettaglioLead2.png" >}}
+
+## To Do Mobile APP
+
+- Completare gestione passoword criptata [Prio:Media]
+- icona appe e icone interne  [ Prio:BASSA]
+- Mettere sottomenu con i tasti come magazzino per tutti menu [Prio:Bassa]
+
+
+
+### Produzione : 
+
+
+
+### Magazzino : 
+- Inventario  : 
+- Consumi 
+- Trasferimenti
+- Entrata Merce 
