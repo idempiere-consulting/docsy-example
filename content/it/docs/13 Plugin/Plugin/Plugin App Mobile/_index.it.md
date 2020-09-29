@@ -35,9 +35,15 @@ Effettuato il Login ci troveremo davanti il menù
 
 > TODO - Mettere sottomenu con i tasti come magazzino per tutti menu [Prio:Bassa]
 
-
 > TODO - Fare 2Pack  -viste + API REST (Andrea Bellotto)
 
+> TODO - Gestione Allegati in upload (Foto, PDF ) (Da vedere insieme)
+
+> TODO - Generazione Report PDF (Da vedere insieme)
+
+> TODO - Gestione NFC (Da vedere insieme)
+
+> TODO - Stampa Diretta (Da vedere insieme)
 
 
 ## SOTTOMENU - CRM
@@ -48,35 +54,86 @@ Effettuato il Login ci troveremo davanti il menù
 {{< figure src="dettaglioLead2.png" >}}
 
 ## SOTTOMENU - SERVICE
+1.
+2.
+3.
+4.
 
 ## SOTTOMENU - CONTABILITA'
 
-##todo - fare voci : 
-- Fatture di Acquisto
-- Fatture di Vendita
-- Pagamenti e Incassi
+> todo - fare voci sottomenu
+
+1. Fatture di Acquisto 
+2. Fatture di Vendita 
+3. Pagamenti e Incassi 
 
 
-## TODO - Fatture di Acquisto
-- creare view 
+>TODO - Fatture di Acquisto 
+-  creare view - add campo search per filtro
+-  impostare filtro
+-  creare view dettalio (lit_mobile_c_invoiceline_v)
+>TODO - Fatture di Vendita 
+- stessa view fattura acquisto
+- impostare filtro 
+- stessa view fatt.acquisto line
+
+> TODO - Pagamenti / Incassi
+
+- creare view (lit_mobile_c_payment_v)
 - impostare filtro
-## TODO - Fatture di Vendita
-- stessa view 
-## TODO - Pagamenti / Incassi
-## TODO - (Riportare : Contatti Clienti)
-##
 
+> TODO - (Riportare : Contatti Clienti)
 
 
 ## SOTTOMENU - VENDITE
+> todo - fare voci sottomenu
+0. Contatti Clienti
+1. Clienti
+2. Ordini di Vendita
+3. Spedizioni
+4. Fatture di Vendita 
 
+> TODO - (Riportare : Contatti Clienti)
+
+> TODO - Ordini di Vendita   (tutti con due tab tipo lead ?) 
+- add Importo e Descrizione
+- modificare vistra per filtro 
+- add filtro 
+- order by ?? da vedere insieme
 
 ## SOTTOMENU - ACQUISTI
+> TODO - (Riportare : Contatti Clienti)
+- add Importo e Descrizione
 
 ## SOTTOMENU - MAGAZZINO
+>TODO - fare voci sottomenu
+1.Info Product
+2.Inventario
+3.Consumo
+4.Traferimento
+5.Entrata Merci
+
+>TODO Info Product 
+- focus su prodotto
+- estendere campi di dettaglioLead
+- modificare vista per filtro (Marco)
+- add filtro
+
 
 
 ## SOTTOMENU - PRODUZIONE
+> TODO Fare SottoMenu 
+1.Elenco Ord.di Produzione [incorso/bozza/finiti]
+2.Ord.di Produzione
+3.ElencoAvanz.Produzione / 
+> TODO Ord.di Produzione
+- Focus su orddiproduzione
+- rename prodotto in ord.diproduzione
+- modificare vista togliere bozza
+- x cancella input dati
+- Conferma dei Processi (?) (Parametro ?) 
+
+
 
 
 ## TASK
@@ -88,8 +145,15 @@ Effettuato il Login ci troveremo davanti il menù
 
 ### Contabilità
 
-- Fattura di Acquisto
+> Fare Sotto Menu : 
+> Add Search alle viste [Marco]
+
+####1) Fattura di Acquisto
+> Ricerca per Search
 - Fattura di Vendita
+- Pagamento Incassi
+- (copy from CRM) Contatti Business Partner
+- (copy fro CRM) Clienti e Fornitori
 
 ### Service
 - workorder
@@ -105,6 +169,10 @@ Effettuato il Login ci troveremo davanti il menù
 
 
 ## Documentazione Tecnica
+
+### Elenco viste
+-lit_mobile_lead_v
+> TODO  fare elenco viste
 
 ### Come fare una chiamata all'Api rest
 
