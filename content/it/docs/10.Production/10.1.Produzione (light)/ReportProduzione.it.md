@@ -26,5 +26,9 @@ Il Report permette di ottenere una stampa del fabbisogno lordo di prodotto.
 [{{< figure src="/image/ReportGrossRequirement.png"  width="850"  >}}](/image/ReportGrossRequirement.png)
 
 
+## Report Distinta Base Esplosa [R.36]
+Il Report permette la stampa della distinta base valorizzata col metodo prescelto.
+[{{< figure src="/image/ReportDistintaBaseEsplosa.png"  width="850"  >}}](/image/ReportDistintaBaseEsplosa.png)
+[{{< figure src="/image/ReportDistintaBaseEsplosa1.png"  width="850"  >}}](/image/ReportDistintaBaseEsplosa1.png)
 
 
