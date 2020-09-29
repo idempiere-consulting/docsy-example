@@ -12,7 +12,7 @@ Menù Idempiere
 [Provider Dati Cloud [PDC00]]({{< ref "_index.it.md#PDC00" >}} "Provider Dati Cloud") <br>
 [Rivisione configurazione iniziale del client [RCIC00]]({{< ref "_index.it.md#RCIC00" >}} "Rivisione configurazione iniziale del client") <br>
 [Configurazione Provider Imposta [CPI00]]({{< ref "_index.it.md#CPI00" >}} "Configurazione Provider Imposta") <br>
-[ASP Sottoscrizione Moduli [[ASP00]]({{< ref "_index.it.md#ASP00" >}} "ASP Sottoscrizione Moduli") <br>
+[ASP Sottoscrizione Moduli [ASP00]]({{< ref "_index.it.md#ASP00" >}} "ASP Sottoscrizione Moduli") <br>
 [Configurazione Validazione Indirizzo [CVI00]]({{< ref "_index.it.md#CVI00" >}} "Configurazione Validazione Indirizzo") <br>
 [Remunerazione [RNZ00]]({{< ref "_index.it.md#RNZ00" >}} "Remunerazione") <br>
 [Gruppo Ricorrenza [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Ricorrenza") <br>
