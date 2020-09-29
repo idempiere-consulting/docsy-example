@@ -32,6 +32,7 @@ Menù Idempiere
 
 # Configurazione Azienda
 ## Gestione Setup Wizard [GSW00] {#MRC00}
+La Maschera permette la gestione guidata dell'installazione di una Azienda Client.
 [{{< figure src="/image/GestioneSetupWizard.png"  width="850"  >}}](/image/GestioneSetupWizard.png)
 ## Procedura Guidata Setup [PGS] {#PGS}
 [{{< figure src="/image/ProceduraGuidataSetup.png"  width="850"  >}}](/image/ProceduraGuidataSetup.png)
