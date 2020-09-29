@@ -9,5 +9,6 @@ Menù Idempiere
 
 [Azzeramento Cache [MRC00]]({{< ref "_index.it.md#MRC00" >}} "Azzeramento Cache [MRC00]") <br>
 
-# Azzeramento cache [MRC00] {#MRC00}
+# Azzeramento Cache [MRC00] {#MRC00}
+Il Processo esegue l'azzeramento della memoria cache.
 [{{< figure src="/image/AzzeramentoCache.png"  width="850"  >}}](/image/AzzeramentoCache.png)
