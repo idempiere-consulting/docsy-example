@@ -2,7 +2,7 @@
 title: "Plugin Conto Lavoro Passivo"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 10
+weight : 20
 pre: "<b></b>"
 ---
 
