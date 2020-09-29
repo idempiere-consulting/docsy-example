@@ -42,7 +42,7 @@ Menù Idempiere
 [{{< figure src="/image/RivisioneConfigurazioneInizialedelClient.png"  width="850"  >}}](/image/RivisioneConfigurazioneInizialedelClient.png)
 ## Configurazione Provider Imposta [CPI00] {#CPI00}
 [{{< figure src="/image/ConfigurazioneProviderImposta.png"  width="850"  >}}](/image/ConfigurazioneProviderImposta.png)
-## ASP Sottoscrizione Moduli [[ASP00] {#CPI00} 
+## ASP Sottoscrizione Moduli [[ASP00] {#ASP00} 
 [{{< figure src="/image/ASPSottoscrizioneModuli.png"  width="850"  >}}](/image/ASPSottoscrizioneModuli.png)
 ## Configurazione Validazione Indirizzo [CVI00] {#CVI00}
 [{{< figure src="/image/ConfigurazioneValidazioneIndirizzo.png"  width="850"  >}}](/image/ConfigurazioneValidazioneIndirizzo.png)
