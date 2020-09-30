@@ -28,7 +28,7 @@ La maschera permette l'inserimento dell'offerta/ordine di vendita. Il documento 
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
 
 L'inserimento dell' offerta/ordine richiede pochi dati obbligatori :
-- ***organizzazione***: (determinata di default in base all'utente se una sola)[ORG00]  [link]({{< ref "_index.it.md#ORG00" >}})
+- ***organizzazione***: (determinata di default in base all'utente se una sola)[COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}})
 - ***business partner***: (il referente commerciale al quale fa capo il documento) [CP00]  [link]({{< ref "_index.it.md#CP00" >}})
 - ***tipo documento***: (tipo di documento che si vuole emettere in base al quale verranno successivamente generati processi e creati documenti relativi). 
 
