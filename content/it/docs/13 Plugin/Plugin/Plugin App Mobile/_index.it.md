@@ -306,7 +306,7 @@ Con questi comandi potremo impostare Java 8 come default
 
 ## clonatura del repository di ionic-mobile
 
-## installare
+## installare globalmente
 - nodejs  npm
 ```
 sudo apt-get install nodejs npm
@@ -323,5 +323,19 @@ sudo npm install -g  @ionic/cli
 ```
 sudo npm install -g ionic cordova
 ```
+## installare in cartella locale
+
+```
+cd /opt/repos/idempiere-ionic-mobile
+npm i
+```
+***(attenzione ad eventuali messaggi)***
+
+## Avvio Server 
+
+```aa
+ionic serve
+```
+
 
 
