@@ -252,3 +252,30 @@ In questo caso la chiamata avrà bisogna di avere dei parametri di input, nel ca
 {{< figure src="ParametriPUT.png" >}}
 
 
+# Impostazione ambiente di simulazione con Android Studio
+
+- Scaricare l'applicazione da <a href="https://developer.android.com/studio" target="_blank">Qui <a>
+- Avere ambiente Java 8.0
+- Impostare le variabili d'ambiente su .BashRC
+
+# Applicazione Mobile
+
+Appena lanciata l'APP si presenterà così:
+
+{{< figure src="loginpage.png" >}}
+
+Premendo l'ingranaggio in passo a destra avremo un input dove impostare l'IP del server
+
+{{< figure src="loginpage2.png" >}}
+
+Effettuato il Login ci troveremo davanti il menù
+
+{{< figure src="menuprincipale.png" >}}
+
+
+# CRM
+
+{{< figure src="crm1.png" >}}
+{{< figure src="crm2.png" >}}
+{{< figure src="dettaglioLead1.png" >}}
+{{< figure src="dettaglioLead2.png" >}}
