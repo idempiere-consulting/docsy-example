@@ -47,7 +47,7 @@ Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
 -  [Ordine Magazzino]({{< ref "_index.it.md#TDOS" >}})
 -  [Ordine Conto Lavoro Attivo]({{< ref "_index.it.md#TDCLA" >}})
 
-#### **Ordine Fattura Accompagnatoria** {#TDOFAP}
+#### **Ordine Fattura Accompagnatoria Pagata** {#TDOFAP}
 Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
 
 #### **Ordine Fattura Accompagnatoria** {#TDOFA}
