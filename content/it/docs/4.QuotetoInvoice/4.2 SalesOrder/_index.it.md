@@ -47,7 +47,7 @@ Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
 -  [Ordine Magazzino]({{< ref "_index.it.md#TDOM" >}})
 -  [Ordine Conto Lavoro Attivo]({{< ref "_index.it.md#TDCLA" >}})
 
-#### **Ordine Fattura Accompagnatoria** {#TDOFAP}
+#### **Ordine Fattura Accompagnatoria Pagata** {#TDOFAP}
 Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
 
 #### **Ordine Fattura Accompagnatoria** {#TDOFA}
@@ -59,7 +59,7 @@ Una volta confermata l'offerta da parte del BP, cambiamo il tipo documento e lo 
 #### **Preventivo Vincolante** {#TDPV}
 ***Un preventivo Vincolante aggiunge un impegno e riserva (a differenza del precedente) il relativo quantitativo merce a Magazzino.***
 
-#### **Preventivo non Vincolante**  {#TDNV}
+#### **Preventivo non Vincolante**  {#TDPNV}
 ***Un preventivo non vincolante crea un documento stampabile ed inviabile al cliente senza fare altro.***
 Come si inserisce: Semplicemente si indica il BP  (è bene sia il più correttamente schedulato perchè a cascata si riprenderanno i dati inseriti) a cui si dovrà indirizzare ***il preventivo non vincolante***. E' bene indicare il periodo di tempo di valità dell'offerta e i dati fondamentali quali magazzino partenza merce, termini consegna, pagamento ove non indicati nel BP.
 In particolare:
