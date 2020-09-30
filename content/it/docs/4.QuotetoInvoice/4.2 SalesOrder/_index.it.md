@@ -93,7 +93,7 @@ Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corri
 #### **Ordine Magazzino** {#TDOM}
 Come per il precedente completata offerta andremo da processo a creare il DDT00; la creazione sarà possibile solo se tutte le merci dell'ordine sono a stock.
 
-#### **Ordine Conto Lavoro Attivo** {#TDOCLA}
+#### **Ordine Conto Lavoro Attivo** {#TDCLA}
 non attivo
 
 **Tabella riassuntiva Tipo Documento**
