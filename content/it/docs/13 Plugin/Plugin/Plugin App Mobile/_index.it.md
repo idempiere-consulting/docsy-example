@@ -256,7 +256,7 @@ In questo caso la chiamata avrà bisogna di avere dei parametri di input, nel ca
 
 - Scaricare l'applicazione da <a href="https://developer.android.com/studio" target="_blank">Qui <a>
 - Avere ambiente <a href="https://www.oracle.com/it/java/technologies/javase/javase-jdk8-downloads.html" target="_blank">Java 8.0</a>
-- Impostare le variabili d'ambiente su .BashRC
+- Impostare le variabili d'ambiente su .bashRC
 
 
 ### Impostazione variabili d'ambiente
@@ -307,25 +307,29 @@ Con questi comandi potremo impostare Java 8 come default
 ## clonatura del repository di ionic-mobile
 
 ## installare globalmente
-- nodejs  npm
-```
-sudo apt-get install nodejs npm
+- nodejs  npm gradle
+```tmpl
+sudo apt-get install nodejs npm gradle
 ```
 - angular
-```
+```tmpl
 sudo npm install -g  angular-ide
 ```
 - ionic
-```
+```tmpl
 sudo npm install -g  @ionic/cli
 ```
-- cordova
+- native-run
+```tmpl
+sudo npm i -g native-run
 ```
+- cordova
+```tmpl
 sudo npm install -g ionic cordova
 ```
 ## installare in cartella locale
 
-```
+```tmpl
 cd /opt/repos/idempiere-ionic-mobile
 npm i
 ```
@@ -333,9 +337,18 @@ npm i
 
 ## Avvio Server 
 
-```aa
+### Modalità locale-debug (senza cordova )
+
+```tmpl
 ionic serve
 ```
-
-
+ ### Modalità locale-debug con cordova simulato
+```Tmpl
+ionic cordova emulate browser
+```
+### Modalità macchina virtuale (creata precedentemente)
+```tmpl
+ ionic cordova emulate android --target idempiere
+ ```
+ 
 
