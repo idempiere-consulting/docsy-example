@@ -44,7 +44,7 @@ Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
 -  [Preventivo non vincolante]({{< ref "_index.it.md#TDPNV" >}})
 -  [Ordine Prepagato]({{< ref "_index.it.md#TDOP" >}})
 -  [Scontrino]({{< ref "_index.it.md#TDSC" >}})
--  [Ordine Magazzino]({{< ref "_index.it.md#TDOS" >}})
+-  [Ordine Magazzino]({{< ref "_index.it.md#TDOM" >}})
 -  [Ordine Conto Lavoro Attivo]({{< ref "_index.it.md#TDCLA" >}})
 
 #### **Ordine Fattura Accompagnatoria** {#TDOFAP}
