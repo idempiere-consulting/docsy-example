@@ -29,7 +29,7 @@ La maschera permette l'inserimento dell'offerta/ordine di vendita. Il documento 
 
 L'inserimento dell' offerta/ordine richiede pochi dati obbligatori :
 - ***organizzazione***: (determinata di default in base all'utente se una sola)[COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}})
-- ***business partner***: (il referente commerciale al quale fa capo il documento)[RTP00]  [link]({{< ref "_index.it.md#RTP00" >}}) 
+- ***business partner***: (il referente commerciale al quale fa capo il documento)[COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}}) 
 - ***tipo documento***: (tipo di documento che si vuole emettere in base al quale verranno successivamente generati processi e creati documenti relativi). 
 
 Il tipo di offerta gestito tramite il campo TIPO DOCUMENTO determina lo sviluppo del processo al suo completamento .
