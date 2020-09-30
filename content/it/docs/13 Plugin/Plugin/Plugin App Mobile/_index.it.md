@@ -252,30 +252,54 @@ In questo caso la chiamata avrà bisogna di avere dei parametri di input, nel ca
 {{< figure src="ParametriPUT.png" >}}
 
 
-# Impostazione ambiente di simulazione con Android Studio
+## Impostazione ambiente di simulazione con Android Studio
 
 - Scaricare l'applicazione da <a href="https://developer.android.com/studio" target="_blank">Qui <a>
-- Avere ambiente Java 8.0
+- Avere ambiente <a href="https://www.oracle.com/it/java/technologies/javase/javase-jdk8-downloads.html" target="_blank">Java 8.0</a>
 - Impostare le variabili d'ambiente su .BashRC
 
-# Applicazione Mobile
 
-Appena lanciata l'APP si presenterà così:
+### Impostazione variabili d'ambiente
 
-{{< figure src="loginpage.png" >}}
+Per far funzionare Cordova con Android Studio avremo bisogno di impostare la variabili d'ambiente in questo modo:
 
-Premendo l'ingranaggio in passo a destra avremo un input dove impostare l'IP del server
+```tmpl
+    export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64 (cartella dell'installazione di Java 8)
+    export PATH=$PATH:$JAVA_HOME
+    export ANDROID_SDK_ROOT=/home/idempiere/Android/Sdk (cartella d'installazione di Android Studio)
+    export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools
+    export PATH=$PATH:$ANDROID_SDK_ROOT/tools
+    export PATH=$PATH:/home/idempiere/Android/Sdk/gradle/bin/
+```
 
-{{< figure src="loginpage2.png" >}}
+### Creazione Virtual Machine Android
 
-Effettuato il Login ci troveremo davanti il menù
+Appena avviato Android Studio ci troveremo davanti a questa schermata, premendo il tasto Configure in basso a destra potremo accedere all'opzione ADV Manager per creare la nostra Virtual Machine.
 
-{{< figure src="menuprincipale.png" >}}
+{{< figure src="AndroidSetup1.png" >}}
 
+In questa immagine vediamo un VM già esistente di nome test, possiamo notare in basso a sinistra il tasto per creare una nuova Virtual Device
 
-# CRM
+{{< figure src="AndroidSetup2.png" >}}
 
-{{< figure src="crm1.png" >}}
-{{< figure src="crm2.png" >}}
-{{< figure src="dettaglioLead1.png" >}}
-{{< figure src="dettaglioLead2.png" >}}
+In questa schermata possiamo vedere che ci sono dei Template di default, consiglio di creare una VM custom con New Hardware Profile ed impostare minimo 4gb di ram.
+
+{{< figure src="AndroidSetup3.png" >}}
+
+Una volta impostato l'Hardware avremo la possibilità di scegliere la versione di Android da installare
+
+{{< figure src="AndroidSetup4.png" >}}
+
+### Impostare Java 8 come predefinito
+
+<b>Attenzione: per fare questo bisogna avere la versione di <a href="https://www.oracle.com/it/java/technologies/javase/javase-jdk8-downloads.html" target="_blank">Java 8.0</a> installata.</b>
+
+Come default la macchina andrà ad utilizzare l'ultima versionr di Java come default, per modificarlo dobbiamo andare sulla console di Linux e utilizzare due comandi:
+
+```
+sudo update-alternatives --config java
+
+sudo update-alternatives --config javac
+```
+Con questi comandi potremo impostare Java 8 come default
+
