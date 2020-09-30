@@ -28,8 +28,8 @@ La maschera permette l'inserimento dell'offerta/ordine di vendita. Il documento 
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
 
 L'inserimento dell' offerta/ordine richiede pochi dati obbligatori :
-- ***organizzazione***: (determinata di default in base all'utente se una sola)[ORG00][link]({{< ref "_index.it.md#ORG00" >}}) 
-- ***business partner***: (il referente commerciale al quale fa capo il documento) [CP00][link]({{< ref "_index.it.md#BP00" >}})
+- ***organizzazione***: (determinata di default in base all'utente se una sola)[ORG00]  [link]({{< ref "_index.it.md#ORG00" >}})
+- ***business partner***: (il referente commerciale al quale fa capo il documento) [CP00]  [link]({{< ref "_index.it.md#CP00" >}})
 - ***tipo documento***: (tipo di documento che si vuole emettere in base al quale verranno successivamente generati processi e creati documenti relativi). 
 
 Il tipo di offerta gestito tramite il campo TIPO DOCUMENTO determina lo sviluppo del processo al suo completamento .
@@ -48,7 +48,7 @@ Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
 -  [Ordine Conto Lavoro Attivo]({{< ref "_index.it.md#TDCLA" >}})
 
 #### **Ordine Fattura Accompagnatoria** {#TDOFAP}
-Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondent
+Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
 
 #### **Ordine Fattura Accompagnatoria** {#TDOFA}
 Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
