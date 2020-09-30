@@ -23,23 +23,41 @@ Menù Idempiere
 [Origine Offerta [OO00]]({{< ref "_index.it.md#OO00" >}} "Origine Offerta") <br>
 
 ## Offerta Ordine di Vendita [ODV00] {#ODV00}
-La maschera permette l'inserimento dell'offerta/ordine di vendita. Il documento ancora in stato bozza viene considerato come offerta ovvero ordine non confermato. Nella stampa del report infatto viene interpretato lo stato del docuemnto stesso e compare la dicitura "Offerta" invece che "Conferma d'Ordine" proprio in base allo stato del documento. Questo permette di avere in un unica maschera si tutti i preventi che le offerte .
+La maschera permette l'inserimento dell'offerta/ordine di vendita. Il documento ancora in stato bozza viene considerato come offerta ovvero ordine non confermato. Nella stampa del report infatto viene interpretato lo stato del documento stesso e compare la dicitura "Offerta" invece che "Conferma d'Ordine" proprio in base allo stato del documento. Questo permette di avere in un' unica maschera sia i preventi che le offerte.
 
 [{{< figure src="/image/OffertaOrdineVendita0.png"  width="850"  >}}](/image/OffertaOrdineVendita0.png)
 
 L'inserimento dell' offerta/ordine richiede pochi dati obbligatori :
-- organizzazione ( determinata di default in base all'utente e se una sola)
-- business partner
+- ***organizzazione***: (determinata di default in base all'utente se una sola) [link]({{< ref "_index.it.md#ORG00" >}}) 
+- ***business partner***: (il referente commerciale al quale fa capo il documento) [link]({{< ref "_index.it.md#BP00" >}})
+- ***tipo documento***: (tipo di documento che si vuole emettere in base al quale verranno successivamente generati processi e creati documenti relativi). 
 
 Il tipo di offerta gestito tramite il campo TIPO DOCUMENTO determina lo sviluppo del processo al suo completamento .
 Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
 
-### Tipi di Documento 
+### Tipo Documento 
 
-- Standard Order 
--  [Preventivo]({{< ref "_index.it.md#TDNV" >}})
-- Fattura Accompagnatoria
+-  [Ordine Fattura Accompagnatoria Pagata]({{< ref "_index.it.md#TDOFAP" >}})
+-  [Ordine Fattura Accompagnatoria]({{< ref "_index.it.md#TDOFA" >}})
+-  [Ordine Standard]({{< ref "_index.it.md#TDOS" >}})
+-  [Preventivo vincolante]({{< ref "_index.it.md#TDPV" >}})
+-  [Preventivo non vincolante]({{< ref "_index.it.md#TDPNV" >}})
+-  [Ordine Prepagato]({{< ref "_index.it.md#TDOP" >}})
+-  [Scontrino]({{< ref "_index.it.md#TDSC" >}})
+-  [Ordine Magazzino]({{< ref "_index.it.md#TDOS" >}})
+-  [Ordine Conto Lavoro Attivo]({{< ref "_index.it.md#TDCLA" >}})
 
+#### **Ordine Fattura Accompagnatoria** {#TDOFAP}
+Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
+
+#### **Ordine Fattura Accompagnatoria** {#TDOFA}
+Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
+
+#### **Ordine Standard** {#TDOS}
+Una volta confermata l'offerta da parte del BP, cambiamo il tipo documento e lo rinominiamo ad ordine standard dopo di che lo completiamo, si potranno cosi stampare i ***Documenti di spedizione DDT00***
+
+#### **Preventivo Vincolante** {#TDPV}
+***Un preventivo Vincolante aggiunge un impegno e riserva (a differenza del precedente) il relativo quantitativo merce a Magazzino.***
 
 #### **Preventivo non Vincolante**  {#TDNV}
 ***Un preventivo non vincolante crea un documento stampabile ed inviabile al cliente senza fare altro.***
@@ -66,20 +84,19 @@ In particolare:
      L'emissione della fattura avviene in base a programma impostato (1volta mese/settimana).
 3.  Compilazione BP.
 Si conferma la testata e si inseriscono gli articoli o i codici servizi che si andranno a preventivare e si completa. Nel momento in cui riceviamo la conferma dal BP procederemo col riattivare il preventivo e a cambiare in testata il tipo documento a Ordine Standard. Si completa l'ordine e da processo si crea il ***Documento di trasporto DDT00*** dopo di che si proseguirà con la creazione e contabilizzazione della Fattura di Vendita. 
-#### **Preventivo Vincolante**
-***Un preventivo Vincolante aggiunge un impegno e riserva (a differenza del precedente) il relativo quantitativo merce a Magazzino.***
-#### **Ordine Standard** 
-Una volta confermata l'offerta da parte del BP, cambiamo il tipo documento e lo rinominiamo ad ordine standard dopo di che lo completiamo, si potranno cosi stampare i ***Documenti di spedizione DDT00***
-#### **Ordine Magazzino**
-Come per il precedente completata offerta andremo da processo a creare il DDT00; la creazione sarà possibile solo se tutte le merci dell'ordine sono a stock.
-#### **Ordine Conto Lavoro Attivo**
-non attivo
-#### **Ordine Prepagato**
-Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corrispondente.
-#### **Ordine Fattura Accompagnatoria**
-Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
 
-**Tabella riassuntiva Tipi di documento**
+#### **Ordine Prepagato** {#TDOP}
+Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corrispondente.
+
+#### **Scontrino** {#TDSC}
+
+#### **Ordine Magazzino** {#TDOM}
+Come per il precedente completata offerta andremo da processo a creare il DDT00; la creazione sarà possibile solo se tutte le merci dell'ordine sono a stock.
+
+#### **Ordine Conto Lavoro Attivo** {#TDOCLA}
+non attivo
+
+**Tabella riassuntiva Tipo Documento**
 
 |ID | Nome<br />Interno |                                                                           | Ordine | Impegno | DDT  | Fattura | Pagam. |
 |-  | ---------------   | ------------------------------------------------------------              | :----: | ------- | ---- | ------- | ------ |
@@ -98,7 +115,6 @@ ID=7
 Sicuramente legato al problema rif. ID 1, questo processamento e' da riverificare dopo una riconfigurazione dell'account del business partner.
 ID=8
 Non lo vedo piu'
-
 
 ### Processi 
 - Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}})
