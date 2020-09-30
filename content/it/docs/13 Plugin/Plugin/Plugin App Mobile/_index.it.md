@@ -303,3 +303,25 @@ sudo update-alternatives --config javac
 ```
 Con questi comandi potremo impostare Java 8 come default
 
+
+## clonatura del repository di ionic-mobile
+
+## installare
+- nodejs  npm
+```
+sudo apt-get install nodejs npm
+```
+- angular
+```
+sudo npm install -g  angular-ide
+```
+- ionic
+```
+sudo npm install -g  @ionic/cli
+```
+- cordova
+```
+sudo npm install -g ionic cordova
+```
+
+
