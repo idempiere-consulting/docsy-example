@@ -219,7 +219,9 @@ c) completamento
 - controllo offerte servizi non fatturate
 ```
 #### Drop Shipping
+
  link a documenti esistenti 
+ 
  http://www.adempiere.com/Sponsored_Development:_Drop_Ship
  
  https://idempiere.atlassian.net/browse/IDEMPIERE-2619
