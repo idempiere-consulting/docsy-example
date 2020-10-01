@@ -12,7 +12,7 @@ Menù Idempiere
 [Ordine Conto Lavoro Attivo Light [CLAL13]]({{< ref "_index.it.md#CLAL13" >}} "Ordine Conto Lavoro Attivo Light") <br>
 [Elabora Gruppo di Ordine [EGO00]]({{< ref "_index.it.md#EGO00" >}} "Elabora Gruppo di Ordine") <br>
 [Info Completa Ordini di Vendita [ICOV00]]({{< ref "_index.it.md#ICOV00" >}} "Info Completa Ordini di Vendita") <br>
-[Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00]]({{< ref "_index.it.md#COAOA00" >}} "Crea Ordine di Acquisto dall'Ordine di Vendita") <br>
+[Crea Ordine di Acquisto dall'Ordine di Vendita [COAOV00]]({{< ref "_index.it.md#COAOV00" >}} "Crea Ordine di Acquisto dall'Ordine di Vendita") <br>
 [Riapertura ordine [RIO00]]({{< ref "_index.it.md#RIO00" >}} "Riapertura ordine") <br>
 [Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00]]({{< ref "_index.it.md#COVOA00" >}} "Crea Ordine di Vendita dall'Ordine di Acquisto") <br>
 [Conversione Preventivo [COP00]]({{< ref "_index.it.md#COP00" >}} "Conversione Preventivo") <br>
@@ -241,7 +241,7 @@ Il processo permette di elaborare gruppi di ordini.
 ## Info Completa Ordini di Vendita [ICOV00] {#ICOV00}
 La Info Window permette di selezionare e completare gli ordini.
 [{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
-## Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00] {#COAOA00}
+## Crea Ordine di Acquisto dall'Ordine di Vendita [COAOV00] {#COAOV00}
 Il processo permette di creare ordini di acquisto dagli ordini di vendita. 
 [{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
 Questo processo può essere attivato direttamente dall'ordine di vendita selezionando l'apposita iconcina elaborazione.
