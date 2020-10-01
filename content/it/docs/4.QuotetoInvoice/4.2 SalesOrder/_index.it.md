@@ -117,10 +117,13 @@ Sicuramente legato al problema rif. ID 1, questo processamento e' da riverificar
 ID=8
 Non lo vedo piu'
 
-#### Processi 
-- Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}})
+#### Processi
+Dalla Maschera Ordine di Vendita selezionando sulla icona "Elaborazione" si possono attivare direttamente vari processi:
 - Copiare Righe
+- Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}})
 - Genera Contratto da Ordine 
+- Crea DDT da Ordine di Vendita
+- Genera DDT e Fattura da Ordine di Vendita
 
 ## Info Ordine di Vendita con Pagamento Anticipato [IOVP00] {#IOVP00}
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
