@@ -221,7 +221,9 @@ c) completamento
 #### Drop Shipping
  link a documenti esistenti 
  http://www.adempiere.com/Sponsored_Development:_Drop_Ship
+ 
  https://idempiere.atlassian.net/browse/IDEMPIERE-2619
+ 
  http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
  
  prezzi  link LISTINO PREZZI
