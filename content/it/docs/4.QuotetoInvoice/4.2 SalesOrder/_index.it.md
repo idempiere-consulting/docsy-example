@@ -118,12 +118,8 @@ Non lo vedo piu'
 
 ### Processi 
 - Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}})
--
--
--
-
-
-
+- Crea Contratto da Ordine 
+- Copiare Righe
 
 #### **Ciclo Attivo : Ordine di Vendita - Documento di Trasporto - Fattura di Vendita** 
 
@@ -246,8 +242,9 @@ Il processo permette di elaborare gruppi di ordini.
 La Info Window permette di selezionare e completare gli ordini.
 [{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
 ## Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00] {#COAOA00}
-Il processo permette di creare ordini di acquisto da ordini di vendita. 
+Il processo permette di creare ordini di acquisto dagli ordini di vendita. 
 [{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
+Questo processo può essere attivato direttamente dall'ordine di vendita selezionando l'apposita iconcina elaborazione.
 ## Riapertura ordine [RIO00] {#RIO00}
 Il processo permette di riaprire un ordine già chiuso. 
 [{{< figure src="/image/RiaperturaOrdineRIO00.png"  width="850"  >}}](/image/RiaperturaOrdineRIO00.png)
