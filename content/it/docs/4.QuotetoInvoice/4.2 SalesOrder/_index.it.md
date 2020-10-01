@@ -37,14 +37,14 @@ Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
 
 ### Tipo Documento 
 
--  [Ordine Fattura Accompagnatoria Pagata]({{< ref "_index.it.md#TDOFAP" >}})
--  [Ordine Fattura Accompagnatoria]({{< ref "_index.it.md#TDOFA" >}})
--  [Ordine Standard]({{< ref "_index.it.md#TDOS" >}})
+-  [Preventivo non vincolante]({{< ref "_index.it.md#TDPNV" >}})  
 -  [Preventivo vincolante]({{< ref "_index.it.md#TDPV" >}})
--  [Preventivo non vincolante]({{< ref "_index.it.md#TDPNV" >}})
+-  [Ordine Standard]({{< ref "_index.it.md#TDOS" >}})
+-  [Ordine Magazzino]({{< ref "_index.it.md#TDOM" >}})
+-  [Ordine Fattura Accompagnatoria]({{< ref "_index.it.md#TDOFA" >}})
+-  [Ordine Fattura Accompagnatoria Pagata]({{< ref "_index.it.md#TDOFAP" >}})
 -  [Ordine Prepagato]({{< ref "_index.it.md#TDOP" >}})
 -  [Scontrino]({{< ref "_index.it.md#TDSC" >}})
--  [Ordine Magazzino]({{< ref "_index.it.md#TDOM" >}})
 -  [Ordine Conto Lavoro Attivo]({{< ref "_index.it.md#TDCLA" >}})
 
 #### **Preventivo Vincolante** {#TDPV}
@@ -121,11 +121,6 @@ Non lo vedo piu'
 - Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}})
 - Copiare Righe
 - Genera Contratto da Ordine 
-
-
-
-
-
 
 ## Info Ordine di Vendita con Pagamento Anticipato [IOVP00] {#IOVP00}
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
