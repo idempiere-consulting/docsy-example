@@ -12,7 +12,7 @@ Menù Idempiere
 [Ordine Conto Lavoro Attivo Light [CLAL13]]({{< ref "_index.it.md#CLAL13" >}} "Ordine Conto Lavoro Attivo Light") <br>
 [Elabora Gruppo di Ordine [EGO00]]({{< ref "_index.it.md#EGO00" >}} "Elabora Gruppo di Ordine") <br>
 [Info Completa Ordini di Vendita [ICOV00]]({{< ref "_index.it.md#ICOV00" >}} "Info Completa Ordini di Vendita") <br>
-[Crea Ordine di Acquisto dall'Ordine di Vendita [COAOV00]]({{< ref "_index.it.md#COAOV00" >}} "Crea Ordine di Acquisto dall'Ordine di Vendita") <br>
+[Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00]]({{< ref "_index.it.md#COAOA00" >}} "Crea Ordine di Acquisto dall'Ordine di Vendita") <br>
 [Riapertura ordine [RIO00]]({{< ref "_index.it.md#RIO00" >}} "Riapertura ordine") <br>
 [Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00]]({{< ref "_index.it.md#COVOA00" >}} "Crea Ordine di Vendita dall'Ordine di Acquisto") <br>
 [Conversione Preventivo [COP00]]({{< ref "_index.it.md#COP00" >}} "Conversione Preventivo") <br>
@@ -118,116 +118,13 @@ Non lo vedo piu'
 
 ### Processi 
 - Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}})
-- Crea Contratto da Ordine 
-- Copiare Righe
-
-#### **Ciclo Attivo : Ordine di Vendita - Documento di Trasporto - Fattura di Vendita** 
-
-##### Modifica Prezzi 
----
-
-##### Modifica Aliquota iva 
-
----
-
-##### Modifica Quantità 
-
----
-##### Modifica Quantità su ordine completato - non ho il DDT nè la fattura
-```
-a) Riapro l'ordine eseguendo la sua riattivazione
-b) Procedo alla modifica della Quantità
-c) Completo nuovamente l'ordine di vendita 
-```
-##### Modifica Quantità su ordine completato e DDT già emesso - Non ho ancora emesso la fattura
-
-###### ***Ho 1 solo DDT - Quantità completamente evasa*** 
-```
-Esempio : quantità ordine 6 - DDT quantità 6
-
- a) Utilizzo Special Editor per modificare l'odv o il ddt    #??? da completare
-```
-######  ***Ho 1 solo DDT - Quantità parzialmente evasa***
-
-```
-Esempio quantità ordine 10 - DDT quantità 5
-
-a) Posso modificare la Quantità sul DDT (Specuak -Editor) e lasciare l'ordine com'era prima
-b) Posso eseguire le due modifiche senza relazione tra le stesse
-c)
-```
-
-###### ***Ho + DDT - Quantità parzialmente o copmletamente evasa***
-
-```
-non è permessa nessuna modifica . E' necessario stornare l'odv
-```
-##### Modifica Quantità su ordine completato e DDT giù emesso - Fattura Emessa
-
-###### ***Ho 1 ODV 1 DDT 1 Fattura  tutto completamento evaso***
-```
-Caso tipico della Fattura Immediata
-a) Eseguo la modifica nella Fattura (Special Editor) ed eseguo una rettifica di magazzino  oppure eseguo la modifica del DDT della quantità (Special Editor)
-```
-
-#### **Ciclo Passivo : Ordine di Acquisto - Entrata Merci - Fattura di Acquisto**
+-
+-
+-
 
 
 
-#### **Offerta Chiusa Materiale a Magazzino**
 
----
-
-#### **Offerta Chiusa Materiale con creazione Ord.Acquisto**
-
----
-
-#### **Offerta Chiusa Servizio una tantum**
-
----
-
-#### **Offerta Chiusa Servizio a contratto**
-
----
-
-#### **Offerta Aperta (in economia)**
-
----
-
-#### **Processo approvazione**
-
-```
-a) creazione offerta in stato bozza
-b) richiesta approvazione
-c) completamento
-```
-
-#### **Controllo Offerte**
-
-```
-- controllo offerte in stato bozza 
-- se l'offerta è scaduta CHIUDERE l'offerte 
-- se l'offerta è ancora in validità prolungare la data di validità (?)
-- controllo offerte da materiali non inviate
-```
-
-```
-- controllo offerte servizi non fatturate
-```
-#### Drop Shipping
-
- link a documenti esistenti 
- 
- http://www.adempiere.com/Sponsored_Development:_Drop_Ship
- 
- https://idempiere.atlassian.net/browse/IDEMPIERE-2619
- 
- http://www.globalqss.com/wiki/index.php/IDempiere/FullMeeting20150513
- 
- prezzi  link LISTINO PREZZI
-
-
-#### **NOTE INTERNE SU TIPI ELABORAZIONE**
 
 ## Info Ordine di Vendita con Pagamento Anticipato [IOVP00] {#IOVP00}
 La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
@@ -241,10 +138,9 @@ Il processo permette di elaborare gruppi di ordini.
 ## Info Completa Ordini di Vendita [ICOV00] {#ICOV00}
 La Info Window permette di selezionare e completare gli ordini.
 [{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
-## Crea Ordine di Acquisto dall'Ordine di Vendita [COAOV00] {#COAOV00}
-Il processo permette di creare ordini di acquisto dagli ordini di vendita. 
+## Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00] {#COAOA00}
+Il processo permette di creare ordini di acquisto da ordini di vendita. 
 [{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
-Questo processo può essere attivato direttamente dall'ordine di vendita selezionando l'apposita iconcina elaborazione.
 ## Riapertura ordine [RIO00] {#RIO00}
 Il processo permette di riaprire un ordine già chiuso. 
 [{{< figure src="/image/RiaperturaOrdineRIO00.png"  width="850"  >}}](/image/RiaperturaOrdineRIO00.png)
