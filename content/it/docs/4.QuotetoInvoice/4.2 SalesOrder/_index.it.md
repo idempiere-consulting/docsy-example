@@ -47,15 +47,6 @@ Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
 -  [Ordine Magazzino]({{< ref "_index.it.md#TDOM" >}})
 -  [Ordine Conto Lavoro Attivo]({{< ref "_index.it.md#TDCLA" >}})
 
-#### **Ordine Fattura Accompagnatoria Pagata** {#TDOFAP}
-Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
-
-#### **Ordine Fattura Accompagnatoria** {#TDOFA}
-Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
-
-#### **Ordine Standard** {#TDOS}
-Una volta confermata l'offerta da parte del BP, cambiamo il tipo documento e lo rinominiamo ad ordine standard dopo di che lo completiamo, si potranno cosi stampare i ***Documenti di spedizione DDT00***
-
 #### **Preventivo Vincolante** {#TDPV}
 ***Un preventivo Vincolante aggiunge un impegno e riserva (a differenza del precedente) il relativo quantitativo merce a Magazzino.***
 
@@ -85,13 +76,22 @@ In particolare:
 3.  Compilazione BP.
 Si conferma la testata e si inseriscono gli articoli o i codici servizi che si andranno a preventivare e si completa. Nel momento in cui riceviamo la conferma dal BP procederemo col riattivare il preventivo e a cambiare in testata il tipo documento a Ordine Standard. Si completa l'ordine e da processo si crea il ***Documento di trasporto DDT00*** dopo di che si proseguirà con la creazione e contabilizzazione della Fattura di Vendita. 
 
+#### **Ordine Standard** {#TDOS}
+Una volta confermata l'offerta da parte del BP, cambiamo il tipo documento e lo rinominiamo ad ordine standard dopo di che lo completiamo, si potranno cosi stampare i ***Documenti di spedizione DDT00***
+
+#### **Ordine Magazzino** {#TDOM}
+Come per il precedente completata offerta andremo da processo a creare il DDT00; la creazione sarà possibile solo se tutte le merci dell'ordine sono a stock.
+
+#### **Ordine Fattura Accompagnatoria** {#TDOFA}
+Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
+
+#### **Ordine Fattura Accompagnatoria Pagata** {#TDOFAP}
+Come per ordine a magazzino (dovranno essere presenti merci a stock) e fattura corrispondente.
+
 #### **Ordine Prepagato** {#TDOP}
 Come per l'ordine a magazzino  completata offerta  e si creerà la fattura corrispondente.
 
 #### **Scontrino** {#TDSC}
-
-#### **Ordine Magazzino** {#TDOM}
-Come per il precedente completata offerta andremo da processo a creare il DDT00; la creazione sarà possibile solo se tutte le merci dell'ordine sono a stock.
 
 #### **Ordine Conto Lavoro Attivo** {#TDCLA}
 non attivo
@@ -100,14 +100,14 @@ non attivo
 
 |ID | Nome<br />Interno |                                                                           | Ordine | Impegno | DDT  | Fattura | Pagam. |
 |-  | ---------------   | ------------------------------------------------------------              | :----: | ------- | ---- | ------- | ------ |
-|1  | POS Order         | Ordine/Fattura Accompagnatoria Pagata<br />(en) SO / Invoice / Payment<br/>(pt) Ordem de Venda / Fatura / Pagamento   |   SI   |    SI   | SI   |    SI   |   SI   |
-|2  | Credit Order      | Ordine /Fattura Accompagnatoria<br />(en) SO / Invoice / Payment<br />(pt) Ordem de Venda / Fatura |   SI   |    SI   |  SI  |    SI   |        | 
+|1  | Non binding offer | Preventivo non vincolante<br />(en) Quotation<br />(pt) Cotação           |   SI   |         |      |         |        |
+|2  | Binding offer     | Proforma<br />(en) Quotation w/reserve<br />(pt) Cotação c/reserva        |   SI   |    SI   |      |         |        |
 |3  | Standard Order    | Ordine Standard<br /> (en) Sale Order<br />(pt) Ordem de Venda            |   SI   |    SI   |      |         |        |
-|4  | Binding offer     | Proforma<br />(en) Quotation w/reserve<br />(pt) Cotação c/reserva        |   SI   |    SI   |      |         |        |
-|5  | Non binding offer | Preventivo non vincolante<br />(en) Quotation<br />(pt) Cotação           |   SI   |         |      |         |        |
-|6  | Prepay Order      | Ordine Prepagato<br />(en) Sale Order w/advance payment<br />(pt)         |        |         |      |         |   SI   |                                      |   |                   |          Ordem de Venda prepago                                           |   SI   |    SI   |      |         |        |
-|7  | Scontrino         | Scontrino                                                                 |   SI   |    SI   |  SI  |    SI(*)|        |
-|8  | Warehouse Order   | Ordine Magazzino/DDT<br />(en) Sale Order w/Delivery Note <br />(pt) Ordem de Venda c/guia entrega     |   SI   |    SI   |  SI  |         |        | 
+|4  | Warehouse Order   | Ordine Magazzino/DDT<br />(en) Sale Order w/Delivery Note <br />(pt) Ordem de Venda c/guia entrega     |   SI   |    SI   |  SI  |         |        | 
+|5  | Credit Order      | Ordine /Fattura Accompagnatoria<br />(en) SO / Invoice / Payment<br />(pt) Ordem de Venda / Fatura |   SI   |    SI   |  SI  |    SI   |        | 
+|6  | POS Order         | Ordine/Fattura Accompagnatoria Pagata<br />(en) SO / Invoice / Payment<br/>(pt) Ordem de Venda / Fatura / Pagamento   |   SI   |    SI   | SI   |    SI   |   SI   |
+|7  | Prepay Order      | Ordine Prepagato<br />(en) Sale Order w/advance payment<br />(pt)         |        |         |      |         |   SI   |                                      |   |                   |          Ordem de Venda prepago                                           |   SI   |    SI   |      |         |        |
+|8  | Scontrino         | Scontrino                                                                 |   SI   |    SI   |  SI  |    SI(*)|        |
 
 <u>I TIPI ORDINI CON IMPEGNO SI:</u>   La riserva dello stock e' attivata solo quando lo stato documento=IN PROGRESS (per mettere in progress un documento utilizzare la funzione DOCUMENT ACTION/PREPARE)
 Suggerimento: eventualmente si potrebbe indicare un conto transitorio per tutti questi tipi di ordini di vendita? tipo una cassa vendita e successivamente il contabile va spostando e riconciliando tutti i movimenti?
