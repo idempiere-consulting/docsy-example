@@ -35,7 +35,7 @@ L'inserimento dell' offerta/ordine richiede pochi dati obbligatori :
 Il tipo di offerta gestito tramite il campo TIPO DOCUMENTO determina lo sviluppo del processo al suo completamento .
 Esistono 8 tipi di documenti che scatenano tipi di processi differenti:
 
-### Tipo Documento 
+#### Tipo Documento 
 
 -  [Preventivo non vincolante]({{< ref "_index.it.md#TDPNV" >}})  
 -  [Preventivo vincolante]({{< ref "_index.it.md#TDPV" >}})
@@ -117,7 +117,7 @@ Sicuramente legato al problema rif. ID 1, questo processamento e' da riverificar
 ID=8
 Non lo vedo piu'
 
-### Processi 
+#### Processi 
 - Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}})
 - Copiare Righe
 - Genera Contratto da Ordine 
