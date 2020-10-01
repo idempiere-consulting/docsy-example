@@ -106,8 +106,9 @@ non attivo
 |4  | Warehouse Order   | Ordine Magazzino/DDT<br />(en) Sale Order w/Delivery Note <br />(pt) Ordem de Venda c/guia entrega     |   SI   |    SI   |  SI  |         |        | 
 |5  | Credit Order      | Ordine /Fattura Accompagnatoria<br />(en) SO / Invoice / Payment<br />(pt) Ordem de Venda / Fatura |   SI   |    SI   |  SI  |    SI   |        | 
 |6  | POS Order         | Ordine/Fattura Accompagnatoria Pagata<br />(en) SO / Invoice / Payment<br/>(pt) Ordem de Venda / Fatura / Pagamento   |   SI   |    SI   | SI   |    SI   |   SI   |
-|7  | Prepay Order      | Ordine Prepagato<br />(en) Sale Order w/advance payment<br />(pt)         |        |         |      |         |   SI   |                                      |   |                   |          Ordem de Venda prepago                                           |   SI   |    SI   |      |         |        |
+|7  | Prepay Order      | Ordine Prepagato<br />(en) Sale Order w/advance payment<br />(pt) Ordem de Venda prepago        |   SI   |    SI   |    SI   |  SI    |   SI        |        |
 |8  | Scontrino         | Scontrino                                                                 |   SI   |    SI   |  SI  |    SI(*)|        |
+|9  | Ord.C.L.Attivo    | Ordine Conto Lavoro Attivo                                                |        |         |      |         |        |
 
 <u>I TIPI ORDINI CON IMPEGNO SI:</u>   La riserva dello stock e' attivata solo quando lo stato documento=IN PROGRESS (per mettere in progress un documento utilizzare la funzione DOCUMENT ACTION/PREPARE)
 Suggerimento: eventualmente si potrebbe indicare un conto transitorio per tutti questi tipi di ordini di vendita? tipo una cassa vendita e successivamente il contabile va spostando e riconciliando tutti i movimenti?
@@ -118,9 +119,9 @@ Non lo vedo piu'
 
 ### Processi 
 - Crea Ordine di Acquisto dall'Ordine di Vendita [COVOA00]  [link]({{< ref "_index.it.md#COVOA00" >}})
--
--
--
+- Copiare Righe
+- Genera Contratto da Ordine 
+
 
 
 
