@@ -135,6 +135,7 @@ La maschera permette l'inserimento degli ordini di conto lavoro attivo in modali
 ## Elabora Gruppo di Ordine [EGO00] {#EGO00}
 Il processo permette di elaborare gruppi di ordini.
 [{{< figure src="/image/ElaboraGruppodiOrdineEGO00.png"  width="850"  >}}](/image/ElaboraGruppodiOrdineEGO00.png)
+Il Processo permette di aggiornare le offerte d'ordine per gruppi (per esempio effettuare la chiusura di più ordini assieme per data).
 ## Info Completa Ordini di Vendita [ICOV00] {#ICOV00}
 La Info Window permette di selezionare e completare gli ordini.
 [{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
