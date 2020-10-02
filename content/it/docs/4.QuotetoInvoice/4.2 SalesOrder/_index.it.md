@@ -126,8 +126,9 @@ Dalla Maschera Ordine di Vendita selezionando sulla icona "Elaborazione" si poss
 - Genera DDT e Fattura da Ordine di Vendita
 
 ## Info Ordine di Vendita con Pagamento Anticipato [IOVP00] {#IOVP00}
-La Info Window mette in evidenza le informazioni relative agli ordini di vendita.
+La Info Window mette in evidenza le informazioni relative alle offerte di vendita con a fronte degli anticipi di pagamento.
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
+La Maschera evidenzia le offerte alle quali è stato legato un incasso anticipato. Si avrà effettuato un incasso parziale o totale a fronte dell'offerta (selezionandola nel riferimento ordine in maschera **pagamento/incasso PI00**), si entrera nell'offerta e si aggiorneranno i dati, dopo di che procediamo selezionando l'icona Elabora e verranno generati DDT e Fatture collegate (una per anticipo ed una per differenza o a totale 0 se offerta uguale ad anticipo stesso.  
 ## Ordine Conto Lavoro Attivo Light [CLAL13] {#CLAL13}
 La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
 [{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
