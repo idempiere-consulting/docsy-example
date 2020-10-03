@@ -140,9 +140,6 @@ Il Processo permette di aggiornare le offerte d'ordine per gruppi (per esempio e
 ## Info Completa Ordini di Vendita [ICOV00] {#ICOV00}
 La Info Window permette di selezionare e completare gli ordini.
 [{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
-## Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00] {#COAOA00}
-Il processo permette di creare ordini di acquisto da ordini di vendita. 
-[{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
 ## Riapertura ordine [RIO00] {#RIO00}
 Il processo permette di riaprire un ordine già chiuso. 
 [{{< figure src="/image/RiaperturaOrdineRIO00.png"  width="850"  >}}](/image/RiaperturaOrdineRIO00.png)
