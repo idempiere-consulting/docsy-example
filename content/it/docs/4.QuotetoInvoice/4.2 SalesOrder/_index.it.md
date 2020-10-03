@@ -128,12 +128,12 @@ Dalla Maschera Ordine di Vendita selezionando sulla icona "Elaborazione" si poss
 ## Info Ordine di Vendita con Pagamento Anticipato [IOVP00] {#IOVP00}
 La Info Window mette in evidenza le informazioni relative alle offerte di vendita con a fronte degli anticipi di pagamento.
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
-La Maschera evidenzia le offerte alle quali è stato legato un incasso anticipato. Si avrà effettuato un incasso parziale o totale a fronte dell'offerta (selezionandola nel riferimento ordine in maschera **pagamento/incasso PI00**), si entrera nell'offerta e si aggiorneranno i dati, dopo di che procediamo selezionando l'icona Elabora e verranno generati DDT e Fatture collegate (una per anticipo ed una per differenza o a totale 0 se offerta uguale ad anticipo stesso.  
+La Maschera evidenzia le offerte alle quali è stato legato un incasso anticipato. In presenza di offerte con un un incasso parziale o totale a fronte, (sarà stata indicata selezionandola nel riferimento ordine in maschera **pagamento/incasso PI00**), selezionandola, si entrerà nell'offerta e si aggiorneranno i dati, dopo di che procedendo dall'icona Elabora si possono generare DDT (per spedizione prodotto) e Fatture (una per anticipo ed una per differenza o a "totale 0" se offerta uguale ad anticipo stesso.  
 ## Ordine Conto Lavoro Attivo Light [CLAL13] {#CLAL13}
 La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
 [{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
 ## Elabora Gruppo di Ordine [EGO00] {#EGO00}
-Il processo permette di elaborare gruppi di ordini.
+Il Processo permette di elaborare gruppi di ordini.
 [{{< figure src="/image/ElaboraGruppodiOrdineEGO00.png"  width="850"  >}}](/image/ElaboraGruppodiOrdineEGO00.png)
 Il Processo permette di aggiornare le offerte d'ordine per gruppi (per esempio effettuare la chiusura di più ordini assieme per data).
 ## Info Completa Ordini di Vendita [ICOV00] {#ICOV00}
