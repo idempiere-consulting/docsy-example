@@ -130,6 +130,7 @@ La Info Window mette in evidenza le informazioni relative alle offerte di vendit
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
 La Maschera evidenzia le offerte alle quali è stato legato un incasso anticipato. In presenza di offerte con un un incasso parziale o totale a fronte, (sarà stata indicata selezionandola nel riferimento ordine in maschera **pagamento/incasso PI00**), selezionandola, si entrerà nell'offerta e si aggiorneranno i dati, dopo di che procedendo dall'icona Elabora si possono generare DDT (per spedizione prodotto) e Fatture (una per anticipo ed una per differenza o a "totale 0" se offerta uguale ad anticipo stesso.  
 ## Ordine Conto Lavoro Attivo Light [CLAL13] {#CLAL13}
+@verifica
 La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
 [{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
 ## Elabora Gruppo di Ordine [EGO00] {#EGO00}
