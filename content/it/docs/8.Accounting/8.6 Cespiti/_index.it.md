@@ -108,6 +108,7 @@ di attività commerciali, arti e professioni.
 Pubblicato nella Gazz. Uff. 2 febbraio 1989, n. 27, S.O.
 
 indice
+
 [Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE [GrI]]({{< ref "_index.it.md#GrI" >}} "Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE") <br>
 #### [Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE](#Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE)
 
