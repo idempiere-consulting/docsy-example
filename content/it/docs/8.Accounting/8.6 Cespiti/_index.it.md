@@ -108,7 +108,7 @@ di attività commerciali, arti e professioni.
 Pubblicato nella Gazz. Uff. 2 febbraio 1989, n. 27, S.O.
 
 indice
-
+[Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE [GrI]]({{< ref "_index.it.md#GrI" >}} "Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE") <br>
 #### [Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE](#Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE)
 
 #### [Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE](#Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE)
@@ -187,7 +187,7 @@ Decreta:
     hanno inizio a decorrere dal primo periodo di imposta successivo al 31 dicembre 1988.
 3. Il presente decreto sarà pubblicato nella Gazzetta Ufficiale della Repubblica italiana.
 
-## Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE
+## Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE [GrI]
 
 ### [Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.](#Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.)
 
