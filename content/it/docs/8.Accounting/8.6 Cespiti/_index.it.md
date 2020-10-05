@@ -56,7 +56,7 @@ Lista Cespiti
 
 #### Azione n° 2 : si genera l'entrata merce come per un qualsiasi materiale da elaborazione processo con Crea Entrata Merci da elabora processo
 
-### Azione n° 3 : creo l' entrata merce
+#### Azione n° 3 : creo l' entrata merce
 
 [{{< figure src="/image/Processoentratamerce.png"  width="850"  >}}](/image/Processoentratamerce.png)
 
