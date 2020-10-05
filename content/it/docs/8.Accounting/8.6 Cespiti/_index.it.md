@@ -108,52 +108,49 @@ di attività commerciali, arti e professioni.
 Pubblicato nella Gazz. Uff. 2 febbraio 1989, n. 27, S.O.
 
 indice
-
 #### [Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE](#Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE](#Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE)[GRII]  [link]({{< ref "_index.it.md#GRII" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA](#Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE](#Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE)
+#### [Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI](#Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA](#Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA)
+#### [Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI](#Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI](#Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI)
+#### [Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO](#Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI](#Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI)
+#### [Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE](#Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO](#Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO)
+#### [Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI](#Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE](#Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE)
+#### [Tabella dei coefficienti di ammortamento - Gruppo IX INDUSTRIE MANIFATTURIERE CHIMICHE](#Tabella dei coefficienti di ammortamento - Gruppo IXINDUSTRIE MANIFATTURIERE CHIMICHE)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI](#Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XINDUSTRIE MANIFATTURIERE DELLA CARTA](#Tabella dei coefficienti di ammortamento - Gruppo X INDUSTRIE MANIFATTURIERE DELLA CARTA)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo IX INDUSTRIE MANIFATTURIERE CHIMICHE](#Tabella dei coefficienti di ammortamento - Gruppo IXINDUSTRIE MANIFATTURIERE CHIMICHE)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XI INDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO](#Tabella dei coefficienti di ammortamento - Gruppo XIINDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XINDUSTRIE MANIFATTURIERE DELLA CARTA](#Tabella dei coefficienti di ammortamento - Gruppo X INDUSTRIE MANIFATTURIERE DELLA CARTA)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI](#Tabella dei coefficienti di ammortamento - Gruppo XIIINDUSTRIE MANIFATTURIERE TESSILI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XI INDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO](#Tabella dei coefficienti di ammortamento - Gruppo XIINDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO](#Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI](#Tabella dei coefficienti di ammortamento - Gruppo XIIINDUSTRIE MANIFATTURIERE TESSILI)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XIV INDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE](#Tabella dei coefficienti di ammortamento - Gruppo XIVINDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO](#Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI](#Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XIV INDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE](#Tabella dei coefficienti di ammortamento - Gruppo XIVINDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE](#Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI](#Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XVII INDUSTRIE DELL'ENERGIA ELETTRICA DEL GAS E DELL'ACQUA](#Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE](#Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI](#Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XVII INDUSTRIE DELL'ENERGIA ELETTRICA DEL GAS E DELL'ACQUA](#Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XIXALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI](#Tabella dei coefficienti di ammortamento - Gruppo XIX ALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI](#Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI](#Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XIXALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI](#Tabella dei coefficienti di ammortamento - Gruppo XIX ALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI](#Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI](#Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI)
-
-#### [Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI](#Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI)
-
-#### [Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI](#Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI)
-
-#### [Altre](#Altre)
+#### [Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI](#Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Fiere e Rassegne](#Fiere e Rassegne)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Altre Attività](#Altre Attività)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
 D.M. 31 dicembre 1988 (1).
 Coefficienti di ammortamento del costo dei beni materiali strumentali impiegati nell'esercizio
@@ -276,7 +273,7 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 
 
 
-#### Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA
+#### Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA {#GRIII}
 
 #### [Specie 1 - Industria della pesca, compresa quella delle spugne e del corallo.](#Specie 1 - Industria della pesca, compresa quella delle spugne e del corallo.)
 
@@ -307,7 +304,7 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-#### Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI
+#### Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI {#GRIV}
 
 #### [Specie 1 - Miniere di minerali di ferro e di minerali metalliferi non ferrosi.](#Specie 1 - Miniere di minerali di ferro e di minerali metalliferi non ferrosi.)
 
@@ -437,7 +434,7 @@ manutenzione, riparazione, ammodernamento e trasformazione relative ai cespiti i
 stesso art. 1, devono essere rilevate distintamente nelle scritture contabili delle imprese interessate e
 riportate distintamente in apposito prospetto allegato alla dichiarazione dei redditi».
 
-#### Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI
+#### Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI {#GRV}
 
 #### [Specie 1 - Brillatura del riso, pilatura ed altre lavorazioni di cereali e legumi, esclusa la molitura.](#Specie 1 - Brillatura del riso, pilatura ed altre lavorazioni di cereali e legumi, esclusa la molitura.)
 
@@ -715,7 +712,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 (6) Così modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 (7) Specie aggiunta dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 
-#### Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO
+#### Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO {#GRVI}
 
 #### [Specie 1 - Prima lavorazione del legno (segherie).](#Specie 1 - Prima lavorazione del legno (segherie).)
 
@@ -800,7 +797,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-#### Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE
+#### Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE {#GRVII}
 
 #### [Specie 1/a - Siderurgia in genere.](#Specie 1/a - Siderurgia in genere.)
 
@@ -1128,7 +1125,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 (9) Così modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 (10) Aggiunta dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 
-#### Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI
+#### Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI {#GRVIII}
 
 #### [Specie 1 - Macinazione e lavaggio di minerali non metalliferi, lavorazione del marmo e della pietra da costruzione e per uso industriale.](#Specie 1 - Macinazione e lavaggio di minerali non metalliferi, lavorazione del marmo e della pietra da costruzione e per uso industriale.)
 
@@ -1293,7 +1290,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-#### Tabella dei coefficienti di ammortamento - Gruppo IX INDUSTRIE MANIFATTURIERE CHIMICHE
+#### Tabella dei coefficienti di ammortamento - Gruppo IX INDUSTRIE MANIFATTURIERE CHIMICHE {#GRIX}
 
 #### [Specie 1/a - Produzione di acido solforico, cloro, soda elettrolitica e derivati ed altri prodotti chimici non compresi nelle altre specie.](#Specie 1/a - Produzione di acido solforico, cloro, soda elettrolitica e derivati ed altri prodotti chimici non compresi nelle altre specie.)
 
@@ -1587,7 +1584,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-#### Tabella dei coefficienti di ammortamento - Gruppo X INDUSTRIE MANIFATTURIERE DELLA CARTA
+#### Tabella dei coefficienti di ammortamento - Gruppo X INDUSTRIE MANIFATTURIERE DELLA CARTA {#GRX}
 
 #### [Specie 1/a - Fabbricazione e lavorazione di carta e cartone, compresa la fabbricazione di carte da parato e carte da gioco.](#Specie 1/a - Fabbricazione e lavorazione di carta e cartone, compresa la fabbricazione di carte da parato e carte da gioco.)
 
@@ -1611,7 +1608,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 
 #### Specie 1/b - Fabbricazione di manufatti di carta e cartone, compresa la produzione di imballaggi (cartotecnica) (Vedi specie 1/a).
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XI INDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO
+#### Tabella dei coefficienti di ammortamento - Gruppo XI INDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO {#GRXI}
 
 #### [Specie 1 - Concia e tintura delle pelli. Produzione di succedanei e imitazioni del cuoio e pelli.](#Specie 1 - Concia e tintura delle pelli. Produzione di succedanei e imitazioni del cuoio e pelli.)
 
@@ -1635,7 +1632,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 
 #### Specie 2 - Fabbricazione di articoli in cuoio, pelle e loro succedanei esclusi guanti e calzature (Vedi specie 1).
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI
+#### Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI {#GRXII}
 
 #### [Specie 1 - Produzione ed allevamento del seme-bachi. Essiccazione di bozzoli.](#Specie 1 - Produzione ed allevamento del seme-bachi. Essiccazione di bozzoli.)
 
@@ -1726,7 +1723,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 (11) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 (12) Aggiunta dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO
+#### Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO {#GRXIII}
 
 #### [INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO](#INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO)
 
@@ -1817,7 +1814,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 (13) Così corretto con avviso di rettifica pubblicato nella Gazz. Uff. 3 agosto 1989, n. 180.
 (14) Così corretto con avviso di rettifica pubblicato nella Gazz. Uff. 3 agosto 1989, n. 180.
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XIV INDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE
+#### Tabella dei coefficienti di ammortamento - Gruppo XIV INDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE {#GRXIV}
 
 #### [Specie 1/a - Produzione di manufatti di gomma.](#Specie 1/a - Produzione di manufatti di gomma.)
 
@@ -1903,7 +1900,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 
 Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI
+#### Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI {#GRV}
 
 #### [Specie 1 - Tipografie, litografie ed affini.](#Specie 1 - Tipografie, litografie ed affini.)
 
@@ -1943,7 +1940,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 
 #### Specie 3 - Editori di libri e di giornali ed agenzie di stampa (Vedi specie 1).
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE
+#### Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE {#GRXVI}
 
 #### [Specie 1/a - Imprese di costruzioni edilizie, di lavori di terra e di opere stradali, portuali e specializzate.](#Specie 1/a - Imprese di costruzioni edilizie, di lavori di terra e di opere stradali, portuali e specializzate.)
 
@@ -1993,7 +1990,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XVII INDUSTRIE DELL'ENERGIA ELETTRICA DEL GAS E DELL'ACQUA
+#### Tabella dei coefficienti di ammortamento - Gruppo XVII INDUSTRIE DELL'ENERGIA ELETTRICA DEL GAS E DELL'ACQUA {#GRXVII}
 
 #### [Specie 1/a - Produzione e distribuzione di energia idroelettrica.](#Specie 1/a - Produzione e distribuzione di energia idroelettrica.)
 
@@ -2134,7 +2131,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 
 (16) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI
+#### Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI {#GRXVIII}
 
 #### [Specie 1, 2 e 3 - Trasporti aerei, marittimi, lacuali, fluviali e lagunari.](#Specie 1, 2 e 3 - Trasporti aerei, marittimi, lacuali, fluviali e lagunari.)
 
@@ -2288,7 +2285,7 @@ Autovetture, motoveicoli e simili 25%(17) Modificato dal D.M. 23 dicembre 1992 (
 (22) Il coefficiente di cui alla presente voce è stato così elevato dal D.M. 19 ottobre 1995 (Gazz.
 Uff. 31 ottobre 1995, n. 255).
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XIX ALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI
+#### Tabella dei coefficienti di ammortamento - Gruppo XIX ALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI {#GRXIX}
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2306,7 +2303,7 @@ Uff. 31 ottobre 1995, n. 255).
 (23) Vedi, anche, l'art. 11, L. 27 dicembre 1997, n. 449, riportata alla voce Amministrazione del
 patrimonio e contabilità generale dello Stato.
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI
+#### Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI {#GRXX}
 
 #### Specie 1 - Teatri, cinematografi, sale da ballo e simili, campi sportivi, case da giuoco.
 
@@ -2336,7 +2333,7 @@ patrimonio e contabilità generale dello Stato.
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI
+#### Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI {#GRXXI}
 
 #### [Specie 1 - Ospedali, cliniche, sanatori, case di cura ed istituti similari privati.](#Specie 1 - Ospedali, cliniche, sanatori, case di cura ed istituti similari privati.)
 
@@ -2356,7 +2353,7 @@ patrimonio e contabilità generale dello Stato.
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI
+#### Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI {#GRXXII}
 
 #### [Specie 1 - Servizi igienici e di estetica della persona. Alberghi diurni, istituti di igiene e di bellezza, barbieri, parrucchieri e simili.](#Specie 1 - Servizi igienici e di estetica della persona. Alberghi diurni, istituti di igiene e di bellezza, barbieri, parrucchieri e simili.)
 
@@ -2404,45 +2401,9 @@ patrimonio e contabilità generale dello Stato.
 | Mobili e macchine ordinarie d'ufficio                        | 12%             |                  |
 | Macchine d'ufficio elettromeccaniche ed elettroniche compresi i computers e i sistemi telefonici elettronici | 20%             |                  |
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
-1. abbricati in muratura destinati a padiglioni per esposizione 10%
-    Costruzioni in legno o in strutture mobili 20%
-    Mobili comuni ed arredamento 10%
-    Arredamento fiere (transenne, ecc.) 27%
-    Mobili e macchine ordinarie d'ufficio 12%
-    Macchine d'ufficio elettromeccaniche ed elettroniche compresi i computers e i sistemi
-    telefonici elettronici
-    20%
-    Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto
-    interno, ecc.) 20%
-    Autovetture, motoveicoli e simili 25%
-
-1. Altre attività
-   Edifici 3%
-    Fabbricati destinati alla grande distribuzione 6%
-    Costruzioni leggere (tettoie, baracche, ecc.) 10%
-    Impianti e mezzi di sollevamento, carico e scarico, pesatura, ecc. 7 1/2 %
-    Macchinari, apparecchi e attrezzature varie (compreso frigorifero, impianto di
-    condizionamento e distributore automatico) 15%
-    Stigliatura 10%
-    Arredamento 15%
-    Banconi blindati o con cristalli blindati 20%
-    Impianti di allarme, di ripresa fotografica, cinematografica e televisiva 30%
-    Impianti interni speciali di comunicazione e telesegnalazione 25%Impianti destinati al trattamento ed al depuramento delle acque, fumi nocivi, ecc. mediante
-    impiego di reagenti chimici 15%
-    Mobili e macchine ordinarie d'ufficio 12%
-    Macchine d'ufficio elettromeccaniche ed elettroniche compresi i computers e i sistemi
-    telefonici elettronici
-    20%
-    Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto
-    interno, ecc.) 20%
-    Autovetture, motoveicoli e simili 25%
-    (24) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
-    (25) Vedi, anche, l'art. 11, L. 27 dicembre 1997, n. 449, riportata alla voce Amministrazione del
-    patrimonio e contabilità generale dello Stato.
 
 
-
-1. assegne.
+## 1. Fiere e Rassegne. {#GRFR}
 
    Fabbricati in muratura destinati a padiglioni per esposizione 10%
     Costruzioni in legno o in strutture mobili 20%
@@ -2456,125 +2417,7 @@ patrimonio e contabilità generale dello Stato.
     interno, ecc.) 20%
     Autovetture, motoveicoli e simili 25%
 
-2. Altre attività
-   Edifici 3%
-    Fabbricati destinati alla grande distribuzione 6%
-    Costruzioni leggere (tettoie, baracche, ecc.) 10%
-    Impianti e mezzi di sollevamento, carico e scarico, pesatura, ecc. 7 1/2 %
-    Macchinari, apparecchi e attrezzature varie (compreso frigorifero, impianto di
-    condizionamento e distributore automatico) 15%
-    Stigliatura 10%
-    Arredamento 15%
-    Banconi blindati o con cristalli blindati 20%
-    Impianti di allarme, di ripresa fotografica, cinematografica e televisiva 30%
-    Impianti interni speciali di comunicazione e telesegnalazione 25%Impianti destinati al trattamento ed al depuramento delle acque, fumi nocivi, ecc. mediante
-    impiego di reagenti chimici 15%
-    Mobili e macchine ordinarie d'ufficio 12%
-    Macchine d'ufficio elettromeccaniche ed elettroniche compresi i computers e i sistemi
-    telefonici elettronici
-    20%
-    Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto
-    interno, ecc.) 20%
-    Autovetture, motoveicoli e simili 25%
-    (24) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
-    (25) Vedi, anche, l'art. 11, L. 27 dicembre 1997, n. 449, riportata alla voce Amministrazione del
-    patrimonio e contabilità generale dello Stato.
-
-
-
-1. assegne.
-
-   Fabbricati in muratura destinati a padiglioni per esposizione 10%
-    Costruzioni in legno o in strutture mobili 20%
-    Mobili comuni ed arredamento 10%
-    Arredamento fiere (transenne, ecc.) 27%
-    Mobili e macchine ordinarie d'ufficio 12%
-    Macchine d'ufficio elettromeccaniche ed elettroniche compresi i computers e i sistemi
-    telefonici elettronici
-    20%
-    Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto
-    interno, ecc.) 20%
-    Autovetture, motoveicoli e simili 25%
-
-2. Altre attività
-   Edifici 3%
-    Fabbricati destinati alla grande distribuzione 6%
-    Costruzioni leggere (tettoie, baracche, ecc.) 10%
-    Impianti e mezzi di sollevamento, carico e scarico, pesatura, ecc. 7 1/2 %
-    Macchinari, apparecchi e attrezzature varie (compreso frigorifero, impianto di
-    condizionamento e distributore automatico) 15%
-    Stigliatura 10%
-    Arredamento 15%
-    Banconi blindati o con cristalli blindati 20%
-    Impianti di allarme, di ripresa fotografica, cinematografica e televisiva 30%
-    Impianti interni speciali di comunicazione e telesegnalazione 25%Impianti destinati al trattamento ed al depuramento delle acque, fumi nocivi, ecc. mediante
-    impiego di reagenti chimici 15%
-    Mobili e macchine ordinarie d'ufficio 12%
-    Macchine d'ufficio elettromeccaniche ed elettroniche compresi i computers e i sistemi
-    telefonici elettronici
-    20%
-    Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto
-    interno, ecc.) 20%
-    Autovetture, motoveicoli e simili 25%
-    (24) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
-    (25) Vedi, anche, l'art. 11, L. 27 dicembre 1997, n. 449, riportata alla voce Amministrazione del
-    patrimonio e contabilità generale dello Stato.
-
-1. Fiere e Rassegne.
-
-   Fabbricati in muratura destinati a padiglioni per esposizione 10%
-    Costruzioni in legno o in strutture mobili 20%
-    Mobili comuni ed arredamento 10%
-    Arredamento fiere (transenne, ecc.) 27%
-    Mobili e macchine ordinarie d'ufficio 12%
-    Macchine d'ufficio elettromeccaniche ed elettroniche compresi i computers e i sistemi
-    telefonici elettronici
-    20%
-    Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto
-    interno, ecc.) 20%
-    Autovetture, motoveicoli e simili 25%
-
-2. Altre attività
-   Edifici 3%
-    Fabbricati destinati alla grande distribuzione 6%
-    Costruzioni leggere (tettoie, baracche, ecc.) 10%
-    Impianti e mezzi di sollevamento, carico e scarico, pesatura, ecc. 7 1/2 %
-    Macchinari, apparecchi e attrezzature varie (compreso frigorifero, impianto di
-    condizionamento e distributore automatico) 15%
-    Stigliatura 10%
-    Arredamento 15%
-    Banconi blindati o con cristalli blindati 20%
-    Impianti di allarme, di ripresa fotografica, cinematografica e televisiva 30%
-    Impianti interni speciali di comunicazione e telesegnalazione 25%Impianti destinati al trattamento ed al depuramento delle acque, fumi nocivi, ecc. mediante
-    impiego di reagenti chimici 15%
-    Mobili e macchine ordinarie d'ufficio 12%
-    Macchine d'ufficio elettromeccaniche ed elettroniche compresi i computers e i sistemi
-    telefonici elettronici
-    20%
-    Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto
-    interno, ecc.) 20%
-    Autovetture, motoveicoli e simili 25%
-    (24) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
-    (25) Vedi, anche, l'art. 11, L. 27 dicembre 1997, n. 449, riportata alla voce Amministrazione del
-    patrimonio e contabilità generale dello Stato.
-
-
-
-1. Fiere e Rassegne.
-
-   Fabbricati in muratura destinati a padiglioni per esposizione 10%
-    Costruzioni in legno o in strutture mobili 20%
-    Mobili comuni ed arredamento 10%
-    Arredamento fiere (transenne, ecc.) 27%
-    Mobili e macchine ordinarie d'ufficio 12%
-    Macchine d'ufficio elettromeccaniche ed elettroniche compresi i computers e i sistemi
-    telefonici elettronici
-    20%
-    Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto
-    interno, ecc.) 20%
-    Autovetture, motoveicoli e simili 25%
-
-2. Altre attività
+## 2. Altre Attività {#GRAA}
    Edifici 3%
     Fabbricati destinati alla grande distribuzione 6%
     Costruzioni leggere (tettoie, baracche, ecc.) 10%
