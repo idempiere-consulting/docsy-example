@@ -12,7 +12,6 @@ Menù Idempiere
 [Ordine Conto Lavoro Attivo Light [CLAL13]]({{< ref "_index.it.md#CLAL13" >}} "Ordine Conto Lavoro Attivo Light") <br>
 [Elabora Gruppo di Ordine [EGO00]]({{< ref "_index.it.md#EGO00" >}} "Elabora Gruppo di Ordine") <br>
 [Info Completa Ordini di Vendita [ICOV00]]({{< ref "_index.it.md#ICOV00" >}} "Info Completa Ordini di Vendita") <br>
-[Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00]]({{< ref "_index.it.md#COAOA00" >}} "Crea Ordine di Acquisto dall'Ordine di Vendita") <br>
 [Riapertura ordine [RIO00]]({{< ref "_index.it.md#RIO00" >}} "Riapertura ordine") <br>
 [Crea Ordine di Vendita dall'Ordine di Acquisto [COVOA00]]({{< ref "_index.it.md#COVOA00" >}} "Crea Ordine di Vendita dall'Ordine di Acquisto") <br>
 [Conversione Preventivo [COP00]]({{< ref "_index.it.md#COP00" >}} "Conversione Preventivo") <br>
@@ -128,19 +127,18 @@ Dalla Maschera Ordine di Vendita selezionando sulla icona "Elaborazione" si poss
 ## Info Ordine di Vendita con Pagamento Anticipato [IOVP00] {#IOVP00}
 La Info Window mette in evidenza le informazioni relative alle offerte di vendita con a fronte degli anticipi di pagamento.
 [{{< figure src="/image/InfoOrdinediVendita.png"  width="850"  >}}](/image/InfoOrdinediVendita.png)
-La Maschera evidenzia le offerte alle quali è stato legato un incasso anticipato. Si avrà effettuato un incasso parziale o totale a fronte dell'offerta (selezionandola nel riferimento ordine in maschera **pagamento/incasso PI00**), si entrera nell'offerta e si aggiorneranno i dati, dopo di che procediamo selezionando l'icona Elabora e verranno generati DDT e Fatture collegate (una per anticipo ed una per differenza o a totale 0 se offerta uguale ad anticipo stesso.  
+La Maschera evidenzia le offerte alle quali è stato legato un incasso anticipato. In presenza di offerte con un un incasso parziale o totale a fronte, (sarà stata indicata selezionandola nel riferimento ordine in maschera **pagamento/incasso PI00**), selezionandola, si entrerà nell'offerta e si aggiorneranno i dati, dopo di che procedendo dall'icona Elabora si possono generare DDT (per spedizione prodotto) e Fatture (una per anticipo ed una per differenza o a "totale 0" se offerta uguale ad anticipo stesso.  
 ## Ordine Conto Lavoro Attivo Light [CLAL13] {#CLAL13}
+@verifica
 La maschera permette l'inserimento degli ordini di conto lavoro attivo in modalita 
 [{{< figure src="/image/OrdineContoLavoroLight.png"  width="850"  >}}](/image/OrdineContoLavoroLight.png) 
 ## Elabora Gruppo di Ordine [EGO00] {#EGO00}
-Il processo permette di elaborare gruppi di ordini.
+Il Processo permette di elaborare gruppi di ordini.
 [{{< figure src="/image/ElaboraGruppodiOrdineEGO00.png"  width="850"  >}}](/image/ElaboraGruppodiOrdineEGO00.png)
+Il Processo permette di aggiornare le offerte d'ordine per gruppi (per esempio effettuare la chiusura di più ordini assieme per data).
 ## Info Completa Ordini di Vendita [ICOV00] {#ICOV00}
 La Info Window permette di selezionare e completare gli ordini.
 [{{< figure src="/image/InfoCompletaOrdinidiVendita.png"  width="850"  >}}](/image/InfoCompletaOrdinidiVendita.png)
-## Crea Ordine di Acquisto dall'Ordine di Vendita [COAOA00] {#COAOA00}
-Il processo permette di creare ordini di acquisto da ordini di vendita. 
-[{{< figure src="/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png"  width="850"  >}}](/image/CreaOrdinediAcquistoOrdinediVenditaCOVOA00.png)
 ## Riapertura ordine [RIO00] {#RIO00}
 Il processo permette di riaprire un ordine già chiuso. 
 [{{< figure src="/image/RiaperturaOrdineRIO00.png"  width="850"  >}}](/image/RiaperturaOrdineRIO00.png)

@@ -25,80 +25,54 @@ Menù Idempiere
 ## Cespite [CES00] {#CES00}
 [{{< figure src="/image/Cespite.png"  width="850"  >}}](/image/Cespite.png)
 
-# Indice
-###  1. [Fine della gestione](#Fine della gestione)
+#### Gestione cespite in Idempiere
+La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
+- gestione dell'anagrafica dei Cespiti e delle loro movimentazioni.
+- collegamento diretto tra anagrafica Cespite e Registrazioni contabili,
+- classificazione fiscale dei Cespiti, 
+- possibilità di effettaure simulazioni di calcolo ammortamento, ???
+- effettuare registrazioni contabili anche con classificazioni differenti da quelle ministeriali,
+- calcoli valori e ammortamenti periodici mensilizzati,
+- relazioni beni padre figlio ???
+- determinazione di plusvalenze/minusvalenze a fine vita del cespite a segiuto dismissione.
 
-###  2. [Setup di base](#Setup di base)
+## Report ???##
+Lista Cespiti
+- Codice
+- Descrizione
+- Condizioni di ammortamento
+- Conti Contabilità Usati per Classificazioni
+  a) Immobilizzazioni Attivo e Passivo
+  b) Ammortamento ordinario
+  c) Ammortamento fiscale
+  d) Plusvalenza 
+  e) Minusvalenza
+  
+### Procedura di Acquisizione Cespite
 
-###  3. [Processo](#Processo)
+#### Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.
 
-4.[]
-
-### Fine della gestione
-
- 1.1 Scopo di gestire un cespite (bene ammortizzabile) è quello di avere la possibilità       bilità di gestire detto bene imputando il suo costo di acquisto ed eventuali oneri accessori che faranno parte del valore storico del bene, ivi compresi valori che possono essere finanziari (ad es. interessi per acquisto) non come costo di esercizio bensì registrandone il suo acquisto fra le immobilizzazioni patrimoniali e di rilevare, come civilmente indicato il relativo costo (ammortamento) per  periodi relativi. E’ quindi necessario avere la possibilità di avere un registro cespiti che stampato ogni esercizio contabile indicherà:
-
-1. valore storico
-
-2. ammortamento del periodo
-
-3. fondo ammortamento (somma degli ammortamenti degli anni preceduti)
-
-4. eventuali ammortamenti fiscalmente differenti dai civili e loro fondo ammortament
-
-
-1.2 Le registrazioni da effettuare per la gestione del cespite sono le seguenti:
-
-​     a)  al momento dell’acquisto:
-
-​          conto patrimoniale   (dare)                                      conto patrimoniale  (avere)
-
-immobilizzazione materiale o immat.                   debiti verso fornitori
-
-​     b)  alla fine esercizio contabile (fine anno):
-
-​          conto economico    (dare)                                      conto patrimoniale  (avere)
-
-​          ammortamento bene                                             fondo ammortamento bene
-
-​     c)  eventuali vendite bene con rilevazione o di plusvalenza o di minusvalenza rilevata da valore di vendita meno valore residuo del cespite (valore storico - fondo ammortamento)
-
-​     d) altre casistiche tipo rivalutazioni del bene (derivante da legge dello stato) per cui si adeguerà il valore del bene in base ad. un coefficiente rivalutativo).
-
-### Setup di base
-
-### Processo
-
-#### Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite che si intende acquisire.
-
-![](/opt/md/images/ODA Cespite.png)
+[{{< figure src="/image/ODACespite.png"  width="850"  >}}](/image/ODACespite.png) 
 
 #### Azione n° 2 : si genera l'entrata merce come per un qualsiasi materiale da elaborazione processo con Crea Entrata Merci da elabora processo
 
-![](/opt/md/images/Crea entrata merce da ODA.png)
+#### Azione n° 3 : creo l' entrata merce
 
-Azione n° 3 : creo l' entrata merce
-
-![](/opt/md/images/Processo entrata merce.png)
+[{{< figure src="/image/Processoentratamerce.png"  width="850"  >}}](/image/Processoentratamerce.png)
 
 mi si genera anche la registrazione contabile di entrata a magazzino
 
-![](/opt/md/images/Registrazione contabile enrata magazzino.png)
+[{{< figure src="/image/Registrazionecontabileenratamagazzino.png"  width="850"  >}}](/image/Registrazionecontabileenratamagazzino.png)
 
-Azione n° 4 : Genero fattura sempre da processo
+#### Azione n° 4 : Genero fattura sempre da processo
+[{{< figure src="/image/Generazionefatturaacquistocespite.png"  width="850"  >}}](/image/Generazionefatturaacquistocespite.png)
 
-![](/opt/md/images/Generazione fattura acquisto cespite.png)
-
-Azione n° 5 : assegno a capitale il cespite da creare aprendo a pagina la riga fattura (troverò assegna a capitale fleggato e completerò i campi necessari)
-
-![](/opt/md/images/Selezione_075.png)
-
-Completo la registrazione fattura e avro la registrazione a contabilità relativa
-
-![](/opt/md/images/Registrazione contabile fattura acquisizione cespite.png)
+#### Azione n° 5 : assegno a capitale il cespite da creare aprendo a pagina la riga fattura (troverò assegna a capitale fleggato e completerò i campi necessari)
+[{{< figure src="/image/Selezione_075.png"  width="850"  >}}](/image/Selezione_075.png)
+Completo la registrazione fattura e avrò la registrazione a contabilità relativa
+[{{< figure src="/image/Registrazionecontabilefatturaacquisizionecespite.png"  width="850"  >}}](/image/Registrazionecontabilefatturaacquisizionecespite.png)
 
 Quindi se interrogo tutti i moviemnti contabili del giorno vedo i movimenti di magazzino stornati e i rimanenti movimenti contabili da fattura.
-
 
 Acquisizione del cespite con Idempiere.
 
