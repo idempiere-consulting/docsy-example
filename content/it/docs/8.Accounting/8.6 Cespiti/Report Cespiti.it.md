@@ -12,3 +12,14 @@ pre: "<b></b>"
 [{{< figure src="/image/ReportCespite.png"  width="850"  >}}](/image/ReportCespite.png)
 
 
+## Report ???##
+Lista Cespiti
+- Codice
+- Descrizione
+- Condizioni di ammortamento
+- Conti Contabilità Usati per Classificazioni
+  a) Immobilizzazioni Attivo e Passivo
+  b) Ammortamento ordinario
+  c) Ammortamento fiscale
+  d) Plusvalenza 
+  e) Minusvalenza

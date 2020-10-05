@@ -36,19 +36,16 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 - relazioni beni padre figlio ???
 - determinazione di plusvalenze/minusvalenze a fine vita del cespite a segiuto dismissione.
 
-## Report ???##
-Lista Cespiti
-- Codice
-- Descrizione
-- Condizioni di ammortamento
-- Conti Contabilità Usati per Classificazioni
-  a) Immobilizzazioni Attivo e Passivo
-  b) Ammortamento ordinario
-  c) Ammortamento fiscale
-  d) Plusvalenza 
-  e) Minusvalenza
-  
+ 
 ### Procedura di Acquisizione Cespite
+
+#### Operazioni preliminari da effettuare 
+
+1 La prima operazione necessaria è l’inquadramento del gruppo cespite da cui dipenderanno le varie registrazioni contabili del cespite.
+
+2 da secondo si andranno a delineare e inserire delle categorie prodotto per gestire “i passaggi” contabili del cespite. 
+
+## Acquisizione del cespite con Idempiere passo passo ##
 
 #### Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.
 
@@ -74,18 +71,10 @@ Completo la registrazione fattura e avrò la registrazione a contabilità relati
 
 Quindi se interrogo tutti i moviemnti contabili del giorno vedo i movimenti di magazzino stornati e i rimanenti movimenti contabili da fattura.
 
-## Acquisizione del cespite con Idempiere. ##
 
-​     2.1 La prima operazione necessaria è l’inquadramento del gruppo cespite da cui dipenderanno le varie registrazioni contabili del cespite.
+#### Azione n° 6 : si procede con l'attivazione del cespite, questa operazione determinerà la popolazione degli ammortamenti nella scheda del Cespite
 
-​     2.2 da secondo si andranno a delineare e inserire delle categorie prodotto per gestire “i passaggi” contabili del cespite. 
-
-​     2.3 Si genera un ordine di acquisto del bene cespite che si andrà ad acquisire. 
-
-​     2.4 Si andrà a generare un’entrata materiali utilizzando il prodotto cespite  e richiamando  l’ordine precedentemente inserito. Con questa registrazione si andrà a generare anche un “Cespite” a livello anagrafico.  
-
-​     2.5 Seguentemente andiamo a registrare la fattura andando a richiamare l’entrata merci precedentemente effettuata. A seguito di tale operazione verrà effettuata l’aggiunta cespite andando a verificare ed aggiornare i valori da menù che ci interessano.
-
+​
 |         |                                                              |      |      |      |             |      |      |      |
 | ------- | ------------------------------------------------------------ | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |
 | esempio |                                                              |      |      |      |             |      |      |      |
@@ -110,7 +99,7 @@ Quindi se interrogo tutti i moviemnti contabili del giorno vedo i movimenti di m
 
 
 
-# Tabella coefficienti ammortamento
+## Tabella coefficienti ammortamento
 
 Ministero delle finanze
 D.M. 31-12-1988
