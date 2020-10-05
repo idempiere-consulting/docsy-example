@@ -52,7 +52,7 @@ Lista Cespiti
 
 #### Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.
 
-[{{< figure src="/image/ODA Cespite.png"  width="850"  >}}](/image/ODA Cespite.png) 
+[{{< figure src="/image/ODACespite.png"  width="850"  >}}](/image/ODACespite.png) 
 
 #### Azione n° 2 : si genera l'entrata merce come per un qualsiasi materiale da elaborazione processo con Crea Entrata Merci da elabora processo
 
