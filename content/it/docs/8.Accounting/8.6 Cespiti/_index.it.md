@@ -52,7 +52,7 @@ Lista Cespiti
 
 #### Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.
 
-[{{< figure src="/image/images/ODA Cespite.png"  width="850"  >}}](/image/images/ODA Cespite.png)
+[{{< figure src="/image/ODA Cespite.png"  width="850"  >}}](/image/ODA Cespite.png)
 
 ![](/opt/md/images/ODA Cespite.png)
 
