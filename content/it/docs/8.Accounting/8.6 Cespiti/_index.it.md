@@ -62,7 +62,7 @@ Lista Cespiti
 
 mi si genera anche la registrazione contabile di entrata a magazzino
 
-[{{< figure src="/image/Registrazionecontabileentratamagazzino..png"  width="850"  >}}](/image/Registrazionecontabileentratamagazzino..png)
+[{{< figure src="/image/Registrazionecontabileentratamagazzino.png"  width="850"  >}}](/image/Registrazionecontabileentratamagazzino.png)
 
 #### Azione n° 4 : Genero fattura sempre da processo
 [{{< figure src="/image/Generazionefatturaacquistocespite.png"  width="850"  >}}](/image/Generazionefatturaacquistocespite.png)
