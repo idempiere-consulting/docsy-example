@@ -1900,7 +1900,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 
 Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 
-#### Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI {#GRV}
+#### Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI {#GRXV}
 
 #### [Specie 1 - Tipografie, litografie ed affini.](#Specie 1 - Tipografie, litografie ed affini.)
 
