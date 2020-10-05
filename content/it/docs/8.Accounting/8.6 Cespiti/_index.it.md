@@ -187,19 +187,19 @@ Decreta:
     hanno inizio a decorrere dal primo periodo di imposta successivo al 31 dicembre 1988.
 3. Il presente decreto sarà pubblicato nella Gazzetta Ufficiale della Repubblica italiana.
 
-## Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE {#GRI}
+#### Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE {#GRI}
 
-### [Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.](#Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.) [GRI]
+#### [Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.](#Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.) 
 
-### [Specie 2 - Industrie agrarie diverse, all'infuori della categoria degli affitti.](#Specie 2 - Industrie agrarie diverse, all'infuori della categoria degli affitti.)
+#### [Specie 2 - Industrie agrarie diverse, all'infuori della categoria degli affitti.](#Specie 2 - Industrie agrarie diverse, all'infuori della categoria degli affitti.)
 
-### [Specie 3 - Industrie agrarie esercitate da proprietari di fondi.](#Specie 3 - Industrie agrarie esercitate da proprietari di fondi.)
+#### [Specie 3 - Industrie agrarie esercitate da proprietari di fondi.](#Specie 3 - Industrie agrarie esercitate da proprietari di fondi.)
 
-### [Specie 4 - Aziende di utilizzazione del bosco (abbattimento e carbonizzazione).](#Specie 4 - Aziende di utilizzazione del bosco (abbattimento e carbonizzazione).)
+#### [Specie 4 - Aziende di utilizzazione del bosco (abbattimento e carbonizzazione).](#Specie 4 - Aziende di utilizzazione del bosco (abbattimento e carbonizzazione).)
 
-### [Specie 5 - Esercizio di macchine agricole per conto terzi (incluso il noleggio).](#Specie 5 - Esercizio di macchine agricole per conto terzi (incluso il noleggio).)
+#### [Specie 5 - Esercizio di macchine agricole per conto terzi (incluso il noleggio).](#Specie 5 - Esercizio di macchine agricole per conto terzi (incluso il noleggio).)
 
-### Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.
+#### Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -210,7 +210,7 @@ Decreta:
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Industrie agrarie diverse, all'infuori della categoria degli affitti.
+#### Specie 2 - Industrie agrarie diverse, all'infuori della categoria degli affitti.
 
 N.B.: Per le industrie agrarie diverse, già considerate in altri gruppi (ad esempio: industrie di conserve vegetali, considerate nel gruppo V) si rimanda ai coefficienti previsti nei rispettivi gruppi. Per le industrie non altrove considerate, come la essiccazione del tabacco (per cièo che eccede il ciclo di lavorazione agricola) e la selezione di semi, valgono i seguenti coefficienti:
 
@@ -225,11 +225,11 @@ N.B.: Per le industrie agrarie diverse, già considerate in altri gruppi (ad ese
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 3 - Industrie agrarie esercitate da proprietari di fondi.
+#### Specie 3 - Industrie agrarie esercitate da proprietari di fondi.
 
 N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti stabiliti per i rispettivi «gruppi» e «specie».
 
-### Specie 4 - Aziende di utilizzazione del bosco (abbattimento e carbonizzazione).
+#### Specie 4 - Aziende di utilizzazione del bosco (abbattimento e carbonizzazione).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -239,7 +239,7 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 5 - Esercizio di macchine agricole per conto terzi (incluso il noleggio).
+#### Specie 5 - Esercizio di macchine agricole per conto terzi (incluso il noleggio).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -256,9 +256,9 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-## Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE
+#### Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE {#GRII}
 
-### Specie 1 - Armentizia, allevamento cavalli, malghe, monta taurina, equina e suina ed altre industrie zootecniche.
+#### Specie 1 - Armentizia, allevamento cavalli, malghe, monta taurina, equina e suina ed altre industrie zootecniche.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -276,13 +276,13 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 
 
 
-## Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA
+#### Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA
 
-### [Specie 1 - Industria della pesca, compresa quella delle spugne e del corallo.](#Specie 1 - Industria della pesca, compresa quella delle spugne e del corallo.)
+#### [Specie 1 - Industria della pesca, compresa quella delle spugne e del corallo.](#Specie 1 - Industria della pesca, compresa quella delle spugne e del corallo.)
 
-### [Specie 2 - Allevamento di pesci e molluschi in acque marine (valli salse, laghi costieri, stagni litoranei, peschiere, lagune) ed in acque interne (valli, laghi, stagni, peschiere, fiumi).](#Specie 2 - Allevamento di pesci e molluschi in acque marine (valli salse, laghi costieri, stagni litoranei, peschiere, lagune) ed in acque interne (valli, laghi, stagni, peschiere, fiumi).)
+#### [Specie 2 - Allevamento di pesci e molluschi in acque marine (valli salse, laghi costieri, stagni litoranei, peschiere, lagune) ed in acque interne (valli, laghi, stagni, peschiere, fiumi).](#Specie 2 - Allevamento di pesci e molluschi in acque marine (valli salse, laghi costieri, stagni litoranei, peschiere, lagune) ed in acque interne (valli, laghi, stagni, peschiere, fiumi).)
 
-### Specie 1 - Industria della pesca, compresa quella delle spugne e del corallo.
+#### Specie 1 - Industria della pesca, compresa quella delle spugne e del corallo.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -293,7 +293,7 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Allevamento di pesci e molluschi in acque marine (valli salse, laghi costieri, stagni litoranei, peschiere, lagune) ed in acque interne (valli, laghi, stagni, peschiere, fiumi).
+#### Specie 2 - Allevamento di pesci e molluschi in acque marine (valli salse, laghi costieri, stagni litoranei, peschiere, lagune) ed in acque interne (valli, laghi, stagni, peschiere, fiumi).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -307,23 +307,23 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-## Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI
+#### Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI
 
-### [Specie 1 - Miniere di minerali di ferro e di minerali metalliferi non ferrosi.](#Specie 1 - Miniere di minerali di ferro e di minerali metalliferi non ferrosi.)
+#### [Specie 1 - Miniere di minerali di ferro e di minerali metalliferi non ferrosi.](#Specie 1 - Miniere di minerali di ferro e di minerali metalliferi non ferrosi.)
 
-### [Specie 2 - Miniere di zolfo.](#Specie 2 - Miniere di zolfo.)
+#### [Specie 2 - Miniere di zolfo.](#Specie 2 - Miniere di zolfo.)
 
-### [Specie 3 - Miniere di combustibili fossili.](#Specie 3 - Miniere di combustibili fossili.)
+#### [Specie 3 - Miniere di combustibili fossili.](#Specie 3 - Miniere di combustibili fossili.)
 
-### [Specie 4 - Miniere di combustibili liquidi e gassosi.](#Specie 4 - Miniere di combustibili liquidi e gassosi.)
+#### [Specie 4 - Miniere di combustibili liquidi e gassosi.](#Specie 4 - Miniere di combustibili liquidi e gassosi.)
 
-### [Specie 5 - Cave di marmo ed affini, di pietre da costruzione, di calcari, di marne, ecc.](#Specie 5 - Cave di marmo ed affini, di pietre da costruzione, di calcari, di marne, ecc.)
+#### [Specie 5 - Cave di marmo ed affini, di pietre da costruzione, di calcari, di marne, ecc.](#Specie 5 - Cave di marmo ed affini, di pietre da costruzione, di calcari, di marne, ecc.)
 
-### [Specie 6 - Cave di sabbia, ghiaia e pietrisco.](#Specie 6 - Cave di sabbia, ghiaia e pietrisco.)
+#### [Specie 6 - Cave di sabbia, ghiaia e pietrisco.](#Specie 6 - Cave di sabbia, ghiaia e pietrisco.)
 
-### [Specie 7 - Miniere di salgemma, sorgenti salate naturali e produzione di sale marino e di ebollizione (Vedi specie 2).](#Specie 7 - Miniere di salgemma, sorgenti salate naturali e produzione di sale marino e di ebollizione (Vedi specie 2).)
+#### [Specie 7 - Miniere di salgemma, sorgenti salate naturali e produzione di sale marino e di ebollizione (Vedi specie 2).](#Specie 7 - Miniere di salgemma, sorgenti salate naturali e produzione di sale marino e di ebollizione (Vedi specie 2).)
 
-### Specie 1 - Miniere di minerali di ferro e di minerali metalliferi non ferrosi.
+#### Specie 1 - Miniere di minerali di ferro e di minerali metalliferi non ferrosi.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -341,7 +341,7 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Miniere di zolfo.
+#### Specie 2 - Miniere di zolfo.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -359,7 +359,7 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 3 - Miniere di combustibili fossili.
+#### Specie 3 - Miniere di combustibili fossili.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -376,7 +376,7 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 4 - Miniere di combustibili liquidi e gassosi.
+#### Specie 4 - Miniere di combustibili liquidi e gassosi.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -393,7 +393,7 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto ininterno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 5 - Cave di marmo ed affini, di pietre da costruzione, di calcari, di marne, ecc.
+#### Specie 5 - Cave di marmo ed affini, di pietre da costruzione, di calcari, di marne, ecc.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -408,7 +408,7 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 6 - Cave di sabbia, ghiaia e pietrisco.
+#### Specie 6 - Cave di sabbia, ghiaia e pietrisco.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -422,7 +422,7 @@ N.B.: Per le attività rientranti in questa specie si rimanda ai coefficienti st
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 7 - Miniere di salgemma, sorgenti salate naturali e produzione di sale marino e di ebollizione (Vedi specie 2).
+#### Specie 7 - Miniere di salgemma, sorgenti salate naturali e produzione di sale marino e di ebollizione (Vedi specie 2).
 
 (4) Il D.M. 9 maggio 1989 (Gazz. Uff. 9 maggio 1989, n. 124) ha così disposto:
 «Art. 1. - A decorrere dal periodo di imposta in corso alla data di pubblicazione nella Gazzetta
@@ -437,49 +437,49 @@ manutenzione, riparazione, ammodernamento e trasformazione relative ai cespiti i
 stesso art. 1, devono essere rilevate distintamente nelle scritture contabili delle imprese interessate e
 riportate distintamente in apposito prospetto allegato alla dichiarazione dei redditi».
 
-## Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI
+#### Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI
 
-### [Specie 1 - Brillatura del riso, pilatura ed altre lavorazioni di cereali e legumi, esclusa la molitura.](#Specie 1 - Brillatura del riso, pilatura ed altre lavorazioni di cereali e legumi, esclusa la molitura.)
+#### [Specie 1 - Brillatura del riso, pilatura ed altre lavorazioni di cereali e legumi, esclusa la molitura.](#Specie 1 - Brillatura del riso, pilatura ed altre lavorazioni di cereali e legumi, esclusa la molitura.)
 
-### [Specie 2 - Molitura di cereali.](#Specie 2 - Molitura di cereali.)
+#### [Specie 2 - Molitura di cereali.](#Specie 2 - Molitura di cereali.)
 
-### [Specie 3 - Panificazione, produzione di biscotti e di pasticcerie.](#Specie 3 - Panificazione, produzione di biscotti e di pasticcerie.)
+#### [Specie 3 - Panificazione, produzione di biscotti e di pasticcerie.](#Specie 3 - Panificazione, produzione di biscotti e di pasticcerie.)
 
-### [Specie 4 - Pastificazione.](#Specie 4 - Pastificazione.)
+#### [Specie 4 - Pastificazione.](#Specie 4 - Pastificazione.)
 
-### [Specie 5/a - Lavorazione del cacao, produzione di cioccolata e confetture in genere, torrefazione del caffè, produzione di surrogati.](#Specie 5/a - Lavorazione del cacao, produzione di cioccolata e confetture in genere, torrefazione del caffè, produzione di surrogati.)
+#### [Specie 5/a - Lavorazione del cacao, produzione di cioccolata e confetture in genere, torrefazione del caffè, produzione di surrogati.](#Specie 5/a - Lavorazione del cacao, produzione di cioccolata e confetture in genere, torrefazione del caffè, produzione di surrogati.)
 
-### [Specie 5/b - Produzione di gelati.](#Specie 5/b - Produzione di gelati.)
+#### [Specie 5/b - Produzione di gelati.](#Specie 5/b - Produzione di gelati.)
 
-### [Specie 6 - Produzione e raffinazione dello zucchero.](#Specie 6 - Produzione e raffinazione dello zucchero.)
+#### [Specie 6 - Produzione e raffinazione dello zucchero.](#Specie 6 - Produzione e raffinazione dello zucchero.)
 
-### [Specie 7 - Lavorazione e conservazione delle carni.](#Specie 7 - Lavorazione e conservazione delle carni.)
+#### [Specie 7 - Lavorazione e conservazione delle carni.](#Specie 7 - Lavorazione e conservazione delle carni.)
 
-### [Specie 8 - Lavorazione e conservazione dei prodotti alimentari della pesca.](#Specie 8 - Lavorazione e conservazione dei prodotti alimentari della pesca.)
+#### [Specie 8 - Lavorazione e conservazione dei prodotti alimentari della pesca.](#Specie 8 - Lavorazione e conservazione dei prodotti alimentari della pesca.)
 
-### [Specie 9 - Conservazione e trasformazione di frutta, ortaggi, funghi e prodotti similari (marmellate, conserve di pomodoro, conserve alimentari in genere, dadi per brodo, ecc.).](#Specie 9 - Conservazione e trasformazione di frutta, ortaggi, funghi e prodotti similari (marmellate, conserve di pomodoro, conserve alimentari in genere, dadi per brodo, ecc.).)
+#### [Specie 9 - Conservazione e trasformazione di frutta, ortaggi, funghi e prodotti similari (marmellate, conserve di pomodoro, conserve alimentari in genere, dadi per brodo, ecc.).](#Specie 9 - Conservazione e trasformazione di frutta, ortaggi, funghi e prodotti similari (marmellate, conserve di pomodoro, conserve alimentari in genere, dadi per brodo, ecc.).)
 
-### [Specie 10 - Lavorazione del latte (caseifici, stagionatura del formaggio, lavorazione di mozzarelle ed altri latticini freschi lavorazione del burro) e conservazione del latte.](#Specie 10 - Lavorazione del latte (caseifici, stagionatura del formaggio, lavorazione di mozzarelle ed altri latticini freschi lavorazione del burro) e conservazione del latte.)
+#### [Specie 10 - Lavorazione del latte (caseifici, stagionatura del formaggio, lavorazione di mozzarelle ed altri latticini freschi lavorazione del burro) e conservazione del latte.](#Specie 10 - Lavorazione del latte (caseifici, stagionatura del formaggio, lavorazione di mozzarelle ed altri latticini freschi lavorazione del burro) e conservazione del latte.)
 
-### [Specie 11 - Produzione di olio d'oliva e di semi, per spremitura, e di olii vegetali, con solventi.](#Specie 11 - Produzione di olio d'oliva e di semi, per spremitura, e di olii vegetali, con solventi.)
+#### [Specie 11 - Produzione di olio d'oliva e di semi, per spremitura, e di olii vegetali, con solventi.](#Specie 11 - Produzione di olio d'oliva e di semi, per spremitura, e di olii vegetali, con solventi.)
 
-### [Specie 12 - Raffinazione degli olii vegetali (Vedi specie 1).](#Specie 12 - Raffinazione degli olii vegetali (Vedi specie 1).)
+#### [Specie 12 - Raffinazione degli olii vegetali (Vedi specie 1).](#Specie 12 - Raffinazione degli olii vegetali (Vedi specie 1).)
 
-### [Specie 13 - Industria dei vini, mosti concentrati ed aceti (Vedi specie 11).](#Specie 13 - Industria dei vini, mosti concentrati ed aceti (Vedi specie 11).)
+#### [Specie 13 - Industria dei vini, mosti concentrati ed aceti (Vedi specie 11).](#Specie 13 - Industria dei vini, mosti concentrati ed aceti (Vedi specie 11).)
 
-### [Specie 14 - Distillerie di alcole (Vedi specie 11).](#Specie 14 - Distillerie di alcole (Vedi specie 11).)
+#### [Specie 14 - Distillerie di alcole (Vedi specie 11).](#Specie 14 - Distillerie di alcole (Vedi specie 11).)
 
-### [Specie 15 - Produzione di liquori e affini (Vedi specie 11).](#Specie 15 - Produzione di liquori e affini (Vedi specie 11).)
+#### [Specie 15 - Produzione di liquori e affini (Vedi specie 11).](#Specie 15 - Produzione di liquori e affini (Vedi specie 11).)
 
-### [Specie 16 - Produzione di malto, birra ed estrattti di malto.](#Specie 16 - Produzione di malto, birra ed estrattti di malto.)
+#### [Specie 16 - Produzione di malto, birra ed estrattti di malto.](#Specie 16 - Produzione di malto, birra ed estrattti di malto.)
 
-### [Specie 17 - Produzione di bevande analcoliche gassate e non (5).](#Specie 17 - Produzione di bevande analcoliche gassate e non (5).)
+#### [Specie 17 - Produzione di bevande analcoliche gassate e non (5).](#Specie 17 - Produzione di bevande analcoliche gassate e non (5).)
 
-### [Specie 18 - Fabbricazione del ghiaccio ed esercizio di frigoriferi per conto terzi.](#Specie 18 - Fabbricazione del ghiaccio ed esercizio di frigoriferi per conto terzi.)
+#### [Specie 18 - Fabbricazione del ghiaccio ed esercizio di frigoriferi per conto terzi.](#Specie 18 - Fabbricazione del ghiaccio ed esercizio di frigoriferi per conto terzi.)
 
-### [Specie 19 - Imbottigliamento di acque minerali naturali (7).](#Specie 19 - Imbottigliamento di acque minerali naturali (7).)
+#### [Specie 19 - Imbottigliamento di acque minerali naturali (7).](#Specie 19 - Imbottigliamento di acque minerali naturali (7).)
 
-### Specie 1 - Brillatura del riso, pilatura ed altre lavorazioni di cereali e legumi, esclusa la molitura.
+#### Specie 1 - Brillatura del riso, pilatura ed altre lavorazioni di cereali e legumi, esclusa la molitura.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -495,7 +495,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Molitura di cereali.
+#### Specie 2 - Molitura di cereali.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -508,7 +508,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 3 - Panificazione, produzione di biscotti e di pasticcerie.
+#### Specie 3 - Panificazione, produzione di biscotti e di pasticcerie.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -524,7 +524,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 4 - Pastificazione.
+#### Specie 4 - Pastificazione.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -538,7 +538,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 5/a - Lavorazione del cacao, produzione di cioccolata e confetture in genere, torrefazione del caffè, produzione di surrogati.
+#### Specie 5/a - Lavorazione del cacao, produzione di cioccolata e confetture in genere, torrefazione del caffè, produzione di surrogati.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -551,7 +551,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 5/b - Produzione di gelati.
+#### Specie 5/b - Produzione di gelati.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -564,7 +564,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 6 - Produzione e raffinazione dello zucchero.
+#### Specie 6 - Produzione e raffinazione dello zucchero.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -578,7 +578,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 7 - Lavorazione e conservazione delle carni.
+#### Specie 7 - Lavorazione e conservazione delle carni.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -592,7 +592,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 8 - Lavorazione e conservazione dei prodotti alimentari della pesca.
+#### Specie 8 - Lavorazione e conservazione dei prodotti alimentari della pesca.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -605,7 +605,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 9 - Conservazione e trasformazione di frutta, ortaggi, funghi e prodotti similari (marmellate, conserve di pomodoro, conserve alimentari in genere, dadi per brodo, ecc.).
+#### Specie 9 - Conservazione e trasformazione di frutta, ortaggi, funghi e prodotti similari (marmellate, conserve di pomodoro, conserve alimentari in genere, dadi per brodo, ecc.).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -619,7 +619,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 10 - Lavorazione del latte (caseifici, stagionatura del formaggio, lavorazione di mozzarelle ed altri latticini freschi lavorazione del burro) e conservazione del latte.
+#### Specie 10 - Lavorazione del latte (caseifici, stagionatura del formaggio, lavorazione di mozzarelle ed altri latticini freschi lavorazione del burro) e conservazione del latte.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -633,7 +633,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 11 - Produzione di olio d'oliva e di semi, per spremitura, e di olii vegetali, con solventi.
+#### Specie 11 - Produzione di olio d'oliva e di semi, per spremitura, e di olii vegetali, con solventi.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -646,15 +646,15 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 12 - Raffinazione degli olii vegetali (Vedi specie 1).
+#### Specie 12 - Raffinazione degli olii vegetali (Vedi specie 1).
 
-### Specie 13 - Industria dei vini, mosti concentrati ed aceti (Vedi specie 11).
+#### Specie 13 - Industria dei vini, mosti concentrati ed aceti (Vedi specie 11).
 
-### Specie 14 - Distillerie di alcole (Vedi specie 11).
+#### Specie 14 - Distillerie di alcole (Vedi specie 11).
 
-### Specie 15 - Produzione di liquori e affini (Vedi specie 11).
+#### Specie 15 - Produzione di liquori e affini (Vedi specie 11).
 
-### Specie 16 - Produzione di malto, birra ed estrattti di malto.
+#### Specie 16 - Produzione di malto, birra ed estrattti di malto.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -668,7 +668,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 17 - Produzione di bevande analcoliche gassate e non (5).
+#### Specie 17 - Produzione di bevande analcoliche gassate e non (5).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -681,7 +681,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 18 - Fabbricazione del ghiaccio ed esercizio di frigoriferi per conto terzi.
+#### Specie 18 - Fabbricazione del ghiaccio ed esercizio di frigoriferi per conto terzi.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -694,7 +694,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 19 - Imbottigliamento di acque minerali naturali (7).
+#### Specie 19 - Imbottigliamento di acque minerali naturali (7).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -715,25 +715,25 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 (6) Così modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 (7) Specie aggiunta dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 
-## Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO
+#### Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO
 
-### [Specie 1 - Prima lavorazione del legno (segherie).](#Specie 1 - Prima lavorazione del legno (segherie).)
+#### [Specie 1 - Prima lavorazione del legno (segherie).](#Specie 1 - Prima lavorazione del legno (segherie).)
 
-### [Specie 2 - Laboratori di falegnameria, di carpenteria in legno. Fabbricazione di oggetti e di recipienti in legno (Vedi specie 1).](#Specie 2 - Laboratori di falegnameria, di carpenteria in legno. Fabbricazione di oggetti e di recipienti in legno (Vedi specie 1).)
+#### [Specie 2 - Laboratori di falegnameria, di carpenteria in legno. Fabbricazione di oggetti e di recipienti in legno (Vedi specie 1).](#Specie 2 - Laboratori di falegnameria, di carpenteria in legno. Fabbricazione di oggetti e di recipienti in legno (Vedi specie 1).)
 
-### [Specie 3 - Costruzione e riparazione di veicoli in legno (Vedi specie 1).](#Specie 3 - Costruzione e riparazione di veicoli in legno (Vedi specie 1).)
+#### [Specie 3 - Costruzione e riparazione di veicoli in legno (Vedi specie 1).](#Specie 3 - Costruzione e riparazione di veicoli in legno (Vedi specie 1).)
 
-### [Specie 4- Cantieri navali per costruzioni, riparazioni e demolizioni di navi in legno (Vedi specie 1).](#Specie 4- Cantieri navali per costruzioni, riparazioni e demolizioni di navi in legno (Vedi specie 1).)
+#### [Specie 4- Cantieri navali per costruzioni, riparazioni e demolizioni di navi in legno (Vedi specie 1).](#Specie 4- Cantieri navali per costruzioni, riparazioni e demolizioni di navi in legno (Vedi specie 1).)
 
-### [Specie 5 - Fabbricazione di mobili e di arredamenti in legno, ebanisterie. Lucidatura, laccatura, doratura di mobili e di altri oggetti in legno (Vedi specie 1).](#Specie 5 - Fabbricazione di mobili e di arredamenti in legno, ebanisterie. Lucidatura, laccatura, doratura di mobili e di altri oggetti in legno (Vedi specie 1).)
+#### [Specie 5 - Fabbricazione di mobili e di arredamenti in legno, ebanisterie. Lucidatura, laccatura, doratura di mobili e di altri oggetti in legno (Vedi specie 1).](#Specie 5 - Fabbricazione di mobili e di arredamenti in legno, ebanisterie. Lucidatura, laccatura, doratura di mobili e di altri oggetti in legno (Vedi specie 1).)
 
-### [Specie 6 - Preparazione del crine vegetale, della trebbia, del truciolo e tracce di truciolo (non per cappelli) e simili. Lavorazione di canne palustri, vimini, giunchi, paglia e trecce di paglia (non per cappelli), sparto, saggina e simili. Fabbricazione di scope e affini (Vedi specie 1).](#Specie 6 - Preparazione del crine vegetale, della trebbia, del truciolo e tracce di truciolo (non per cappelli) e simili. Lavorazione di canne palustri, vimini, giunchi, paglia e trecce di paglia (non per cappelli), sparto, saggina e simili. Fabbricazione di scope e affini (Vedi specie 1).)
+#### [Specie 6 - Preparazione del crine vegetale, della trebbia, del truciolo e tracce di truciolo (non per cappelli) e simili. Lavorazione di canne palustri, vimini, giunchi, paglia e trecce di paglia (non per cappelli), sparto, saggina e simili. Fabbricazione di scope e affini (Vedi specie 1).](#Specie 6 - Preparazione del crine vegetale, della trebbia, del truciolo e tracce di truciolo (non per cappelli) e simili. Lavorazione di canne palustri, vimini, giunchi, paglia e trecce di paglia (non per cappelli), sparto, saggina e simili. Fabbricazione di scope e affini (Vedi specie 1).)
 
-### [Specie 7 - Lavorazione del sughero.](#Specie 7 - Lavorazione del sughero.)
+#### [Specie 7 - Lavorazione del sughero.](#Specie 7 - Lavorazione del sughero.)
 
-### [Specie 8 - Industrie per la produzione di compensati, pannelli di legno laminati e pannelli di legno non sfibrati, compresi quelli misti con altre sostanze.](#Specie 8 - Industrie per la produzione di compensati, pannelli di legno laminati e pannelli di legno non sfibrati, compresi quelli misti con altre sostanze.)
+#### [Specie 8 - Industrie per la produzione di compensati, pannelli di legno laminati e pannelli di legno non sfibrati, compresi quelli misti con altre sostanze.](#Specie 8 - Industrie per la produzione di compensati, pannelli di legno laminati e pannelli di legno non sfibrati, compresi quelli misti con altre sostanze.)
 
-### Specie 1 - Prima lavorazione del legno (segherie).
+#### Specie 1 - Prima lavorazione del legno (segherie).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -746,17 +746,17 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Laboratori di falegnameria, di carpenteria in legno. Fabbricazione di oggetti e di recipienti in legno (Vedi specie 1).
+#### Specie 2 - Laboratori di falegnameria, di carpenteria in legno. Fabbricazione di oggetti e di recipienti in legno (Vedi specie 1).
 
-### Specie 3 - Costruzione e riparazione di veicoli in legno (Vedi specie 1).
+#### Specie 3 - Costruzione e riparazione di veicoli in legno (Vedi specie 1).
 
-### Specie 4- Cantieri navali per costruzioni, riparazioni e demolizioni di navi in legno (Vedi specie 1).
+#### Specie 4- Cantieri navali per costruzioni, riparazioni e demolizioni di navi in legno (Vedi specie 1).
 
-### Specie 5 - Fabbricazione di mobili e di arredamenti in legno, ebanisterie. Lucidatura, laccatura, doratura di mobili e di altri oggetti in legno (Vedi specie 1).
+#### Specie 5 - Fabbricazione di mobili e di arredamenti in legno, ebanisterie. Lucidatura, laccatura, doratura di mobili e di altri oggetti in legno (Vedi specie 1).
 
-### Specie 6 - Preparazione del crine vegetale, della trebbia, del truciolo e tracce di truciolo (non per cappelli) e simili. Lavorazione di canne palustri, vimini, giunchi, paglia e trecce di paglia (non per cappelli), sparto, saggina e simili. Fabbricazione di scope e affini (Vedi specie 1).
+#### Specie 6 - Preparazione del crine vegetale, della trebbia, del truciolo e tracce di truciolo (non per cappelli) e simili. Lavorazione di canne palustri, vimini, giunchi, paglia e trecce di paglia (non per cappelli), sparto, saggina e simili. Fabbricazione di scope e affini (Vedi specie 1).
 
-### Specie 7 - Lavorazione del sughero.
+#### Specie 7 - Lavorazione del sughero.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -770,7 +770,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 8 - Industrie per la produzione di compensati, pannelli di legno laminati e pannelli di legno non sfibrati, compresi quelli misti con altre sostanze.
+#### Specie 8 - Industrie per la produzione di compensati, pannelli di legno laminati e pannelli di legno non sfibrati, compresi quelli misti con altre sostanze.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -785,7 +785,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 9 - Industrie per la produzione di pannelli di legno sfibrato e affini (masonite e faesite).
+#### Specie 9 - Industrie per la produzione di pannelli di legno sfibrato e affini (masonite e faesite).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -800,75 +800,75 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-## Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE
+#### Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE
 
-### [Specie 1/a - Siderurgia in genere.](#Specie 1/a - Siderurgia in genere.)
+#### [Specie 1/a - Siderurgia in genere.](#Specie 1/a - Siderurgia in genere.)
 
-### [Specie 1/b - Metallurgia dei metalli non ferrosi (piombo, alluminio, zinco, rame, loro derivati, ecc.).](#Specie 1/b - Metallurgia dei metalli non ferrosi (piombo, alluminio, zinco, rame, loro derivati, ecc.).)
+#### [Specie 1/b - Metallurgia dei metalli non ferrosi (piombo, alluminio, zinco, rame, loro derivati, ecc.).](#Specie 1/b - Metallurgia dei metalli non ferrosi (piombo, alluminio, zinco, rame, loro derivati, ecc.).)
 
-### [Specie 1/c - Fonderie di 2° fusione.](#Specie 1/c - Fonderie di 2° fusione.)
+#### [Specie 1/c - Fonderie di 2° fusione.](#Specie 1/c - Fonderie di 2° fusione.)
 
-### [Specie 1/d - Industria metallurgica del magnesio.](#Specie 1/d - Industria metallurgica del magnesio.)
+#### [Specie 1/d - Industria metallurgica del magnesio.](#Specie 1/d - Industria metallurgica del magnesio.)
 
-### [Specie 2 - Fabbriche di macchine industriali ed agricole e di utensileria per macchine utensili.](#Specie 2 - Fabbriche di macchine industriali ed agricole e di utensileria per macchine utensili.)
+#### [Specie 2 - Fabbriche di macchine industriali ed agricole e di utensileria per macchine utensili.](#Specie 2 - Fabbriche di macchine industriali ed agricole e di utensileria per macchine utensili.)
 
-### [Specie 3 - Costruzione di pompe, compressori, ventilatori industriali, fucine, rubinetteria, valvole a aracinesca, apparecchi ad aria compressa ed affini (Vedi specie 2).](#Specie 3 - Costruzione di pompe, compressori, ventilatori industriali, fucine, rubinetteria, valvole a aracinesca, apparecchi ad aria compressa ed affini (Vedi specie 2).)
+#### [Specie 3 - Costruzione di pompe, compressori, ventilatori industriali, fucine, rubinetteria, valvole a aracinesca, apparecchi ad aria compressa ed affini (Vedi specie 2).](#Specie 3 - Costruzione di pompe, compressori, ventilatori industriali, fucine, rubinetteria, valvole a aracinesca, apparecchi ad aria compressa ed affini (Vedi specie 2).)
 
-### [Specie 4 - Costruzione di mobili, letti ed arredi metallici, casseforti, armadi e serrature di sicurezza (Vedi specie 2).](#Specie 4 - Costruzione di mobili, letti ed arredi metallici, casseforti, armadi e serrature di sicurezza (Vedi specie 2).)
+#### [Specie 4 - Costruzione di mobili, letti ed arredi metallici, casseforti, armadi e serrature di sicurezza (Vedi specie 2).](#Specie 4 - Costruzione di mobili, letti ed arredi metallici, casseforti, armadi e serrature di sicurezza (Vedi specie 2).)
 
-### [Specie 5 - Costruzione di apparecchi igienico-sanitari e termici per uso domestico (Vedi specie 2).](#Specie 5 - Costruzione di apparecchi igienico-sanitari e termici per uso domestico (Vedi specie 2).)
+#### [Specie 5 - Costruzione di apparecchi igienico-sanitari e termici per uso domestico (Vedi specie 2).](#Specie 5 - Costruzione di apparecchi igienico-sanitari e termici per uso domestico (Vedi specie 2).)
 
-### [Specie 6 - Fabbricazione di serrature comuni e di minuterie metalliche, di molle, di bulloneria grezza, di bulloneria e viteria lavorata e di derivati dalla lavorazione del filo.](#Specie 6 - Fabbricazione di serrature comuni e di minuterie metalliche, di molle, di bulloneria grezza, di bulloneria e viteria lavorata e di derivati dalla lavorazione del filo.)
+#### [Specie 6 - Fabbricazione di serrature comuni e di minuterie metalliche, di molle, di bulloneria grezza, di bulloneria e viteria lavorata e di derivati dalla lavorazione del filo.](#Specie 6 - Fabbricazione di serrature comuni e di minuterie metalliche, di molle, di bulloneria grezza, di bulloneria e viteria lavorata e di derivati dalla lavorazione del filo.)
 
-### [Specie 7 - Fabbricazione di scatolame, fustame metallico e prodotti affini di lamiera sottile (Vedi specie 2).](#Specie 7 - Fabbricazione di scatolame, fustame metallico e prodotti affini di lamiera sottile (Vedi specie 2).)
+#### [Specie 7 - Fabbricazione di scatolame, fustame metallico e prodotti affini di lamiera sottile (Vedi specie 2).](#Specie 7 - Fabbricazione di scatolame, fustame metallico e prodotti affini di lamiera sottile (Vedi specie 2).)
 
-### [Specie 8 - Fabbricazione di stoviglie, vasellame, posateria, attrezzi da cucina e di accessori casalinghi (Vedi specie 2).](#Specie 8 - Fabbricazione di stoviglie, vasellame, posateria, attrezzi da cucina e di accessori casalinghi (Vedi specie 2).)
+#### [Specie 8 - Fabbricazione di stoviglie, vasellame, posateria, attrezzi da cucina e di accessori casalinghi (Vedi specie 2).](#Specie 8 - Fabbricazione di stoviglie, vasellame, posateria, attrezzi da cucina e di accessori casalinghi (Vedi specie 2).)
 
-### [Specie 9 - Fabbricazione di coltelleria, armi bianche ed attrezzi per arti e mestieri (Vedi specie 2).](#Specie 9 - Fabbricazione di coltelleria, armi bianche ed attrezzi per arti e mestieri (Vedi specie 2).)
+#### [Specie 9 - Fabbricazione di coltelleria, armi bianche ed attrezzi per arti e mestieri (Vedi specie 2).](#Specie 9 - Fabbricazione di coltelleria, armi bianche ed attrezzi per arti e mestieri (Vedi specie 2).)
 
-### [Specie 10 - Fabbricazione di strumenti ed apparecchi per chirurgia, medicina, odontotecnica e di apparecchi ortopedici (Vedi specie 2).](#Specie 10 - Fabbricazione di strumenti ed apparecchi per chirurgia, medicina, odontotecnica e di apparecchi ortopedici (Vedi specie 2).)
+#### [Specie 10 - Fabbricazione di strumenti ed apparecchi per chirurgia, medicina, odontotecnica e di apparecchi ortopedici (Vedi specie 2).](#Specie 10 - Fabbricazione di strumenti ed apparecchi per chirurgia, medicina, odontotecnica e di apparecchi ortopedici (Vedi specie 2).)
 
-### [Specie 11 - Fabbricazione di armi da fuoco e di materiale bellico in genere (Vedi specie 2).](#Specie 11 - Fabbricazione di armi da fuoco e di materiale bellico in genere (Vedi specie 2).)
+#### [Specie 11 - Fabbricazione di armi da fuoco e di materiale bellico in genere (Vedi specie 2).](#Specie 11 - Fabbricazione di armi da fuoco e di materiale bellico in genere (Vedi specie 2).)
 
-### [Specie 12 - Fabbricazione di bilance, macchine per scrivere addizionatrici, calcolatrici ed affini, orologeria, apparecchi per misurazione, strumenti ed installazioni per il controllo del volo e degli impianti propulsori ed installazioni varie di bordo degli aerei (9).](#Specie 12 - Fabbricazione di bilance, macchine per scrivere addizionatrici, calcolatrici ed affini, orologeria, apparecchi per misurazione, strumenti ed installazioni per il controllo del volo e degli impianti propulsori ed installazioni varie di bordo degli aerei (9).)
+#### [Specie 12 - Fabbricazione di bilance, macchine per scrivere addizionatrici, calcolatrici ed affini, orologeria, apparecchi per misurazione, strumenti ed installazioni per il controllo del volo e degli impianti propulsori ed installazioni varie di bordo degli aerei (9).](#Specie 12 - Fabbricazione di bilance, macchine per scrivere addizionatrici, calcolatrici ed affini, orologeria, apparecchi per misurazione, strumenti ed installazioni per il controllo del volo e degli impianti propulsori ed installazioni varie di bordo degli aerei (9).)
 
-### [Specie 13 - Fabbricazione di giocattoli di metallo.](#Specie 13 - Fabbricazione di giocattoli di metallo.)
+#### [Specie 13 - Fabbricazione di giocattoli di metallo.](#Specie 13 - Fabbricazione di giocattoli di metallo.)
 
-### [Specie 14 - Fabbricazione di medaglie, argenterie, oreficerie, gioiellerie ed affini (Vedi specie 13).](#Specie 14 - Fabbricazione di medaglie, argenterie, oreficerie, gioiellerie ed affini (Vedi specie 13).)
+#### [Specie 14 - Fabbricazione di medaglie, argenterie, oreficerie, gioiellerie ed affini (Vedi specie 13).](#Specie 14 - Fabbricazione di medaglie, argenterie, oreficerie, gioiellerie ed affini (Vedi specie 13).)
 
-### [Specie 15 - Costruzione e montatura di biciclette e fabbricazione di parti, di ricambi e di accessori (Vedi specie 13).](#Specie 15 - Costruzione e montatura di biciclette e fabbricazione di parti, di ricambi e di accessori (Vedi specie 13). ) 
+#### [Specie 15 - Costruzione e montatura di biciclette e fabbricazione di parti, di ricambi e di accessori (Vedi specie 13).](#Specie 15 - Costruzione e montatura di biciclette e fabbricazione di parti, di ricambi e di accessori (Vedi specie 13). ) 
 
-### [Specie 16/a - Costruzione e montatura di motoveicoli e fabbricazione di parti di motoveicoli e di accessori.](#Specie 16/a - Costruzione e montatura di motoveicoli e fabbricazione di parti di motoveicoli e di accessori.)
+#### [Specie 16/a - Costruzione e montatura di motoveicoli e fabbricazione di parti di motoveicoli e di accessori.](#Specie 16/a - Costruzione e montatura di motoveicoli e fabbricazione di parti di motoveicoli e di accessori.)
 
-### [Specie 16/b - Costruzione e montaggio motori per aviazione (Vedi specie 16/a).](#Specie 16/b - Costruzione e montaggio motori per aviazione (Vedi specie 16/a).)
+#### [Specie 16/b - Costruzione e montaggio motori per aviazione (Vedi specie 16/a).](#Specie 16/b - Costruzione e montaggio motori per aviazione (Vedi specie 16/a).)
 
-### [Specie 17 - Costruzione di autoveicoli ed autotelai, e fabbricazione di parti di ricambio e di accessori (Vedi specie 16/a).](#Specie 17 - Costruzione di autoveicoli ed autotelai, e fabbricazione di parti di ricambio e di accessori (Vedi specie 16/a).)
+#### [Specie 17 - Costruzione di autoveicoli ed autotelai, e fabbricazione di parti di ricambio e di accessori (Vedi specie 16/a).](#Specie 17 - Costruzione di autoveicoli ed autotelai, e fabbricazione di parti di ricambio e di accessori (Vedi specie 16/a).)
 
-### [Specie 18 - Costruzione di carrozzerie per auto, per motoveicoli e per vetture ferrotramviarie e filoviarie, costruzione di rimorchi e fabbricazione di parti ed accessori.](#Specie 18 - Costruzione di carrozzerie per auto, per motoveicoli e per vetture ferrotramviarie e filoviarie, costruzione di rimorchi e fabbricazione di parti ed accessori.)
+#### [Specie 18 - Costruzione di carrozzerie per auto, per motoveicoli e per vetture ferrotramviarie e filoviarie, costruzione di rimorchi e fabbricazione di parti ed accessori.](#Specie 18 - Costruzione di carrozzerie per auto, per motoveicoli e per vetture ferrotramviarie e filoviarie, costruzione di rimorchi e fabbricazione di parti ed accessori.)
 
-### [Specie 19 - Costruzioni di materiale rotabile ferroviario e filoviario (Vedi specie 16/a).](#Specie 19 - Costruzioni di materiale rotabile ferroviario e filoviario (Vedi specie 16/a).)
+#### [Specie 19 - Costruzioni di materiale rotabile ferroviario e filoviario (Vedi specie 16/a).](#Specie 19 - Costruzioni di materiale rotabile ferroviario e filoviario (Vedi specie 16/a).)
 
-### [Specie 20 - Costruzione e riparazione di aeromobili (Vedi specie 16/a).](#Specie 20 - Costruzione e riparazione di aeromobili (Vedi specie 16/a).)
+#### [Specie 20 - Costruzione e riparazione di aeromobili (Vedi specie 16/a).](#Specie 20 - Costruzione e riparazione di aeromobili (Vedi specie 16/a).)
 
-### [Specie 21 - Cantieri navali per costruzioni, riparazioni e demolizioni di navi in metallo. Imprese di recupero navi (Vedi specie 18).](#Specie 21 - Cantieri navali per costruzioni, riparazioni e demolizioni di navi in metallo. Imprese di recupero navi (Vedi specie 18).)
+#### [Specie 21 - Cantieri navali per costruzioni, riparazioni e demolizioni di navi in metallo. Imprese di recupero navi (Vedi specie 18).](#Specie 21 - Cantieri navali per costruzioni, riparazioni e demolizioni di navi in metallo. Imprese di recupero navi (Vedi specie 18).)
 
-### [Specie 22 - Costruzione di macchine, apparecchi e strumenti elettrici, di apparecchi di telecomunicazione in genere, di elettronica specializzata ed affini.](#Specie 22 - Costruzione di macchine, apparecchi e strumenti elettrici, di apparecchi di telecomunicazione in genere, di elettronica specializzata ed affini.)
+#### [Specie 22 - Costruzione di macchine, apparecchi e strumenti elettrici, di apparecchi di telecomunicazione in genere, di elettronica specializzata ed affini.](#Specie 22 - Costruzione di macchine, apparecchi e strumenti elettrici, di apparecchi di telecomunicazione in genere, di elettronica specializzata ed affini.)
 
-### [Specie 23 - Officine per fucinatura, stampatura, imbutitura, saldatura (elettrica, alluminotermica ed ossiacetilenica), taglio (con fiamma ossidrica ed ossiacetilenica), tempera, cementazione e trattamenti superficiali ed elettrogalvanici dei metalli.](#Specie 23 - Officine per fucinatura, stampatura, imbutitura, saldatura (elettrica, alluminotermica ed ossiacetilenica), taglio (con fiamma ossidrica ed ossiacetilenica), tempera, cementazione e trattamenti superficiali ed elettrogalvanici dei metalli.)
+#### [Specie 23 - Officine per fucinatura, stampatura, imbutitura, saldatura (elettrica, alluminotermica ed ossiacetilenica), taglio (con fiamma ossidrica ed ossiacetilenica), tempera, cementazione e trattamenti superficiali ed elettrogalvanici dei metalli.](#Specie 23 - Officine per fucinatura, stampatura, imbutitura, saldatura (elettrica, alluminotermica ed ossiacetilenica), taglio (con fiamma ossidrica ed ossiacetilenica), tempera, cementazione e trattamenti superficiali ed elettrogalvanici dei metalli.)
 
-### [Specie 24 - Officine da ramaio, lattoniere, stagnino, fabbro ferraio, maniscalco ed arrotino compresi gli ambulanti (Vedi specie 13).](#Specie 24 - Officine da ramaio, lattoniere, stagnino, fabbro ferraio, maniscalco ed arrotino compresi gli ambulanti (Vedi specie 13).)
+#### [Specie 24 - Officine da ramaio, lattoniere, stagnino, fabbro ferraio, maniscalco ed arrotino compresi gli ambulanti (Vedi specie 13).](#Specie 24 - Officine da ramaio, lattoniere, stagnino, fabbro ferraio, maniscalco ed arrotino compresi gli ambulanti (Vedi specie 13).)
 
-### [Specie 25 - Officine meccaniche per la riparazione di auto, motoveicoli e biciclette, e per riparazioni meccaniche generiche e specializzate.](#Specie 25 - Officine meccaniche per la riparazione di auto, motoveicoli e biciclette, e per riparazioni meccaniche generiche e specializzate.)
+#### [Specie 25 - Officine meccaniche per la riparazione di auto, motoveicoli e biciclette, e per riparazioni meccaniche generiche e specializzate.](#Specie 25 - Officine meccaniche per la riparazione di auto, motoveicoli e biciclette, e per riparazioni meccaniche generiche e specializzate.)
 
-### [Specie 26 - Officine per l'installazione e riparazione di impianti, macchinari ed apparecchi elettrici, radiofonici ed affini (Vedi specie 25).](#Specie 26 - Officine per l'installazione e riparazione di impianti, macchinari ed apparecchi elettrici, radiofonici ed affini (Vedi specie 25).)
+#### [Specie 26 - Officine per l'installazione e riparazione di impianti, macchinari ed apparecchi elettrici, radiofonici ed affini (Vedi specie 25).](#Specie 26 - Officine per l'installazione e riparazione di impianti, macchinari ed apparecchi elettrici, radiofonici ed affini (Vedi specie 25).)
 
-### [Specie 27 - Imprese specializzate, non costruttrici, per l'installazione di impianti termici, di ventilazione, di condizionamento d'aria, idrico-sanitari, elettrici, telefonici interni ed affini (Vedi specie 25).](#Specie 27 - Imprese specializzate, non costruttrici, per l'installazione di impianti termici, di ventilazione, di condizionamento d'aria, idrico-sanitari, elettrici, telefonici interni ed affini (Vedi specie 25).)
+#### [Specie 27 - Imprese specializzate, non costruttrici, per l'installazione di impianti termici, di ventilazione, di condizionamento d'aria, idrico-sanitari, elettrici, telefonici interni ed affini (Vedi specie 25).](#Specie 27 - Imprese specializzate, non costruttrici, per l'installazione di impianti termici, di ventilazione, di condizionamento d'aria, idrico-sanitari, elettrici, telefonici interni ed affini (Vedi specie 25).)
 
-### [Specie 28 - Lavorazione artistica dei metalli non preziosi (Vedi specie 25).](#Specie 28 - Lavorazione artistica dei metalli non preziosi (Vedi specie 25).)
+#### [Specie 28 - Lavorazione artistica dei metalli non preziosi (Vedi specie 25).](#Specie 28 - Lavorazione artistica dei metalli non preziosi (Vedi specie 25).)
 
-### [Specie 29 - Fabbricazione e riparazione di strumenti ed apparecchi musicali (Vedi specie 25).](#Specie 29 - Fabbricazione e riparazione di strumenti ed apparecchi musicali (Vedi specie 25).)
+#### [Specie 29 - Fabbricazione e riparazione di strumenti ed apparecchi musicali (Vedi specie 25).](#Specie 29 - Fabbricazione e riparazione di strumenti ed apparecchi musicali (Vedi specie 25).)
 
-### Specie 1/a - Siderurgia in genere.
+#### Specie 1/a - Siderurgia in genere.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -885,7 +885,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 1/b - Metallurgia dei metalli non ferrosi (piombo, alluminio, zinco, rame, loro derivati, ecc.).
+#### Specie 1/b - Metallurgia dei metalli non ferrosi (piombo, alluminio, zinco, rame, loro derivati, ecc.).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -902,7 +902,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 1/c - Fonderie di 2° fusione.
+#### Specie 1/c - Fonderie di 2° fusione.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -918,7 +918,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 1/d - Industria metallurgica del magnesio.
+#### Specie 1/d - Industria metallurgica del magnesio.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -934,7 +934,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Fabbriche di macchine industriali ed agricole e di utensileria per macchine utensili.
+#### Specie 2 - Fabbriche di macchine industriali ed agricole e di utensileria per macchine utensili.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -950,13 +950,13 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 3 - Costruzione di pompe, compressori, ventilatori industriali, fucine, rubinetteria, valvole a aracinesca, apparecchi ad aria compressa ed affini (Vedi specie 2).
+#### Specie 3 - Costruzione di pompe, compressori, ventilatori industriali, fucine, rubinetteria, valvole a aracinesca, apparecchi ad aria compressa ed affini (Vedi specie 2).
 
-### Specie 4 - Costruzione di mobili, letti ed arredi metallici, casseforti, armadi e serrature di sicurezza (Vedi specie 2).
+#### Specie 4 - Costruzione di mobili, letti ed arredi metallici, casseforti, armadi e serrature di sicurezza (Vedi specie 2).
 
-### Specie 5 - Costruzione di apparecchi igienico-sanitari e termici per uso domestico (Vedi specie 2).
+#### Specie 5 - Costruzione di apparecchi igienico-sanitari e termici per uso domestico (Vedi specie 2).
 
-### Specie 6 - Fabbricazione di serrature comuni e di minuterie metalliche, di molle, di bulloneria grezza, di bulloneria e viteria lavorata e di derivati dalla lavorazione del filo.
+#### Specie 6 - Fabbricazione di serrature comuni e di minuterie metalliche, di molle, di bulloneria grezza, di bulloneria e viteria lavorata e di derivati dalla lavorazione del filo.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -972,17 +972,17 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 7 - Fabbricazione di scatolame, fustame metallico e prodotti affini di lamiera sottile (Vedi specie 2).
+#### Specie 7 - Fabbricazione di scatolame, fustame metallico e prodotti affini di lamiera sottile (Vedi specie 2).
 
-### Specie 8 - Fabbricazione di stoviglie, vasellame, posateria, attrezzi da cucina e di accessori casalinghi (Vedi specie 2).
+#### Specie 8 - Fabbricazione di stoviglie, vasellame, posateria, attrezzi da cucina e di accessori casalinghi (Vedi specie 2).
 
-### Specie 9 - Fabbricazione di coltelleria, armi bianche ed attrezzi per arti e mestieri (Vedi specie 2).
+#### Specie 9 - Fabbricazione di coltelleria, armi bianche ed attrezzi per arti e mestieri (Vedi specie 2).
 
-### Specie 10 - Fabbricazione di strumenti ed apparecchi per chirurgia, medicina, odontotecnica e di apparecchi ortopedici (Vedi specie 2).
+#### Specie 10 - Fabbricazione di strumenti ed apparecchi per chirurgia, medicina, odontotecnica e di apparecchi ortopedici (Vedi specie 2).
 
-### Specie 11 - Fabbricazione di armi da fuoco e di materiale bellico in genere (Vedi specie 2).
+#### Specie 11 - Fabbricazione di armi da fuoco e di materiale bellico in genere (Vedi specie 2).
 
-### Specie 12 - Fabbricazione di bilance, macchine per scrivere addizionatrici, calcolatrici ed affini, orologeria, apparecchi per misurazione, strumenti ed installazioni per il controllo del volo e degli impianti propulsori ed installazioni varie di bordo degli aerei (9).
+#### Specie 12 - Fabbricazione di bilance, macchine per scrivere addizionatrici, calcolatrici ed affini, orologeria, apparecchi per misurazione, strumenti ed installazioni per il controllo del volo e degli impianti propulsori ed installazioni varie di bordo degli aerei (9).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -998,7 +998,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 13 - Fabbricazione di giocattoli di metallo.
+#### Specie 13 - Fabbricazione di giocattoli di metallo.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1012,11 +1012,11 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 14 - Fabbricazione di medaglie, argenterie, oreficerie, gioiellerie ed affini (Vedi specie 13).
+#### Specie 14 - Fabbricazione di medaglie, argenterie, oreficerie, gioiellerie ed affini (Vedi specie 13).
 
-### Specie 15 - Costruzione e montatura di biciclette e fabbricazione di parti, di ricambi e di accessori (Vedi specie 13).  
+#### Specie 15 - Costruzione e montatura di biciclette e fabbricazione di parti, di ricambi e di accessori (Vedi specie 13).  
 
-### Specie 16/a - Costruzione e montatura di motoveicoli e fabbricazione di parti di motoveicoli e di accessori.
+#### Specie 16/a - Costruzione e montatura di motoveicoli e fabbricazione di parti di motoveicoli e di accessori.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1036,11 +1036,11 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 16/b - Costruzione e montaggio motori per aviazione (Vedi specie 16/a).
+#### Specie 16/b - Costruzione e montaggio motori per aviazione (Vedi specie 16/a).
 
-### Specie 17 - Costruzione di autoveicoli ed autotelai, e fabbricazione di parti di ricambio e di accessori (Vedi specie 16/a).
+#### Specie 17 - Costruzione di autoveicoli ed autotelai, e fabbricazione di parti di ricambio e di accessori (Vedi specie 16/a).
 
-### Specie 18 - Costruzione di carrozzerie per auto, per motoveicoli e per vetture ferrotramviarie e filoviarie, costruzione di rimorchi e fabbricazione di parti ed accessori.
+#### Specie 18 - Costruzione di carrozzerie per auto, per motoveicoli e per vetture ferrotramviarie e filoviarie, costruzione di rimorchi e fabbricazione di parti ed accessori.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1057,13 +1057,13 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 19 - Costruzioni di materiale rotabile ferroviario e filoviario (Vedi specie 16/a).
+#### Specie 19 - Costruzioni di materiale rotabile ferroviario e filoviario (Vedi specie 16/a).
 
-### Specie 20 - Costruzione e riparazione di aeromobili (Vedi specie 16/a).
+#### Specie 20 - Costruzione e riparazione di aeromobili (Vedi specie 16/a).
 
-### Specie 21 - Cantieri navali per costruzioni, riparazioni e demolizioni di navi in metallo. Imprese di recupero navi (Vedi specie 18).
+#### Specie 21 - Cantieri navali per costruzioni, riparazioni e demolizioni di navi in metallo. Imprese di recupero navi (Vedi specie 18).
 
-### Specie 22 - Costruzione di macchine, apparecchi e strumenti elettrici, di apparecchi di telecomunicazione in genere, di elettronica specializzata ed affini.
+#### Specie 22 - Costruzione di macchine, apparecchi e strumenti elettrici, di apparecchi di telecomunicazione in genere, di elettronica specializzata ed affini.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1080,7 +1080,7 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 23 - Officine per fucinatura, stampatura, imbutitura, saldatura (elettrica, alluminotermica ed ossiacetilenica), taglio (con fiamma ossidrica ed ossiacetilenica), tempera, cementazione e trattamenti superficiali ed elettrogalvanici dei metalli.
+#### Specie 23 - Officine per fucinatura, stampatura, imbutitura, saldatura (elettrica, alluminotermica ed ossiacetilenica), taglio (con fiamma ossidrica ed ossiacetilenica), tempera, cementazione e trattamenti superficiali ed elettrogalvanici dei metalli.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1094,9 +1094,9 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 24 - Officine da ramaio, lattoniere, stagnino, fabbro ferraio, maniscalco ed arrotino compresi gli ambulanti (Vedi specie 13).
+#### Specie 24 - Officine da ramaio, lattoniere, stagnino, fabbro ferraio, maniscalco ed arrotino compresi gli ambulanti (Vedi specie 13).
 
-### Specie 25 - Officine meccaniche per la riparazione di auto, motoveicoli e biciclette, e per riparazioni meccaniche generiche e specializzate.
+#### Specie 25 - Officine meccaniche per la riparazione di auto, motoveicoli e biciclette, e per riparazioni meccaniche generiche e specializzate.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1110,13 +1110,13 @@ riportate distintamente in apposito prospetto allegato alla dichiarazione dei re
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 26 - Officine per l'installazione e riparazione di impianti, macchinari ed apparecchi elettrici, radiofonici ed affini (Vedi specie 25).
+#### Specie 26 - Officine per l'installazione e riparazione di impianti, macchinari ed apparecchi elettrici, radiofonici ed affini (Vedi specie 25).
 
-### Specie 27 - Imprese specializzate, non costruttrici, per l'installazione di impianti termici, di ventilazione, di condizionamento d'aria, idrico-sanitari, elettrici, telefonici interni ed affini (Vedi specie 25).
+#### Specie 27 - Imprese specializzate, non costruttrici, per l'installazione di impianti termici, di ventilazione, di condizionamento d'aria, idrico-sanitari, elettrici, telefonici interni ed affini (Vedi specie 25).
 
-### Specie 28 - Lavorazione artistica dei metalli non preziosi (Vedi specie 25).
+#### Specie 28 - Lavorazione artistica dei metalli non preziosi (Vedi specie 25).
 
-### Specie 29 - Fabbricazione e riparazione di strumenti ed apparecchi musicali (Vedi specie 25).
+#### Specie 29 - Fabbricazione e riparazione di strumenti ed apparecchi musicali (Vedi specie 25).
 
 (8) Il D.M. 13 ottobre 1994 (Gazz. Uff. 12 novembre 1994, n. 265) ha così disposto:
 «Art. 1. A decorrere dal periodo di imposta in corso alla data di pubblicazione nella Gazzetta
@@ -1128,31 +1128,31 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 (9) Così modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 (10) Aggiunta dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 
-## Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI
+#### Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI
 
-### [Specie 1 - Macinazione e lavaggio di minerali non metalliferi, lavorazione del marmo e della pietra da costruzione e per uso industriale.](#Specie 1 - Macinazione e lavaggio di minerali non metalliferi, lavorazione del marmo e della pietra da costruzione e per uso industriale.)
+#### [Specie 1 - Macinazione e lavaggio di minerali non metalliferi, lavorazione del marmo e della pietra da costruzione e per uso industriale.](#Specie 1 - Macinazione e lavaggio di minerali non metalliferi, lavorazione del marmo e della pietra da costruzione e per uso industriale.)
 
-### [Specie 2 - Lavorazione di pietre dure e preziose per gioiellerie e per uso industriale.](#Specie 2 - Lavorazione di pietre dure e preziose per gioiellerie e per uso industriale.)
+#### [Specie 2 - Lavorazione di pietre dure e preziose per gioiellerie e per uso industriale.](#Specie 2 - Lavorazione di pietre dure e preziose per gioiellerie e per uso industriale.)
 
-### [Specie 3 - Lavorazione artistica dei marmi e delle pietre.](#Specie 3 - Lavorazione artistica dei marmi e delle pietre.)
+#### [Specie 3 - Lavorazione artistica dei marmi e delle pietre.](#Specie 3 - Lavorazione artistica dei marmi e delle pietre.)
 
-### [Specie 4/a - Fabbricazione di calce e gesso.](#Specie 4/a - Fabbricazione di calce e gesso.)
+#### [Specie 4/a - Fabbricazione di calce e gesso.](#Specie 4/a - Fabbricazione di calce e gesso.)
 
-### [Specie 4/b - Fabbricazione di cemento.](#Specie 4/b - Fabbricazione di cemento.)
+#### [Specie 4/b - Fabbricazione di cemento.](#Specie 4/b - Fabbricazione di cemento.)
 
-### [Specie 5/a - Fabbricazione di laterizi.](#Specie 5/a - Fabbricazione di laterizi.)
+#### [Specie 5/a - Fabbricazione di laterizi.](#Specie 5/a - Fabbricazione di laterizi.)
 
-### [Specie 5/b - Fabbricazione di oggetti in gres e materiali refrattari.](#Specie 5/b - Fabbricazione di oggetti in gres e materiali refrattari.)
+#### [Specie 5/b - Fabbricazione di oggetti in gres e materiali refrattari.](#Specie 5/b - Fabbricazione di oggetti in gres e materiali refrattari.)
 
-### [Specie 5/c - Fabbricazione di abrasivi granulari, rigidi e flessibili (Vedi specie 5/b).](#Specie 5/c - Fabbricazione di abrasivi granulari, rigidi e flessibili (Vedi specie 5/b).)
+#### [Specie 5/c - Fabbricazione di abrasivi granulari, rigidi e flessibili (Vedi specie 5/b).](#Specie 5/c - Fabbricazione di abrasivi granulari, rigidi e flessibili (Vedi specie 5/b).)
 
-### [Specie 6 - Industria della ceramica (Vedi specie 5/b).](#Specie 6 - Industria della ceramica (Vedi specie 5/b).)
+#### [Specie 6 - Industria della ceramica (Vedi specie 5/b).](#Specie 6 - Industria della ceramica (Vedi specie 5/b).)
 
-### [Specie 7 - Fabbricazione di manufatti di cemento, di conglomerati cementizi misti con misti con fibre e altre materie; di manufatti di gesso e stucco.](#Specie 7 - Fabbricazione di manufatti di cemento, di conglomerati cementizi misti con misti con fibre e altre materie; di manufatti di gesso e stucco.)
+#### [Specie 7 - Fabbricazione di manufatti di cemento, di conglomerati cementizi misti con misti con fibre e altre materie; di manufatti di gesso e stucco.](#Specie 7 - Fabbricazione di manufatti di cemento, di conglomerati cementizi misti con misti con fibre e altre materie; di manufatti di gesso e stucco.)
 
-### [Specie 8 - Fabbricazione e lavorazione del vetro (esclusa la lavorazione delle lenti per occhiali e per strumenti ottici).](#Specie 8 - Fabbricazione e lavorazione del vetro (esclusa la lavorazione delle lenti per occhiali e per strumenti ottici).)
+#### [Specie 8 - Fabbricazione e lavorazione del vetro (esclusa la lavorazione delle lenti per occhiali e per strumenti ottici).](#Specie 8 - Fabbricazione e lavorazione del vetro (esclusa la lavorazione delle lenti per occhiali e per strumenti ottici).)
 
-### Specie 1 - Macinazione e lavaggio di minerali non metalliferi, lavorazione del marmo e della pietra da costruzione e per uso industriale.
+#### Specie 1 - Macinazione e lavaggio di minerali non metalliferi, lavorazione del marmo e della pietra da costruzione e per uso industriale.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1166,7 +1166,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Lavorazione di pietre dure e preziose per gioiellerie e per uso industriale.
+#### Specie 2 - Lavorazione di pietre dure e preziose per gioiellerie e per uso industriale.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1180,7 +1180,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 3 - Lavorazione artistica dei marmi e delle pietre.
+#### Specie 3 - Lavorazione artistica dei marmi e delle pietre.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1194,7 +1194,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 4/a - Fabbricazione di calce e gesso.
+#### Specie 4/a - Fabbricazione di calce e gesso.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1210,7 +1210,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 4/b - Fabbricazione di cemento.
+#### Specie 4/b - Fabbricazione di cemento.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1226,7 +1226,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 5/a - Fabbricazione di laterizi.
+#### Specie 5/a - Fabbricazione di laterizi.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1242,7 +1242,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 5/b - Fabbricazione di oggetti in gres e materiali refrattari.
+#### Specie 5/b - Fabbricazione di oggetti in gres e materiali refrattari.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1258,11 +1258,11 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 5/c - Fabbricazione di abrasivi granulari, rigidi e flessibili (Vedi specie 5/b).
+#### Specie 5/c - Fabbricazione di abrasivi granulari, rigidi e flessibili (Vedi specie 5/b).
 
-### Specie 6 - Industria della ceramica (Vedi specie 5/b).
+#### Specie 6 - Industria della ceramica (Vedi specie 5/b).
 
-### Specie 7 - Fabbricazione di manufatti di cemento, di conglomerati cementizi misti con misti con fibre e altre materie; di manufatti di gesso e stucco.
+#### Specie 7 - Fabbricazione di manufatti di cemento, di conglomerati cementizi misti con misti con fibre e altre materie; di manufatti di gesso e stucco.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1277,7 +1277,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 8 - Fabbricazione e lavorazione del vetro (esclusa la lavorazione delle lenti per occhiali e per strumenti ottici).
+#### Specie 8 - Fabbricazione e lavorazione del vetro (esclusa la lavorazione delle lenti per occhiali e per strumenti ottici).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1293,45 +1293,45 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-## Tabella dei coefficienti di ammortamento - Gruppo IX INDUSTRIE MANIFATTURIERE CHIMICHE
+#### Tabella dei coefficienti di ammortamento - Gruppo IX INDUSTRIE MANIFATTURIERE CHIMICHE
 
-### [Specie 1/a - Produzione di acido solforico, cloro, soda elettrolitica e derivati ed altri prodotti chimici non compresi nelle altre specie.](#Specie 1/a - Produzione di acido solforico, cloro, soda elettrolitica e derivati ed altri prodotti chimici non compresi nelle altre specie.)
+#### [Specie 1/a - Produzione di acido solforico, cloro, soda elettrolitica e derivati ed altri prodotti chimici non compresi nelle altre specie.](#Specie 1/a - Produzione di acido solforico, cloro, soda elettrolitica e derivati ed altri prodotti chimici non compresi nelle altre specie.)
 
-### [Specie 1/b - Produzione di ammoniaca sintetica, acido nitrico, nitrato di calcio ed ammonico, solfato ammonico e urea.](#Specie 1/b - Produzione di ammoniaca sintetica, acido nitrico, nitrato di calcio ed ammonico, solfato ammonico e urea.)
+#### [Specie 1/b - Produzione di ammoniaca sintetica, acido nitrico, nitrato di calcio ed ammonico, solfato ammonico e urea.](#Specie 1/b - Produzione di ammoniaca sintetica, acido nitrico, nitrato di calcio ed ammonico, solfato ammonico e urea.)
 
-### [Specie 2 - Raffinerie di petrolio, produzione e distribuzione di benzina e petroli per usi vari, di oli lubrificanti e di oli lubrificanti e residuati, produzione e distribuzione di gas di petrolio liquefatto.](#Specie 2 - Raffinerie di petrolio, produzione e distribuzione di benzina e petroli per usi vari, di oli lubrificanti e di oli lubrificanti e residuati, produzione e distribuzione di gas di petrolio liquefatto.)
+#### [Specie 2 - Raffinerie di petrolio, produzione e distribuzione di benzina e petroli per usi vari, di oli lubrificanti e di oli lubrificanti e residuati, produzione e distribuzione di gas di petrolio liquefatto.](#Specie 2 - Raffinerie di petrolio, produzione e distribuzione di benzina e petroli per usi vari, di oli lubrificanti e di oli lubrificanti e residuati, produzione e distribuzione di gas di petrolio liquefatto.)
 
-### [Specie 3/a - Produzione di derivati della distillazione del carbon fossile, escluse le officine del gas (compresa la produzione e lavorazione dei derivati della distillazione del catrame di carbon fossile).](#Specie 3/a - Produzione di derivati della distillazione del carbon fossile, escluse le officine del gas (compresa la produzione e lavorazione dei derivati della distillazione del catrame di carbon fossile).)
+#### [Specie 3/a - Produzione di derivati della distillazione del carbon fossile, escluse le officine del gas (compresa la produzione e lavorazione dei derivati della distillazione del catrame di carbon fossile).](#Specie 3/a - Produzione di derivati della distillazione del carbon fossile, escluse le officine del gas (compresa la produzione e lavorazione dei derivati della distillazione del catrame di carbon fossile).)
 
-### [Specie 3/b - Produzione di elettrodi per forni elettrici per la fabbricazione dell'acciaio e anodi per l'elettrolisi dell'alluminio.](#Specie 3/b - Produzione di elettrodi per forni elettrici per la fabbricazione dell'acciaio e anodi per l'elettrolisi dell'alluminio.)
+#### [Specie 3/b - Produzione di elettrodi per forni elettrici per la fabbricazione dell'acciaio e anodi per l'elettrolisi dell'alluminio.](#Specie 3/b - Produzione di elettrodi per forni elettrici per la fabbricazione dell'acciaio e anodi per l'elettrolisi dell'alluminio.)
 
-### [Specie 4 - Produzione di carburanti artificiali liquidi, compresa la produzione di alcole etilico e metilico.](#Specie 4 - Produzione di carburanti artificiali liquidi, compresa la produzione di alcole etilico e metilico.)
+#### [Specie 4 - Produzione di carburanti artificiali liquidi, compresa la produzione di alcole etilico e metilico.](#Specie 4 - Produzione di carburanti artificiali liquidi, compresa la produzione di alcole etilico e metilico.)
 
-### [Specie 5 - Produzione di gas compressi.](#Specie 5 - Produzione di gas compressi.)
+#### [Specie 5 - Produzione di gas compressi.](#Specie 5 - Produzione di gas compressi.)
 
-### [Specie 6 - Produzione di esplosivi.](#Specie 6 - Produzione di esplosivi.)
+#### [Specie 6 - Produzione di esplosivi.](#Specie 6 - Produzione di esplosivi.)
 
-### [Specie 7 - Idrogenazione di olii e grassi vegetali ed animali, e lavorazione dei grassi.](#Specie 7 - Idrogenazione di olii e grassi vegetali ed animali, e lavorazione dei grassi.)
+#### [Specie 7 - Idrogenazione di olii e grassi vegetali ed animali, e lavorazione dei grassi.](#Specie 7 - Idrogenazione di olii e grassi vegetali ed animali, e lavorazione dei grassi.)
 
-### [Specie 8 - Produzione di saponi, glicerine, profumerie, essenze, aromi, derivati agrumari, candele ed affini (compresi i fiammiferi ed i detersivi sintetici).](#Specie 8 - Produzione di saponi, glicerine, profumerie, essenze, aromi, derivati agrumari, candele ed affini (compresi i fiammiferi ed i detersivi sintetici).)
+#### [Specie 8 - Produzione di saponi, glicerine, profumerie, essenze, aromi, derivati agrumari, candele ed affini (compresi i fiammiferi ed i detersivi sintetici).](#Specie 8 - Produzione di saponi, glicerine, profumerie, essenze, aromi, derivati agrumari, candele ed affini (compresi i fiammiferi ed i detersivi sintetici).)
 
-### [Specie 9 - Produzioni farmaceutiche, chimico-farmaceutiche ed affini.](#Specie 9 - Produzioni farmaceutiche, chimico-farmaceutiche ed affini.)
+#### [Specie 9 - Produzioni farmaceutiche, chimico-farmaceutiche ed affini.](#Specie 9 - Produzioni farmaceutiche, chimico-farmaceutiche ed affini.)
 
-### [Specie 10/a - Produzione di colori organici e sintetici e relativi prodotti (Vedi specie 1/b).](#Specie 10/a - Produzione di colori organici e sintetici e relativi prodotti (Vedi specie 1/b).)
+#### [Specie 10/a - Produzione di colori organici e sintetici e relativi prodotti (Vedi specie 1/b).](#Specie 10/a - Produzione di colori organici e sintetici e relativi prodotti (Vedi specie 1/b).)
 
-### [Specie 10/b - Produzione di estratti concianti, di vernici, pitture, inchiostri, destrine, colle, ceralacche ed affini (comprese matite ed affini).](#Specie 10/b - Produzione di estratti concianti, di vernici, pitture, inchiostri, destrine, colle, ceralacche ed affini (comprese matite ed affini).)
+#### [Specie 10/b - Produzione di estratti concianti, di vernici, pitture, inchiostri, destrine, colle, ceralacche ed affini (comprese matite ed affini).](#Specie 10/b - Produzione di estratti concianti, di vernici, pitture, inchiostri, destrine, colle, ceralacche ed affini (comprese matite ed affini).)
 
-### [Specie 11/a - Produzione di cellulosa (compresa quella per la carta).](#Specie 11/a - Produzione di cellulosa (compresa quella per la carta).)
+#### [Specie 11/a - Produzione di cellulosa (compresa quella per la carta).](#Specie 11/a - Produzione di cellulosa (compresa quella per la carta).)
 
-### [Specie 11/b - Produzione del trasparente di cellulosa, di fibre tessili artificiali e simili.](#Specie 11/b - Produzione del trasparente di cellulosa, di fibre tessili artificiali e simili.)
+#### [Specie 11/b - Produzione del trasparente di cellulosa, di fibre tessili artificiali e simili.](#Specie 11/b - Produzione del trasparente di cellulosa, di fibre tessili artificiali e simili.)
 
-### [Specie 12 - Produzione di materie plastiche e resine sintetiche. Produzione dell'industria petrolchimica non compresa nelle altre specie (Vedi specie 11/a).](#Specie 12 - Produzione di materie plastiche e resine sintetiche. Produzione dell'industria petrolchimica non compresa nelle altre specie (Vedi specie 11/a).)
+#### [Specie 12 - Produzione di materie plastiche e resine sintetiche. Produzione dell'industria petrolchimica non compresa nelle altre specie (Vedi specie 11/a).](#Specie 12 - Produzione di materie plastiche e resine sintetiche. Produzione dell'industria petrolchimica non compresa nelle altre specie (Vedi specie 11/a).)
 
-### [Specie 13 - Produzione di materiali sensibili per fotografia e cinematografia.](#Specie 13 - Produzione di materiali sensibili per fotografia e cinematografia.)
+#### [Specie 13 - Produzione di materiali sensibili per fotografia e cinematografia.](#Specie 13 - Produzione di materiali sensibili per fotografia e cinematografia.)
 
-### [Specie 14 - Raffinerie di zolfo.](#Specie 14 - Raffinerie di zolfo.)
+#### [Specie 14 - Raffinerie di zolfo.](#Specie 14 - Raffinerie di zolfo.)
 
-### Specie 1/a - Produzione di acido solforico, cloro, soda elettrolitica e derivati ed altri prodotti chimici non compresi nelle altre specie.
+#### Specie 1/a - Produzione di acido solforico, cloro, soda elettrolitica e derivati ed altri prodotti chimici non compresi nelle altre specie.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1347,7 +1347,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 1/b - Produzione di ammoniaca sintetica, acido nitrico, nitrato di calcio ed ammonico, solfato ammonico e urea.
+#### Specie 1/b - Produzione di ammoniaca sintetica, acido nitrico, nitrato di calcio ed ammonico, solfato ammonico e urea.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1363,7 +1363,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Raffinerie di petrolio, produzione e distribuzione di benzina e petroli per usi vari, di oli lubrificanti e di oli lubrificanti e residuati, produzione e distribuzione di gas di petrolio liquefatto.
+#### Specie 2 - Raffinerie di petrolio, produzione e distribuzione di benzina e petroli per usi vari, di oli lubrificanti e di oli lubrificanti e residuati, produzione e distribuzione di gas di petrolio liquefatto.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1381,7 +1381,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 3/a - Produzione di derivati della distillazione del carbon fossile, escluse le officine del gas (compresa la produzione e lavorazione dei derivati della distillazione del catrame di carbon fossile).
+#### Specie 3/a - Produzione di derivati della distillazione del carbon fossile, escluse le officine del gas (compresa la produzione e lavorazione dei derivati della distillazione del catrame di carbon fossile).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1397,7 +1397,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 3/b - Produzione di elettrodi per forni elettrici per la fabbricazione dell'acciaio e anodi per l'elettrolisi dell'alluminio.
+#### Specie 3/b - Produzione di elettrodi per forni elettrici per la fabbricazione dell'acciaio e anodi per l'elettrolisi dell'alluminio.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1413,7 +1413,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 4 - Produzione di carburanti artificiali liquidi, compresa la produzione di alcole etilico e metilico.
+#### Specie 4 - Produzione di carburanti artificiali liquidi, compresa la produzione di alcole etilico e metilico.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1429,7 +1429,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 5 - Produzione di gas compressi.
+#### Specie 5 - Produzione di gas compressi.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1445,7 +1445,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 6 - Produzione di esplosivi.
+#### Specie 6 - Produzione di esplosivi.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1461,7 +1461,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 7 - Idrogenazione di olii e grassi vegetali ed animali, e lavorazione dei grassi.
+#### Specie 7 - Idrogenazione di olii e grassi vegetali ed animali, e lavorazione dei grassi.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1476,7 +1476,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 8 - Produzione di saponi, glicerine, profumerie, essenze, aromi, derivati agrumari, candele ed affini (compresi i fiammiferi ed i detersivi sintetici).
+#### Specie 8 - Produzione di saponi, glicerine, profumerie, essenze, aromi, derivati agrumari, candele ed affini (compresi i fiammiferi ed i detersivi sintetici).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1492,7 +1492,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 9 - Produzioni farmaceutiche, chimico-farmaceutiche ed affini.
+#### Specie 9 - Produzioni farmaceutiche, chimico-farmaceutiche ed affini.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1508,9 +1508,9 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 10/a - Produzione di colori organici e sintetici e relativi prodotti (Vedi specie 1/b).
+#### Specie 10/a - Produzione di colori organici e sintetici e relativi prodotti (Vedi specie 1/b).
 
-### Specie 10/b - Produzione di estratti concianti, di vernici, pitture, inchiostri, destrine, colle, ceralacche ed affini (comprese matite ed affini).
+#### Specie 10/b - Produzione di estratti concianti, di vernici, pitture, inchiostri, destrine, colle, ceralacche ed affini (comprese matite ed affini).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1524,7 +1524,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 11/a - Produzione di cellulosa (compresa quella per la carta).
+#### Specie 11/a - Produzione di cellulosa (compresa quella per la carta).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1540,7 +1540,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 11/b - Produzione del trasparente di cellulosa, di fibre tessili artificiali e simili.
+#### Specie 11/b - Produzione del trasparente di cellulosa, di fibre tessili artificiali e simili.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1555,9 +1555,9 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 12 - Produzione di materie plastiche e resine sintetiche. Produzione dell'industria petrolchimica non compresa nelle altre specie (Vedi specie 11/a).
+#### Specie 12 - Produzione di materie plastiche e resine sintetiche. Produzione dell'industria petrolchimica non compresa nelle altre specie (Vedi specie 11/a).
 
-### Specie 13 - Produzione di materiali sensibili per fotografia e cinematografia.
+#### Specie 13 - Produzione di materiali sensibili per fotografia e cinematografia.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1572,7 +1572,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 14 - Raffinerie di zolfo.
+#### Specie 14 - Raffinerie di zolfo.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1587,13 +1587,13 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-## Tabella dei coefficienti di ammortamento - Gruppo X INDUSTRIE MANIFATTURIERE DELLA CARTA
+#### Tabella dei coefficienti di ammortamento - Gruppo X INDUSTRIE MANIFATTURIERE DELLA CARTA
 
-### [Specie 1/a - Fabbricazione e lavorazione di carta e cartone, compresa la fabbricazione di carte da parato e carte da gioco.](#Specie 1/a - Fabbricazione e lavorazione di carta e cartone, compresa la fabbricazione di carte da parato e carte da gioco.)
+#### [Specie 1/a - Fabbricazione e lavorazione di carta e cartone, compresa la fabbricazione di carte da parato e carte da gioco.](#Specie 1/a - Fabbricazione e lavorazione di carta e cartone, compresa la fabbricazione di carte da parato e carte da gioco.)
 
-### [Specie 1/b - Fabbricazione di manufatti di carta e cartone, compresa la produzione di imballaggi (cartotecnica) (Vedi specie 1/a).](#Specie 1/b - Fabbricazione di manufatti di carta e cartone, compresa la produzione di imballaggi (cartotecnica) (Vedi specie 1/a).)
+#### [Specie 1/b - Fabbricazione di manufatti di carta e cartone, compresa la produzione di imballaggi (cartotecnica) (Vedi specie 1/a).](#Specie 1/b - Fabbricazione di manufatti di carta e cartone, compresa la produzione di imballaggi (cartotecnica) (Vedi specie 1/a).)
 
-### Specie 1/a - Fabbricazione e lavorazione di carta e cartone, compresa la fabbricazione di carte da parato e carte da gioco.
+#### Specie 1/a - Fabbricazione e lavorazione di carta e cartone, compresa la fabbricazione di carte da parato e carte da gioco.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1609,17 +1609,17 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 1/b - Fabbricazione di manufatti di carta e cartone, compresa la produzione di imballaggi (cartotecnica) (Vedi specie 1/a).
+#### Specie 1/b - Fabbricazione di manufatti di carta e cartone, compresa la produzione di imballaggi (cartotecnica) (Vedi specie 1/a).
 
-## Tabella dei coefficienti di ammortamento - Gruppo XI INDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO
+#### Tabella dei coefficienti di ammortamento - Gruppo XI INDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO
 
-### [Specie 1 - Concia e tintura delle pelli. Produzione di succedanei e imitazioni del cuoio e pelli.](#Specie 1 - Concia e tintura delle pelli. Produzione di succedanei e imitazioni del cuoio e pelli.)
+#### [Specie 1 - Concia e tintura delle pelli. Produzione di succedanei e imitazioni del cuoio e pelli.](#Specie 1 - Concia e tintura delle pelli. Produzione di succedanei e imitazioni del cuoio e pelli.)
 
-### [Specie 2 - Fabbricazione di articoli in cuoio, pelle e loro succedanei esclusi guanti e calzature (Vedi specie 1).](#Specie 2 - Fabbricazione di articoli in cuoio, pelle e loro succedanei esclusi guanti e calzature (Vedi specie 1).)
+#### [Specie 2 - Fabbricazione di articoli in cuoio, pelle e loro succedanei esclusi guanti e calzature (Vedi specie 1).](#Specie 2 - Fabbricazione di articoli in cuoio, pelle e loro succedanei esclusi guanti e calzature (Vedi specie 1).)
 
 [Specie 2 - Fabbricazione di articoli in cuoio, pelle e loro succedanei esclusi guanti e calzature (Vedi specie 1).](#Specie 2 - Fabbricazione di articoli in cuoio, pelle e loro succedanei esclusi guanti e calzature (Vedi specie 1).)
 
-### Specie 1 - Concia e tintura delle pelli. Produzione di succedanei e imitazioni del cuoio e pelli.
+#### Specie 1 - Concia e tintura delle pelli. Produzione di succedanei e imitazioni del cuoio e pelli.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1633,41 +1633,41 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Fabbricazione di articoli in cuoio, pelle e loro succedanei esclusi guanti e calzature (Vedi specie 1).
+#### Specie 2 - Fabbricazione di articoli in cuoio, pelle e loro succedanei esclusi guanti e calzature (Vedi specie 1).
 
-## Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI
+#### Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI
 
-### [Specie 1 - Produzione ed allevamento del seme-bachi. Essiccazione di bozzoli.](#Specie 1 - Produzione ed allevamento del seme-bachi. Essiccazione di bozzoli.)
+#### [Specie 1 - Produzione ed allevamento del seme-bachi. Essiccazione di bozzoli.](#Specie 1 - Produzione ed allevamento del seme-bachi. Essiccazione di bozzoli.)
 
-### [Specie 2 - Filatura (trattura) della seta (Vedi specie 1).](#Specie 2 - Filatura (trattura) della seta (Vedi specie 1).)
+#### [Specie 2 - Filatura (trattura) della seta (Vedi specie 1).](#Specie 2 - Filatura (trattura) della seta (Vedi specie 1).)
 
-### [Specie 3 - Tessitura della seta e delle fibre tessili artificiali (Vedi specie 1).](#Specie 3 - Tessitura della seta e delle fibre tessili artificiali (Vedi specie 1).)
+#### [Specie 3 - Tessitura della seta e delle fibre tessili artificiali (Vedi specie 1).](#Specie 3 - Tessitura della seta e delle fibre tessili artificiali (Vedi specie 1).)
 
-### [Specie 4 - Produzione di fibre rigenerate (Vedi specie 1).](#Specie 4 - Produzione di fibre rigenerate (Vedi specie 1).)
+#### [Specie 4 - Produzione di fibre rigenerate (Vedi specie 1).](#Specie 4 - Produzione di fibre rigenerate (Vedi specie 1).)
 
-### [Specie 5/a - Lavorazione del cotone puro o misto con altre fibre.](#Specie 5/a - Lavorazione del cotone puro o misto con altre fibre.)
+#### [Specie 5/a - Lavorazione del cotone puro o misto con altre fibre.](#Specie 5/a - Lavorazione del cotone puro o misto con altre fibre.)
 
-### [Specie 5/b - Lavorazione dei cascami di seta, puri o misti ad altre fibre (Vedi specie 5/a).](#Specie 5/b - Lavorazione dei cascami di seta, puri o misti ad altre fibre (Vedi specie 5/a).)
+#### [Specie 5/b - Lavorazione dei cascami di seta, puri o misti ad altre fibre (Vedi specie 5/a).](#Specie 5/b - Lavorazione dei cascami di seta, puri o misti ad altre fibre (Vedi specie 5/a).)
 
-### [Specie 5/c - Lavorazione delle fibre sintetiche (11) (Vedi specie 5/a).](#Specie 5/c - Lavorazione delle fibre sintetiche (11) (Vedi specie 5/a).)
+#### [Specie 5/c - Lavorazione delle fibre sintetiche (11) (Vedi specie 5/a).](#Specie 5/c - Lavorazione delle fibre sintetiche (11) (Vedi specie 5/a).)
 
-### [Specie 6 - Lavorazione della lana pura o mista con altre fibre (Vedi specie 5/a).](#Specie 6 - Lavorazione della lana pura o mista con altre fibre (Vedi specie 5/a).)
+#### [Specie 6 - Lavorazione della lana pura o mista con altre fibre (Vedi specie 5/a).](#Specie 6 - Lavorazione della lana pura o mista con altre fibre (Vedi specie 5/a).)
 
-### [Specie 7 - Lavorazione del lino, della canapa, della juta, del ramiè e simili, puri o misti con altre fibre (Vedi specie 5/a).](#Specie 7 - Lavorazione del lino, della canapa, della juta, del ramiè e simili, puri o misti con altre fibre (Vedi specie 5/a).)
+#### [Specie 7 - Lavorazione del lino, della canapa, della juta, del ramiè e simili, puri o misti con altre fibre (Vedi specie 5/a).](#Specie 7 - Lavorazione del lino, della canapa, della juta, del ramiè e simili, puri o misti con altre fibre (Vedi specie 5/a).)
 
-### [Specie 7/b - Lavorazione di tessuti a maglia (Vedi specie 5/a) (12).](#Specie 7/b - Lavorazione di tessuti a maglia (Vedi specie 5/a) (12).)
+#### [Specie 7/b - Lavorazione di tessuti a maglia (Vedi specie 5/a) (12).](#Specie 7/b - Lavorazione di tessuti a maglia (Vedi specie 5/a) (12).)
 
-### [Specie 8 - Fabbricazione di cordami, spaghi, reti da pesca e da caccia (Vedi specie 1).](#Specie 8 - Fabbricazione di cordami, spaghi, reti da pesca e da caccia (Vedi specie 1).)
+#### [Specie 8 - Fabbricazione di cordami, spaghi, reti da pesca e da caccia (Vedi specie 1).](#Specie 8 - Fabbricazione di cordami, spaghi, reti da pesca e da caccia (Vedi specie 1).)
 
-### [Specie 9 - Fabbricazione di passamanerie, tulli, merletti, nastri, tessuti elastici e simili (Vedi specie 1).](#Specie 9 - Fabbricazione di passamanerie, tulli, merletti, nastri, tessuti elastici e simili (Vedi specie 1).)
+#### [Specie 9 - Fabbricazione di passamanerie, tulli, merletti, nastri, tessuti elastici e simili (Vedi specie 1).](#Specie 9 - Fabbricazione di passamanerie, tulli, merletti, nastri, tessuti elastici e simili (Vedi specie 1).)
 
-### [Specie 10 - Tintura, candeggio, stampatura, mercerizzazione, rifinitura, impermealizzazione ecc. di qualsiasi tessile (Vedi specie 5/a).](#Specie 10 - Tintura, candeggio, stampatura, mercerizzazione, rifinitura, impermealizzazione ecc. di qualsiasi tessile (Vedi specie 5/a).)
+#### [Specie 10 - Tintura, candeggio, stampatura, mercerizzazione, rifinitura, impermealizzazione ecc. di qualsiasi tessile (Vedi specie 5/a).](#Specie 10 - Tintura, candeggio, stampatura, mercerizzazione, rifinitura, impermealizzazione ecc. di qualsiasi tessile (Vedi specie 5/a).)
 
-### [Specie 11 - Lavorazione delle setole, del crine animale, del pelo, delle penne, delle piume, del capok e simili (Vedi specie 1).](#Specie 11 - Lavorazione delle setole, del crine animale, del pelo, delle penne, delle piume, del capok e simili (Vedi specie 1).)
+#### [Specie 11 - Lavorazione delle setole, del crine animale, del pelo, delle penne, delle piume, del capok e simili (Vedi specie 1).](#Specie 11 - Lavorazione delle setole, del crine animale, del pelo, delle penne, delle piume, del capok e simili (Vedi specie 1).)
 
-### [Specie 12 - Fabbricazione dei tappeti da terra (esclusi quelli di cocco e simili) (Vedi specie 1).](#Specie 12 - Fabbricazione dei tappeti da terra (esclusi quelli di cocco e simili) (Vedi specie 1).)
+#### [Specie 12 - Fabbricazione dei tappeti da terra (esclusi quelli di cocco e simili) (Vedi specie 1).](#Specie 12 - Fabbricazione dei tappeti da terra (esclusi quelli di cocco e simili) (Vedi specie 1).)
 
-### Specie 1 - Produzione ed allevamento del seme-bachi. Essiccazione di bozzoli.
+#### Specie 1 - Produzione ed allevamento del seme-bachi. Essiccazione di bozzoli.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1681,13 +1681,13 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Filatura (trattura) della seta (Vedi specie 1).
+#### Specie 2 - Filatura (trattura) della seta (Vedi specie 1).
 
-### Specie 3 - Tessitura della seta e delle fibre tessili artificiali (Vedi specie 1).
+#### Specie 3 - Tessitura della seta e delle fibre tessili artificiali (Vedi specie 1).
 
-### Specie 4 - Produzione di fibre rigenerate (Vedi specie 1).
+#### Specie 4 - Produzione di fibre rigenerate (Vedi specie 1).
 
-### Specie 5/a - Lavorazione del cotone puro o misto con altre fibre.
+#### Specie 5/a - Lavorazione del cotone puro o misto con altre fibre.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1703,66 +1703,66 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 5/b - Lavorazione dei cascami di seta, puri o misti ad altre fibre (Vedi specie 5/a).
+#### Specie 5/b - Lavorazione dei cascami di seta, puri o misti ad altre fibre (Vedi specie 5/a).
 
-### Specie 5/c - Lavorazione delle fibre sintetiche (11) (Vedi specie 5/a).
+#### Specie 5/c - Lavorazione delle fibre sintetiche (11) (Vedi specie 5/a).
 
-### Specie 6 - Lavorazione della lana pura o mista con altre fibre (Vedi specie 5/a).
+#### Specie 6 - Lavorazione della lana pura o mista con altre fibre (Vedi specie 5/a).
 
-### Specie 7 - Lavorazione del lino, della canapa, della juta, del ramiè e simili, puri o misti con altre fibre (Vedi specie 5/a).
+#### Specie 7 - Lavorazione del lino, della canapa, della juta, del ramiè e simili, puri o misti con altre fibre (Vedi specie 5/a).
 
-### Specie 7/b - Lavorazione di tessuti a maglia (Vedi specie 5/a) (12).
+#### Specie 7/b - Lavorazione di tessuti a maglia (Vedi specie 5/a) (12).
 
-### Specie 8 - Fabbricazione di cordami, spaghi, reti da pesca e da caccia (Vedi specie 1).
+#### Specie 8 - Fabbricazione di cordami, spaghi, reti da pesca e da caccia (Vedi specie 1).
 
-### Specie 9 - Fabbricazione di passamanerie, tulli, merletti, nastri, tessuti elastici e simili (Vedi specie 1).
+#### Specie 9 - Fabbricazione di passamanerie, tulli, merletti, nastri, tessuti elastici e simili (Vedi specie 1).
 
-### Specie 10 - Tintura, candeggio, stampatura, mercerizzazione, rifinitura, impermealizzazione ecc. di qualsiasi tessile (Vedi specie 5/a).
+#### Specie 10 - Tintura, candeggio, stampatura, mercerizzazione, rifinitura, impermealizzazione ecc. di qualsiasi tessile (Vedi specie 5/a).
 
-### Specie 11 - Lavorazione delle setole, del crine animale, del pelo, delle penne, delle piume, del capok e simili (Vedi specie 1).
+#### Specie 11 - Lavorazione delle setole, del crine animale, del pelo, delle penne, delle piume, del capok e simili (Vedi specie 1).
 
-### Specie 12 - Fabbricazione dei tappeti da terra (esclusi quelli di cocco e simili) (Vedi specie 1).
+#### Specie 12 - Fabbricazione dei tappeti da terra (esclusi quelli di cocco e simili) (Vedi specie 1).
 
 (11) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 (12) Aggiunta dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 
-## Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO
+#### Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO
 
-### [INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO](#INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO)
+#### [INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO](#INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO)
 
-### [Specie 1 - Industria del cappello.](#Specie 1 - Industria del cappello.)
+#### [Specie 1 - Industria del cappello.](#Specie 1 - Industria del cappello.)
 
-### [Specie 2 - Laboratori di modisteria (Vedi specie 1).](#Specie 2 - Laboratori di modisteria (Vedi specie 1).)
+#### [Specie 2 - Laboratori di modisteria (Vedi specie 1).](#Specie 2 - Laboratori di modisteria (Vedi specie 1).)
 
-### [Specie 3 - Laboratori per la confezione di vestiario (Vedi specie 1).](#Specie 3 - Laboratori per la confezione di vestiario (Vedi specie 1).)
+#### [Specie 3 - Laboratori per la confezione di vestiario (Vedi specie 1).](#Specie 3 - Laboratori per la confezione di vestiario (Vedi specie 1).)
 
-### [Specie 4 - Laboratori per la confezione di pellicce (Vedi specie 1)](#Specie 4 - Laboratori per la confezione di pellicce (Vedi specie 1))
+#### [Specie 4 - Laboratori per la confezione di pellicce (Vedi specie 1)](#Specie 4 - Laboratori per la confezione di pellicce (Vedi specie 1))
 
-### [Specie 5 - Laboratori per la confezione di biancheria (Vedi specie 1).](#Specie 5 - Laboratori per la confezione di biancheria (Vedi specie 1).)
+#### [Specie 5 - Laboratori per la confezione di biancheria (Vedi specie 1).](#Specie 5 - Laboratori per la confezione di biancheria (Vedi specie 1).)
 
-### [Specie 6 - Laboratori per la fabbricazione di maglieria, guanti in maglia e calze (Vedi specie 1).](#Specie 6 - Laboratori per la fabbricazione di maglieria, guanti in maglia e calze (Vedi specie 1).)
+#### [Specie 6 - Laboratori per la fabbricazione di maglieria, guanti in maglia e calze (Vedi specie 1).](#Specie 6 - Laboratori per la fabbricazione di maglieria, guanti in maglia e calze (Vedi specie 1).)
 
-### [Specie 7 - Calzaturifici (Vedi specie 1).](#Specie 7 - Calzaturifici (Vedi specie 1).)
+#### [Specie 7 - Calzaturifici (Vedi specie 1).](#Specie 7 - Calzaturifici (Vedi specie 1).)
 
-### [Specie 8 - Laboratori di confezione e riparazione di calzature (Vedi specie 1).](#Specie 8 - Laboratori di confezione e riparazione di calzature (Vedi specie 1).)
+#### [Specie 8 - Laboratori di confezione e riparazione di calzature (Vedi specie 1).](#Specie 8 - Laboratori di confezione e riparazione di calzature (Vedi specie 1).)
 
-### [Specie 9 - Laboratori per fabbricazione di guanti in pelle, in stoffa o in tessuti di maglia, esclusi quelli in maglia (Vedi specie 1).](#Specie 9 - Laboratori per fabbricazione di guanti in pelle, in stoffa o in tessuti di maglia, esclusi quelli in maglia (Vedi specie 1).)
+#### [Specie 9 - Laboratori per fabbricazione di guanti in pelle, in stoffa o in tessuti di maglia, esclusi quelli in maglia (Vedi specie 1).](#Specie 9 - Laboratori per fabbricazione di guanti in pelle, in stoffa o in tessuti di maglia, esclusi quelli in maglia (Vedi specie 1).)
 
-### [Specie 10 - Laboratori per confezioni varie e accessori del vestiario (cravatte, sciarpe, bretelle, guarnizioni per abiti, fiori artificiali, bottoni, ecc.).](#Specie 10 - Laboratori per confezioni varie e accessori del vestiario (cravatte, sciarpe, bretelle, guarnizioni per abiti, fiori artificiali, bottoni, ecc.).)
+#### [Specie 10 - Laboratori per confezioni varie e accessori del vestiario (cravatte, sciarpe, bretelle, guarnizioni per abiti, fiori artificiali, bottoni, ecc.).](#Specie 10 - Laboratori per confezioni varie e accessori del vestiario (cravatte, sciarpe, bretelle, guarnizioni per abiti, fiori artificiali, bottoni, ecc.).)
 
-### [Specie 11 - Fabbricazione e lavorazione di oggetti di ornamento, compresi quelli di tartaruga, di corallo e simili (Vedi specie 1).](#Specie 11 - Fabbricazione e lavorazione di oggetti di ornamento, compresi quelli di tartaruga, di corallo e simili (Vedi specie 1).)
+#### [Specie 11 - Fabbricazione e lavorazione di oggetti di ornamento, compresi quelli di tartaruga, di corallo e simili (Vedi specie 1).](#Specie 11 - Fabbricazione e lavorazione di oggetti di ornamento, compresi quelli di tartaruga, di corallo e simili (Vedi specie 1).)
 
-### [Specie 12 - Laboratori di materassaio e tappezziere, laboratori per confezione di vele bandiere e simili (Vedi specie 1).](#Specie 12 - Laboratori di materassaio e tappezziere, laboratori per confezione di vele bandiere e simili (Vedi specie 1).)
+#### [Specie 12 - Laboratori di materassaio e tappezziere, laboratori per confezione di vele bandiere e simili (Vedi specie 1).](#Specie 12 - Laboratori di materassaio e tappezziere, laboratori per confezione di vele bandiere e simili (Vedi specie 1).)
 
-### [Specie 13 - Fabbricazione di giocattoli in genere (esclusi quelli di metallo e di gomma (Vedi specie 10).](#Specie 13 - Fabbricazione di giocattoli in genere (esclusi quelli di metallo e di gomma (Vedi specie 10).)
+#### [Specie 13 - Fabbricazione di giocattoli in genere (esclusi quelli di metallo e di gomma (Vedi specie 10).](#Specie 13 - Fabbricazione di giocattoli in genere (esclusi quelli di metallo e di gomma (Vedi specie 10).)
 
-### INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO
+#### INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO
 
 | Categoria                   | Aliquota civile | Aliquota fiscale |
 | --------------------------- | --------------- | ---------------- |
 | Attrezzatura varia e minuta | 25%             |                  |
 
-### Specie 1 - Industria del cappello.
+#### Specie 1 - Industria del cappello.
 
 
 
@@ -1778,23 +1778,23 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Laboratori di modisteria (Vedi specie 1).
+#### Specie 2 - Laboratori di modisteria (Vedi specie 1).
 
-### Specie 3 - Laboratori per la confezione di vestiario (Vedi specie 1).
+#### Specie 3 - Laboratori per la confezione di vestiario (Vedi specie 1).
 
-### Specie 4 - Laboratori per la confezione di pellicce (Vedi specie 1)
+#### Specie 4 - Laboratori per la confezione di pellicce (Vedi specie 1)
 
-### Specie 5 - Laboratori per la confezione di biancheria (Vedi specie 1).
+#### Specie 5 - Laboratori per la confezione di biancheria (Vedi specie 1).
 
-### Specie 6 - Laboratori per la fabbricazione di maglieria, guanti in maglia e calze (Vedi specie 1).
+#### Specie 6 - Laboratori per la fabbricazione di maglieria, guanti in maglia e calze (Vedi specie 1).
 
-### Specie 7 - Calzaturifici (Vedi specie 1).
+#### Specie 7 - Calzaturifici (Vedi specie 1).
 
-### Specie 8 - Laboratori di confezione e riparazione di calzature (Vedi specie 1).
+#### Specie 8 - Laboratori di confezione e riparazione di calzature (Vedi specie 1).
 
-### Specie 9 - Laboratori per fabbricazione di guanti in pelle, in stoffa o in tessuti di maglia, esclusi quelli in maglia (Vedi specie 1).
+#### Specie 9 - Laboratori per fabbricazione di guanti in pelle, in stoffa o in tessuti di maglia, esclusi quelli in maglia (Vedi specie 1).
 
-### Specie 10 - Laboratori per confezioni varie e accessori del vestiario (cravatte, sciarpe, bretelle, guarnizioni per abiti, fiori artificiali, bottoni, ecc.).
+#### Specie 10 - Laboratori per confezioni varie e accessori del vestiario (cravatte, sciarpe, bretelle, guarnizioni per abiti, fiori artificiali, bottoni, ecc.).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1808,26 +1808,26 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 11 - Fabbricazione e lavorazione di oggetti di ornamento, compresi quelli di tartaruga, di corallo e simili (Vedi specie 1).
+#### Specie 11 - Fabbricazione e lavorazione di oggetti di ornamento, compresi quelli di tartaruga, di corallo e simili (Vedi specie 1).
 
-### Specie 12 - Laboratori di materassaio e tappezziere, laboratori per confezione di vele bandiere e simili (Vedi specie 1).
+#### Specie 12 - Laboratori di materassaio e tappezziere, laboratori per confezione di vele bandiere e simili (Vedi specie 1).
 
-### Specie 13 - Fabbricazione di giocattoli in genere (esclusi quelli di metallo e di gomma (Vedi specie 10).
+#### Specie 13 - Fabbricazione di giocattoli in genere (esclusi quelli di metallo e di gomma (Vedi specie 10).
 
 (13) Così corretto con avviso di rettifica pubblicato nella Gazz. Uff. 3 agosto 1989, n. 180.
 (14) Così corretto con avviso di rettifica pubblicato nella Gazz. Uff. 3 agosto 1989, n. 180.
 
-## Tabella dei coefficienti di ammortamento - Gruppo XIV INDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE
+#### Tabella dei coefficienti di ammortamento - Gruppo XIV INDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE
 
-### [Specie 1/a - Produzione di manufatti di gomma.](#Specie 1/a - Produzione di manufatti di gomma.)
+#### [Specie 1/a - Produzione di manufatti di gomma.](#Specie 1/a - Produzione di manufatti di gomma.)
 
-### [Specie 1/b - Produzione di cavi elettrici.](#Specie 1/b - Produzione di cavi elettrici.)
+#### [Specie 1/b - Produzione di cavi elettrici.](#Specie 1/b - Produzione di cavi elettrici.)
 
-### [Specie 1/c - Lavorazione di materie plastiche.](#Specie 1/c - Lavorazione di materie plastiche.)
+#### [Specie 1/c - Lavorazione di materie plastiche.](#Specie 1/c - Lavorazione di materie plastiche.)
 
-### [Specie 1/d - Produzione di dischi fonografici, incisione, edizione e stampa.](#Specie 1/d - Produzione di dischi fonografici, incisione, edizione e stampa.)
+#### [Specie 1/d - Produzione di dischi fonografici, incisione, edizione e stampa.](#Specie 1/d - Produzione di dischi fonografici, incisione, edizione e stampa.)
 
-### Specie 1/a - Produzione di manufatti di gomma.
+#### Specie 1/a - Produzione di manufatti di gomma.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1842,7 +1842,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 1/b - Produzione di cavi elettrici.
+#### Specie 1/b - Produzione di cavi elettrici.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1857,7 +1857,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 1/c - Lavorazione di materie plastiche.
+#### Specie 1/c - Lavorazione di materie plastiche.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1872,7 +1872,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 1/d - Produzione di dischi fonografici, incisione, edizione e stampa.
+#### Specie 1/d - Produzione di dischi fonografici, incisione, edizione e stampa.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1887,7 +1887,7 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Laboratori di vulcanizzazione degli oggetti di gomma.
+#### Specie 2 - Laboratori di vulcanizzazione degli oggetti di gomma.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1903,15 +1903,15 @@ risulta, all'inizio dell'esercizio, dal registro dei beni ammortizzabili».
 
 Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 
-## Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI
+#### Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI
 
-### [Specie 1 - Tipografie, litografie ed affini.](#Specie 1 - Tipografie, litografie ed affini.)
+#### [Specie 1 - Tipografie, litografie ed affini.](#Specie 1 - Tipografie, litografie ed affini.)
 
-### [Specie 2 - Legatorie.](#Specie 2 - Legatorie.)
+#### [Specie 2 - Legatorie.](#Specie 2 - Legatorie.)
 
-### [Specie 3 - Editori di libri e di giornali ed agenzie di stampa (Vedi specie 1).](#Specie 3 - Editori di libri e di giornali ed agenzie di stampa (Vedi specie 1).)
+#### [Specie 3 - Editori di libri e di giornali ed agenzie di stampa (Vedi specie 1).](#Specie 3 - Editori di libri e di giornali ed agenzie di stampa (Vedi specie 1).)
 
-### Specie 1 - Tipografie, litografie ed affini.
+#### Specie 1 - Tipografie, litografie ed affini.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1928,7 +1928,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Legatorie.
+#### Specie 2 - Legatorie.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1941,17 +1941,17 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 3 - Editori di libri e di giornali ed agenzie di stampa (Vedi specie 1).
+#### Specie 3 - Editori di libri e di giornali ed agenzie di stampa (Vedi specie 1).
 
-## Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE
+#### Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE
 
-### [Specie 1/a - Imprese di costruzioni edilizie, di lavori di terra e di opere stradali, portuali e specializzate.](#Specie 1/a - Imprese di costruzioni edilizie, di lavori di terra e di opere stradali, portuali e specializzate.)
+#### [Specie 1/a - Imprese di costruzioni edilizie, di lavori di terra e di opere stradali, portuali e specializzate.](#Specie 1/a - Imprese di costruzioni edilizie, di lavori di terra e di opere stradali, portuali e specializzate.)
 
-### [Specie 1/b - Imprese costruzioni reti trasporto e distribuzione elettriche e telefoniche.](#Specie 1/b - Imprese costruzioni reti trasporto e distribuzione elettriche e telefoniche.)
+#### [Specie 1/b - Imprese costruzioni reti trasporto e distribuzione elettriche e telefoniche.](#Specie 1/b - Imprese costruzioni reti trasporto e distribuzione elettriche e telefoniche.)
 
-### [Specie 1/c - Edilizia prefabbricata.](#Specie 1/c - Edilizia prefabbricata.)
+#### [Specie 1/c - Edilizia prefabbricata.](#Specie 1/c - Edilizia prefabbricata.)
 
-### Specie 1/a - Imprese di costruzioni edilizie, di lavori di terra e di opere stradali, portuali e specializzate.
+#### Specie 1/a - Imprese di costruzioni edilizie, di lavori di terra e di opere stradali, portuali e specializzate.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1967,7 +1967,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 1/b - Imprese costruzioni reti trasporto e distribuzione elettriche e telefoniche.
+#### Specie 1/b - Imprese costruzioni reti trasporto e distribuzione elettriche e telefoniche.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1979,7 +1979,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 1/c - Edilizia prefabbricata.
+#### Specie 1/c - Edilizia prefabbricata.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -1993,25 +1993,25 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-## Tabella dei coefficienti di ammortamento - Gruppo XVII INDUSTRIE DELL'ENERGIA ELETTRICA DEL GAS E DELL'ACQUA
+#### Tabella dei coefficienti di ammortamento - Gruppo XVII INDUSTRIE DELL'ENERGIA ELETTRICA DEL GAS E DELL'ACQUA
 
-### [Specie 1/a - Produzione e distribuzione di energia idroelettrica.](#Specie 1/a - Produzione e distribuzione di energia idroelettrica.)
+#### [Specie 1/a - Produzione e distribuzione di energia idroelettrica.](#Specie 1/a - Produzione e distribuzione di energia idroelettrica.)
 
-### [Specie 1/b - Produzione e distribuzione di energia termoelettrica.](#Specie 1/b - Produzione e distribuzione di energia termoelettrica.)
+#### [Specie 1/b - Produzione e distribuzione di energia termoelettrica.](#Specie 1/b - Produzione e distribuzione di energia termoelettrica.)
 
-### [Specie 2/a - Produzione e distribuzione di gas illuminante.](#Specie 2/a - Produzione e distribuzione di gas illuminante.)
+#### [Specie 2/a - Produzione e distribuzione di gas illuminante.](#Specie 2/a - Produzione e distribuzione di gas illuminante.)
 
-### [Specie 2/b - Produzione e distribuzione di gas naturale.](#Specie 2/b - Produzione e distribuzione di gas naturale.)
+#### [Specie 2/b - Produzione e distribuzione di gas naturale.](#Specie 2/b - Produzione e distribuzione di gas naturale.)
 
-### [Specie 3 - Distribuzione di acqua potabile e non potabile.](#Specie 3 - Distribuzione di acqua potabile e non potabile.)
+#### [Specie 3 - Distribuzione di acqua potabile e non potabile.](#Specie 3 - Distribuzione di acqua potabile e non potabile.)
 
-### [Specie 4/a - Stabilimenti balneari marini.](#Specie 4/a - Stabilimenti balneari marini.)
+#### [Specie 4/a - Stabilimenti balneari marini.](#Specie 4/a - Stabilimenti balneari marini.)
 
-### [Specie 4/b - Stabilimenti termali, idrotermali (16).](#Specie 4/b - Stabilimenti termali, idrotermali (16).)
+#### [Specie 4/b - Stabilimenti termali, idrotermali (16).](#Specie 4/b - Stabilimenti termali, idrotermali (16).)
 
-### 
+#### 
 
-### Specie 1/a - Produzione e distribuzione di energia idroelettrica.
+#### Specie 1/a - Produzione e distribuzione di energia idroelettrica.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2030,7 +2030,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 1/b - Produzione e distribuzione di energia termoelettrica.
+#### Specie 1/b - Produzione e distribuzione di energia termoelettrica.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2047,7 +2047,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2/a - Produzione e distribuzione di gas illuminante.
+#### Specie 2/a - Produzione e distribuzione di gas illuminante.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2064,7 +2064,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2/b - Produzione e distribuzione di gas naturale.
+#### Specie 2/b - Produzione e distribuzione di gas naturale.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2083,7 +2083,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 3 - Distribuzione di acqua potabile e non potabile.
+#### Specie 3 - Distribuzione di acqua potabile e non potabile.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2100,7 +2100,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 4/a - Stabilimenti balneari marini.
+#### Specie 4/a - Stabilimenti balneari marini.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2113,7 +2113,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 4/b - Stabilimenti termali, idrotermali (16).
+#### Specie 4/b - Stabilimenti termali, idrotermali (16).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2134,23 +2134,23 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 
 (16) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
 
-## Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI
+#### Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI
 
-### [Specie 1, 2 e 3 - Trasporti aerei, marittimi, lacuali, fluviali e lagunari.](#Specie 1, 2 e 3 - Trasporti aerei, marittimi, lacuali, fluviali e lagunari.)
+#### [Specie 1, 2 e 3 - Trasporti aerei, marittimi, lacuali, fluviali e lagunari.](#Specie 1, 2 e 3 - Trasporti aerei, marittimi, lacuali, fluviali e lagunari.)
 
-### [Specie 4 e 5 - Ferrovie, compreso l'esercizio di binari di raccordo per conto terzi, l'esercizio di vagoni letto e ristorante. Tramvie interurbane,urbane, e suburbane, ferrovie metropolitane, filovie, funicolari, funivie, slittovie ed ascensori.](#Specie 4 e 5 - Ferrovie, compreso l'esercizio di binari di raccordo per conto terzi, l'esercizio di vagoni letto e ristorante. Tramvie interurbane,urbane, e suburbane, ferrovie metropolitane, filovie, funicolari, funivie, slittovie ed ascensori.)
+#### [Specie 4 e 5 - Ferrovie, compreso l'esercizio di binari di raccordo per conto terzi, l'esercizio di vagoni letto e ristorante. Tramvie interurbane,urbane, e suburbane, ferrovie metropolitane, filovie, funicolari, funivie, slittovie ed ascensori.](#Specie 4 e 5 - Ferrovie, compreso l'esercizio di binari di raccordo per conto terzi, l'esercizio di vagoni letto e ristorante. Tramvie interurbane,urbane, e suburbane, ferrovie metropolitane, filovie, funicolari, funivie, slittovie ed ascensori.)
 
-### [Specie 6, 7, 8 e 9 - Autoservizi per viaggiatori urbani, extraurbani e di linea. Servizi di trasporto persone convetture ed autovetture da piazza e da rimessa. Servizi di trasporto merci su vie ordinarie. Imprese di trasporti e pompe funebri. Servizi di trasporto e recapito corrispondenza (19).](#Specie 6, 7, 8 e 9 - Autoservizi per viaggiatori urbani, extraurbani e di linea. Servizi di trasporto persone convetture ed autovetture da piazza e da rimessa. Servizi di trasporto merci su vie ordinarie. Imprese di trasporti e pompe funebri. Servizi di trasporto e recapito corrispondenza (19).)
+#### [Specie 6, 7, 8 e 9 - Autoservizi per viaggiatori urbani, extraurbani e di linea. Servizi di trasporto persone convetture ed autovetture da piazza e da rimessa. Servizi di trasporto merci su vie ordinarie. Imprese di trasporti e pompe funebri. Servizi di trasporto e recapito corrispondenza (19).](#Specie 6, 7, 8 e 9 - Autoservizi per viaggiatori urbani, extraurbani e di linea. Servizi di trasporto persone convetture ed autovetture da piazza e da rimessa. Servizi di trasporto merci su vie ordinarie. Imprese di trasporti e pompe funebri. Servizi di trasporto e recapito corrispondenza (19).)
 
-### [Autovetture, motoveicoli e simili (21) 25%Specie 10/a - Servizi telegrafici, telefonici e telecomunicazioni tramite satelliti.](#Autovetture, motoveicoli e simili (21) 25%Specie 10/a - Servizi telegrafici, telefonici e telecomunicazioni tramite satelliti.)
+#### [Autovetture, motoveicoli e simili (21) 25%Specie 10/a - Servizi telegrafici, telefonici e telecomunicazioni tramite satelliti.](#Autovetture, motoveicoli e simili (21) 25%Specie 10/a - Servizi telegrafici, telefonici e telecomunicazioni tramite satelliti.)
 
-### [Specie 10/b - Servizi radiotelegrafonici, radiofonici, televisivi e telecomunicazioni tramite satelliti.](#Specie 10/b - Servizi radiotelegrafonici, radiofonici, televisivi e telecomunicazioni tramite satelliti.)
+#### [Specie 10/b - Servizi radiotelegrafonici, radiofonici, televisivi e telecomunicazioni tramite satelliti.](#Specie 10/b - Servizi radiotelegrafonici, radiofonici, televisivi e telecomunicazioni tramite satelliti.)
 
-### [Specie 11 - Impianti per le telecomunicazioni a mezzo satelliti.](#Specie 11 - Impianti per le telecomunicazioni a mezzo satelliti.)
+#### [Specie 11 - Impianti per le telecomunicazioni a mezzo satelliti.](#Specie 11 - Impianti per le telecomunicazioni a mezzo satelliti.)
 
-### Specie 12 - Autostrade, strade e superstrade in concessione.
+#### Specie 12 - Autostrade, strade e superstrade in concessione.
 
-### Specie 1, 2 e 3 - Trasporti aerei, marittimi, lacuali, fluviali e lagunari.
+#### Specie 1, 2 e 3 - Trasporti aerei, marittimi, lacuali, fluviali e lagunari.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2174,7 +2174,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Aliscafi                                                     | 13%             |                  |
 | Navi già in esercizio per almeno otto anni, acquistate per l'impiego nell'ulteriore durata residua (18) | 15%             |                  |
 
-### Specie 4 e 5 - Ferrovie, compreso l'esercizio di binari di raccordo per conto terzi, l'esercizio di vagoni letto e ristorante. Tramvie interurbane,urbane, e suburbane, ferrovie metropolitane, filovie, funicolari, funivie, slittovie ed ascensori.
+#### Specie 4 e 5 - Ferrovie, compreso l'esercizio di binari di raccordo per conto terzi, l'esercizio di vagoni letto e ristorante. Tramvie interurbane,urbane, e suburbane, ferrovie metropolitane, filovie, funicolari, funivie, slittovie ed ascensori.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2195,7 +2195,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 | Contenitori di grandi dimensioni in metallo o materiale plastico | 15%             |                  |
 
-### Specie 6, 7, 8 e 9 - Autoservizi per viaggiatori urbani, extraurbani e di linea. Servizi di trasporto persone convetture ed autovetture da piazza e da rimessa. Servizi di trasporto merci su vie ordinarie. Imprese di trasporti e pompe funebri. Servizi di trasporto e recapito corrispondenza (19).
+#### Specie 6, 7, 8 e 9 - Autoservizi per viaggiatori urbani, extraurbani e di linea. Servizi di trasporto persone convetture ed autovetture da piazza e da rimessa. Servizi di trasporto merci su vie ordinarie. Imprese di trasporti e pompe funebri. Servizi di trasporto e recapito corrispondenza (19).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2214,7 +2214,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Contenitori e bottiglie per il trasporto di esafloruro di uranio e relative scocche protettive | 50%             |                  |
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) (20) | 20%             |                  |
 
-### Autovetture, motoveicoli e simili (21) 25%Specie 10/a - Servizi telegrafici, telefonici e telecomunicazioni tramite satelliti.
+#### Autovetture, motoveicoli e simili (21) 25%Specie 10/a - Servizi telegrafici, telefonici e telecomunicazioni tramite satelliti.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2234,7 +2234,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 10/b - Servizi radiotelegrafonici, radiofonici, televisivi e telecomunicazioni tramite satelliti.
+#### Specie 10/b - Servizi radiotelegrafonici, radiofonici, televisivi e telecomunicazioni tramite satelliti.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2252,7 +2252,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 11 - Impianti per le telecomunicazioni a mezzo satelliti.
+#### Specie 11 - Impianti per le telecomunicazioni a mezzo satelliti.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2265,7 +2265,7 @@ Autovetture, motoveicoli e simili 25%(15) Modificato dal D.M. 7 novembre 1992 (G
 | Terminali parabolici rice-trasmissivi di limitate dimensioni | 20%             |                  |
 | Stazioni terrene mobili                                      | 25%             |                  |
 
-### Specie 12 - Autostrade, strade e superstrade in concessione.
+#### Specie 12 - Autostrade, strade e superstrade in concessione.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2288,7 +2288,7 @@ Autovetture, motoveicoli e simili 25%(17) Modificato dal D.M. 23 dicembre 1992 (
 (22) Il coefficiente di cui alla presente voce è stato così elevato dal D.M. 19 ottobre 1995 (Gazz.
 Uff. 31 ottobre 1995, n. 255).
 
-## Tabella dei coefficienti di ammortamento - Gruppo XIX ALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI
+#### Tabella dei coefficienti di ammortamento - Gruppo XIX ALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2306,9 +2306,9 @@ Uff. 31 ottobre 1995, n. 255).
 (23) Vedi, anche, l'art. 11, L. 27 dicembre 1997, n. 449, riportata alla voce Amministrazione del
 patrimonio e contabilità generale dello Stato.
 
-## Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI
+#### Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI
 
-### Specie 1 - Teatri, cinematografi, sale da ballo e simili, campi sportivi, case da giuoco.
+#### Specie 1 - Teatri, cinematografi, sale da ballo e simili, campi sportivi, case da giuoco.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2322,7 +2322,7 @@ patrimonio e contabilità generale dello Stato.
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Compagnie ed agenzie teatrali. Produzione, doppiaggio, sviluppo, stampa e noleggio films.
+#### Specie 2 - Compagnie ed agenzie teatrali. Produzione, doppiaggio, sviluppo, stampa e noleggio films.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2336,11 +2336,11 @@ patrimonio e contabilità generale dello Stato.
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-## Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI
+#### Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI
 
-### [Specie 1 - Ospedali, cliniche, sanatori, case di cura ed istituti similari privati.](#Specie 1 - Ospedali, cliniche, sanatori, case di cura ed istituti similari privati.)
+#### [Specie 1 - Ospedali, cliniche, sanatori, case di cura ed istituti similari privati.](#Specie 1 - Ospedali, cliniche, sanatori, case di cura ed istituti similari privati.)
 
-### Specie 1 - Ospedali, cliniche, sanatori, case di cura ed istituti similari privati.
+#### Specie 1 - Ospedali, cliniche, sanatori, case di cura ed istituti similari privati.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2356,15 +2356,15 @@ patrimonio e contabilità generale dello Stato.
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-## Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI
+#### Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI
 
-### [Specie 1 - Servizi igienici e di estetica della persona. Alberghi diurni, istituti di igiene e di bellezza, barbieri, parrucchieri e simili.](#Specie 1 - Servizi igienici e di estetica della persona. Alberghi diurni, istituti di igiene e di bellezza, barbieri, parrucchieri e simili.)
+#### [Specie 1 - Servizi igienici e di estetica della persona. Alberghi diurni, istituti di igiene e di bellezza, barbieri, parrucchieri e simili.](#Specie 1 - Servizi igienici e di estetica della persona. Alberghi diurni, istituti di igiene e di bellezza, barbieri, parrucchieri e simili.)
 
-### [Specie 2 - Impresa di smaltimento rifiuti (24).](#Specie 2 - Impresa di smaltimento rifiuti (24).)
+#### [Specie 2 - Impresa di smaltimento rifiuti (24).](#Specie 2 - Impresa di smaltimento rifiuti (24).)
 
-### [Specie 3 - Lavanderie, stiratorie, smacchiatorie, tintorie e servizi affini.](#Specie 3 - Lavanderie, stiratorie, smacchiatorie, tintorie e servizi affini.)
+#### [Specie 3 - Lavanderie, stiratorie, smacchiatorie, tintorie e servizi affini.](#Specie 3 - Lavanderie, stiratorie, smacchiatorie, tintorie e servizi affini.)
 
-### Specie 1 - Servizi igienici e di estetica della persona. Alberghi diurni, istituti di igiene e di bellezza, barbieri, parrucchieri e simili.
+#### Specie 1 - Servizi igienici e di estetica della persona. Alberghi diurni, istituti di igiene e di bellezza, barbieri, parrucchieri e simili.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2380,7 +2380,7 @@ patrimonio e contabilità generale dello Stato.
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-### Specie 2 - Impresa di smaltimento rifiuti (24).
+#### Specie 2 - Impresa di smaltimento rifiuti (24).
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
@@ -2393,7 +2393,7 @@ patrimonio e contabilità generale dello Stato.
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 | Autovetture, motoveicoli e simili                            | 25%             |                  |
 
-###  Specie 3 - Lavanderie, stiratorie, smacchiatorie, tintorie e servizi affini.
+####  Specie 3 - Lavanderie, stiratorie, smacchiatorie, tintorie e servizi affini.
 
 | Categoria                                                    | Aliquota civile | Aliquota fiscale |
 | ------------------------------------------------------------ | --------------- | ---------------- |
