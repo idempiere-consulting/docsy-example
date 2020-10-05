@@ -56,28 +56,23 @@ Lista Cespiti
 
 #### Azione n° 2 : si genera l'entrata merce come per un qualsiasi materiale da elaborazione processo con Crea Entrata Merci da elabora processo
 
-Azione n° 3 : creo l' entrata merce
+### Azione n° 3 : creo l' entrata merce
 
 [{{< figure src="/image/Processoentratamerce.png"  width="850"  >}}](/image/Processoentratamerce.png)
 
 mi si genera anche la registrazione contabile di entrata a magazzino
-[{{< figure src="/image/CreaGiornalePrimaNota.png"  width="850"  >}}](/image/CreaGiornalePrimaNota.png)
-![](/opt/md/images/Registrazione contabile enrata magazzino.png)
 
-Azione n° 4 : Genero fattura sempre da processo
-[{{< figure src="/image/CreaGiornalePrimaNota.png"  width="850"  >}}](/image/CreaGiornalePrimaNota.png)
-![](/opt/md/images/Generazione fattura acquisto cespite.png)
+[{{< figure src="/image/Registrazionecontabileenratamagazzino.png"  width="850"  >}}](/image/Registrazionecontabileenratamagazzino.png)
 
-Azione n° 5 : assegno a capitale il cespite da creare aprendo a pagina la riga fattura (troverò assegna a capitale fleggato e completerò i campi necessari)
-[{{< figure src="/image/CreaGiornalePrimaNota.png"  width="850"  >}}](/image/CreaGiornalePrimaNota.png)
-![](/opt/md/images/Selezione_075.png)
+#### Azione n° 4 : Genero fattura sempre da processo
+[{{< figure src="/image/Generazionefatturaacquistocespite.png"  width="850"  >}}](/image/Generazionefatturaacquistocespite.png)
 
-Completo la registrazione fattura e avro la registrazione a contabilità relativa
-[{{< figure src="/image/CreaGiornalePrimaNota.png"  width="850"  >}}](/image/CreaGiornalePrimaNota.png)
-![](/opt/md/images/Registrazione contabile fattura acquisizione cespite.png)
+#### Azione n° 5 : assegno a capitale il cespite da creare aprendo a pagina la riga fattura (troverò assegna a capitale fleggato e completerò i campi necessari)
+[{{< figure src="/image/Selezione_075.png"  width="850"  >}}](/image/Selezione_075.png)
+Completo la registrazione fattura e avrò la registrazione a contabilità relativa
+[{{< figure src="/image/Registrazionecontabilefatturaacquisizionecespite.png"  width="850"  >}}](/image/Registrazionecontabilefatturaacquisizionecespite.png)
 
 Quindi se interrogo tutti i moviemnti contabili del giorno vedo i movimenti di magazzino stornati e i rimanenti movimenti contabili da fattura.
-
 
 Acquisizione del cespite con Idempiere.
 
