@@ -51,9 +51,9 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 
 [{{< figure src="/image/ODACespite.png"  width="850"  >}}](/image/ODACespite.png) 
 
-#### Azione n° 2 : si genera l'entrata merce come per un qualsiasi materiale da elaborazione processo con Crea Entrata Merci da elabora processo
+#### Azione n° 2 : Si genera l'entrata merce come per un qualsiasi materiale da elaborazione processo con Crea Entrata Merci da elabora processo
 
-#### Azione n° 3 : creo l' entrata merce
+#### Azione n° 3 : Creo l' entrata merce
 
 [{{< figure src="/image/Processoentratamerce.png"  width="850"  >}}](/image/Processoentratamerce.png)
 
@@ -61,10 +61,11 @@ mi si genera anche la registrazione contabile di entrata a magazzino
 
 [{{< figure src="/image/Registrazionecontabileentratamagazzino.png"  width="850"  >}}](/image/Registrazionecontabileentratamagazzino.png)
 
-#### Azione n° 4 : Genero fattura sempre da processo
+#### Azione n° 4 : Genero la fattura sempre da processo, registrandola mi comparirà un messaggio bloccante (preambolo ad azione 5 ossia indicazione si tratta di un acquisto di tipo "Capitale".
+
 [{{< figure src="/image/Generazionefatturaacquistocespite.png"  width="850"  >}}](/image/Generazionefatturaacquistocespite.png)
 
-#### Azione n° 5 : assegno a capitale il cespite da creare aprendo a pagina la riga fattura (troverò assegna a capitale fleggato e completerò i campi necessari)
+#### Azione n° 5 : Assegno a Capitale il cespite da creare aprendo a pagina la riga fattura (troverò assegna a Capitale fleggato e completerò i campi necessari)
 [{{< figure src="/image/Selezione_075.png"  width="850"  >}}](/image/Selezione_075.png)
 Completo la registrazione fattura e avrò la registrazione a contabilità relativa
 [{{< figure src="/image/Registrazionecontabilefatturaacquisizionecespite.png"  width="850"  >}}](/image/Registrazionecontabilefatturaacquisizionecespite.png)
