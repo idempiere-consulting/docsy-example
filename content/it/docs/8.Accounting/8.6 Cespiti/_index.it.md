@@ -109,8 +109,7 @@ Pubblicato nella Gazz. Uff. 2 febbraio 1989, n. 27, S.O.
 
 indice
 
-[Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE [GrI]]({{< ref "_index.it.md#GrI" >}} "Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE") <br>
-#### [Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE](#Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE)
+#### [Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE](#Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 
 #### [Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE](#Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE)
 
@@ -190,7 +189,7 @@ Decreta:
 
 ## Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE [GrI]
 
-### [Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.](#Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.)
+### [Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.](#Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.) [GRI]
 
 ### [Specie 2 - Industrie agrarie diverse, all'infuori della categoria degli affitti.](#Specie 2 - Industrie agrarie diverse, all'infuori della categoria degli affitti.)
 
