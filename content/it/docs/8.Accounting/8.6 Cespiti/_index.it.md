@@ -74,7 +74,7 @@ Completo la registrazione fattura e avrò la registrazione a contabilità relati
 
 Quindi se interrogo tutti i moviemnti contabili del giorno vedo i movimenti di magazzino stornati e i rimanenti movimenti contabili da fattura.
 
-Acquisizione del cespite con Idempiere.
+## Acquisizione del cespite con Idempiere. ##
 
 ​     2.1 La prima operazione necessaria è l’inquadramento del gruppo cespite da cui dipenderanno le varie registrazioni contabili del cespite.
 
