@@ -110,47 +110,47 @@ Pubblicato nella Gazz. Uff. 2 febbraio 1989, n. 27, S.O.
 indice
 #### [Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE](#Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
 #### [Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE](#Tabella dei coefficienti di ammortamento - Gruppo II INDUSTRIE ZOOTECNICHE)[GRII]  [link]({{< ref "_index.it.md#GRII" >}})
-#### [Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA](#Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA](#Tabella dei coefficienti di ammortamento - Gruppo III INDUSTRIE DELLA PESCA E DELLA CACCIA)[GRIII]  [link]({{< ref "_index.it.md#GRIII" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI](#Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI](#Tabella dei coefficienti di ammortamento - Gruppo IV INDUSTRIE ESTRATTIVE DI MINERALI METALLIFERI E NON METALLIFERI)[GRIV]  [link]({{< ref "_index.it.md#GRIV" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI](#Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI](#Tabella dei coefficienti di ammortamento - Gruppo V INDUSTRIE MANIFATTURIERE ALIMENTARI)[GRV]  [link]({{< ref "_index.it.md#GRV" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO](#Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO](#Tabella dei coefficienti di ammortamento - Gruppo VI INDUSTRIE MANIFATTURIERE DEL LEGNO)[GRVI]  [link]({{< ref "_index.it.md#GRVI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE](#Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE](#Tabella dei coefficienti di ammortamento - Gruppo VII INDUSTRIE MANUFATTURIERE METALLURGICHE E MECCANICHE)[GRVII]  [link]({{< ref "_index.it.md#GRVII" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI](#Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI](#Tabella dei coefficienti di ammortamento - Gruppo VIII INDUSTRIE MANIFATTURIERE DEI MINERALI NON METALLIFERI)[GRVIII]  [link]({{< ref "_index.it.md#GRVIII" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo IX INDUSTRIE MANIFATTURIERE CHIMICHE](#Tabella dei coefficienti di ammortamento - Gruppo IXINDUSTRIE MANIFATTURIERE CHIMICHE)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo IX INDUSTRIE MANIFATTURIERE CHIMICHE](#Tabella dei coefficienti di ammortamento - Gruppo IXINDUSTRIE MANIFATTURIERE CHIMICHE)[GRIX]  [link]({{< ref "_index.it.md#GRIX" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XINDUSTRIE MANIFATTURIERE DELLA CARTA](#Tabella dei coefficienti di ammortamento - Gruppo X INDUSTRIE MANIFATTURIERE DELLA CARTA)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo X INDUSTRIE MANIFATTURIERE DELLA CARTA](#Tabella dei coefficienti di ammortamento - Gruppo X INDUSTRIE MANIFATTURIERE DELLA CARTA)[GRX]  [link]({{< ref "_index.it.md#GRX" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XI INDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO](#Tabella dei coefficienti di ammortamento - Gruppo XIINDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XI INDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO](#Tabella dei coefficienti di ammortamento - Gruppo XIINDUSTRIE MANIFATTURIERE DELLE PELLI E DEL CUOIO)[GRXI]  [link]({{< ref "_index.it.md#GRXI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI](#Tabella dei coefficienti di ammortamento - Gruppo XIIINDUSTRIE MANIFATTURIERE TESSILI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI](#Tabella dei coefficienti di ammortamento - Gruppo XIIINDUSTRIE MANIFATTURIERE TESSILI)[GRXII]  [link]({{< ref "_index.it.md#GRXII" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO](#Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO](#Tabella dei coefficienti di ammortamento - Gruppo XIII INDUSTRIE MANIFATTURIERE DEL VESTIARIO, DELL'ABBIGLIAMENTO E DELL'ARREDAMENTO)[GRXIII]  [link]({{< ref "_index.it.md#GRXIII" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XIV INDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE](#Tabella dei coefficienti di ammortamento - Gruppo XIVINDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XIV INDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE](#Tabella dei coefficienti di ammortamento - Gruppo XIVINDUSTRIE MANIFATTURIERE DELLA GOMMA DELLA GUTTAPERGA E DELLE MATERIE PLASTICHE)[GRXIV]  [link]({{< ref "_index.it.md#GRXIV" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI](#Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI](#Tabella dei coefficienti di ammortamento - Gruppo XV INDUSTRIE POLIGRAFICHE, EDITORIALI ED AFFINI)[GRXV]  [link]({{< ref "_index.it.md#GRXV" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE](#Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE](#Tabella dei coefficienti di ammortamento - Gruppo XVI INDUSTRIE EDILIZIE)[GRXVI]  [link]({{< ref "_index.it.md#GRXVI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XVII INDUSTRIE DELL'ENERGIA ELETTRICA DEL GAS E DELL'ACQUA](#Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XVII INDUSTRIE DELL'ENERGIA ELETTRICA DEL GAS E DELL'ACQUA](#Tabella dei coefficienti di ammortamento - Gruppo XII INDUSTRIE MANIFATTURIERE TESSILI)[GRXVII]  [link]({{< ref "_index.it.md#GRXVII" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI](#Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI](#Tabella dei coefficienti di ammortamento - Gruppo XVIII INDUSTRIE DEI TRASPORTI E DELLE COMUNICAZIONI)[GRXVIII]  [link]({{< ref "_index.it.md#GRXVIII" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XIXALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI](#Tabella dei coefficienti di ammortamento - Gruppo XIX ALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XIXALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI](#Tabella dei coefficienti di ammortamento - Gruppo XIX ALBERGHI, RISTORANTI, BAR E ATTIVITÀ AFFINI)[GRXIX]  [link]({{< ref "_index.it.md#GRXIX" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI](#Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI](#Tabella dei coefficienti di ammortamento - Gruppo XX SERVIZI CULTURALI, SPORTIVI E RICREATIVI)[GRXX]  [link]({{< ref "_index.it.md#GRXX" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI](#Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI](#Tabella dei coefficienti di ammortamento - Gruppo XXI SERVIZI SANITARI)[GRXXI]  [link]({{< ref "_index.it.md#GRXXI" >}})
 
-#### [Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI](#Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
-#### [Fiere e Rassegne](#Fiere e Rassegne)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
-#### [Altre Attività](#Altre Attività)[GRI]  [link]({{< ref "_index.it.md#GRI" >}})
+#### [Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI](#Tabella dei coefficienti di ammortamento - Gruppo XXII SERVIZI IGIENICI ALLA PERSONA E DOMESTICI)[GRXXII]  [link]({{< ref "_index.it.md#GRXXII" >}})
+#### [Fiere e Rassegne](#Fiere e Rassegne)[GRFR]  [link]({{< ref "_index.it.md#GRFR" >}})
+#### [Altre Attività](#Altre Attività)[GRAA]  [link]({{< ref "_index.it.md#GRAA" >}})
 
 D.M. 31 dicembre 1988 (1).
 Coefficienti di ammortamento del costo dei beni materiali strumentali impiegati nell'esercizio
