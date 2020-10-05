@@ -187,7 +187,7 @@ Decreta:
     hanno inizio a decorrere dal primo periodo di imposta successivo al 31 dicembre 1988.
 3. Il presente decreto sarà pubblicato nella Gazzetta Ufficiale della Repubblica italiana.
 
-## Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE [GrI]
+## Tabella dei coefficienti di ammortamento - Gruppo I INDUSTRIE AGRARIE E BOSCHIVE {#GRI}
 
 ### [Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.](#Specie 1 - Affittuari di fondi rustici, condotti a mezzadria con bracciantato o direttamente.) [GRI]
 
