@@ -52,6 +52,7 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 [{{< figure src="/image/OrdineAcquistoCespite.png"  width="850"  >}}](/image/OrdineAcquistoCespite.png) 
 
 #### Azione n° 2 : Si genera l'entrata merce come per un qualsiasi materiale da elaborazione processo con Crea Entrata Merci da elabora processo
+[{{< figure src="/image/EntrataMerceCespite.png"  width="850"  >}}](/image/EntrataMerceCespite.png)
 
 #### Azione n° 3 : Creo l' entrata merce
 
