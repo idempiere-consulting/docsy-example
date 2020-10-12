@@ -65,8 +65,8 @@ Si completa e viene generata anche la registrazione contabile di entrata a magaz
 #### Azione n° 4 : Genero la fattura sempre da processo, registrandola comparirà un messaggio bloccante (preambolo ad azione 5 ossia indicazione si tratta di un acquisto di tipo "Capitale".
 
 [{{< figure src="/image/GeneraFatturaCespite.png"  width="850"  >}}](/image/GeneraFatturaCespite.png)
-
 [{{< figure src="/image/GeneraFatturaCespite3.png"  width="850"  >}}](/image/GeneraFatturaCespite3.png)
+[{{< figure src="/image/GeneraFatturaCespite4.png"  width="850"  >}}](/image/GeneraFatturaCespite4.png)
 
 #### Azione n° 5 : Si assegna a "Capitale" il cespite da creare aprendo a pagina la riga fattura (troverò assegna a Capitale fleggato e completerò i campi necessari)
 [{{< figure src="/image/Selezione_075.png"  width="850"  >}}](/image/Selezione_075.png)
