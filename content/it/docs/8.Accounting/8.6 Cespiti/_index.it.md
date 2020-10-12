@@ -49,7 +49,7 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 
 #### Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.
 
-[{{< figure src="/image/ODACespite.png"  width="850"  >}}](/image/ODACespite.png) 
+[{{< figure src="/image/OrdineAcquistoCespite.png"  width="850"  >}}](/image/OrdineAcquistoCespite.png) 
 
 #### Azione n° 2 : Si genera l'entrata merce come per un qualsiasi materiale da elaborazione processo con Crea Entrata Merci da elabora processo
 
@@ -79,6 +79,10 @@ Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono i
 [{{< figure src="/image/Aggiuntacespite.png"  width="850"  >}}](/image/Aggiuntacespite.png)
 
 #### Azione n° 7 : si procede con l'attivazione del cespite, questa operazione determinerà la popolazione degli ammortamenti nella scheda del Cespite
+[{{< figure src="/image/AttivazioneDismissioneCespite.png"  width="850"  >}}](/image/AttivazioneDismissioneCespite.png)
+
+
+
 
 ​
 |         |                                                              |      |      |      |             |      |      |      |
