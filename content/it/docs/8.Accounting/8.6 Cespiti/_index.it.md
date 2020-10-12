@@ -58,9 +58,9 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 
 [{{< figure src="/image/EntrataMerceCespite2.png"  width="850"  >}}](/image/EntrataMerceCespite2.png)
 
-viene generata anche la registrazione contabile di entrata a magazzino
+Si completa e viene generata anche la registrazione contabile di entrata a magazzino
 
-[{{< figure src="/image/Registrazionecontabileentratamagazzino.png"  width="850"  >}}](/image/Registrazionecontabileentratamagazzino.png)
+[{{< figure src="/image/RegistrazioneEntrataMerceCespite2.png"  width="850"  >}}](/image/RegistrazioneEntrataMerceCespite2.png)
 
 #### Azione n° 4 : Genero la fattura sempre da processo, registrandola comparirà un messaggio bloccante (preambolo ad azione 5 ossia indicazione si tratta di un acquisto di tipo "Capitale".
 
