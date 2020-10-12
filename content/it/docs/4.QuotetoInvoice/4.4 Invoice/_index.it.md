@@ -71,8 +71,7 @@ Sull'ultima fattura la qty 1 e prezzo zero
 
 #### "Fatturazione Elettronica"
 
-##### link esterni
-https://docs.google.com/spreadsheets/d/1yEO1wISGaw6lprGEOLD8amsxS60i9bYMmO5TZlGl_rw/edit
+
 
 https://fatturaelettronicaopensource.org/ 
 
