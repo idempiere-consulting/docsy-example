@@ -76,10 +76,10 @@ Completo la registrazione fattura e avrò la registrazione a contabilità relati
 Quindi se interrogo tutti i moviemnti contabili del giorno vedo i movimenti di magazzino stornati e i rimanenti movimenti contabili da fattura.
 
 #### Azione n° 6 : Da Link sulla barra fattura si effettua l'aggiunta del Cespite 
-[{{< figure src="/image/Aggiuntacespite1.png"  width="850"  >}}](/image/Aggiuntacespite1.png)
+[{{< figure src="/image/Aggiuntacespite.png"  width="850"  >}}](/image/Aggiuntacespite.png)
 
 Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono inserire a completamento. 
-[{{< figure src="/image/Aggiuntacespite.png"  width="850"  >}}](/image/Aggiuntacespite.png)
+[{{< figure src="/image/Aggiuntacespite1.png"  width="850"  >}}](/image/Aggiuntacespite1.png)
 
 #### Azione n° 7 : si procede con l'attivazione del cespite, questa operazione determinerà la popolazione degli ammortamenti nella scheda del Cespite
 [{{< figure src="/image/AttivazioneDismissioneCespite.png"  width="850"  >}}](/image/AttivazioneDismissioneCespite.png)
