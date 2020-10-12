@@ -78,7 +78,8 @@ Quindi se interrogo tutti i moviemnti contabili del giorno vedo i movimenti di m
 #### Azione n° 6 : Da Link sulla barra fattura si effettua l'aggiunta del Cespite 
 [{{< figure src="/image/AggiuntaCespite2.png"  width="850"  >}}](/image/AggiuntaCespite2.png)
 
-Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono inserire a completamento. 
+Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono inserire a completamento.
+**Bisogna fare attenzione a inserire una data registrazione o 01/01/n o 01/07/n per la popolazione corretta dell'ammortamento del primo anno 1/2 o intero**
 [{{< figure src="/image/AggiuntaCespite1.png"  width="850"  >}}](/image/AggiuntaCespite1.png)
 
 #### Azione n° 7 : si procede con l'attivazione del cespite, questa operazione determinerà la popolazione degli ammortamenti nella scheda del Cespite
