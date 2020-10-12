@@ -66,6 +66,8 @@ Si completa e viene generata anche la registrazione contabile di entrata a magaz
 
 [{{< figure src="/image/GeneraFatturaCespite.png"  width="850"  >}}](/image/GeneraFatturaCespite.png)
 
+[{{< figure src="/image/GeneraFatturaCespite3.png"  width="850"  >}}](/image/GeneraFatturaCespite3.png)
+
 #### Azione n° 5 : Si assegna a "Capitale" il cespite da creare aprendo a pagina la riga fattura (troverò assegna a Capitale fleggato e completerò i campi necessari)
 [{{< figure src="/image/Selezione_075.png"  width="850"  >}}](/image/Selezione_075.png)
 Completo la registrazione fattura e avrò la registrazione a contabilità relativa
