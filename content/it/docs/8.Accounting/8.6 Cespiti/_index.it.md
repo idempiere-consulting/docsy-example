@@ -69,17 +69,17 @@ Si completa e viene generata anche la registrazione contabile di entrata a magaz
 [{{< figure src="/image/GeneraFatturaCespite4.png"  width="850"  >}}](/image/GeneraFatturaCespite4.png)
 
 #### Azione n° 5 : Si assegna a "Capitale" il cespite da creare aprendo a pagina la riga fattura (troverò assegna a Capitale fleggato e completerò i campi necessari)
-[{{< figure src="/image/GeneraFatturaCespite5.png"  width="850"  >}}](/image/GeneraFatturaCespite5.png)
+[{{< figure src="/image/Selezione_075.png"  width="850"  >}}](/image/Selezione_075.png)
 Completo la registrazione fattura e avrò la registrazione a contabilità relativa
-[{{< figure src="/image/GeneraFatturaCespite6.png"  width="850"  >}}](/image/GeneraFatturaCespite6.png)
+[{{< figure src="/image/Registrazionecontabilefatturaacquisizionecespite.png"  width="850"  >}}](/image/Registrazionecontabilefatturaacquisizionecespite.png)
 
 Quindi se interrogo tutti i moviemnti contabili del giorno vedo i movimenti di magazzino stornati e i rimanenti movimenti contabili da fattura.
 
 #### Azione n° 6 : Da Link sulla barra fattura si effettua l'aggiunta del Cespite 
-[{{< figure src="/image/Aggiuntacespite.png"  width="850"  >}}](/image/Aggiuntacespite.png)
+[{{< figure src="/image/AggiuntaCespite2.png"  width="850"  >}}](/image/AggiuntaCespite2.png)
 
 Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono inserire a completamento. 
-[{{< figure src="/image/Aggiuntacespite1.png"  width="850"  >}}](/image/Aggiuntacespite1.png)
+[{{< figure src="/image/AggiuntaCespite1.png"  width="850"  >}}](/image/AggiuntaCespite1.png)
 
 #### Azione n° 7 : si procede con l'attivazione del cespite, questa operazione determinerà la popolazione degli ammortamenti nella scheda del Cespite
 [{{< figure src="/image/AttivazioneDismissioneCespite.png"  width="850"  >}}](/image/AttivazioneDismissioneCespite.png)
