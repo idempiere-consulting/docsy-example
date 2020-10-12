@@ -57,23 +57,28 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 
 [{{< figure src="/image/Processoentratamerce.png"  width="850"  >}}](/image/Processoentratamerce.png)
 
-mi si genera anche la registrazione contabile di entrata a magazzino
+viene generata anche la registrazione contabile di entrata a magazzino
 
 [{{< figure src="/image/Registrazionecontabileentratamagazzino.png"  width="850"  >}}](/image/Registrazionecontabileentratamagazzino.png)
 
-#### Azione n° 4 : Genero la fattura sempre da processo, registrandola mi comparirà un messaggio bloccante (preambolo ad azione 5 ossia indicazione si tratta di un acquisto di tipo "Capitale".
+#### Azione n° 4 : Genero la fattura sempre da processo, registrandola comparirà un messaggio bloccante (preambolo ad azione 5 ossia indicazione si tratta di un acquisto di tipo "Capitale".
 
 [{{< figure src="/image/Generazionefatturaacquistocespite.png"  width="850"  >}}](/image/Generazionefatturaacquistocespite.png)
 
-#### Azione n° 5 : Assegno a Capitale il cespite da creare aprendo a pagina la riga fattura (troverò assegna a Capitale fleggato e completerò i campi necessari)
+#### Azione n° 5 : Si assegna a "Capitale" il cespite da creare aprendo a pagina la riga fattura (troverò assegna a Capitale fleggato e completerò i campi necessari)
 [{{< figure src="/image/Selezione_075.png"  width="850"  >}}](/image/Selezione_075.png)
 Completo la registrazione fattura e avrò la registrazione a contabilità relativa
 [{{< figure src="/image/Registrazionecontabilefatturaacquisizionecespite.png"  width="850"  >}}](/image/Registrazionecontabilefatturaacquisizionecespite.png)
 
 Quindi se interrogo tutti i moviemnti contabili del giorno vedo i movimenti di magazzino stornati e i rimanenti movimenti contabili da fattura.
 
+#### Azione n° 6 : Da Link sulla barra fattura si effettua l'aggiunta del Cespite 
+[{{< figure src="/image/Aggiuntacespite1.png"  width="850"  >}}](/image/Aggiuntacespite1.png)
 
-#### Azione n° 6 : si procede con l'attivazione del cespite, questa operazione determinerà la popolazione degli ammortamenti nella scheda del Cespite
+Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono inserire a completamento. 
+[{{< figure src="/image/Aggiuntacespite.png"  width="850"  >}}](/image/Aggiuntacespite.png)
+
+#### Azione n° 7 : si procede con l'attivazione del cespite, questa operazione determinerà la popolazione degli ammortamenti nella scheda del Cespite
 
 ​
 |         |                                                              |      |      |      |             |      |      |      |
