@@ -56,7 +56,7 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 
 #### Azione n° 3 : Creo l' entrata merce
 
-[{{< figure src="/image/ProcessoEntratCespite2.png"  width="850"  >}}](/image/ProcessoEntratCespite2.png)
+[{{< figure src="/image/EntrataMerceCespite2.png"  width="850"  >}}](/image/EntrataMerceCespite2.png)
 
 viene generata anche la registrazione contabile di entrata a magazzino
 
