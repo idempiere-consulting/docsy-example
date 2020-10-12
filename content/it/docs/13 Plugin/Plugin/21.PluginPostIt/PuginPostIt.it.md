@@ -14,6 +14,7 @@ pre: "<b>721. </b>"
 - versione idempiere  : idempiere 3.1
 - versione zk supportata : zk8
 
+[{{< figure src="/image/PostIT_1.png"  width="850"  >}}](/image/PostIT_1.png)
 [![PostIt 1.png](http://192.168.178.102/images/thumb/c/c3/PostIt_1.png/800px-PostIt_1.png)](http://192.168.178.102/index.php/File:PostIt_1.png)
 
 ---
