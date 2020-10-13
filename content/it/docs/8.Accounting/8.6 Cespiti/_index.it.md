@@ -67,7 +67,7 @@ Si completa e viene generata anche la registrazione contabile di entrata a magaz
 [{{< figure src="/image/GeneraFatturaCespite5.png"  width="850"  >}}](/image/GeneraFatturaCespite5.png)
 Si completa la registrazione fattura e si avrà la registrazione a contabilità relativa.
 [{{< figure src="/image/GeneraFatturaCespite6.png"  width="850"  >}}](/image/GeneraFatturaCespite6.png)
-Quindi se interrogo tutti i moviemnti contabili del giorno vedo i movimenti di magazzino stornati e i rimanenti movimenti contabili da fattura.
+Nel caso avendo solo questi movimenti interrogando tutte le movimentazioni contabili del giorno vedo i movimenti di magazzino stornati e i rimanenti movimenti contabili da fattura.
 [{{< figure src="/image/MovimentiContabiliAcquisizioneCespite.png"  width="850"  >}}](/image/MovimentiContabiliAcquisizioneCespite.png)
 #### Azione n° 6 : Da Link sulla barra fattura si effettua l'aggiunta del Cespite 
 [{{< figure src="/image/MovimentiContabiliAcquisizioneCespite.png"  width="850"  >}}](/image/MovimentiContabiliAcquisizioneCespite.png)
