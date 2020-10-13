@@ -41,56 +41,37 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 ## Anagrafica Cespite
 
 #### Piano dei conti
-
 E' necessario (ove non siano esistenti) l' Inserimento dei conti contabili nell'attivo Patrimoniale relativi alle categorie cespiti da inserire (per il loro valore di acquisto) e nel passivo dei conti che accolgono gli ammortamenti accumulati nei corsi dei vari anni (Fondi ammortamento).
-
 Il piano dei conti di Idempiere già prevede i conti da utilizzare **<u>(si tratta solo di verificare se esistano tutti o se si vuole per motivi interni inserirne altri fermo restando il dover creare anche categorie prodotti e gruppi bene gestito dei punti seguenti)</u>**
-
 #### Gruppo Cespite
-
 La maschera di inizio impostazioni del "Cespite" è quella relativa alla definizione del "Gruppo" è la seguente:
-
 [{{< figure src="/image/Cespiti-50.png"  width="850"  >}}](/image/Cespiti-50.png)
-
 Per quanto riguarda la parte corpo del gruppo si può far riferimento alla seguente immagine:
-
 [{{< figure src="/image/Cespiti-51.png"  width="850"  >}}](/image/Cespiti-51.png)
-
 In questa parte si compileranno i dati che determineranno le interrogazioni che si andranno a fare in base alle impostazioni che si inseriranno sui gruppi cespite ad es. se si vuole che l'ammortamento del primo periodo sia calcolato a metà dell'aliquota come fiscalmente permesso. Sono precompilati e da verificare poi i dati contabili che regoleranno le varie operazioni relative.
 
-### Importazione Cespite
-
+## Importazione Cespite
 L'importazione Cespite è generalmente la prima operazione che ci si trova a fare, dovendo caricare il data base storico dei Cespiti aziendali. Tale operazione può essere eseguita "massivamente" da file CSV o attraverso la maschera appunti di Importazione Cespite, le maschere da utilizzare sono le seguenti: 
 [{{< figure src="/image/Cespiti-52.png"  width="850"  >}}](/image/Cespiti-52.png)
 [{{< figure src="/image/Cespiti-53.png"  width="850"  >}}](/image/Cespiti-53.png)
 
- 
 ## Procedura di Acquisizione Cespite
-
 #### Operazioni preliminari da effettuare 
-
 1 La prima operazione necessaria è l’inquadramento del gruppo cespite da cui dipenderanno le varie registrazioni contabili del cespite.
-
 2 da secondo si andranno a delineare e inserire delle categorie prodotto per gestire “i passaggi” contabili del cespite. 
 
 ## Acquisizione del cespite con Idempiere passo passo
-
 #### Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.
-
 [{{< figure src="/image/OrdineAcquistoCespite.png"  width="850"  >}}](/image/OrdineAcquistoCespite.png) 
-
 #### Azione n° 2 : Si genera l'entrata merce come per un qualsiasi materiale (da elaborazione processo con Crea Entrata Merci da elabora processo).
 [{{< figure src="/image/EntrataMerceCespite.png"  width="850"  >}}](/image/EntrataMerceCespite.png)
 [{{< figure src="/image/EntrataMerceCespite2.png"  width="850"  >}}](/image/EntrataMerceCespite2.png)
 Si completa e viene generata anche la registrazione contabile di entrata a magazzino
 [{{< figure src="/image/RegistrazioneEntrataMerceCespite.png"  width="850"  >}}](/image/RegistrazioneEntrataMerceCespite.png)
-
 #### Azione n° 3 : Si genera la fattura sempre da processo, registrandola comparirà un messaggio bloccante (preambolo ad azione 4 ossia indicazione si tratta di un acquisto di tipo "Capitale").
-
 [{{< figure src="/image/GeneraFatturaCespite.png"  width="850"  >}}](/image/GeneraFatturaCespite.png)
 [{{< figure src="/image/GeneraFatturaCespite3.png"  width="850"  >}}](/image/GeneraFatturaCespite3.png)
 [{{< figure src="/image/GeneraFatturaCespite4.png"  width="850"  >}}](/image/GeneraFatturaCespite4.png)
-
 #### Azione n° 4 : Si assegna a "Capitale" il Cespite da creare (aprendo a pagina la riga fattura troverò "assegna a Capitale" seleziono e completo i campi necessari)
 [{{< figure src="/image/GeneraFatturaCespite5.png"  width="850"  >}}](/image/GeneraFatturaCespite5.png)
 Si completa la registrazione fattura e si avrà la registrazione a contabilità relativa.
@@ -101,6 +82,7 @@ Nel caso avendo solo questi movimenti interrogando tutte le movimentazioni conta
 [{{< figure src="/image/Aggiuntacespite1.png"  width="850"  >}}](/image/Aggiuntacespite1.png)
 Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono inserire a completamento.
 **Bisogna fare attenzione a inserire una data registrazione o 01/01/n o 01/07/n per la popolazione corretta dell'ammortamento del primo anno 1/2 o intero**
+
 ## @Segnalazione (al momento non è possibile rielaborare le quote ammortamento qualora si volesse gestire ad. esempio il primo anno in modo differenta da quello indicato in data registrazione aggiunta cespite).## 
 [{{< figure src="/image/AggiuntaCespite1.png"  width="850"  >}}](/image/AggiuntaCespite1.png)
 Controllando la maschera Cespite vediamo che si sono popolati alcuni dati:
@@ -109,15 +91,14 @@ scheda cespite
 quote ammortamento
 [{{< figure src="/image/Cespite2.png"  width="850"  >}}](/image/Cespite2.png)
 
-### Ammortamento
-
+## Ammortamento
 **<u>Registrazione dell'Ammortamento</u>**
-
 La maschera che si utilizza generalmente a fine anno per registrare gli ammortamenti è la seguente:
 [{{< figure src="/image/AmmortamentoCespite.png"  width="850"  >}}](/image/AmmortamentoCespite.png)
 Si Selezionano gli ammortamenti da registrare (normalmente sono quelli dell'anno o esercizio contabile/fiscale in corso), generalmente si procede con abilitazione registrazione riepilogativa si avrà così una registrazione in contabilità "raggruppata" per gruppo cespite/contabile.
 [{{< figure src="/image/RegistrazioneAmmortamentoCespite.png"  width="850"  >}}](/image/RegistrazioneAmmortamentoCespite.png)
 
+## Dismissione Cespite
 
 
 
