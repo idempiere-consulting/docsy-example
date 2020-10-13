@@ -37,7 +37,7 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 - determinazione di plusvalenze/minusvalenze a fine vita del cespite a segiuto dismissione.
 
  
-### Procedura di Acquisizione Cespite
+## Procedura di Acquisizione Cespite
 
 #### Operazioni preliminari da effettuare 
 
@@ -45,30 +45,25 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 
 2 da secondo si andranno a delineare e inserire delle categorie prodotto per gestire “i passaggi” contabili del cespite. 
 
-## Acquisizione del cespite con Idempiere passo passo ##
+## Acquisizione del cespite con Idempiere passo passo
 
 #### Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.
 
 [{{< figure src="/image/OrdineAcquistoCespite.png"  width="850"  >}}](/image/OrdineAcquistoCespite.png) 
 
-#### Azione n° 2 : Si genera l'entrata merce come per un qualsiasi materiale da elaborazione processo con Crea Entrata Merci da elabora processo
+#### Azione n° 2 : Si genera l'entrata merce come per un qualsiasi materiale (da elaborazione processo con Crea Entrata Merci da elabora processo).
 [{{< figure src="/image/EntrataMerceCespite.png"  width="850"  >}}](/image/EntrataMerceCespite.png)
-
-#### Azione n° 3 : Creo l' entrata merce
-
 [{{< figure src="/image/EntrataMerceCespite2.png"  width="850"  >}}](/image/EntrataMerceCespite2.png)
-
 Si completa e viene generata anche la registrazione contabile di entrata a magazzino
-
 [{{< figure src="/image/RegistrazioneEntrataMerceCespite.png"  width="850"  >}}](/image/RegistrazioneEntrataMerceCespite.png)
 
-#### Azione n° 4 : Genero la fattura sempre da processo, registrandola comparirà un messaggio bloccante (preambolo ad azione 5 ossia indicazione si tratta di un acquisto di tipo "Capitale".
+#### Azione n° 3 : Si genera la fattura sempre da processo, registrandola comparirà un messaggio bloccante (preambolo ad azione 4 ossia indicazione si tratta di un acquisto di tipo "Capitale".
 
 [{{< figure src="/image/GeneraFatturaCespite.png"  width="850"  >}}](/image/GeneraFatturaCespite.png)
 [{{< figure src="/image/GeneraFatturaCespite3.png"  width="850"  >}}](/image/GeneraFatturaCespite3.png)
 [{{< figure src="/image/GeneraFatturaCespite4.png"  width="850"  >}}](/image/GeneraFatturaCespite4.png)
 
-#### Azione n° 5 : Si assegna a "Capitale" il cespite da creare aprendo a pagina la riga fattura (troverò assegna a Capitale fleggato e completerò i campi necessari)
+#### Azione n° 4 : Si assegna a "Capitale" il cespite da creare aprendo a pagina la riga fattura (troverò assegna a Capitale fleggato e completerò i campi necessari)
 [{{< figure src="/image/GeneraFatturaCespite5.png"  width="850"  >}}](/image/GeneraFatturaCespite5.png)
 Completo la registrazione fattura e avrò la registrazione a contabilità relativa
 [{{< figure src="/image/GeneraFatturaCespite6.png"  width="850"  >}}](/image/GeneraFatturaCespite6.png)
