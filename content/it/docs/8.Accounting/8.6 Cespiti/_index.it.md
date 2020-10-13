@@ -114,12 +114,9 @@ quote ammortamento
 **<u>Registrazione dell'Ammortamento</u>**
 
 La maschera che si utilizza generalmente a fine anno per registrare gli ammortamenti è la seguente:
-[{{< figure src="/image/Cespiti-55.png"  width="850"  >}}](/image/Cespiti-55.png)
-
+[{{< figure src="/image/AmmortamentoCespite.png"  width="850"  >}}](/image/AmmortamentoCespite.png)
 Si Selezionano gli ammortamenti da registrare (normalmente sono quelli dell'anno o esercizio contabile/fiscale in corso), generalmente si procede con abilitazione registrazione riepilogativa si avrà così una registrazione in contabilità "raggruppata" per gruppo cespite/contabile.
-[{{< figure src="/image/Cespiti-56.png"  width="850"  >}}](/image/Cespiti-56.png)
-
-Sarà comunque possibile successivamente se si dovessero effettuare delle modifiche effettuare un "ri-regista" dei dati che si volessere modificare contabilmente.
+[{{< figure src="/image/RegistrazioneAmmortamentoCespite.png"  width="850"  >}}](/image/RegistrazioneAmmortamentoCespite.png)
 
 
 
