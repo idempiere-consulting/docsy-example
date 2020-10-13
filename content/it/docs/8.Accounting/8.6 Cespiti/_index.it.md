@@ -79,8 +79,8 @@ Nel caso avendo solo questi movimenti interrogando tutte le movimentazioni conta
 #### Azione n° 5 : Da Link sulla barra fattura si effettua l'aggiunta del Cespite 
 [{{< figure src="/image/Aggiuntacespite1.png"  width="850"  >}}](/image/Aggiuntacespite1.png)
 Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono inserire a completamento.
-**Bisogna fare attenzione a inserire una data registrazione o 01/01/n o 01/07/n per la popolazione corretta dell'ammortamento del primo anno 1/2 o intero**
-
+**Bisogna fare attenzione a inserire una data registrazione 01/01/n per la popolazione corretta dell'ammortamento del primo anno**
+Se si desidera avere quota ammortamento a metà il primo anno lo si definisce a livello Gruppo Cespite GC00.
 ## @Segnalazione (al momento non è possibile rielaborare le quote ammortamento qualora si volesse gestire ad. esempio il primo anno in modo differenta da quello indicato in data registrazione aggiunta cespite).## 
 [{{< figure src="/image/AggiuntaCespite1.png"  width="850"  >}}](/image/AggiuntaCespite1.png)
 Controllando la maschera Cespite vediamo che si sono popolati alcuni dati:
