@@ -22,6 +22,8 @@ Menù Idempiere
 [Attivazione/Dismissione Cespite [ADC00]]({{< ref "_index.it.md#ADC00" >}} "Attivazione/Dismissione Cespite") <br>
 [Aggiunta Cespite [ACES00]]({{< ref "_index.it.md#ACES00" >}} "Aggiunta Cespite") <br>
 
+
+---
 ## Cespite [CES00] {#CES00}
 [{{< figure src="/image/Cespite.png"  width="850"  >}}](/image/Cespite.png)
 
@@ -2488,7 +2490,7 @@ patrimonio e contabilità generale dello Stato.
     (24) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
     (25) Vedi, anche, l'art. 11, L. 27 dicembre 1997, n. 449, riportata alla voce Amministrazione del
     patrimonio e contabilità generale dello Stato.
-
+---
 
 ## Ammortamento##
 ### Creazione Ammortamento Cespite [CASC00] {#CASC00}
