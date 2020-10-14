@@ -7,7 +7,7 @@ weight : 40
 
 ## Importa processo CSV [IMP01]
 [{{< figure src="/image/ImportaProcessoCSV.png"  width="850"  >}}](/image/ImportaProcessoCSV.png)
-## Importaizone estratto conto bancario [IECB00]
+## Importazione estratto conto bancario [IECB00]
 [{{< figure src="/image/ImportazioneEstrattoContoBancario.png"  width="850"  >}}](/image/ImportazioneEstrattoContoBancario.png)
 ## Importazione registrazione contabile [IMGO00]
 [{{< figure src="/image/ImportazioneRegistrazioneContabile.png"  width="850"  >}}](/image/ImportazioneRegistrazioneContabile.png)
@@ -47,9 +47,6 @@ weight : 40
 [{{< figure src="/image/ImportazioneOrdine.png"  width="850"  >}}](/image/ImportazioneOrdine.png)
 ## Modello Importazione
 [{{< figure src="/image/ModelloImportazione.png"  width="850"  >}}](/image/ModelloImportazione.png)
-
-
-
 
 
 # Video Importazione
