@@ -38,7 +38,7 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 - relazioni beni padre figlio ???
 - determinazione di plusvalenze/minusvalenze a fine vita del cespite a segiuto dismissione.
 
-##### Anagrafica Cespite
+#### Anagrafica Cespite
 
 **Piano dei conti**
 E' necessario (ove non siano esistenti) l' Inserimento dei conti contabili nell'attivo Patrimoniale relativi alle categorie cespiti da inserire (per il loro valore di acquisto) e nel passivo dei conti che accolgono gli ammortamenti accumulati nei corsi dei vari anni (Fondi ammortamento).
@@ -53,7 +53,7 @@ Per quanto riguarda la parte corpo del gruppo si può far riferimento alla segue
 [{{< figure src="/image/Cespiti-51.png"  width="850"  >}}](/image/Cespiti-51.png)
 In questa parte si compileranno i dati che determineranno le interrogazioni che si andranno a fare in base alle impostazioni che si inseriranno sui gruppi cespite ad es. se si vuole che l'ammortamento del primo periodo sia calcolato a metà dell'aliquota come fiscalmente permesso. Sono precompilati e da verificare poi i dati contabili che regoleranno le varie operazioni relative.
 
-##### Importazione del Cespite
+#### Importazione del Cespite
 L'importazione Cespite è generalmente la prima operazione che ci si trova a fare, dovendo caricare il data base storico dei Cespiti aziendali. Tale operazione può essere eseguita "massivamente" da file CSV o attraverso la maschera appunti di Importazione Cespite, le maschere da utilizzare sono le seguenti: 
 [{{< figure src="/image/Cespiti-52.png"  width="850"  >}}](/image/Cespiti-52.png)
 [{{< figure src="/image/Cespiti-53.png"  width="850"  >}}](/image/Cespiti-53.png)
