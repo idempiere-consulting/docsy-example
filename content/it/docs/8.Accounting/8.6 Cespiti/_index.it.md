@@ -25,7 +25,7 @@ Menù Idempiere
 ## Cespite [CES00] {#CES00}
 [{{< figure src="/image/Cespite.png"  width="850"  >}}](/image/Cespite.png)
 
-## Gestione cespite in Idempiere
+### Gestione cespite in Idempiere
 
 La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 - gestione dell'anagrafica dei Cespiti e delle loro movimentazioni.
@@ -38,7 +38,7 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 - determinazione di plusvalenze/minusvalenze a fine vita del cespite a segiuto dismissione.
 
 
-## Anagrafica Cespite
+### Anagrafica Cespite
 
 #### Piano dei conti
 E' necessario (ove non siano esistenti) l' Inserimento dei conti contabili nell'attivo Patrimoniale relativi alle categorie cespiti da inserire (per il loro valore di acquisto) e nel passivo dei conti che accolgono gli ammortamenti accumulati nei corsi dei vari anni (Fondi ammortamento).
@@ -53,12 +53,12 @@ Per quanto riguarda la parte corpo del gruppo si può far riferimento alla segue
 [{{< figure src="/image/Cespiti-51.png"  width="850"  >}}](/image/Cespiti-51.png)
 In questa parte si compileranno i dati che determineranno le interrogazioni che si andranno a fare in base alle impostazioni che si inseriranno sui gruppi cespite ad es. se si vuole che l'ammortamento del primo periodo sia calcolato a metà dell'aliquota come fiscalmente permesso. Sono precompilati e da verificare poi i dati contabili che regoleranno le varie operazioni relative.
 
-## Importazione del Cespite
+### Importazione del Cespite
 L'importazione Cespite è generalmente la prima operazione che ci si trova a fare, dovendo caricare il data base storico dei Cespiti aziendali. Tale operazione può essere eseguita "massivamente" da file CSV o attraverso la maschera appunti di Importazione Cespite, le maschere da utilizzare sono le seguenti: 
 [{{< figure src="/image/Cespiti-52.png"  width="850"  >}}](/image/Cespiti-52.png)
 [{{< figure src="/image/Cespiti-53.png"  width="850"  >}}](/image/Cespiti-53.png)
 
-## Acquisto del cespite con Idempiere 
+### Acquisto del cespite con Idempiere 
 #### Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.
 [{{< figure src="/image/OrdineAcquistoCespite.png"  width="850"  >}}](/image/OrdineAcquistoCespite.png) 
 #### Azione n° 2 : Si genera l'entrata merce come per un qualsiasi materiale (da elaborazione processo con Crea Entrata Merci da elabora processo).
@@ -81,7 +81,7 @@ Nel caso avendo solo questi movimenti interrogando tutte le movimentazioni conta
 Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono inserire a completamento.
 **Bisogna fare attenzione a inserire una data registrazione 01/01/n per la popolazione corretta dell'ammortamento del primo anno**
 Se si desidera avere quota ammortamento a metà il primo anno lo si definisce a livello Gruppo Cespite GC00.
-## @Segnalazione1
+### @Segnalazione1
 (al momento non è possibile rielaborare le quote ammortamento qualora si volesse gestire ad. esempio il primo anno in modo differenta da quello indicato in data registrazione aggiunta cespite).
 [{{< figure src="/image/AggiuntaCespite1.png"  width="850"  >}}](/image/AggiuntaCespite1.png)
 Controllando la maschera Cespite vediamo che si sono popolati alcuni dati:
@@ -90,24 +90,24 @@ scheda cespite
 quote ammortamento
 [{{< figure src="/image/Cespite2.png"  width="850"  >}}](/image/Cespite2.png)
 
-## Ammortamento
+### Ammortamento
 **<u>Registrazione dell'Ammortamento</u>**
 La maschera che si utilizza generalmente a fine anno per registrare gli ammortamenti è la seguente:
 [{{< figure src="/image/AmmortamentoCespite.png"  width="850"  >}}](/image/AmmortamentoCespite.png)
 Si Selezionano gli ammortamenti da registrare (normalmente sono quelli dell'anno o esercizio contabile/fiscale in corso), generalmente si procede con abilitazione registrazione riepilogativa si avrà così una registrazione in contabilità "raggruppata" per gruppo cespite/contabile.
 [{{< figure src="/image/RegistrazioneAmmortamentoCespite.png"  width="850"  >}}](/image/RegistrazioneAmmortamentoCespite.png)
 
-## Dismissione Cespite
+### Dismissione Cespite
 Si segue la stessa procedura dell'acquisto quindi si inserisce un **Ordine di Vendita** e lo si completa.
 Da Processo si prosegue in via ordinaria come per un documento di ciclo attivo normale per cui si procede con il **Documento di Trasporto** e (anche contemporaneamente) con l'emissione della **Fattura di Vendita**.
 Per completare e registrare la Fattura si deve indicare in riga il cespite che si va a vendere.
 Ora si richiama la Dismissione (da link in barra fattura) apparirà una videata popolata dei dati relativi al Cespite in oggetto e ai valori di vendita. **Fare attenzione a indicare data Registrazione 01/01/n per completare la registrazione con i dati contabili di fine anno precedente (si otterrà una plusvalenza o minusvalenza relativa a tali dati)**, come di seguito:
 [{{< figure src="/image/DismissioneCespite.png"  width="850"  >}}](/image/DismissioneCespite.png)
 Si completa la registrazione.
-## @segnalazione2
+### @segnalazione2
 problema con data registrazione
 
-## Tabella coefficienti ammortamento
+### Tabella coefficienti ammortamento
 
 Ministero delle finanze
 D.M. 31-12-1988
@@ -2450,32 +2450,32 @@ patrimonio e contabilità generale dello Stato.
     patrimonio e contabilità generale dello Stato.
 
 
-## Ammortamento
+## Ammortamento##
 ### Creazione Ammortamento Cespite [CASC00] {#CASC00}
 [{{< figure src="/image/CreazioneAmmortamentoCespite.png"  width="850"  >}}](/image/CreazioneAmmortamentoCespite.png)
 ### Gruppo Cespite [GC00] {#GC00}
 [{{< figure src="/image/GruppoCespite.png"  width="850"  >}}](/image/GruppoCespite.png)
 
 ## Setup Ammortamento Cespite
-## Consegnare Beni Gestiti [CBG00] {#CBG00}
+### Consegnare Beni Gestiti [CBG00] {#CBG00}
 [{{< figure src="/image/ConsegnareBeniGestiti.png"  width="850"  >}}](/image/ConsegnareBeniGestiti.png)
-## Registrazione [REG00] {#REG00}
+### Registrazione [REG00] {#REG00}
 [{{< figure src="/image/Registrazione.png"  width="850"  >}}](/image/Registrazione.png)
-## Report Consegnare Bene Gestito [R.78] {#R78}
+### Report Consegnare Bene Gestito [R.78] {#R78}
 [{{< figure src="/image/ReportConsegnareBeneGestito.png"  width="850"  >}}](/image/ReportConsegnareBeneGestito.png)
-## Report Consegna Bene Gestito Mensili [R.77] {#R77}
+### Report Consegna Bene Gestito Mensili [R.77] {#R77}
 [{{< figure src="/image/ReportConsegnareBeneGestitoMensili.png"  width="850"  >}}](/image/ReportConsegnareBeneGestitoMensili.png)
-## Report Bene Gestito Cliente [R.79] {#R79}
+### Report Bene Gestito Cliente [R.79] {#R79}
 [{{< figure src="/image/ReportBeneGestitoCliente.png"  width="850"  >}}](/image/ReportBeneGestitoCliente.png)
-## Metodo di Ammortamento [MDA00] {#MDA00}
+### Metodo di Ammortamento [MDA00] {#MDA00}
 [{{< figure src="/image/MetodofiAmmortamento.png"  width="850"  >}}](/image/MetodofiAmmortamento.png)
-## Registrazione Attributi [REGA00] {#REGA00}
+### Registrazione Attributi [REGA00] {#REGA00}
 [{{< figure src="/image/RegistrazioneAttributi.png"  width="850"  >}}](/image/RegistrazioneAttributi.png)
 
-# Trasferimenti,Suddivisioni e Cessione Cespiti
-## Crea Cespite da Progetto [CCPR00] {#CCPR00}
+## Trasferimenti,Suddivisioni e Cessione Cespiti
+### Crea Cespite da Progetto [CCPR00] {#CCPR00}
 [{{< figure src="/image/CreaCespitedaProgetto.png"  width="850"  >}}](/image/CreaCespitedaProgetto.png)
-## Attivazione/Dismissione Cespite [ADC00] {#ADC00}
+### Attivazione/Dismissione Cespite [ADC00] {#ADC00}
 [{{< figure src="/image/AttivazioneDismissioneCespite.png"  width="850"  >}}](/image/AttivazioneDismissioneCespite.png)
-## Aggiunta Cespite [ACES00] {#ACES00}
+### Aggiunta Cespite [ACES00] {#ACES00}
 [{{< figure src="/image/AggiuntaCespite.png"  width="850"  >}}](/image/AggiuntaCespite.png)
