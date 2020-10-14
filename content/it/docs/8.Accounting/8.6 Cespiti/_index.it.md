@@ -101,6 +101,8 @@ Si Selezionano gli ammortamenti da registrare (normalmente sono quelli dell'anno
 Si segue la stessa procedura dell'acquisto quindi si inserisce un **Ordine di Vendita** e lo si completa.
 Da Processo si prosegue in via ordinaria come per un documento di ciclo attivo normale per cui si procede con il **Documento di Trasporto** e (anche contemporaneamente) con l'emissione della **Fattura di Vendita**.
 Per completare e registrare la Fattura si deve indicare in riga il cespite che si va a vendere.
+Ora si richiama la Dismissione (da link in barra fattura) apparirà una videata popolata dei dati relativi al Cespite in oggetto e ai valori di vendita, come di seguito:
+[{{< figure src="/image/DismissioneCespite.png"  width="850"  >}}](/image/DismissioneCespite.png)
 
 
 
