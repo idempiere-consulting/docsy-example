@@ -107,6 +107,46 @@ Si completa la registrazione.
 ### @segnalazione2
 problema con data registrazione
 
+### Superammortamento
+
+### Incrementi Manutentivi al Cespite
+
+**<u>Manutenzione straordinaria collegata al Cespite</u>**
+
+**<u>Caso a)Manutenzione straordinaria incrementativa del valore del Cespite</u>**
+
+E' il caso di spese di manutenzione o incrementative di natura straordinaria o che modificano sostanzialmente il valore del cespite stesso e come tali di carattere pluriennale quindi da ammortizzare.
+In questo caso si procede come per l'acquisto del cespite primario, quindi:
+- Inserimento Ordine di acquisto
+- Entrata Merce 
+- Fattura di acquisto
+- Aggiunta cespite ** **<u>Da Vedere</u>**
+
+In questo momento si andrà a collegare l'acquisto al Cespite originario e come unica indicazione andiamo a inserire la data di registrazione relativa all'immissione in ammortamento (01.01.n oppure 01.07.n se desideriamo avere un ammortamento metà per il periodo di entrata in produzione della manutenzione). 
+
+Inseriamo una fattura per una spesa incrementativa del cespite e/o una manutenzione staordinaria che si intende ammortizzare
+[{{< figure src="/image/Cespiti-58.png"  width="850"  >}}](/image/Cespiti-58.png)
+Dovremo effettuare una aggiunta Cespite collegando questa registrazione al cespite cui si fa riferimento, quindi Indichiamo in riga fattura il cespite padre. **<u>Si ricorda la necessità di dover effettuare il calcolo dell'ammortamento per il bene iniziale aggiornandolo al mese precedente in modo da effettuare un calcolo corretto degli ammortamenti successivamente generati (regola dell'ammortamento a metà per il primo anno su aggiunta da impostare sull'aggiunta in data inizio ammortamento/entrata produzione 01/01/n o 01/07/n)</u>** 
+Nel dettaglio della riga fattura (dopo aver proceduto all'aggiunta cespite) avremo  queste informazioni 
+[{{< figure src="/image/Cespiti-59.png"  width="850"  >}}](/image/Cespiti-59.png)
+mentre nella tab Aggiunta Cespite del cespite troveremo le informazioni che avremo aggiornato 
+[{{< figure src="/image/Cespiti-60.png"  width="850"  >}}](/image/Cespiti-60.png)
+
+**<u>Caso b)Rettifica della Manutenzione straordinaria in negativo (nota di accredito eventuale del fornitore) del valore del Cespite</u>**
+
+- Nota di Accredito a Rettifica fattura del fornitore
+- Aggiunta cespite ** **<u>Da Vedere</u>**
+
+Nel caso si debba effetturare una rettifica in diminuzione dell'importo del cespite dovremo procedere con la registrazione di una nota di accredito come di seguito visualizzato
+[{{< figure src="/image/Cespiti-61.png"  width="850"  >}}](/image/Cespiti-61.png)
+si effettuerà quindi l'Aggiunta Cespite collegando la diminuzioneal cespite relativo e si procederà ai calcoli ammortamenti desiderati.
+
+
+
+### Rivalutazione del Cespite
+
+
+
 ### Tabella coefficienti ammortamento
 
 Ministero delle finanze
