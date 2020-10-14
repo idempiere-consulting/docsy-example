@@ -2490,9 +2490,8 @@ patrimonio e contabilità generale dello Stato.
     (24) Modificato dal D.M. 7 novembre 1992 (Gazz. Uff. 17 novembre 1992, n. 271).
     (25) Vedi, anche, l'art. 11, L. 27 dicembre 1997, n. 449, riportata alla voce Amministrazione del
     patrimonio e contabilità generale dello Stato.
-    
 
-## Ammortamento##
+## Ammortamento
 ### Creazione Ammortamento Cespite [CASC00] {#CASC00}
 [{{< figure src="/image/CreazioneAmmortamentoCespite.png"  width="850"  >}}](/image/CreazioneAmmortamentoCespite.png)
 ### Gruppo Cespite [GC00] {#GC00}
