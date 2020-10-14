@@ -2450,33 +2450,10 @@ patrimonio e contabilità generale dello Stato.
     patrimonio e contabilità generale dello Stato.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Ammortamento
-## Creazione Ammortamento Cespite [CASC00] {#CASC00}
+### Creazione Ammortamento Cespite [CASC00] {#CASC00}
 [{{< figure src="/image/CreazioneAmmortamentoCespite.png"  width="850"  >}}](/image/CreazioneAmmortamentoCespite.png)
-## Gruppo Cespite [GC00] {#GC00}
+### Gruppo Cespite [GC00] {#GC00}
 [{{< figure src="/image/GruppoCespite.png"  width="850"  >}}](/image/GruppoCespite.png)
 
 ## Setup Ammortamento Cespite
