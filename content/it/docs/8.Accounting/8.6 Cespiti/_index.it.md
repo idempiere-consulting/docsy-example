@@ -38,7 +38,7 @@ La Gestione Cespite in Idempiere offre all'utente diverse funzionalità:
 - relazioni beni padre figlio ???
 - determinazione di plusvalenze/minusvalenze a fine vita del cespite a segiuto dismissione.
 
----
+
 #### Anagrafica Cespite
 
 **Piano dei conti**
@@ -53,12 +53,12 @@ La maschera di inizio impostazioni del "Cespite" è quella relativa alla definiz
 Per quanto riguarda la parte corpo del gruppo si può far riferimento alla seguente immagine:
 [{{< figure src="/image/Cespiti-51.png"  width="850"  >}}](/image/Cespiti-51.png)
 In questa parte si compileranno i dati che determineranno le interrogazioni che si andranno a fare in base alle impostazioni che si inseriranno sui gruppi cespite ad es. se si vuole che l'ammortamento del primo periodo sia calcolato a metà dell'aliquota come fiscalmente permesso. Sono precompilati e da verificare poi i dati contabili che regoleranno le varie operazioni relative.
----
+
 #### Importazione del Cespite
 L'importazione Cespite è generalmente la prima operazione che ci si trova a fare, dovendo caricare il data base storico dei Cespiti aziendali. Tale operazione può essere eseguita "massivamente" da file CSV o attraverso la maschera appunti di Importazione Cespite, le maschere da utilizzare sono le seguenti: 
 [{{< figure src="/image/Cespiti-52.png"  width="850"  >}}](/image/Cespiti-52.png)
 [{{< figure src="/image/Cespiti-53.png"  width="850"  >}}](/image/Cespiti-53.png)
----
+
 #### Acquisto del cespite con Idempiere 
 
 **Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.**
@@ -68,22 +68,23 @@ L'importazione Cespite è generalmente la prima operazione che ci si trova a far
 [{{< figure src="/image/EntrataMerceCespite2.png"  width="850"  >}}](/image/EntrataMerceCespite2.png)
 Si completa e viene generata anche la registrazione contabile di entrata a magazzino
 [{{< figure src="/image/RegistrazioneEntrataMerceCespite.png"  width="850"  >}}](/image/RegistrazioneEntrataMerceCespite.png)
-#### Azione n° 3 : Si genera la fattura sempre da processo, registrandola comparirà un messaggio bloccante (preambolo ad azione 4 ossia indicazione si tratta di un acquisto di tipo "Capitale").
+**Azione n° 3 : Si genera la fattura sempre da processo, registrandola comparirà un messaggio bloccante (preambolo ad azione 4 ossia indicazione si tratta di un acquisto di tipo "Capitale").**
 [{{< figure src="/image/GeneraFatturaCespite.png"  width="850"  >}}](/image/GeneraFatturaCespite.png)
 [{{< figure src="/image/GeneraFatturaCespite3.png"  width="850"  >}}](/image/GeneraFatturaCespite3.png)
 [{{< figure src="/image/GeneraFatturaCespite4.png"  width="850"  >}}](/image/GeneraFatturaCespite4.png)
-#### Azione n° 4 : Si assegna a "Capitale" il Cespite da creare (aprendo a pagina la riga fattura troverò "assegna a Capitale" seleziono e completo i campi necessari)
+**Azione n° 4 : Si assegna a "Capitale" il Cespite da creare (aprendo a pagina la riga fattura troverò "assegna a Capitale" seleziono e completo i campi necessari)**
 [{{< figure src="/image/GeneraFatturaCespite5.png"  width="850"  >}}](/image/GeneraFatturaCespite5.png)
 Si completa la registrazione fattura e si avrà la registrazione a contabilità relativa.
 [{{< figure src="/image/GeneraFatturaCespite6.png"  width="850"  >}}](/image/GeneraFatturaCespite6.png)
 Nel caso avendo solo questi movimenti interrogando tutte le movimentazioni contabili del giorno vedo i movimenti di magazzino stornati e i rimanenti movimenti contabili da fattura.
 [{{< figure src="/image/MovimentiContabiliAcquisizioneCespite.png"  width="850"  >}}](/image/MovimentiContabiliAcquisizioneCespite.png)
-#### Azione n° 5 : Da Link sulla barra fattura si effettua l'aggiunta del Cespite 
+**Azione n° 5 : Da Link sulla barra fattura si effettua l'aggiunta del Cespite** 
 [{{< figure src="/image/Aggiuntacespite1.png"  width="850"  >}}](/image/Aggiuntacespite1.png)
 Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono inserire a completamento.
 **Bisogna fare attenzione a inserire una data registrazione 01/01/n per la popolazione corretta dell'ammortamento del primo anno**
 Se si desidera avere quota ammortamento a metà il primo anno lo si definisce a livello Gruppo Cespite GC00.
-### @Segnalazione1
+
+**@Segnalazione1**
 (al momento non è possibile rielaborare le quote ammortamento qualora si volesse gestire ad. esempio il primo anno in modo differenta da quello indicato in data registrazione aggiunta cespite).
 [{{< figure src="/image/AggiuntaCespite1.png"  width="850"  >}}](/image/AggiuntaCespite1.png)
 Controllando la maschera Cespite vediamo che si sono popolati alcuni dati:
@@ -106,7 +107,8 @@ Per completare e registrare la Fattura si deve indicare in riga il cespite che s
 Ora si richiama la Dismissione (da link in barra fattura) apparirà una videata popolata dei dati relativi al Cespite in oggetto e ai valori di vendita. **Fare attenzione a indicare data Registrazione 01/01/n per completare la registrazione con i dati contabili di fine anno precedente (si otterrà una plusvalenza o minusvalenza relativa a tali dati)**, come di seguito:
 [{{< figure src="/image/DismissioneCespite.png"  width="850"  >}}](/image/DismissioneCespite.png)
 Si completa la registrazione.
-### @segnalazione2
+
+**@Segnalazione2**
 problema con data registrazione
 
 ### Superammortamento
