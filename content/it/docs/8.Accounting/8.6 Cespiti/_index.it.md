@@ -101,39 +101,10 @@ Si Selezionano gli ammortamenti da registrare (normalmente sono quelli dell'anno
 Si segue la stessa procedura dell'acquisto quindi si inserisce un **Ordine di Vendita** e lo si completa.
 Da Processo si prosegue in via ordinaria come per un documento di ciclo attivo normale per cui si procede con il **Documento di Trasporto** e (anche contemporaneamente) con l'emissione della **Fattura di Vendita**.
 Per completare e registrare la Fattura si deve indicare in riga il cespite che si va a vendere.
-Ora si richiama la Dismissione (da link in barra fattura) apparirà una videata popolata dei dati relativi al Cespite in oggetto e ai valori di vendita, come di seguito:
+Ora si richiama la Dismissione (da link in barra fattura) apparirà una videata popolata dei dati relativi al Cespite in oggetto e ai valori di vendita. **Fare attenzione a indicare data Registrazione 01/01/n per completare la registrazione con i dati contabili di fine anno precedente (si otterrà una plusvalenza o minusvalenza relativa a tali dati)**, come di seguito:
 [{{< figure src="/image/DismissioneCespite.png"  width="850"  >}}](/image/DismissioneCespite.png)
-
-
-
-
-
-
-
-​
-|         |                                                              |      |      |      |             |      |      |      |
-| ------- | ------------------------------------------------------------ | ---- | ---- | ---- | ----------- | ---- | ---- | ---- |
-| esempio |                                                              |      |      |      |             |      |      |      |
-|         | vendo un cespite a euro 300 del vaolre storico di euro 100 ed  ammortizzato per 70 |      |      |      |             |      |      |      |
-|         |                                                              |      |      |      |             |      |      |      |
-| avremo: |                                                              |      |      |      |             |      |      |      |
-|         | storno cespite per 100 in avere (il valore storico è in dare) |      |      |      |             |      |      |      |
-|         | storno del fondo ammortamento per 70 (il valore è in avere)  |      |      |      |             |      |      |      |
-|         | la plusvalenza sarà quindi la differenza tra valore di vendita e il residuo da ammortizzare (30 che è il valore contabile) quindi 270 |      |      |      |             |      |      |      |
-|         |                                                              |      |      |      |             |      |      |      |
-|         | NB: NATURALMENTE NON SI CONSIDERA L' IVA                     |      |      |      |             |      |      |      |
-|         |                                                              |      |      |      |             |      |      |      |
-|         |                                                              |      |      |      |             |      |      |      |
-|         |                                                              |      |      |      |             |      |      |      |
-|         | fondo ammortamento                                           |      |      |      | cespite     |      |      |      |
-|         | dare                                                         | 70   |      |      | avere       | 100  |      |      |
-|         |                                                              |      |      |      |             |      |      |      |
-|         | cred.v.clienti                                               | 300  |      |      | plusvalenza | 270  |      |      |
-|         |                                                              |      |      |      |             |      |      |      |
-|         |                                                              | 370  |      |      |             | 370  |      |      |
-|         |                                                              |      |      |      |             |      |      |      |
-
-
+Si completa la registrazione.
+@segnalazione problema con data registrazione.
 
 ## Tabella coefficienti ammortamento
 
