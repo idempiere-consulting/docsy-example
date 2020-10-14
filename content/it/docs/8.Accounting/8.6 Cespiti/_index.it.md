@@ -1,5 +1,5 @@
 ---
-title: "Cespiti"
+title: "Cespite"
 date: 2020-04-24T22:47:10+02:00
 draft: false
 weight : 700
@@ -2472,7 +2472,7 @@ patrimonio e contabilità generale dello Stato.
 ### Registrazione Attributi [REGA00] {#REGA00}
 [{{< figure src="/image/RegistrazioneAttributi.png"  width="850"  >}}](/image/RegistrazioneAttributi.png)
 
-## Trasferimenti,Suddivisioni e Cessione Cespiti
+## Trasferimenti,Suddivisioni e Cessione Cespite
 ### Crea Cespite da Progetto [CCPR00] {#CCPR00}
 [{{< figure src="/image/CreaCespitedaProgetto.png"  width="850"  >}}](/image/CreaCespitedaProgetto.png)
 ### Attivazione/Dismissione Cespite [ADC00] {#ADC00}
