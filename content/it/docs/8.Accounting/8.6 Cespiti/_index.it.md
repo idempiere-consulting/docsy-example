@@ -97,7 +97,6 @@ Si Selezionano gli ammortamenti da registrare (normalmente sono quelli dell'anno
 [{{< figure src="/image/RegistrazioneAmmortamentoCespite.png"  width="850"  >}}](/image/RegistrazioneAmmortamentoCespite.png)
 
 ## Dismissione Cespite
-
 Si segue la stessa procedura dell'acquisto quindi si inserisce un **Ordine di Vendita** e lo si completa.
 Da Processo si prosegue in via ordinaria come per un documento di ciclo attivo normale per cui si procede con il **Documento di Trasporto** e (anche contemporaneamente) con l'emissione della **Fattura di Vendita**.
 Per completare e registrare la Fattura si deve indicare in riga il cespite che si va a vendere.
@@ -2410,7 +2409,7 @@ patrimonio e contabilità generale dello Stato.
 | Autoveicoli da trasporto (autoveicoli pesanti in genere, carrelli elevatori, mezzi di trasporto interno, ecc.) | 20%             |                  |
 
 
-## 1. Fiere e Rassegne. {#GRFR}
+#### 1. Fiere e Rassegne. {#GRFR}
 
    Fabbricati in muratura destinati a padiglioni per esposizione 10%
     Costruzioni in legno o in strutture mobili 20%
@@ -2424,7 +2423,7 @@ patrimonio e contabilità generale dello Stato.
     interno, ecc.) 20%
     Autovetture, motoveicoli e simili 25%
 
-## 2. Altre Attività {#GRAA}
+#### 2. Altre Attività {#GRAA}
    Edifici 3%
     Fabbricati destinati alla grande distribuzione 6%
     Costruzioni leggere (tettoie, baracche, ecc.) 10%
