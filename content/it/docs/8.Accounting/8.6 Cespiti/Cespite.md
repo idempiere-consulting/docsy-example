@@ -8,19 +8,6 @@ pre: "<b>8.9 </b>"
 
 indice
 
-* [Automatic Search]({{%relref "basics/configuration/_index.md#activate-search" %}})
-* [Multilingual mode]({{%relref "cont/i18n/_index.md" %}})
-* **Unlimited menu levels**
----
-
-
-### Tabelle ministeriali coefficienti di ammortamento
-
-La gestione dei cespiti proposta da Idempiere non prevede una tabellazione delle varie attività economiche e delle aliquote di ammortamento previste dal Ministero, ciò è demandato al Client. Viene fornita una predisposizione di base con dei "Gruppi Cespiti" già inseriti eventualmente modificabili e/o implementabili in base alle proprie esigenze. (bisognerà fare affidamento alla tabella Ministeriale relativa e alle disposizioni fiscali in esssere. 
-Per l'inserimento e/o variazione dei gruppi Cespite si può fare eventualmente riferimento al seguente link.
-[Link Decreto Ministeriale Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/1989/02/02/088A0017/sg)
-Le categorie sono riportate anche in "appendice"
-
 
 
 ---

@@ -11,12 +11,12 @@ weight : 40
 [{{< figure src="/image/ImportazioneEstrattoContoBancario.png"  width="850"  >}}](/image/ImportazioneEstrattoContoBancario.png)
 ## Importazione registrazione contabile [IMGO00]
 [{{< figure src="/image/ImportazioneRegistrazioneContabile.png"  width="850"  >}}](/image/ImportazioneRegistrazioneContabile.png)
-## Importaizone prodotto [IP00]
+## Importazione prodotto [IP00]
 [{{< figure src="/image/ImportazioneProdotto.png"  width="850"  >}}](/image/ImportazioneProdotto.png)
 ## Importazione Business Partner [IBP00]
 [{{< figure src="/image/ImportazioneBusinessPartner.png"  width="850"  >}}](/image/ImportazioneBusinessPartner.png)
-## Importazione cespiti [IMC00]
-[{{< figure src="/image/ImportazioneCespiti.png"  width="850"  >}}](/image/ImportazioneCespiti.png)
+## Importazione cespite [IMC00]
+[{{< figure src="/image/ImportazioneCespite.png"  width="850"  >}}](/image/ImportazioneCespite.png)
 ## Formato di Importazione [FDI00]
 [{{< figure src="/image/FormatoDiImportazione.png"  width="850"  >}}](/image/FormatoDiImportazione.png)
 ## Importazione Fattura [IMF00]
