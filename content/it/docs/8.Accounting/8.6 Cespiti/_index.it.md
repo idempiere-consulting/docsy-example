@@ -28,8 +28,8 @@ Menù Idempiere
 
 ### Gestione cespite in Idempiere
 
-La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
-- gestione dell'anagrafica dei Cespiti e delle loro movimentazioni.
+La Gestione Cespite in Idempiere offre all'utente diverse funzionalità:
+- gestione dell'anagrafica dei Cespite e delle loro movimentazioni.
 - collegamento diretto tra anagrafica Cespite e Registrazioni contabili,
 - classificazione fiscale dei Cespiti, 
 - possibilità di effettaure simulazioni di calcolo ammortamento, ???
@@ -38,6 +38,7 @@ La Gestione Cespiti in Idempiere offre all'utente diverse funzionalità:
 - relazioni beni padre figlio ???
 - determinazione di plusvalenze/minusvalenze a fine vita del cespite a segiuto dismissione.
 
+---
 #### Anagrafica Cespite
 
 **Piano dei conti**
@@ -52,17 +53,17 @@ La maschera di inizio impostazioni del "Cespite" è quella relativa alla definiz
 Per quanto riguarda la parte corpo del gruppo si può far riferimento alla seguente immagine:
 [{{< figure src="/image/Cespiti-51.png"  width="850"  >}}](/image/Cespiti-51.png)
 In questa parte si compileranno i dati che determineranno le interrogazioni che si andranno a fare in base alle impostazioni che si inseriranno sui gruppi cespite ad es. se si vuole che l'ammortamento del primo periodo sia calcolato a metà dell'aliquota come fiscalmente permesso. Sono precompilati e da verificare poi i dati contabili che regoleranno le varie operazioni relative.
-
+---
 #### Importazione del Cespite
 L'importazione Cespite è generalmente la prima operazione che ci si trova a fare, dovendo caricare il data base storico dei Cespiti aziendali. Tale operazione può essere eseguita "massivamente" da file CSV o attraverso la maschera appunti di Importazione Cespite, le maschere da utilizzare sono le seguenti: 
 [{{< figure src="/image/Cespiti-52.png"  width="850"  >}}](/image/Cespiti-52.png)
 [{{< figure src="/image/Cespiti-53.png"  width="850"  >}}](/image/Cespiti-53.png)
-
+---
 #### Acquisto del cespite con Idempiere 
 
 **Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.**
 [{{< figure src="/image/OrdineAcquistoCespite.png"  width="850"  >}}](/image/OrdineAcquistoCespite.png) 
-#### Azione n° 2 : Si genera l'entrata merce come per un qualsiasi materiale (da elaborazione processo con Crea Entrata Merci da elabora processo).
+**Azione n° 2 : Si genera l'entrata merce come per un qualsiasi materiale (da elaborazione processo con Crea Entrata Merci da elabora processo).**
 [{{< figure src="/image/EntrataMerceCespite.png"  width="850"  >}}](/image/EntrataMerceCespite.png)
 [{{< figure src="/image/EntrataMerceCespite2.png"  width="850"  >}}](/image/EntrataMerceCespite2.png)
 Si completa e viene generata anche la registrazione contabile di entrata a magazzino
