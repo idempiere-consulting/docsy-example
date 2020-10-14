@@ -81,7 +81,8 @@ Nel caso avendo solo questi movimenti interrogando tutte le movimentazioni conta
 Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono inserire a completamento.
 **Bisogna fare attenzione a inserire una data registrazione 01/01/n per la popolazione corretta dell'ammortamento del primo anno**
 Se si desidera avere quota ammortamento a metà il primo anno lo si definisce a livello Gruppo Cespite GC00.
-## @Segnalazione (al momento non è possibile rielaborare le quote ammortamento qualora si volesse gestire ad. esempio il primo anno in modo differenta da quello indicato in data registrazione aggiunta cespite).## 
+## @Segnalazione1##
+(al momento non è possibile rielaborare le quote ammortamento qualora si volesse gestire ad. esempio il primo anno in modo differenta da quello indicato in data registrazione aggiunta cespite).
 [{{< figure src="/image/AggiuntaCespite1.png"  width="850"  >}}](/image/AggiuntaCespite1.png)
 Controllando la maschera Cespite vediamo che si sono popolati alcuni dati:
 scheda cespite
@@ -103,7 +104,8 @@ Per completare e registrare la Fattura si deve indicare in riga il cespite che s
 Ora si richiama la Dismissione (da link in barra fattura) apparirà una videata popolata dei dati relativi al Cespite in oggetto e ai valori di vendita. **Fare attenzione a indicare data Registrazione 01/01/n per completare la registrazione con i dati contabili di fine anno precedente (si otterrà una plusvalenza o minusvalenza relativa a tali dati)**, come di seguito:
 [{{< figure src="/image/DismissioneCespite.png"  width="850"  >}}](/image/DismissioneCespite.png)
 Si completa la registrazione.
-@segnalazione problema con data registrazione.
+## @segnalazione2
+problema con data registrazione
 
 ## Tabella coefficienti ammortamento
 
