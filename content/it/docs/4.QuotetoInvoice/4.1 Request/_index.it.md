@@ -19,13 +19,20 @@ Menù Idempiere
 [Categoria Richiesta [CR00]]({{< ref "_index.it.md#CR00" >}} "Categoria Richiesta") <br>
 [Stato Richiesta [SR00]]({{< ref "_index.it.md#SR00" >}} "Stato Richiesta") <br>
 
-
 ## Richesta / Ticket [TIK00] {#TIK00}
 La maschera permetta la compilazione di un ticket. In corpo del ticket, nel corso del suo procedere verranno salvate le varie azioni apportate.
 [{{< figure src="/image/TicketTIK00.png"  width="850"  >}}](/image/TicketTIK00.png)
+Si possono ad esempio gestire nuovi Clienti e gestire in modo preciso e facilmente rivedibile tutta la cronistoria delle varie azioni schedate.
+[{{< figure src="/image/Ticket.png"  width="850"  >}}](/image/Ticket.png)
+Si dovrà procedere con il definire dei Tipi di Richiesta in base alla operazione che si vuole definire (esempio). 
+[{{< figure src="/image/TipoRichiesta.png"  width="850"  >}}](/image/TipoRichiesta.png)
+E all'interno della richiesta definire uno "stato" della stessa.
+[{{< figure src="/image/StatoRichiesta.png"  width="850"  >}}](/image/StatoRichiesta.png)
+
 ## Richiesta Tutto [RICT00] {#RICT00}
-La maschera permette di visualizzare qualsiasi informazione relativa ad un determinato Ticket in oggetto.
-[{{< figure src="/image/RichiestaTutto0.png"  width="850"  >}}](/image/RichiestaTutto0.png)
+La maschera permette di visualizzare qualsiasi informazione relativa ad un determinato Ticket in oggetto, le eventuali azioni apportate fatture a fronte, ecc.
+[{{< figure src="/image/RichiestaTutto.png"  width="850"  >}}](/image/RichiestaTutto.png)
+
 ### Nota bene
 ```
 Visualizza e lavora su tutte le richieste
@@ -39,8 +46,8 @@ La scheda Richiesta definisce qualsiasi richiesta inviata da un Business Partner
 ```
 ---
 ## Risoluzione Richiesta [RR01] {#RR01}
-La maschera permette di generare delle definizioni per la risoluzione alla richiesta di un Ticket. 
-[{{< figure src="/image/RisoluzioneRichiesta0.png"  width="850"  >}}](/image/RisoluzioneRichiesta0.png)
+La maschera permette di generare delle risposte o modalità operative per la risoluzione alla richiesta di un Ticket. 
+[{{< figure src="/image/RisoluzioneRichiesta.png"  width="850"  >}}](/image/RisoluzioneRichiesta.png)
 ## Risposta Standard Richiesta [RSR00] {#RSR00}
 La maschera permette di generare delle definizioni standardizzate per la risoluzione alla richiesta di un Ticket.
 [{{< figure src="/image/RispostaStandardRichiesta0.png"  width="850"  >}}](/image/RispostaStandardRichiesta0.png)
