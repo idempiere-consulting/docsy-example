@@ -23,6 +23,14 @@ Menù Idempiere
 ## Richesta / Ticket [TIK00] {#TIK00}
 La maschera permetta la compilazione di un ticket. In corpo del ticket, nel corso del suo procedere verranno salvate le varie azioni apportate.
 [{{< figure src="/image/TicketTIK00.png"  width="850"  >}}](/image/TicketTIK00.png)
+Si possono ad esempio gestire nuovi Clienti e gestire in modo preciso e facilmente rivedibile tutta la cronistoria delle varie azioni schedate.
+[{{< figure src="/image/Ticket.png"  width="850"  >}}](/image/Ticket.png)
+Si dovrà procedere con il definire dei Tipi di Richiesta in base alla operazione che si vuole definire (esempio). 
+[{{< figure src="/image/TipoRichiesta.png"  width="850"  >}}](/image/TipoRichiesta.png)
+E all'interno della richiesta definire uno "stato" della stessa.
+[{{< figure src="/image/StatoRichiesta.png"  width="850"  >}}](/image/StatoRichiesta.png)
+
+
 ## Richiesta Tutto [RICT00] {#RICT00}
 La maschera permette di visualizzare qualsiasi informazione relativa ad un determinato Ticket in oggetto.
 [{{< figure src="/image/RichiestaTutto0.png"  width="850"  >}}](/image/RichiestaTutto0.png)
