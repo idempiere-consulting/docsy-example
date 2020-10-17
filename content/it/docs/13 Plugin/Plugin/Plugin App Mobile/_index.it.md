@@ -255,6 +255,12 @@ In questo caso la chiamata avrà bisogna di avere dei parametri di input, nel ca
 ## Impostazione ambiente di simulazione con Android Studio
 
 - Scaricare l'applicazione da <a href="https://developer.android.com/studio" target="_blank">Qui <a>
+    android-studio-ide-201.6858069-linux.targz
+    estrarre i file in una cartella e posizionarla dove si desidera
+    dentro la cartella bin di android-studio lanciare il file studio.sh
+      risposte di default se non è necessario migrare o avere impostazioni specifiche 
+    
+    
 - Avere ambiente <a href="https://www.oracle.com/it/java/technologies/javase/javase-jdk8-downloads.html" target="_blank">Java 8.0</a>
 - Impostare le variabili d'ambiente su .bashRC
 
