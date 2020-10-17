@@ -19,7 +19,6 @@ Menù Idempiere
 [Categoria Richiesta [CR00]]({{< ref "_index.it.md#CR00" >}} "Categoria Richiesta") <br>
 [Stato Richiesta [SR00]]({{< ref "_index.it.md#SR00" >}} "Stato Richiesta") <br>
 
-
 ## Richesta / Ticket [TIK00] {#TIK00}
 La maschera permetta la compilazione di un ticket. In corpo del ticket, nel corso del suo procedere verranno salvate le varie azioni apportate.
 [{{< figure src="/image/TicketTIK00.png"  width="850"  >}}](/image/TicketTIK00.png)
@@ -30,10 +29,10 @@ Si dovrà procedere con il definire dei Tipi di Richiesta in base alla operazion
 E all'interno della richiesta definire uno "stato" della stessa.
 [{{< figure src="/image/StatoRichiesta.png"  width="850"  >}}](/image/StatoRichiesta.png)
 
-
 ## Richiesta Tutto [RICT00] {#RICT00}
-La maschera permette di visualizzare qualsiasi informazione relativa ad un determinato Ticket in oggetto.
-[{{< figure src="/image/RichiestaTutto0.png"  width="850"  >}}](/image/RichiestaTutto0.png)
+La maschera permette di visualizzare qualsiasi informazione relativa ad un determinato Ticket in oggetto, le eventuali azioni apportate fatture a fronte, ecc.
+[{{< figure src="/image/RichiestaTutto.png"  width="850"  >}}](/image/RichiestaTutto.png)
+
 ### Nota bene
 ```
 Visualizza e lavora su tutte le richieste
