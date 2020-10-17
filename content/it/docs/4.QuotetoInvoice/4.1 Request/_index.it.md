@@ -46,8 +46,8 @@ La scheda Richiesta definisce qualsiasi richiesta inviata da un Business Partner
 ```
 ---
 ## Risoluzione Richiesta [RR01] {#RR01}
-La maschera permette di generare delle definizioni per la risoluzione alla richiesta di un Ticket. 
-[{{< figure src="/image/RisoluzioneRichiesta0.png"  width="850"  >}}](/image/RisoluzioneRichiesta0.png)
+La maschera permette di generare delle risposte o modalità operative per la risoluzione alla richiesta di un Ticket. 
+[{{< figure src="/image/RisoluzioneRichiesta.png"  width="850"  >}}](/image/RisoluzioneRichiesta.png)
 ## Risposta Standard Richiesta [RSR00] {#RSR00}
 La maschera permette di generare delle definizioni standardizzate per la risoluzione alla richiesta di un Ticket.
 [{{< figure src="/image/RispostaStandardRichiesta0.png"  width="850"  >}}](/image/RispostaStandardRichiesta0.png)
