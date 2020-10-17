@@ -262,6 +262,12 @@ In questo caso la chiamata avrà bisogna di avere dei parametri di input, nel ca
     
     
 - Avere ambiente <a href="https://www.oracle.com/it/java/technologies/javase/javase-jdk8-downloads.html" target="_blank">Java 8.0</a>
+    ```
+        sudo apt update
+        sudo apt install openjdk-8-jre-headless
+    ```
+- verificare cartella di installazione java 8 ( vedi sotto variabili d'ambiente)
+- verificare cartella di installazione di android-studio (Vedi sotto variabili d'ambiente)
 - Impostare le variabili d'ambiente su .bashRC
 
 
@@ -270,9 +276,9 @@ In questo caso la chiamata avrà bisogna di avere dei parametri di input, nel ca
 Per far funzionare Cordova con Android Studio avremo bisogno di impostare la variabili d'ambiente in questo modo:
 
 ```tmpl
-    export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64 (cartella dell'installazione di Java 8)
+    export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64 
     export PATH=$PATH:$JAVA_HOME
-    export ANDROID_SDK_ROOT=/home/idempiere/Android/Sdk (cartella d'installazione di Android Studio)
+    export ANDROID_SDK_ROOT=/home/idempiere/Android/Sdk 
     export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools
     export PATH=$PATH:$ANDROID_SDK_ROOT/tools
     export PATH=$PATH:/home/idempiere/Android/Sdk/gradle/bin/
