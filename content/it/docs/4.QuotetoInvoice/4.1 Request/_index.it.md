@@ -51,6 +51,8 @@ La maschera permette di generare delle risposte o modalità operative per la ris
 ## Risposta Standard Richiesta [RSR00] {#RSR00}
 La maschera permette di generare delle definizioni standardizzate per la risoluzione alla richiesta di un Ticket.
 [{{< figure src="/image/RispostaStandardRichiesta0.png"  width="850"  >}}](/image/RispostaStandardRichiesta0.png)
+Naturalmente questa maschera ritorna utile nelle richieste di routine ad esempio una compilazione di una scheda dati nuovo cliente quando esista.
+[{{< figure src="/image/RispostaStandardRichiesta.png"  width="850"  >}}](/image/RispostaStandardRichiesta.png)
 ## Riaprire Richiesta [RR03] {#RR03}
 Il processo permette la riapertura di una richiesta già ultimata.
 [{{< figure src="/image/RiaprireRichiestaRR03.png"  width="850"  >}}](/image/RiaprireRichiestaRR03.png)
