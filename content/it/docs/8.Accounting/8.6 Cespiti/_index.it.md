@@ -8,7 +8,7 @@ pre: "<b></b>"
 
 Menù Idempiere
 
-[Cespite [CES00]]({{< ref "_index.it.md#CES00" >}} "Cespite") <br>
+Visualizzazione Angrafica Cespite [Cespite [CES00]]({{< ref "_index.it.md#CES00" >}} "Cespite") <br>
 [Creazione Ammortamento Cespite [CASC00]]({{< ref "_index.it.md#CASC00" >}} "Creazione Ammortamento Cespite") <br>
 [Gruppo Cespite [GC00]]({{< ref "_index.it.md#GC00" >}} "Gruppo Cespite") <br>
 [Consegnare Beni Gestiti [CBG00]]({{< ref "_index.it.md#CBG00" >}} "Consegnare Beni Gestiti") <br>
