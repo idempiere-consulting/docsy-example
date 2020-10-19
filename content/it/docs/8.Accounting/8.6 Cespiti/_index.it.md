@@ -147,9 +147,8 @@ Si effettua l'acquisto del Cespite con la procedura consueta, Ordine di Acquisto
 [{{< figure src="/image/CespiteTranspallets.png"  width="850"  >}}](/image/CespiteTranspallets.png)
 e si ottiene la Aggiunta del Cespite
 [{{< figure src="/image/CespiteTranspallets1.png"  width="850"  >}}](/image/CespiteTranspallets1.png)
-
-
-
+In Scheda Cespite si va a indicare il dato del Superammortamento
+[{{< figure src="/image/CespiteTranspallets2.png"  width="850"  >}}](/image/CespiteTranspallets2.png)
 
 @Da vedere
 
