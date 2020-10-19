@@ -24,6 +24,7 @@ Menù Idempiere
 
 
 ## Cespite [CES00] {#CES00}
+La Maschera permette di ottenere tutte le informazioni riguardanti un Cespite Aziendale.
 [{{< figure src="/image/Cespite.png"  width="850"  >}}](/image/Cespite.png)
 
 ### Gestione cespite in Idempiere
