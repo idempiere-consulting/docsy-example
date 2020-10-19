@@ -143,6 +143,14 @@ Nel caso si debba effetturare una rettifica in diminuzione dell'importo del cesp
 si effettuerà quindi l'Aggiunta Cespite collegando la diminuzioneal cespite relativo e si procederà ai calcoli ammortamenti desiderati.
 
 ### Superammortamento
+Si effettua l'acquisto del Cespite con la procedura consueta, Ordine di Acquisto, Entrata Merce e Fattura a fronte.
+[{{< figure src="/image/CespiteTranspallets.png"  width="850"  >}}](/image/CespiteTranspallets.png)
+e si ottiene la Aggiunta del Cespite
+[{{< figure src="/image/CespiteTranspallets1.png"  width="850"  >}}](/image/CespiteTranspallets1.png)
+
+
+
+
 @Da vedere
 
 ### Rivalutazione del Cespite
