@@ -112,7 +112,7 @@ Ora si richiama la Dismissione (da link in barra fattura) apparirà una videata 
 [{{< figure src="/image/DismissioneCespite.png"  width="850"  >}}](/image/DismissioneCespite.png)
 Si completa la registrazione.
 
-**@ToDO2**
+**@Todo**
 problema con data registrazione
 
 ### Incrementi Manutentivi al Cespite
