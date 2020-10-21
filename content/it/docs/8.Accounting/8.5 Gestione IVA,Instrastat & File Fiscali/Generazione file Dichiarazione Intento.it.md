@@ -41,3 +41,9 @@ Processo dichiarato nella window "Lettera Intento Cliente/Fornitore [LI16]":
 - [x] it.idIta.idempiere.LIT_InvoiceDataVAT.process.GenerateFileIntent
 
 [{{< figure src="/image/Intento_2.png"  width="850"  >}}](/image/Intento_2.png)
+
+### Software di creazione e controllo tracciato record
+
+- http://jws.agenziaentrate.it/jws/dichiarazioni/2015/IVI15.jnlp   (Compilazione tracciato)
+
+- http://jws.agenziaentrate.it/jws/dichiarazioni/2015/ControlliIVI15.jnlp (Controllo tracciato)
