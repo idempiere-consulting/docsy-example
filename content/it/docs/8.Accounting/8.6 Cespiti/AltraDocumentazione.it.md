@@ -7,27 +7,39 @@ pre: "<b></b>"
 ---
 
 Menù Idempiere
--#Angrafiche
-Visualizzazione Angrafica Cespite [Cespite [CES00]]({{< ref "_index.it.md#CES00" >}} "Cespite") <br>
-- Processi
-[Creazione Ammortamento Cespite [CASC00]]({{< ref "_index.it.md#CASC00" >}} "Creazione Ammortamento Cespite") <br>
-[Gruppo Cespite [GC00]]({{< ref "_index.it.md#GC00" >}} "Gruppo Cespite") <br>
-[Consegnare Beni Gestiti [CBG00]]({{< ref "_index.it.md#CBG00" >}} "Consegnare Beni Gestiti") <br>
-[Registrazione [REG00]]({{< ref "_index.it.md#REG00" >}} "Registrazione") <br>
-- Report
-[Report Consegnare Bene Gestito [R.78]]({{< ref "_index.it.md#R78" >}} "Report Consegnare Bene Gestito") <br>
-[Report Consegna Bene Gestito Mensili [R.77]]({{< ref "_index.it.md#R77" >}} "Report Consegna Bene Gestito Mensili") <br>
-[Report Bene Gestito Cliente [R.79]]({{< ref "_index.it.md#R79" >}} "Report Bene Gestito Cliente") <br>
-- Tabelle e setup
-[Metodo di Ammortamento [MDA00]]({{< ref "_index.it.md#MDA00" >}} "Metodo di Ammortamento") <br>
-[Registrazione Attributi [REGA00]]({{< ref "_index.it.md#REGA00" >}} "Registrazione Attributi") <br>
-[Crea Cespite da Progetto [CCPR00]]({{< ref "_index.it.md#CCPR00" >}} "Crea Cespite da Progetto") <br>
-[Attivazione/Dismissione Cespite [ADC00]]({{< ref "_index.it.md#ADC00" >}} "Attivazione/Dismissione Cespite") <br>
-[Aggiunta Cespite [ACES00]]({{< ref "_index.it.md#ACES00" >}} "Aggiunta Cespite") <br>
-- Funzionalità avanzate
+
+[Procedura Acquisto Cespite [1]]({{< ref "_index.it.md#1" >}} "Procedura Acquisto Cespite") <br>
 
 
-## Cespite [CES00] {#CES00}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Procedura Acquisto Cespite [1] {#1}
 La Maschera permette di ottenere tutte le informazioni riguardanti un Cespite Aziendale.
 [{{< figure src="/image/Cespite.png"  width="850"  >}}](/image/Cespite.png)
 
