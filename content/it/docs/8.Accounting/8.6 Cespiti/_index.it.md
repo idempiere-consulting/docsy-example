@@ -49,17 +49,6 @@ Menù Idempiere
 La Maschera permette di ottenere tutte le informazioni riguardanti un Cespite Aziendale.
 [{{< figure src="/image/Cespite.png"  width="850"  >}}](/image/Cespite.png)
 
-### Gestione cespite in Idempiere
-
-La Gestione Cespite in Idempiere offre all'utente diverse funzionalità:
-- gestione dell'anagrafica dei Cespite e delle loro movimentazioni.
-- collegamento diretto tra anagrafica Cespite e Registrazioni contabili,
-- classificazione fiscale dei Cespiti, 
-- possibilità di effettaure simulazioni di calcolo ammortamento, ???
-- effettuare registrazioni contabili anche con classificazioni differenti da quelle ministeriali,
-- calcoli valori e ammortamenti periodici mensilizzati,
-- relazioni beni padre figlio ???
-- determinazione di plusvalenze/minusvalenze a fine vita del cespite a segiuto dismissione.
 
 ### Anagrafica Cespite
 

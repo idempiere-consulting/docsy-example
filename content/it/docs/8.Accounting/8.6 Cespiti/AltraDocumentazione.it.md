@@ -8,10 +8,22 @@ pre: "<b></b>"
 
 Menù Idempiere
 
-[Acquisto del Cespite con Idempiere [1]]({{< ref "_index.it.md#1" >}} "Acquisto del Cespite con Idempiere") <br>
+[Gestione Cespite in Idempiere [1]]({{< ref "_index.it.md#1" >}} "Gestione Cespite in Idempiere") <br>
+[Acquisto del Cespite con Idempiere [2]]({{< ref "_index.it.md#2" >}} "Acquisto del Cespite con Idempiere") <br>
 
+### Gestione Cespite in Idempiere [1] {#1}
 
-### Acquisto del Cespite con Idempiere [1] {#1}
+La Gestione Cespite in Idempiere offre all'utente diverse funzionalità:
+- gestione dell'anagrafica dei Cespite e delle loro movimentazioni.
+- collegamento diretto tra anagrafica Cespite e Registrazioni contabili,
+- classificazione fiscale dei Cespiti, 
+- possibilità di effettaure simulazioni di calcolo ammortamento, ???
+- effettuare registrazioni contabili anche con classificazioni differenti da quelle ministeriali,
+- calcoli valori e ammortamenti periodici mensilizzati,
+- relazioni beni padre figlio ???
+- determinazione di plusvalenze/minusvalenze a fine vita del cespite a segiuto dismissione.
+
+### Acquisto del Cespite con Idempiere [2] {#2}
 
 **Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.**
 [{{< figure src="/image/OrdineAcquistoCespite.png"  width="850"  >}}](/image/OrdineAcquistoCespite.png) 
