@@ -7,15 +7,17 @@ pre: "<b></b>"
 ---
 
 Menù Idempiere
-- Processi
+- Anagrafica e Processi
 
- Si Visualizza l'Angrafica del Cespite 
+Si Visualizza l'Angrafica del Cespite 
 [Cespite [CES00]]({{< ref "_index.it.md#CES00" >}} "Cespite") <br>
  Si Crea il Piano di Ammortamento del Cespite
 [Creazione Ammortamento Cespite [CASC00]]({{< ref "_index.it.md#CASC00" >}} "Creazione Ammortamento Cespite") <br>
  Si inserisce la Categoria di Appartenenza del Cespite
 [Gruppo Cespite [GC00]]({{< ref "_index.it.md#GC00" >}} "Gruppo Cespite") <br>
+ Si Gestisce la Consegna del Cespite
 [Consegnare Beni Gestiti [CBG00]]({{< ref "_index.it.md#CBG00" >}} "Consegnare Beni Gestiti") <br>
+ Si Effettua la Registrazione del Cespite 
 [Registrazione [REG00]]({{< ref "_index.it.md#REG00" >}} "Registrazione") <br>
 
 - Report
