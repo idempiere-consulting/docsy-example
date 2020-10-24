@@ -8,74 +8,10 @@ pre: "<b></b>"
 
 Menù Idempiere
 
-[Procedura Acquisto Cespite [1]]({{< ref "_index.it.md#1" >}} "Procedura Acquisto Cespite") <br>
+[Acquisto del Cespite con Idempiere [1]]({{< ref "_index.it.md#1" >}} "Acquisto del Cespite con Idempiere") <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Procedura Acquisto Cespite [1] {#1}
-La Maschera permette di ottenere tutte le informazioni riguardanti un Cespite Aziendale.
-[{{< figure src="/image/Cespite.png"  width="850"  >}}](/image/Cespite.png)
-
-### Gestione cespite in Idempiere
-
-La Gestione Cespite in Idempiere offre all'utente diverse funzionalità:
-- gestione dell'anagrafica dei Cespite e delle loro movimentazioni.
-- collegamento diretto tra anagrafica Cespite e Registrazioni contabili,
-- classificazione fiscale dei Cespiti, 
-- possibilità di effettaure simulazioni di calcolo ammortamento, ???
-- effettuare registrazioni contabili anche con classificazioni differenti da quelle ministeriali,
-- calcoli valori e ammortamenti periodici mensilizzati,
-- relazioni beni padre figlio ???
-- determinazione di plusvalenze/minusvalenze a fine vita del cespite a segiuto dismissione.
-
-### Anagrafica Cespite
-
-**Piano dei conti**
-E' necessario (ove non siano esistenti) l' Inserimento dei conti contabili nell'attivo Patrimoniale relativi alle categorie cespiti da inserire (per il loro valore di acquisto) e nel passivo dei conti che accolgono gli ammortamenti accumulati nei corsi dei vari anni (Fondi ammortamento).
-Il piano dei conti di Idempiere già prevede i conti da utilizzare **<u>(si tratta solo di verificare se esistano tutti o se si vuole per motivi interni inserirne altri fermo restando il dover creare anche categorie prodotti e gruppi bene gestito dei punti seguenti)</u>**
-**Operazioni preliminari da effettuare** 
-1 La prima operazione necessaria è l’inquadramento del gruppo cespite da cui dipenderanno le varie registrazioni contabili del cespite.
-2 da secondo si andranno a delineare e inserire delle categorie prodotto per gestire “i passaggi” contabili del cespite. 
-**Gruppo Cespite**
-La maschera di inizio impostazioni del "Cespite" è quella relativa alla definizione del "Gruppo" è la seguente:
-[{{< figure src="/image/Cespiti-50.png"  width="850"  >}}](/image/Cespiti-50.png)
-Per quanto riguarda la parte corpo del gruppo si può far riferimento alla seguente immagine:
-[{{< figure src="/image/Cespiti-51.png"  width="850"  >}}](/image/Cespiti-51.png)
-In questa parte si compileranno i dati che determineranno le interrogazioni che si andranno a fare in base alle impostazioni che si inseriranno sui gruppi cespite ad es. se si vuole che l'ammortamento del primo periodo sia calcolato a metà dell'aliquota come fiscalmente permesso. Sono precompilati e da verificare poi i dati contabili che regoleranno le varie operazioni relative.
-
-### Importazione del Cespite
-L'importazione Cespite è generalmente la prima operazione che ci si trova a fare, dovendo caricare il data base storico dei Cespiti aziendali. Tale operazione può essere eseguita "massivamente" da file CSV o attraverso la maschera appunti di Importazione Cespite, le maschere da utilizzare sono le seguenti: 
-[{{< figure src="/image/Cespiti-52.png"  width="850"  >}}](/image/Cespiti-52.png)
-[{{< figure src="/image/Cespiti-53.png"  width="850"  >}}](/image/Cespiti-53.png)
-
-### Acquisto del cespite con Idempiere 
+### Acquisto del Cespite con Idempiere [1] {#1}
 
 **Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.**
 [{{< figure src="/image/OrdineAcquistoCespite.png"  width="850"  >}}](/image/OrdineAcquistoCespite.png) 
