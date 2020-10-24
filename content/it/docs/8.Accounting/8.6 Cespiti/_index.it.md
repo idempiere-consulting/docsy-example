@@ -7,8 +7,8 @@ pre: "<b></b>"
 ---
 
 Menù Idempiere
-Angrafiche
 - Processi
+
 [Cespite [CES00]]({{< ref "_index.it.md#CES00" >}} "Cespite") <br>
  Si Visualizza l'Angrafica del Cespite 
 [Creazione Ammortamento Cespite [CASC00]]({{< ref "_index.it.md#CASC00" >}} "Creazione Ammortamento Cespite") <br>
@@ -17,7 +17,9 @@ Angrafiche
  Si inserisce la Categoria di Appartenenza del Cespite
 [Consegnare Beni Gestiti [CBG00]]({{< ref "_index.it.md#CBG00" >}} "Consegnare Beni Gestiti") <br>
 [Registrazione [REG00]]({{< ref "_index.it.md#REG00" >}} "Registrazione") <br>
+
 - Report
+
 [Report Consegnare Bene Gestito [R.78]]({{< ref "_index.it.md#R78" >}} "Report Consegnare Bene Gestito") <br>
 [Report Consegna Bene Gestito Mensili [R.77]]({{< ref "_index.it.md#R77" >}} "Report Consegna Bene Gestito Mensili") <br>
 [Report Bene Gestito Cliente [R.79]]({{< ref "_index.it.md#R79" >}} "Report Bene Gestito Cliente") <br>
