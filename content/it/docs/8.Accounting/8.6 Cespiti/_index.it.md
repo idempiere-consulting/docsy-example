@@ -9,12 +9,12 @@ pre: "<b></b>"
 Menù Idempiere
 - Processi
 
-[Cespite [CES00]]({{< ref "_index.it.md#CES00" >}} "Cespite") <br>
  Si Visualizza l'Angrafica del Cespite 
-[Creazione Ammortamento Cespite [CASC00]]({{< ref "_index.it.md#CASC00" >}} "Creazione Ammortamento Cespite") <br>
+[Cespite [CES00]]({{< ref "_index.it.md#CES00" >}} "Cespite") <br>
  Si Crea il Piano di Ammortamento del Cespite
-[Gruppo Cespite [GC00]]({{< ref "_index.it.md#GC00" >}} "Gruppo Cespite") <br>
+[Creazione Ammortamento Cespite [CASC00]]({{< ref "_index.it.md#CASC00" >}} "Creazione Ammortamento Cespite") <br>
  Si inserisce la Categoria di Appartenenza del Cespite
+[Gruppo Cespite [GC00]]({{< ref "_index.it.md#GC00" >}} "Gruppo Cespite") <br>
 [Consegnare Beni Gestiti [CBG00]]({{< ref "_index.it.md#CBG00" >}} "Consegnare Beni Gestiti") <br>
 [Registrazione [REG00]]({{< ref "_index.it.md#REG00" >}} "Registrazione") <br>
 
