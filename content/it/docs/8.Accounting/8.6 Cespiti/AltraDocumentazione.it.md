@@ -36,8 +36,8 @@ Si completa la pagina di Aggiunta Cespite con i dati eventualmente si vogliono i
 **Bisogna fare attenzione a inserire una data registrazione 01/01/n per la popolazione corretta dell'ammortamento del primo anno**
 Se si desidera avere quota ammortamento a metà il primo anno lo si definisce a livello Gruppo Cespite GC00.
 
-**@Segnalazione1**
-(al momento non è possibile rielaborare le quote ammortamento qualora si volesse gestire ad. esempio il primo anno in modo differenta da quello indicato in data registrazione aggiunta cespite).
+**@ToDo**
+(al momento non è possibile rielaborare le quote ammortamento qualora si volesse gestire ad. esempio il primo anno in modo differenta da quello indicato in data registrazione aggiunta cespite). Vedere Gestione data Acquisizione e Ammortamento.
 [{{< figure src="/image/AggiuntaCespite1.png"  width="850"  >}}](/image/AggiuntaCespite1.png)
 Controllando la maschera Cespite vediamo che si sono popolati alcuni dati:
 scheda cespite

@@ -9,7 +9,7 @@ pre: "<b></b>"
 Menù Idempiere
 - Anagrafica e Processi
 
-Si Visualizza l'Angrafica del Cespite 
+ Si Visualizza l'Angrafica del Cespite 
 [Cespite [CES00]]({{< ref "_index.it.md#CES00" >}} "Cespite") <br>
  Si Crea il Piano di Ammortamento del Cespite
 [Creazione Ammortamento Cespite [CASC00]]({{< ref "_index.it.md#CASC00" >}} "Creazione Ammortamento Cespite") <br>
@@ -22,15 +22,26 @@ Si Visualizza l'Angrafica del Cespite
 
 - Report
 
+ Si ottengono informazioni sulle Movimentazioni del Cespite ceduto al Cliente 
 [Report Consegnare Bene Gestito [R.78]]({{< ref "_index.it.md#R78" >}} "Report Consegnare Bene Gestito") <br>
+ Si ottengono informazioni riassuntive per periodo sulla movimentazione del Cespite al Cliente.
 [Report Consegna Bene Gestito Mensili [R.77]]({{< ref "_index.it.md#R77" >}} "Report Consegna Bene Gestito Mensili") <br>
+ Si ottengono informazioni dul Cespite presso un Cliente
 [Report Bene Gestito Cliente [R.79]]({{< ref "_index.it.md#R79" >}} "Report Bene Gestito Cliente") <br>
+
 - Tabelle e setup
+
+ Si Definisce un Tipo di Ammortamento
 [Metodo di Ammortamento [MDA00]]({{< ref "_index.it.md#MDA00" >}} "Metodo di Ammortamento") <br>
+ Si Attribuisce un Attirbuto al Cespite
 [Registrazione Attributi [REGA00]]({{< ref "_index.it.md#REGA00" >}} "Registrazione Attributi") <br>
+ Si Crea un Cespite da un Progetto
 [Crea Cespite da Progetto [CCPR00]]({{< ref "_index.it.md#CCPR00" >}} "Crea Cespite da Progetto") <br>
+ Si Dismette un Cespite
 [Attivazione/Dismissione Cespite [ADC00]]({{< ref "_index.it.md#ADC00" >}} "Attivazione/Dismissione Cespite") <br>
+ Si Aggiunge un Cespite
 [Aggiunta Cespite [ACES00]]({{< ref "_index.it.md#ACES00" >}} "Aggiunta Cespite") <br>
+
 - Funzionalità avanzate
 
 
