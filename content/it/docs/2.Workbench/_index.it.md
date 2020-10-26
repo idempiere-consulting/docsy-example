@@ -1,10 +1,10 @@
 ---
-title: "Scrivania"
+title: "2.Scrivania"
 date: 2020-04-24T22:47:10+02:00
 draft: false
 weight : 80 
-
-
+description: >
+  Strumenti di Utilità utilizzabili in diverse aree.
 
 ---
 ## Scheda Business Partner [BPI00]
