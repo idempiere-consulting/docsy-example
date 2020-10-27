@@ -340,7 +340,7 @@ sudo npm i -g native-run
 sudo npm install -g ionic cordova
 ```
 ## installare in cartella locale
-
+scaricare idempiere-ionic-mobile da github e sincronizziamolo in locale
 ```tmpl
 cd /opt/repos/idempiere-ionic-mobile
 npm i
