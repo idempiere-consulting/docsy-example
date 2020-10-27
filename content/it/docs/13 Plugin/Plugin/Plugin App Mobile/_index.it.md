@@ -273,7 +273,7 @@ In questo caso la chiamata avrà bisogna di avere dei parametri di input, nel ca
 
 ### Impostazione variabili d'ambiente
 
-Per far funzionare Cordova con Android Studio avremo bisogno di impostare la variabili d'ambiente in questo modo:
+Per far funzionare Cordova con Android Studio avremo bisogno di impostare la variabili d'ambiente. Apriamo il file .bashrc sula home e aggiungiamo alla fine le seguenti righe:
 
 ```tmpl
     export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64 
