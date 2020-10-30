@@ -43,7 +43,6 @@ Per quanto riguarda la parte corpo del gruppo si può far riferimento alla segue
 [{{< figure src="/image/Cespiti-51.png"  width="850"  >}}](/image/Cespiti-51.png)
 In questa parte si compileranno i dati che determineranno le interrogazioni che si andranno a fare in base alle impostazioni che si inseriranno sui gruppi cespite ad es. se si vuole che l'ammortamento del primo periodo sia calcolato a metà dell'aliquota come fiscalmente permesso. Sono precompilati e da verificare poi i dati contabili che regoleranno le varie operazioni relative.
 
-
 ### Acquisto del Cespite con Idempiere [3] {#3}
 
 **Azione n° 1 : La prima operazione da eseguire è inserire un ordine di acquisto per il Cespite.**
@@ -79,6 +78,43 @@ quote ammortamento
 [{{< figure src="/image/Cespite2.png"  width="850"  >}}](/image/Cespite2.png)
 
 
+### Importazione del Cespite
+L'importazione Cespite è generalmente la prima operazione che ci si trova a fare, dovendo caricare il data base storico dei Cespiti aziendali. Tale operazione può essere eseguita "massivamente" da file CSV o attraverso la maschera appunti di Importazione Cespite, le maschere da utilizzare sono le seguenti: 
+[{{< figure src="/image/Cespiti-52.png"  width="850"  >}}](/image/Cespiti-52.png)
+[{{< figure src="/image/Cespiti-53.png"  width="850"  >}}](/image/Cespiti-53.png)
+
+
+### Incrementi Manutentivi al Cespite
+
+**<u>Manutenzione straordinaria collegata al Cespite</u>**
+
+**<u>Caso a)Manutenzione straordinaria incrementativa del valore del Cespite</u>**
+
+E' il caso di spese di manutenzione o incrementative di natura straordinaria o che modificano sostanzialmente il valore del cespite stesso e come tali di carattere pluriennale quindi da ammortizzare.
+In questo caso si procede come per l'acquisto del cespite primario, quindi:
+- Inserimento Ordine di acquisto
+- Entrata Merce 
+- Fattura di acquisto
+- Aggiunta cespite ** **<u>Da Vedere</u>**
+
+In questo momento si andrà a collegare l'acquisto al Cespite originario e come unica indicazione andiamo a inserire la data di registrazione relativa all'immissione in ammortamento (01.01.n oppure 01.07.n se desideriamo avere un ammortamento metà per il periodo di entrata in produzione della manutenzione). 
+
+Inseriamo una fattura per una spesa incrementativa del cespite e/o una manutenzione staordinaria che si intende ammortizzare
+[{{< figure src="/image/Cespiti-58.png"  width="850"  >}}](/image/Cespiti-58.png)
+Dovremo effettuare una aggiunta Cespite collegando questa registrazione al cespite cui si fa riferimento, quindi Indichiamo in riga fattura il cespite padre. **<u>Si ricorda la necessità di dover effettuare il calcolo dell'ammortamento per il bene iniziale aggiornandolo al mese precedente in modo da effettuare un calcolo corretto degli ammortamenti successivamente generati (regola dell'ammortamento a metà per il primo anno su aggiunta da impostare sull'aggiunta in data inizio ammortamento/entrata produzione 01/01/n o 01/07/n)</u>** 
+Nel dettaglio della riga fattura (dopo aver proceduto all'aggiunta cespite) avremo  queste informazioni 
+[{{< figure src="/image/Cespiti-59.png"  width="850"  >}}](/image/Cespiti-59.png)
+mentre nella tab Aggiunta Cespite del cespite troveremo le informazioni che avremo aggiornato 
+[{{< figure src="/image/Cespiti-60.png"  width="850"  >}}](/image/Cespiti-60.png)
+
+**<u>Caso b)Rettifica della Manutenzione straordinaria in negativo (nota di accredito eventuale del fornitore) del valore del Cespite</u>**
+
+- Nota di Accredito a Rettifica fattura del fornitore
+- Aggiunta cespite ** **<u>Da Vedere</u>**
+
+Nel caso si debba effetturare una rettifica in diminuzione dell'importo del cespite dovremo procedere con la registrazione di una nota di accredito come di seguito visualizzato
+[{{< figure src="/image/Cespiti-61.png"  width="850"  >}}](/image/Cespiti-61.png)
+si effettuerà quindi l'Aggiunta Cespite collegando la diminuzioneal cespite relativo e si procederà ai calcoli ammortamenti desiderati.
 
 
 ### Incrementi Manutentivi al Cespite
@@ -122,6 +158,7 @@ In Scheda Cespite si va a indicare il dato del Superammortamento
 [{{< figure src="/image/CespiteTranspallets2.png"  width="850"  >}}](/image/CespiteTranspallets2.png)
 
 @Da vedere
+
 
 ### Rivalutazione del Cespite
 

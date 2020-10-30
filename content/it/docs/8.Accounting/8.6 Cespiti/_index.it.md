@@ -96,8 +96,5 @@ problema con data registrazione
 
 
 
-
-
-
 ### Aggiunta Cespite [ACES00] {#ACES00}
 [{{< figure src="/image/AggiuntaCespite.png"  width="850"  >}}](/image/AggiuntaCespite.png)
