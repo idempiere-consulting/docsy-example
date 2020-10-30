@@ -9,6 +9,7 @@ pre: "<b>721. </b>"
 
 - https://wiki.idempiere.org/en/Plugin:_AccessMaintain
 
+Link Video https://youtu.be/4UYGWHonl34
 
 Installare il 2Pack presente nel plug-in e ricordarsi di creare il "tipo entità" **'TGI'** a livello System 
 
