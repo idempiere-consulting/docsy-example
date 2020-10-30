@@ -9,8 +9,8 @@ pre: "<b></b>"
 Menù Idempiere
 
 [Gestione Cespite in Idempiere [1]]({{< ref "_index.it.md#1" >}} "Gestione Cespite in Idempiere") <br>
-[Anagrafica Cespite [2]]({{< ref "_index.it.md#1" >}} "Anagrafica Cespite") <br>
-[Acquisto del Cespite con Idempiere [2]]({{< ref "_index.it.md#2" >}} "Acquisto del Cespite con Idempiere") <br>
+[Anagrafica Cespite [2]]({{< ref "_index.it.md#2" >}} "Anagrafica Cespite") <br>
+[Acquisto del Cespite con Idempiere [3]]({{< ref "_index.it.md#3" >}} "Acquisto del Cespite con Idempiere") <br>
 [Acquisto del Cespite con Idempiere [2]]({{< ref "_index.it.md#2" >}} "Acquisto del Cespite con Idempiere") <br>
 
 
@@ -80,19 +80,6 @@ quote ammortamento
 
 
 
-
-
-
-### Dismissione Cespite
-Si segue la stessa procedura dell'acquisto quindi si inserisce un **Ordine di Vendita** e lo si completa.
-Da Processo si prosegue in via ordinaria come per un documento di ciclo attivo normale per cui si procede con il **Documento di Trasporto** e (anche contemporaneamente) con l'emissione della **Fattura di Vendita**.
-Per completare e registrare la Fattura si deve indicare in riga il cespite che si va a vendere.
-Ora si richiama la Dismissione (da link in barra fattura) apparirà una videata popolata dei dati relativi al Cespite in oggetto e ai valori di vendita. **Fare attenzione a indicare data Registrazione 01/01/n per completare la registrazione con i dati contabili di fine anno precedente (si otterrà una plusvalenza o minusvalenza relativa a tali dati)**, come di seguito:
-[{{< figure src="/image/DismissioneCespite.png"  width="850"  >}}](/image/DismissioneCespite.png)
-Si completa la registrazione.
-
-**@Todo**
-problema con data registrazione
 
 ### Incrementi Manutentivi al Cespite
 
