@@ -9,37 +9,37 @@ pre: "<b></b>"
 Menù Idempiere
 - Anagrafica e Processi
 
- Si Visualizza l'Angrafica del Cespite 
+ Visualizzare l'anagrafica del Cespite 
 [Cespite [CES00]]({{< ref "_index.it.md#CES00" >}} "Cespite") <br>
- Si Crea il Piano di Ammortamento del Cespite
+ Creare il Piano di Ammortamento del Cespite
 [Creazione Ammortamento Cespite [CASC00]]({{< ref "_index.it.md#CASC00" >}} "Creazione Ammortamento Cespite") <br>
- Si inserisce la Categoria di Appartenenza del Cespite
+ Creare la Categoria di Appartenenza del Cespite
 [Gruppo Cespite [GC00]]({{< ref "_index.it.md#GC00" >}} "Gruppo Cespite") <br>
- Si Gestisce la Consegna del Cespite
+ Gestire la Consegna del Cespite
 [Consegnare Beni Gestiti [CBG00]]({{< ref "_index.it.md#CBG00" >}} "Consegnare Beni Gestiti") <br>
- Si Effettua la Registrazione del Cespite 
+ Creare la Registrazione del Cespite 
 [Registrazione [REG00]]({{< ref "_index.it.md#REG00" >}} "Registrazione") <br>
 
 - Report
 
- Si ottengono informazioni sulle Movimentazioni del Cespite ceduto al Cliente 
+ Ottenere informazioni sulle Movimentazioni del Cespite ceduto al Cliente 
 [Report Consegnare Bene Gestito [R.78]]({{< ref "_index.it.md#R78" >}} "Report Consegnare Bene Gestito") <br>
- Si ottengono informazioni riassuntive per periodo sulla movimentazione del Cespite al Cliente.
+ Ottenere un sunto delle informazioni per periodo sulla movimentazione del Cespite al Cliente.
 [Report Consegna Bene Gestito Mensili [R.77]]({{< ref "_index.it.md#R77" >}} "Report Consegna Bene Gestito Mensili") <br>
- Si ottengono informazioni dul Cespite presso un Cliente
+ Ottenere informazioni sul Cespite presso un Cliente
 [Report Bene Gestito Cliente [R.79]]({{< ref "_index.it.md#R79" >}} "Report Bene Gestito Cliente") <br>
 
 - Tabelle e setup
 
- Si Definisce un Tipo di Ammortamento
+ Creare un Tipo di Ammortamento
 [Metodo di Ammortamento [MDA00]]({{< ref "_index.it.md#MDA00" >}} "Metodo di Ammortamento") <br>
- Si Attribuisce un Attirbuto al Cespite
+ Creare un Attributo del Cespite
 [Registrazione Attributi [REGA00]]({{< ref "_index.it.md#REGA00" >}} "Registrazione Attributi") <br>
- Si Crea un Cespite da un Progetto
+ Creare un Cespite da un Progetto
 [Crea Cespite da Progetto [CCPR00]]({{< ref "_index.it.md#CCPR00" >}} "Crea Cespite da Progetto") <br>
- Si Dismette un Cespite
+ Creare la Dismissione del Cespite
 [Attivazione/Dismissione Cespite [ADC00]]({{< ref "_index.it.md#ADC00" >}} "Attivazione/Dismissione Cespite") <br>
- Si Aggiunge un Cespite
+ Creare un nuovo Cespite
 [Aggiunta Cespite [ACES00]]({{< ref "_index.it.md#ACES00" >}} "Aggiunta Cespite") <br>
 
 - Funzionalità avanzate
