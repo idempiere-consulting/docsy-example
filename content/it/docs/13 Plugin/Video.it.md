@@ -6,8 +6,8 @@ weight : 10
 pre: "<b></b>"
 ---
 
-### Video - 8. Accounting - Asset Acquisition / Procedura acquisizione cespite [V155]
-{{<youtube LhFW5KKr8KE>}}
+### Video - 13. Plugin Addon - Gestione Ruoli di Accesso [V188]
+{{<youtube 4UYGWHonl34>}}
 
 ### Video - 8. Accounting - Depreciation Service Code Creation / Creaz. codice Servizio Ammortamento [V154]
 {{<youtube 5jlSjTNMahI>}}
