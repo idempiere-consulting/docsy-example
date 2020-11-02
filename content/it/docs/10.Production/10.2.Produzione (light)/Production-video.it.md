@@ -15,8 +15,5 @@ pre: "<b> </b>"
 ## Video - 10. Material Management & Production - Production Light / ordproduzione [V176]
 {{<youtube cD0-aXGGtsw>}}
 
-### Video -10. Material Management - BOM Drop Configurator / Componenti Distinta Base- [V165]
-{{<youtube K7lT38wNiw4>}}
-
 ### Video - 7. BasciData ProductBom [V100]
 {{<youtube ERjx8RK-Y-M>}}

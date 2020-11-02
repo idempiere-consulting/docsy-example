@@ -15,3 +15,5 @@ pre: "<b></b>"
 {{<youtube UklbmNE2-x4>}}
 ### Video - 5. Requisition-to-Invoice - Purchase order from Contract / Ordine di Acquisto da Contratto [V181]
 {{<youtube nZB4tNkDV60>}}
+### Video - 5.  Gestione Immagini su Griglia / System Admin - Addon #1472 Image on Grid [V168T]
+{{<youtube G0hbmdoq8r8>}}

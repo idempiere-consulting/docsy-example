@@ -413,3 +413,6 @@ Dopo aver Completato l'Ordine di Produzione apro la maschera  "Activity Control 
 Al Completamento del Documento viene generato automaticamente  l'Ordine di Acquisto del mio Conto Lavoro - prodotto "Assemblaggio" al  BP: Rossi SRL (e non l'ODA della mia macchina MPK50+(CONF) )
 
 ![ContoLavoro6.png](/image/PluginProduction-ContoLavoro6.png)
+
+### Video -13. Material Management - BOM Drop Configurator / Componenti Distinta Base- [V165]
+{{<youtube K7lT38wNiw4>}}
