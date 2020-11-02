@@ -39,3 +39,5 @@ pre: "<b></b>"
 {{<youtube 4dkowLrXwd4>}}
 ### Video - 4. Quote to Invoice - Ordine di Tipo Fattura Accompagnatoria 
 {{<youtube 0ZvFAkDnf18>}}
+### Video - 4. Quote-to-Invoice - Image on Sales Order / Immagine sull'ordine di Vendita [V187]
+{{<youtube 75V1lCHKWcs>}}
