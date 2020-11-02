@@ -6,7 +6,6 @@ weight : 721
 pre: "<b>721. </b>"
 ---
 
-
 - https://wiki.idempiere.org/en/Plugin:_AccessMaintain
 
 Link Video https://youtu.be/4UYGWHonl34

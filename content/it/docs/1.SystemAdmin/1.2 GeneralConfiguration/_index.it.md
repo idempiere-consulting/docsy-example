@@ -7,6 +7,7 @@ pre: "<b></b>"
 ---
 Menù Idempiere
 
+
 [Gestione Setup Wizard [GSW00]]({{< ref "_index.it.md#GSW00" >}} "Gestione Setup Wizard") <br>
 [Procedura Guidata Setup [PGS]]({{< ref "_index.it.md#PGS" >}} "Procedura Guidata Setup") <br>
 [Provider Dati Cloud [PDC00]]({{< ref "_index.it.md#PDC00" >}} "Provider Dati Cloud") <br>
@@ -35,10 +36,12 @@ Menù Idempiere
 La Maschera permette la gestione guidata dell'installazione di una Azienda Client.
 [{{< figure src="/image/GestioneSetupWizard.png"  width="850"  >}}](/image/GestioneSetupWizard.png)
 ## Procedura Guidata Setup [PGS] {#PGS}
+Il Workflow propone la configurazione guidata di un nuovo Client
 [{{< figure src="/image/ProceduraGuidataSetup.png"  width="850"  >}}](/image/ProceduraGuidataSetup.png)
 
 # Configurazione del Sistema
 ## Provider Dati Cloud [PDC00] {#PDC00}
+La Maschera 
 [{{< figure src="/image/ProviderDatiCloud.png"  width="850"  >}}](/image/ProviderDatiCloud.png)
 ## Rivisione configurazione iniziale del client [RCIC00] {#RCIC00} 
 [{{< figure src="/image/RivisioneConfigurazioneInizialedelClient.png"  width="850"  >}}](/image/RivisioneConfigurazioneInizialedelClient.png)

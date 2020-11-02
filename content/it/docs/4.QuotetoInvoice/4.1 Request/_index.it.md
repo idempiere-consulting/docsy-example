@@ -6,6 +6,7 @@ weight : 200
 pre: "<b></b>"
 ---
 Menù Idempiere
+- Anagrafica e Processi
 
 [Richesta / Ticket [TIK00]]({{< ref "_index.it.md#TIK00" >}} "Richesta / Ticket") <br>
 [Richiesta Tutto [RICT00]]({{< ref "_index.it.md#RICT00" >}} "Richiesta Tutto") <br>
@@ -13,11 +14,19 @@ Menù Idempiere
 [Risposta Standard Richiesta [RSR00]]({{< ref "_index.it.md#RSR00" >}} "Risposta Standard Richiesta") <br>
 [Riaprire Richiesta [RR03]]({{< ref "_index.it.md#RR03" >}} "Riaprire Richiesta") <br>
 [Fattura per richiesta [FR00]]({{< ref "_index.it.md#FR00" >}} "Fattura per richiesta") <br>
+
+- Report
+
+- Tabelle e setup
+
 [Configurazione richieste [CR02]]({{< ref "_index.it.md#CR02" >}} "Configurazione richieste") <br>
 [Tipo Richiesta [TR01]]({{< ref "_index.it.md#TR01" >}} "Tipo Richiesta") <br>
 [Gruppo Richiesta [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Richiesta") <br>
 [Categoria Richiesta [CR00]]({{< ref "_index.it.md#CR00" >}} "Categoria Richiesta") <br>
 [Stato Richiesta [SR00]]({{< ref "_index.it.md#SR00" >}} "Stato Richiesta") <br>
+
+- Funzionalità avanzate
+
 
 ## Richesta / Ticket [TIK00] {#TIK00}
 La maschera permetta la compilazione di un ticket. In corpo del ticket, nel corso del suo procedere verranno salvate le varie azioni apportate.
