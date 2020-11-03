@@ -23,4 +23,6 @@ https://docs.microsoft.com/en-us/outlook/rest/get-started
 
 https://docs.microsoft.com/en-us/graph/tutorials/java?context=outlook%2Fcontext
 
+https://github.com/Azure-Samples/ms-identity-java-desktop/tree/master/Username-Password-Flow [ESEMPIO FUNZIONANTE e implementato su iDempiere...]
+
 
