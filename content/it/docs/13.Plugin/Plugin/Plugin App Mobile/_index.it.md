@@ -24,6 +24,10 @@ Premendo l'ingranaggio in passo a destra avremo un input dove impostare l'IP del
 
 {{< figure src="loginpage2.png" >}}
 
+Creiamo un utentesu idempiere, importante che questo utente sia associato ad un Business Partner oltre che avere settato email e password:
+
+{{< figure src="UserLogin.png" >}}
+
 Effettuato il Login ci troveremo davanti il menù
 
 {{< figure src="menuprincipale.png" >}}
