@@ -13,6 +13,17 @@ pre: "<b>732. </b>"
 - Connessione ad Internet
 - Conoscere l'IP del server
 
+## Parametrizzazione iDempiere
+
+Come prima cosa dobbiamo installare il plugin "WStoreAPI" presente all'interno di iDempiere Download. Installare il 2pack manualmente a livello System.
+
+Successivamente andiamo a settare su iDempiere, oltre che ai webservices (presenti nella Maschera Sicurezza Web Services), un record nella maschera Web Store "Negozio Elettronico" perchè funzioni il plugin
+
+{{< figure src="NegozioElettronico.png" >}}
+
+Creiamo un utente su idempiere, importante che questo utente sia associato ad un Business Partner oltre che avere settato email e password:
+
+{{< figure src="UserLogin.png" >}}
 
 ## Istruzione e Mobile
 
@@ -24,9 +35,6 @@ Premendo l'ingranaggio in passo a destra avremo un input dove impostare l'IP del
 
 {{< figure src="loginpage2.png" >}}
 
-Creiamo un utentesu idempiere, importante che questo utente sia associato ad un Business Partner oltre che avere settato email e password:
-
-{{< figure src="UserLogin.png" >}}
 
 Effettuato il Login ci troveremo davanti il menù
 
