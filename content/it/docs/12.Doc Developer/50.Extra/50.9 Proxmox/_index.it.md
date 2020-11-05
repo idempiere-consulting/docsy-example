@@ -99,7 +99,7 @@ COUNTER=Numero del container
 
 ```
 cd /var/lib/vz/dump/
-pct restore 1$COUNTER template-lxc-idempiere_ita_demo-142.tar.lzo
+pct restore 1$COUNTER template-lxc-idempiere_ita_demo-142.tar.lzo --bwlimit 40960 (oppure 10240, oppure 20480)
 pct set 1$COUNTER -hostname $NOME_CONTAINER$COUNTER
 pct set 1$COUNTER -net0 name=eth0,bridge=vmbr0,ip=192.168.0.$COUNTER/24,gw=192.168.0.254
 pct start 1$COUNTER
