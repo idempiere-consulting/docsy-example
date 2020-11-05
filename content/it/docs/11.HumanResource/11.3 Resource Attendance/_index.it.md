@@ -7,17 +7,6 @@ pre: "<b>11.2 </b>"
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Rilevamento Ore [RO10]
 [{{< figure src="/image/RilevamentoOre.png"  width="850"  >}}](/image/RilevamentoOre.png)
 ## Crea Rilevamento Ore da Template [CRT10]

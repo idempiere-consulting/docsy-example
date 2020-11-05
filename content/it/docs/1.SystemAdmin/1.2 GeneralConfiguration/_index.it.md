@@ -215,3 +215,5 @@ PEr far vedere il pop-up a livello maschera sulla finesta ordine di vendita quan
 ### Video - 1. SystemAdmin - Mail Setup SMTP / Setup Posta Impostare SMTP [V026]
 {{<youtube Uc94dR-fU4E>}}
 
+### Video - 1. System Admin - Recovery Test from Prod. / Server di Test da Backup o macchina ufficiale [V169]
+{{<youtube NtXfiEZjYnM>}}

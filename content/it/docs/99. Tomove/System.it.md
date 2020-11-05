@@ -90,11 +90,8 @@ nel server .
 ### Video - 1. System Admin - Addon #1472 Image on Grid / Gestione Immagini su Griglia [V168T]
 {{<youtube G0hbmdoq8r8>}}
 
-### Video - 1. System Admin - creation of field tab mask  / Creazione Machera Tab Campi [V144]
-{{<youtube Ao8zm6hPehw>}}
 
-### Video - 1. System Admin - Recovery Test from Prod. / Server di Test da Backup o macchina ufficiale [V169]
-{{<youtube NtXfiEZjYnM>}}
+
 
 ### Video - 1. SystemAdmin - Import Data CSV  / EsempioImportProdotto [V139]
 {{<youtube rksqFJ31Kgw>}}
