@@ -77,3 +77,5 @@ description: >
 [{{< figure src="/image/InfoWindow.png"  width="850"  >}}](/image/InfoWindow.png)
 ### Messaggio
 [{{< figure src="/image/Message.png"  width="850"  >}}](/image/Message.png)
+
+
