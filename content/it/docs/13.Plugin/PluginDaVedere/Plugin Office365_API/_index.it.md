@@ -28,3 +28,23 @@ https://docs.microsoft.com/en-us/graph/api/resources/calendar?view=graph-rest-1.
 https://github.com/Azure-Samples/ms-identity-java-desktop/tree/master/Username-Password-Flow [ESEMPIO FUNZIONANTE e implementato su iDempiere...]
 
 
+## Passaggi per attivazione piattaforma API Graph
+
+Avere un utente attivato con licenza Office
+
+E poi  ---> https://portal.azure.com/
+
+[{{< figure src="/image/Office365_acvt_1.png" title="s" width="815"  >}}](/image/Office365_acvt_1.png)
+
+[{{< figure src="/image/Office365_acvt_2.png" title="s" width="815"  >}}](/image/Office365_acvt_2.png)
+
+[{{< figure src="/image/Office365_acvt_3.png" title="s" width="815"  >}}](/image/Office365_acvt_3.png)
+
+[{{< figure src="/image/Office365_acvt_4.png" title="s" width="815"  >}}](/image/Office365_acvt_4.png)
+
+[{{< figure src="/image/Office365_acvt_5.png" title="s" width="815"  >}}](/image/Office365_acvt_5.png)
+
+[{{< figure src="/image/Office365_acvt_6.png" title="s" width="815"  >}}](/image/Office365_acvt_6.png)
+
+[{{< figure src="/image/Office365_acvt_7.png" title="s" width="815"  >}}](/image/Office365_acvt_7.png)
+
