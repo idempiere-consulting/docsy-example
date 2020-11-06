@@ -452,3 +452,9 @@ socket://188.228.172.189:3022
 ```
 
 Completiamo il tutto e adesso la nostra stampante è collegata al server remoto
+
+
+### Video - Plugin - PLugin UtilPDF / 21 15 Util PDF Archivio Custom Name [V179]
+{{<youtube 1_s4Xsx-1sA>}}
+
+

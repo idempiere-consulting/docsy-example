@@ -25,3 +25,5 @@ pre: "<b>11.2 </b>"
 [{{< figure src="/image/InfoRicercaRilevamentoOre.png"  width="850"  >}}](/image/InfoRicercaRilevamentoOre.png)
 ## Cruscotto Rilevamento Ore [ROD10]
 [{{< figure src="/image/CruscottoRilevamentoOre.png"  width="850"  >}}](/image/CruscottoRilevamentoOre.png)
+
+
