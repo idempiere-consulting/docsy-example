@@ -14,3 +14,6 @@ pre: "<b></b>"
 
 ### 8. Accounting - Accounting Rules / Risconto Passivo [V003]
 {{<youtube 4xcL3cQiQLc>}}
+
+### 8. Accounting - Chart of Account Creation / Creazione Piano dei Conti [V141]
+{{<youtube bFOMtGVMl7c>}}

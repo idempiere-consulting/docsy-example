@@ -9,8 +9,6 @@ pre: "<b>8.2 </b>"
 ### Video - 8. Accouting - Detail Account / Dettaglio Conto Contabile [V070]
 {{<youtube d_EXqaV9RrE>}}
 
-### Video - 8. Accounting - Chart of Account Creation / Creazione Piano dei Conti [V141]
-{{<youtube bFOMtGVMl7c>}}
 
 ### Video - 8. Accounting -  Accounting Scheme Data Setup / Setup dati Schema Contabile uno [V127]
 {{<youtube GqPoHJG18bU>}}
