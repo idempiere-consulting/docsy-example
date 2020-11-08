@@ -26,3 +26,6 @@ pre: "<b>60. </b>"
 
 ### Video - Developer - Product Configurator Product [V104]
 {{<youtube 6wjM5tWmnCE>}}
+
+### Video - 5.  Gestione Immagini su Griglia / System Admin - Addon #1472 Image on Grid [V168T]
+{{<youtube G0hbmdoq8r8>}}
