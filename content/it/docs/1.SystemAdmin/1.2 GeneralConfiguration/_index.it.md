@@ -217,3 +217,9 @@ PEr far vedere il pop-up a livello maschera sulla finesta ordine di vendita quan
 
 ### Video - 1. System Admin - Recovery Test from Prod. / Server di Test da Backup o macchina ufficiale [V169]
 {{<youtube NtXfiEZjYnM>}}
+
+### Video - 1. SystemAdmin - User / Creazione Utente [V002]
+{{<youtube WtIHoteHUso>}}
+
+### Video - 1. SystemAdmin - Role User Access / Ruolo Utente e Accesso [V140]
+{{<youtube hTzAjVcQeQg>}}

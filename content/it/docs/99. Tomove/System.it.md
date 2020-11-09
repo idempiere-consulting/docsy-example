@@ -42,11 +42,9 @@ m)	Discorso identico al punto (l) puo' essere fatto per il tab "Accesso Colonna"
 
 
 
-### Video - 1. SystemAdmin - User / Creazione Utente [V002]
-{{<youtube WtIHoteHUso>}}
 
-### Video - 1. SystemAdmin - Role User Access / Ruolo Utente e Accesso [V140]
-{{<youtube hTzAjVcQeQg>}}
+
+
 
 ### Video - 1. SystemAdmin - Copy preference Grid / Copia Impostazioni Griglia [V001]
 {{<youtube zHEWwTlVwFI>}}
