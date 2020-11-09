@@ -7,7 +7,7 @@ pre: "<b></b>"
 ---
 
 ## Video - Ordine di Acquisto
-### Video - 5 Requisition to Invoice - Purchase Order / Ordine di Tipo Fattura Accompagnatoria [V011]
+### Video - 4 Quote to Invoice / Ordine di Tipo Fattura Accompagnatoria [V011]
 {{<youtube 0ZvFAkDnf18>}} 
 ### Video - 5 Requisition to Invoice - Create Purchase Order / Creazione Ordine Acquisto [V044]
 {{<youtube xYWpc4UcSno>}}
