@@ -27,6 +27,8 @@ https://docs.microsoft.com/en-us/graph/api/resources/calendar?view=graph-rest-1.
 
 https://github.com/Azure-Samples/ms-identity-java-desktop/tree/master/Username-Password-Flow [ESEMPIO FUNZIONANTE e implementato su iDempiere...]
 
+https://dev.to/425show/secure-apis-with-azure-functions-java-azure-ad-and-ms-graph-49p1 [Tutorial per auth....]
+
 
 ## Passaggi per attivazione piattaforma API Graph
 
