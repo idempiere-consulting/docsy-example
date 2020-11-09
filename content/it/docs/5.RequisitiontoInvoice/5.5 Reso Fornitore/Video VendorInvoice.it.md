@@ -10,9 +10,6 @@ pre: "<b></b>"
 ### Video - 5. Requisition-to-Invoice - Registration Purchase invoice / Reg. Fattura di Acquisto Servizi [V037]
 {{<youtube e2ltX28UWVI>}}
 
-### Video - 5. Requisition-to-Invoice - Invoice (Vendor) / Fattura di Acquisto 22% [V038]
-{{<youtube HMTjJbjdwSU>}}
-
 ### Video - 5. Requisition-to-Invoice - Invoice Vat Squaring / Fattura con squadratura IVA [V039]
 {{<youtube Zc0R3grA_hU>}}
 
