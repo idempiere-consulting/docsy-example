@@ -17,3 +17,6 @@ pre: "<b></b>"
 
 ### 8. Accounting - Chart of Account Creation / Creazione Piano dei Conti [V141]
 {{<youtube bFOMtGVMl7c>}}
+
+### 8.Accounting - Finance Report  / Report Finanziario [V067]
+{{<youtube IBzj8TtuzvQ>}}
