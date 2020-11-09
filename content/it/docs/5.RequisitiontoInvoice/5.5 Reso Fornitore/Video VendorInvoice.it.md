@@ -19,9 +19,6 @@ pre: "<b></b>"
 ### Video - 5 Requisition to Invoice - Invoice Purchase Italy / Fattura Acquisto Italia art 17c 6 [V041]
 {{<youtube P6bQRczRT8M>}}
 
-### Video - 5. Requisition-to-Invoice - Invoice (Vendor) / Fattura acquisto iva indetraibile [V042]
-{{<youtube ZrisrpXcPzs>}}
-
 ### Video - 5 Requisition to Invoice - Credit Note Vendor / Nota Accredito Fornitore [V043]
 {{<youtube GRRD9T9uOJc>}}
 
