@@ -26,3 +26,6 @@ pre: "<b></b>"
 
 ### 8. Accounting -  Bank Receipts Overvieuw & outstanding / Panoramica Generale su RIBA con [V171]
 {{<youtube 5dd2bGqr7HY>}}
+
+### 8. Accounting - Dunning / Pagamento Sollecito Cliente  AB [V015]
+{{<youtube 1Cwv2Guwfmk>}}
