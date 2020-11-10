@@ -22,9 +22,6 @@ pre: "<b></b>"
 ### Video - 5 Requisition to Invoice - Credit Note Vendor / Nota Accredito Fornitore [V043]
 {{<youtube GRRD9T9uOJc>}}
 
-### Video - 5. Requisition-to-Invoice - Invoice (Customer) / Fattura Vendita Art17c6noIva [V050]
-{{<youtube gbc3QngnC4I>}}
-
 ### Video - 5. Requisition-to-Invoice - Landed Cost part 2 / Imputazione Costi di Trasporto e Acc [V186]
 {{<youtube TC2ppwV_CaA>}}
 
