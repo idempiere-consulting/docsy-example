@@ -29,3 +29,6 @@ pre: "<b></b>"
 
 ### 8. Accounting - Dunning / Pagamento Sollecito Cliente  AB [V015]
 {{<youtube 1Cwv2Guwfmk>}}
+
+### 8. Accounting - Dunning / Pagamento Sollecito Cliente 2 [V017]
+{{<youtube x62kjFm-7pw>}}

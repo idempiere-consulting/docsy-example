@@ -10,8 +10,5 @@ pre: "<b> </b>"
 ### 8. Accounting - Dunning /  Accounting Pagamento Setup sollecito [V008]
 {{<youtube yXocTEwFRQU>}}
 
-### 8. Accounting - Dunning / Pagamento Sollecito Cliente 2 [V017]
-{{<youtube x62kjFm-7pw>}}
-
 ### 8.Accounting - Dunning / Pagamento-SollecitoCliente [V018]
 {{<youtube wAenMynsbSo>}}
