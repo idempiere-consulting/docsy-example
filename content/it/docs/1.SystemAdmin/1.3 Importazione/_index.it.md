@@ -51,8 +51,6 @@ weight : 40
 
 # Video Importazione
 
-## Import EsempioImportProdotto https://youtu.be/rksqFJ31Kgw
-
 ## Importazione Banche V079 https://youtu.be/p-4RvDKWr3E
 
 ## Importazione Intrastat V080 https://youtu.be/wLuF9HG7Ss4
@@ -61,4 +59,5 @@ weight : 40
 
 ## Importazione Listino Prezzi V082 https://youtu.be/teeJJ8HGXo4
 
-
+### Video - 1. SystemAdmin - Import Data CSV  / EsempioImportProdotto [V139]
+{{<youtube rksqFJ31Kgw>}}

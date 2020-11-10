@@ -76,9 +76,6 @@ nel server .
 
 ## Note di modifica
 
-
-
-
 ### Video - 1. SystemAdmin-Alert [V089]
 {{<youtube URBB2k0ATu0>}}
 
@@ -87,12 +84,6 @@ nel server .
 
 ### Video - 1. System Admin - Addon #1472 Image on Grid / Gestione Immagini su Griglia [V168T]
 {{<youtube G0hbmdoq8r8>}}
-
-
-
-
-### Video - 1. SystemAdmin - Import Data CSV  / EsempioImportProdotto [V139]
-{{<youtube rksqFJ31Kgw>}}
 
 ### Video - 1. SystemAdmin Importazione Listino Prezzi [V082]
 {{<youtube teeJJ8HGXo4>}}
