@@ -223,3 +223,6 @@ PEr far vedere il pop-up a livello maschera sulla finesta ordine di vendita quan
 
 ### Video - 1. SystemAdmin - Role User Access / Ruolo Utente e Accesso [V140]
 {{<youtube hTzAjVcQeQg>}}
+
+### Video - 1. SystemAdmin - Machine test reset / Ripristino Macchina di Test [V020]
+{{<youtube cMkoKRlf9Q>}}
