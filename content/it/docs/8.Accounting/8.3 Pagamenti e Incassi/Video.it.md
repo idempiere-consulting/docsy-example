@@ -32,3 +32,6 @@ pre: "<b></b>"
 
 ### 8. Accounting - Dunning / Pagamento Sollecito Cliente 2 [V017]
 {{<youtube x62kjFm-7pw>}}
+
+### Video - 8. Accounting - Payment Invoice Vendor of Invoice / Pagamento Fattura Fornitore da Fattura [V062]
+{{<youtube 4xrEL5krZtk>}}
