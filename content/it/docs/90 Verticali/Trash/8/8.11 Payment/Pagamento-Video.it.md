@@ -6,9 +6,6 @@ weight : 811
 pre: "<b></b>"
 ---
 
-### Video - 8. Accounting - Mixed payment / Pagamento Misto [V021]
-{{<youtube 5VJfa2UajLA>}}
- 
 ### Video - 8. Accounting - Payment Invoice Vendor / Pagamento Fattura Fornitore [V061]
 {{<youtube ww93dYZKZA0>}}
 
