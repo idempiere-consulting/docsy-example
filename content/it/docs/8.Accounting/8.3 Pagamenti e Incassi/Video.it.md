@@ -41,3 +41,6 @@ pre: "<b></b>"
 
 ### 8 Accounting - Report PagamentiNon Abbinati (R.63)+Abbinamento [V069]
 {{<youtube DVxs2IVnSmM>}}
+
+### Video - 8. Accouting - Detail Account / Dettaglio Conto Contabile [V070]
+{{<youtube d_EXqaV9RrE>}}
