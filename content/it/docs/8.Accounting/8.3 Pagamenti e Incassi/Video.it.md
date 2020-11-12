@@ -35,3 +35,6 @@ pre: "<b></b>"
 
 ### Video - 8. Accounting - Payment Invoice Vendor of Invoice / Pagamento Fattura Fornitore da Fattura [V062]
 {{<youtube 4xrEL5krZtk>}}
+
+### Video - 8. Pagamento Misto / Accounting - Mixed payment [V021]
+{{<youtube 5VJfa2UajLA>}}
