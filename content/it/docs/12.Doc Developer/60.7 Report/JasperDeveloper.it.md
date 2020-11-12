@@ -6,12 +6,14 @@ weight : 500
 pre: "<b> </b>"
 ---
 
-Jasper How To Bible
 
-WHEN EXPRESSION
+##  EXPRESSION
+
+### TIPO SI/NO Yes / No 
 
 $F{lit_servicecard_contract_isopen}.equals("Y")
 
+### TIPO NUMERICO 
 new Boolean($F{c_invoice_withholdingamt}.doubleValue() > 0)
 
 
@@ -22,19 +24,12 @@ Amount textfield pattern "+new java.text.DecimalFormat("¤ #,##0.00").format($F{
 
 Date Format pattern new SimpleDateFormat("dd/MM/yyyy").format($F{yourdatefield})
 
-# How to Jasper Reports
 
----
+### Riferimenti Help / Documenti  online
 
-```
 http://wiki.idempiere.org/en/Report_View
-```
 
----
 
-## link doc
-
-```
 https://www.tutorialspoint.com/jasper_reports/jasper_creating_charts.htm
 
 http://www.adempiere.com/Using_Jasper_Report_Form_in_place_of_Standard_Forms
