@@ -38,3 +38,6 @@ pre: "<b></b>"
 
 ### Video - 8. Pagamento Misto / Accounting - Mixed payment [V021]
 {{<youtube 5VJfa2UajLA>}}
+
+### 8 Accounting - Report PagamentiNon Abbinati (R.63)+Abbinamento [V069]
+{{<youtube DVxs2IVnSmM>}}
