@@ -85,9 +85,6 @@ nel server .
 ### Video - 1. System Admin - Addon #1472 Image on Grid / Gestione Immagini su Griglia [V168T]
 {{<youtube G0hbmdoq8r8>}}
 
-### Video - 1. SystemAdmin Importazione Listino Prezzi [V082]
-{{<youtube teeJJ8HGXo4>}}
-
 ### Video - 1. SystemAdmin Importazione Categorie Prodotto [V081]
 {{<youtube CPvP_yIT3Bk>}}
 
