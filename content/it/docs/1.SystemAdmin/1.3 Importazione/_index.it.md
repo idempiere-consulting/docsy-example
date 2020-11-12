@@ -51,7 +51,7 @@ weight : 40
 
 # Video Importazione
 
-### Video - 1. SystemAdmin Importazione Listino Prezzi [V082]
+## Video - 1. SystemAdmin Importazione Listino Prezzi [V082]
 {{<youtube teeJJ8HGXo4>}}
 
 ## Importazione Banche V079 https://youtu.be/p-4RvDKWr3E
