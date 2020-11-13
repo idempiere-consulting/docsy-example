@@ -32,3 +32,15 @@ pre: "<b></b>"
 
 ### 8. Accounting - Dunning / Pagamento Sollecito Cliente 2 [V017]
 {{<youtube x62kjFm-7pw>}}
+
+### Video - 8. Accounting - Payment Invoice Vendor of Invoice / Pagamento Fattura Fornitore da Fattura [V062]
+{{<youtube 4xrEL5krZtk>}}
+
+### Video - 8. Pagamento Misto / Accounting - Mixed payment [V021]
+{{<youtube 5VJfa2UajLA>}}
+
+### 8 Accounting - Report PagamentiNon Abbinati (R.63)+Abbinamento [V069]
+{{<youtube DVxs2IVnSmM>}}
+
+### Video - 8. Accouting - Detail Account / Dettaglio Conto Contabile [V070]
+{{<youtube d_EXqaV9RrE>}}

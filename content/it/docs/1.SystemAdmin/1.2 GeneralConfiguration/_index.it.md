@@ -212,17 +212,20 @@ PEr far vedere il pop-up a livello maschera sulla finesta ordine di vendita quan
 ### Reset Password [REP00]
 [{{< figure src="/image/ResetPassword.png"  width="850"  >}}](/image/ResetPassword.png)
 
-### Video - 1. SystemAdmin - Mail Setup SMTP / Setup Posta Impostare SMTP [V026]
+## Video - 1. SystemAdmin - Mail Setup SMTP / Setup Posta Impostare SMTP [V026]
 {{<youtube Uc94dR-fU4E>}}
 
-### Video - 1. System Admin - Recovery Test from Prod. / Server di Test da Backup o macchina ufficiale [V169]
+## Video - 1. System Admin - Recovery Test from Prod. / Server di Test da Backup o macchina ufficiale [V169]
 {{<youtube NtXfiEZjYnM>}}
 
-### Video - 1. SystemAdmin - User / Creazione Utente [V002]
+## Video - 1. SystemAdmin - User / Creazione Utente [V002]
 {{<youtube WtIHoteHUso>}}
 
-### Video - 1. SystemAdmin - Role User Access / Ruolo Utente e Accesso [V140]
+## Video - 1. SystemAdmin - Role User Access / Ruolo Utente e Accesso [V140]
 {{<youtube hTzAjVcQeQg>}}
 
-### Video - 1. SystemAdmin - Machine test reset / Ripristino Macchina di Test [V020]
+## Video - 1. SystemAdmin - Machine test reset / Ripristino Macchina di Test [V020]
 {{<youtube cMkoKRlf9Q>}}
+
+## Video - 1.  System Admin - Company Logo / Logo azienda per Report banner  [V023]
+{{<youtube Njo1yylJd3U>}}

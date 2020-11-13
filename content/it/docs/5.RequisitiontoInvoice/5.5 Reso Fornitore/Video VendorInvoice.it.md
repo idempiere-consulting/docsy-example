@@ -38,8 +38,5 @@ pre: "<b></b>"
 ### Video - 5. Requisition to Invoice - Custom Bill / Bolletta doganale [V035]
 {{<youtube DCyHXWdt6CA>}}
 
-### Video - 5. Requisition-to-Invoice - Shipper Invoice / Bolletta Doganale Fattura trasportatore [V036]
-{{<youtube 7ziN0JZzhuU>}}
-
 ### Video - 5. Requisition-to-Invoice - Payment BIl / Bolletta Pagam Spediz Saldo [V068]
 {{<youtube Hcou77p8_l8>}}
