@@ -85,12 +85,6 @@ nel server .
 ### Video - 1. System Admin - Addon #1472 Image on Grid / Gestione Immagini su Griglia [V168T]
 {{<youtube G0hbmdoq8r8>}}
 
-### Video - 1. SystemAdmin Importazione Categorie Prodotto [V081]
-{{<youtube CPvP_yIT3Bk>}}
-
-### Video - 1. SystemAdmin Importazione Intrastat [V080]
-{{<youtube wLuF9HG7Ss4>}}
-
 ### Video - 1.Importazione Banche BP [V099]
 {{<youtube p-4RvDKWr3E>}}
 
