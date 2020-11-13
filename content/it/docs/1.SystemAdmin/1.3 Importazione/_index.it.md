@@ -57,11 +57,12 @@ weight : 40
 ## Video - 1. Importazione Categorie Prodotto [V081]
 {{<youtube CPvP_yIT3Bk>}}
 
+## Video - 1. Importazione Intrastat /  SystemAdmin Importazione Intrastat [V080]
+{{<youtube wLuF9HG7Ss4>}}
+
 ## Importazione Banche V079 https://youtu.be/p-4RvDKWr3E
 
 ## Importazione Intrastat V080 https://youtu.be/wLuF9HG7Ss4
-
-## Importazione Categorie Prodotto V081 https://youtu.be/CPvP_yIT3Bk
 
 ### Video - 1. SystemAdmin - Import Data CSV  / EsempioImportProdotto [V139]
 {{<youtube rksqFJ31Kgw>}}
