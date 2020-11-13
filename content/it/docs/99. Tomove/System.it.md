@@ -85,9 +85,6 @@ nel server .
 ### Video - 1. System Admin - Addon #1472 Image on Grid / Gestione Immagini su Griglia [V168T]
 {{<youtube G0hbmdoq8r8>}}
 
-### Video - 1.Importazione Banche BP [V099]
-{{<youtube p-4RvDKWr3E>}}
-
 ### Video - 1 SystemAdmin WorkFlow Video Approvazione Documento [V102]
 {{<youtube RBuE-4Tk51U>}}
 
