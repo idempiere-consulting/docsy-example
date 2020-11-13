@@ -88,13 +88,7 @@ nel server .
 ### Video - 1 SystemAdmin WorkFlow Video Approvazione Documento [V102]
 {{<youtube RBuE-4Tk51U>}}
 
-### 1  System Admin - Company Logo / Logo azienda per Report banner  [V023]
-{{<youtube Njo1yylJd3U>}}
-
 1 SystemAdmin  Setup Posta Impostare SMTP V026  https://youtu.be/Uc94dR-fU4E
-
-1 SystemAdmin  Logo Azienda per Report Banner V023 https://youtu.be/Njo1yylJd3U 
-
 
  
 ### Video -  1. System Admin - Developer - Help Context Link / Sviluppo Aiuto Contestuale [V049]

@@ -63,7 +63,6 @@ weight : 40
 ## Video - 1.Importazione Banche BP [V099]
 {{<youtube p-4RvDKWr3E>}}
 
-
 ## Importazione Banche V079 https://youtu.be/p-4RvDKWr3E
 
 ## Importazione Intrastat V080 https://youtu.be/wLuF9HG7Ss4
