@@ -88,9 +88,6 @@ nel server .
 ### Video - 1 SystemAdmin WorkFlow Video Approvazione Documento [V102]
 {{<youtube RBuE-4Tk51U>}}
 
-1 SystemAdmin  Setup Posta Impostare SMTP V026  https://youtu.be/Uc94dR-fU4E
-
- 
 ### Video -  1. System Admin - Developer - Help Context Link / Sviluppo Aiuto Contestuale [V049]
 {{<youtube KeidiuQYSOo>}}
 
