@@ -229,3 +229,6 @@ PEr far vedere il pop-up a livello maschera sulla finesta ordine di vendita quan
 
 ## Video - 1.  System Admin - Company Logo / Logo azienda per Report banner  [V023]
 {{<youtube Njo1yylJd3U>}}
+
+## Video - 1 SystemAdmin WorkFlow Video Approvazione Documento [V102]
+{{<youtube RBuE-4Tk51U>}}
