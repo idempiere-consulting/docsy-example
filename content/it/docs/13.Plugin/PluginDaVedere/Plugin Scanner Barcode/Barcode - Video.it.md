@@ -6,5 +6,5 @@ weight : 700
 pre: "<b>70. </b>"
 ---
 
-### Video - Plugin LitWarehouse Extend -  AV Qty tramite codice barcode  - [V079]
+## Video - Plugin LitWarehouse Extend -  AV Qty tramite codice barcode  - [V079]
 {{<youtube Mg4V2UhHmgw>}}
