@@ -40,16 +40,8 @@ l)	Dalla finestra "Ruolo access" posso attribuire ad un ruolo Padre dei permessi
 m)	Discorso identico al punto (l) puo' essere fatto per il tab "Accesso Colonna", ovviamente per quanto riguarda rimuovere accessi a colonne.
 
 
-
-
-
-
-
-
 ### Video - 1. SystemAdmin - Copy preference Grid / Copia Impostazioni Griglia [V001]
 {{<youtube zHEWwTlVwFI>}}
-
-
 
 ## Riabilità Utente Bloccato [RUB00]
 
@@ -85,8 +77,6 @@ nel server .
 ### Video - 1. System Admin - Addon #1472 Image on Grid / Gestione Immagini su Griglia [V168T]
 {{<youtube G0hbmdoq8r8>}}
 
-### Video - 1 SystemAdmin WorkFlow Video Approvazione Documento [V102]
-{{<youtube RBuE-4Tk51U>}}
 
 ### Video -  1. System Admin - Developer - Help Context Link / Sviluppo Aiuto Contestuale [V049]
 {{<youtube KeidiuQYSOo>}}
