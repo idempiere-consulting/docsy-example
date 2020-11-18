@@ -34,9 +34,5 @@ pre: "<b></b>"
 ### Video - 5. Requisition-to-Invoice - Vendor Invoice Vat Error / Fattura Acquisto con errore iva [V151]
 {{<youtube BhsXb5d3TeQ>}}
 
-## Video - Bolletta Doganale  
-### Video - 5. Requisition to Invoice - Custom Bill / Bolletta doganale [V035]
-{{<youtube DCyHXWdt6CA>}}
-
 ### Video - 5. Requisition-to-Invoice - Payment BIl / Bolletta Pagam Spediz Saldo [V068]
 {{<youtube Hcou77p8_l8>}}
