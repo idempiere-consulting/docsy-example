@@ -32,3 +32,6 @@ pre: "<b></b>"
 
 ### Video - 8. Accounting PeriodiContabili Creazione Esercizion Anno Contabile [V076]
 {{<youtube Y9cOwD-bemU>}}
+
+### Video - 8 Accounting Setup Apertura Chiusura Periodo Contabile [V078]
+{{<youtube VC7__X7mdPY>}}

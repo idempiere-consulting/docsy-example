@@ -24,9 +24,6 @@ pre: "<b>8.2 </b>"
 ### Video - 8. Accouting - GL Journal Generator / Scritture chiusura esercizio [V005]
 {{<youtube U7tmVOvHwsM>}}
 
-### Video - 8 Accounting Setup Apertura Chiusura Periodo Contabile [V078]
-{{<youtube VC7__X7mdPY>}}
-
 8 Accounting CostiIndeducibili FDA https://youtu.be/fZqBFGqaqIA
 
 8 Accounting Elenco Registrazioni Contabili V073 https://youtu.be/3n0XEUPcYcE
