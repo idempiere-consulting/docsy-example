@@ -23,3 +23,6 @@ pre: "<b></b>"
 
 ### Video - 8. Accounting - Schemacontabile contidefault Pianodei Conti [V086]
 {{<youtube r7EQEmzV70k>}}
+
+### Video - 8. Accounting  - Prima Nota Contabile [V072]
+{{<youtube XrFAt6dNRjY>}}

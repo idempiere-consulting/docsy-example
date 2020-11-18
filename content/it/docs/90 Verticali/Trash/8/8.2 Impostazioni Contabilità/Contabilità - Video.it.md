@@ -21,9 +21,6 @@ pre: "<b>8.2 </b>"
 ### Video - 8. Accounting - GL Distribution / Riassegnazione Contabile [V047]
 {{<youtube CIKvRf5q0q4>}}
 
-### Video - 8. Accounting  - Prima Nota Contabile [V072]
-{{<youtube XrFAt6dNRjY>}}
-
 ### Video - 8. Accouting - GL Journal Generator / Scritture chiusura esercizio [V005]
 {{<youtube U7tmVOvHwsM>}}
 
