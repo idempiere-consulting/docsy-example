@@ -20,3 +20,6 @@ pre: "<b></b>"
 
 ### 8.Accounting - Finance Report  / Report Finanziario [V067]
 {{<youtube IBzj8TtuzvQ>}}
+
+### Video - 8. Accounting - Schemacontabile contidefault Pianodei Conti [V086]
+{{<youtube r7EQEmzV70k>}}

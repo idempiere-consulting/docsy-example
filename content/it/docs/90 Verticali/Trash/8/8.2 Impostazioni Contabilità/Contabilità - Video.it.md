@@ -21,9 +21,6 @@ pre: "<b>8.2 </b>"
 ### Video - 8. Accounting - GL Distribution / Riassegnazione Contabile [V047]
 {{<youtube CIKvRf5q0q4>}}
 
-### Video - 8. Accounting - Schemacontabile contidefault Pianodei Conti [V086]
-{{<youtube r7EQEmzV70k>}}
-
 ### Video - 8. Accounting  - Prima Nota Contabile [V072]
 {{<youtube XrFAt6dNRjY>}}
 
@@ -36,15 +33,6 @@ pre: "<b>8.2 </b>"
 ### Video - 8 Accounting Setup Apertura Chiusura Periodo Contabile [V078]
 {{<youtube VC7__X7mdPY>}}
 
-
-
-
-
-
-
-
 8 Accounting CostiIndeducibili FDA https://youtu.be/fZqBFGqaqIA
-
-
 
 8 Accounting Elenco Registrazioni Contabili V073 https://youtu.be/3n0XEUPcYcE
