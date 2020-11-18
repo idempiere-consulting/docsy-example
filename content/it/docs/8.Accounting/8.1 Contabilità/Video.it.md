@@ -26,3 +26,6 @@ pre: "<b></b>"
 
 ### Video - 8. Accounting  - Prima Nota Contabile [V072]
 {{<youtube XrFAt6dNRjY>}}
+
+### Video - 8. Accounting Numerare il Libro Giornale [V075]
+{{<youtube aNECR9vuxBk>}}
