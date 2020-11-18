@@ -29,3 +29,6 @@ pre: "<b></b>"
 
 ### Video - 8. Accounting Numerare il Libro Giornale [V075]
 {{<youtube aNECR9vuxBk>}}
+
+### Video - 8. Accounting PeriodiContabili Creazione Esercizion Anno Contabile [V076]
+{{<youtube Y9cOwD-bemU>}}
