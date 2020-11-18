@@ -8,3 +8,6 @@ pre: "<b></b>"
 
 ### Video - 8 Accounting Spesometro [V074]
 {{<youtube wpQFIR7qasQ>}}
+
+### Video - 8. Accounting PeriodiContabili Creazione Periodi IVA [V077]
+{{<youtube Z5dCo6ijAPA>}}
