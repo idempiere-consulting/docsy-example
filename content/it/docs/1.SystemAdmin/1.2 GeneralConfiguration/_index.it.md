@@ -232,3 +232,6 @@ PEr far vedere il pop-up a livello maschera sulla finesta ordine di vendita quan
 
 ## Video - 1 SystemAdmin WorkFlow Video Approvazione Documento [V102]
 {{<youtube RBuE-4Tk51U>}}
+
+### Video - 1. SystemAdmin - Copy preference Grid / Copia Impostazioni Griglia [V001]
+{{<youtube zHEWwTlVwFI>}}

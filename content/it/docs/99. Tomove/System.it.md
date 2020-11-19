@@ -40,8 +40,7 @@ l)	Dalla finestra "Ruolo access" posso attribuire ad un ruolo Padre dei permessi
 m)	Discorso identico al punto (l) puo' essere fatto per il tab "Accesso Colonna", ovviamente per quanto riguarda rimuovere accessi a colonne.
 
 
-### Video - 1. SystemAdmin - Copy preference Grid / Copia Impostazioni Griglia [V001]
-{{<youtube zHEWwTlVwFI>}}
+
 
 ## Riabilità Utente Bloccato [RUB00]
 
