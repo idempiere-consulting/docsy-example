@@ -6,17 +6,11 @@ weight : 15
 pre: "<b>735. </b>"
 ---
 
-## Video - Woocommerce 3 Sincronizzazione Prodotti [V107]
-{{<youtube ctJ5IuEPUDc>}}
-
-
 Woocommerce 1 Configurazione su WordPress V105 https://youtu.be/QUp_TGAX6zw
 
 Woocommerce 2 Configurazione iDempiere V106 https://youtu.be/3H4chEGXrCg
 
 Woocommerce 3 Sincronizzazione Prodotti V107  https://youtu.be/ctJ5IuEPUDc
-
-
 
 ## link esterni
 
