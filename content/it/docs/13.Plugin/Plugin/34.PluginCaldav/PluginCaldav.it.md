@@ -6,8 +6,8 @@ weight : 20
 pre: "<b>734. </b>"
 ---
 
-PluginCaldav V110  https://youtu.be/SO1FKW0luWI
-
+### Video - PluginCaldav [V110]
+{{<youtube SO1FKW0luWI>}}
 
 ## Descrizione Plugin
 
