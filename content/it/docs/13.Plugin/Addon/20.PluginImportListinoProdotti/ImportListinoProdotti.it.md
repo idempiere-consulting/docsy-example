@@ -1,10 +1,11 @@
 ---
-title: "Plugin Import Listino Prodotti"
+title: "Plugin Import Listino Prodotti [A.BIX.STD00]"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 10
+weight : 720
 pre: "<b>720. </b>"
 ---
+
 
 ## FUNZIONALITA' PLUGIN (Lato Cliente)
 
