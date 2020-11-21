@@ -67,10 +67,6 @@ nel server .
 
 ## Note di modifica
 
-
-### Video - 1.System Admin Alert Esempio Prodotto Deperibile se Termini di Pagamento   30 [V123]
-{{<youtube r8Etz6tY854>}}
-
 ### Video - 1. System Admin - Addon #1472 Image on Grid / Gestione Immagini su Griglia [V168T]
 {{<youtube G0hbmdoq8r8>}}
 
