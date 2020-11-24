@@ -5,9 +5,14 @@ draft: false
 weight : 40
 pre: "<b>720. </b>"
 ---
-# Plugin: Commission
+# Plugin Provvigioni / Commission
 
 ---
+
+
+Contents  [[hide](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#)]   [1 Descrizione Plugin](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#Descrizione_Plugin) [2 Funzionalità supportate](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#Funzionalit.C3.A0_supportate) [3 Installazione Plugin](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#Installazione_Plugin) [4 Parametrizzazione Plugin](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#Parametrizzazione_Plugin) [5 Istruzioni Plugin](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#Istruzioni_Plugin) [6 Documentazione Tecnica Plugin](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#Documentazione_Tecnica_Plugin)  [6.1 Modifiche all'AD](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#Modifiche_all.27AD)  [6.1.1 Tables / Windows esistenti](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#Tables_.2F_Windows_esistenti) [6.1.2 Nuove Tables /Windows](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#Nuove_Tables_.2FWindows)     [7 Funzionalità Future](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#Funzionalit.C3.A0_Future) [8 Errori e bug](http://192.168.178.102/index.php/Plugin_Provvigioni_/_Commission#Errori_e_bug)  
+
+
 
 ## Descrizione Plugin
 
@@ -115,3 +120,19 @@ commission - aggiungere bottone processo calcolo provv su sales order
 ## Errori e bug 
 
 ---
+
+
+ 
+
+# Promotions
+
+---
+
+```
+http://www.adempiere.com/Enabling_Promotions
+http://www.adempiere.com/Sponsored_Development:_Promotions
+https://idempiere.atlassian.net/browse/IDEMPIERE-2117
+http://erp-academy.chuckboecking.com/?page_id=1224
+```
+
+
