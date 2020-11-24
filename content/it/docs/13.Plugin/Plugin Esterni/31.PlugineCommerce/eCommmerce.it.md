@@ -1,9 +1,9 @@
 ---
-title: "Plugin Ecommerce"
+title: "Plugin eCommerce [X.ECO.STD00]"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 15
-pre: "<b>735. </b>"
+weight : 10
+pre: "<b>728. </b>"
 ---
 
 ## Video - Woocommerce 3 Sincronizzazione Prodotti [V107]
