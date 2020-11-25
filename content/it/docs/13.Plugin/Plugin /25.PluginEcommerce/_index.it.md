@@ -617,3 +617,5 @@ Avere un account Stripe
 _**° Utilizzo e gestione dei Coupons [video 7_5] -------> abilitare il flag sotto “WooCommerce > Impostazioni> Generali”
 ![image alt text](image_3.png)
 
+
+
