@@ -114,3 +114,9 @@ E' stata creata una infoWindow "LIT Import External Product Info" che mi consent
 ![image](/image/ImportListinoProdotti-2.png)
 
 Seleziono i prodotti che mi interessano e premo nel pulsante in basso
+
+
+
+
+
+
