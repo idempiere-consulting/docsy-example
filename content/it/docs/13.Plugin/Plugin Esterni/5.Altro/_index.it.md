@@ -6,7 +6,7 @@ draft: false
 weight : 5
 pre: "<b>5. </b>"
 description: >
-    Plugin iDempiere
+    External Plugin
 ---
 
 
