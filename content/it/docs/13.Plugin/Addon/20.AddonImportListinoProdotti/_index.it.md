@@ -2,8 +2,8 @@
 title: "Addon Import Listino Prodotti [A.BIX.STD00]"
 date: 2020-04-24T22:47:10+02:00
 draft: false
-weight : 720
-pre: "<b>720. </b>"
+weight : 10
+pre: "<b> </b>"
 ---
 
 
