@@ -11,6 +11,38 @@ description: >
 [Ruoli [RUO00]]({{< ref "_index.it.md#RUO00" >}} "Ruoli") <br>
 [Business Partner [BP00]]({{< ref "_index.it.md#BP00" >}} "Business Partner") <br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Utenti [UT00]
 si inseriscono da menù Utente o UT00
 
