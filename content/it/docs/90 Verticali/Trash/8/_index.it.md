@@ -43,13 +43,13 @@ description: >
 
 
 
-# Utenti [UT00]
+# Utenti [UT00] {#UT00}
 si inseriscono da menù Utente o UT00
 
 
-# Ruoli [UT00]
+# Ruoli [RUO00] {#RUO00}
 Si definiscono nel menù Ruolo Utente o RUO00
 
 
-# Business Partner [UT00]
+# Business Partner [BP00] {#BP00}
 si inserisce da menù Business Partner o BP00
