@@ -10,9 +10,12 @@ description: >
     Ruoli
     Business Partner
 ---
+[Utenti [UT00]]({{< ref "_index.it.md#UT00" >}} "Utenti") <br>
+[Ordine di Acquisto [ODA00]]({{< ref "_index.it.md#ODA00" >}} "Ordine di Acquisto") <br>
+[Ordine di Acquisto [ODA00]]({{< ref "_index.it.md#ODA00" >}} "Ordine di Acquisto") <br>
 
 # Utenti
-si insriscono da menù Utente o UT00
+si inseriscono da menù Utente o UT00
 
 
 # Ruoli
