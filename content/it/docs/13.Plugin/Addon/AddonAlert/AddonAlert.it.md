@@ -5,3 +5,6 @@ draft: false
 weight : 10
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina Addon Alert ]({{< ref "2.2Alert.it.md#ALERT00" >}} "Offerta Ordine di Vendita") <br>
+
