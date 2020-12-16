@@ -17,15 +17,15 @@ Installare il 2Pack presente nel plug-in e ricordarsi di creare il "tipo entità
 ## Descrizione
 
 [TRADUZIONE GOOGLE TRANSLATE da wiki....modificare...]<br>
-Questo plugin aggiunge un pannello che aiuta a mantenere i record di * tabelle di accesso.
+Questo plugin aggiunge un pannello che aiuta a mantenere i record delle tabelle di accesso.
 
-Quando si aggiunge un processo / finestra / ... è necessario inserire in ogni tenant:
-
+Quando si aggiunge un processo / finestra, è necessario inserire in ogni tenant
+{{< figure src="/image/Contrattodivendita.png"  width="850"  >}}
 per aggiungerlo (se necessario) ai ruoli manuali
 per disattivarlo (se necessario) a ruoli "non manuali"
 -> che richiede molto tempo.
 
-Ecco perché creo un pannello che consente di aggiornare tutte le tabelle * _Access da un accesso di sistema (puoi interagire con tutti i tenant) o da un tenant> 0 (e lì interrompi solo i ruoli di questo tenant).
+Ecco perché creo un pannello che consente di aggiornare tutte le tabelle. "Access" da un accesso di sistema (puoi interagire con tutti i tenant) o da un tenant> 0 (e lì interrompi solo i ruoli di questo tenant).
 
 Seleziona il tipo (processo / finestra / finestra informativa / ...) e poi il record (es: <il tuo ultimo processo creato>) - puoi filtrare l'elenco usando il nome o creato Puoi filtrare i record usando il nome del cliente o del ruolo e / o vedi solo ruolo con accesso / senza accesso / con accesso attivo / tutto.
 

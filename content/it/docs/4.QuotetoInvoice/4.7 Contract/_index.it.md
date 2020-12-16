@@ -14,19 +14,59 @@ Menù Idempiere
 [Crea Ordine di Vendita da Contratto [COVC20]]({{< ref "_index.it.md#COVC20" >}} "Crea Ordine di Vendita da Contratto") <br>
 [Info Contratto di Vendita [ICV00]]({{< ref "_index.it.md#ICV00" >}} "Info Contratto di Vendita") <br>
 
+[Crea Contratto da ordine di Acquisto [CCOA20]]({{< ref "_index.it.md#CC0A20" >}} "Crea Contratto da ordine di Acquisto") <br>
+[Contratto di Acquisto [CDA20]]({{< ref "_index.it.md#CDA20" >}} "Contratto di Acquisto") <br>
+[Crea Ordine di Acquisto da Contratto [COAC20]]({{< ref "_index.it.md#COAC20" >}} "Crea Ordine di Acquisto da Contratto") <br>
+[Info Contratto di Acquisto [ICA20]]({{< ref "_index.it.md#ICA20" >}} "Info Contratto di Acquisto") <br>
+
+
 
 ## Crea Contratto da ordine [CCO20] {#CC020}
-La Info Window permette di creare un contratto da un ordine di vendita. 
-[{{< figure src="/image/ContrattodaOrdine.png"  width="850"  >}}](/image/ContrattodaOrdine.png)
+{{< figure src="/image/ContrattodaOrdine.png"  width="850"  >}}
+La Info Window permette di creare un contratto da un ordine di vendita già esistente.
+
+
+{{< figure src="/image/Crea CO.png"  width="850"  >}}
+Nel momento in cui si genera il processo il sistema propone il tipo di frequenza ( esempio. mensile/anuale/trimestrale ).
+
+
+{{< figure src="/image/Prodotto-COntratto.png"  width="850"  >}}
+Maschera Prodotto : indispensabile inserire il "Flag" nel contratto per la gestione corretta del processo.
+
 ## Contratto di Vendita [CDV20] {#CDV20}
+{{< figure src="/image/Contrattodivendita.png"  width="850"  >}}
 La maschera permette l'inserimento manuale di un cotratto di vendita.
-[{{< figure src="/image/Contrattodivendita.png"  width="850"  >}}](/image/Contrattodivendita.png)
+
+
 ## Crea Ordine di Vendita da Contratto [COVC20] {#COVC20}
+{{< figure src="/image/IfoContrattodiVendita.png"  width="850"  >}}
 Il processo genera un ordine di vendita partendo da un contratto.
-[{{< figure src="/image/CreaOrdinediVenditaContrattoCOVC20.png"  width="850"  >}}](/image/CreaOrdinediVenditaContrattoCOVC20.png)
+La Info Window permette di selezionare i contratti di vendita apportando anche determinate modifiche (ad es. rinnovo).
+
+
 ## Info Contratto di Vendita [ICV00] {#ICV00}
-La Info Window permette di selezionare i contratti di vendita apportando anche determinate modifiche (ad es. rinnovo)
-[{{< figure src="/image/IfoContrattodiVendita.png"  width="850"  >}}](/image/IfoContrattodiVendita.png)
+{{< figure src="/image/CreaOrdinediVenditaContrattoCOVC20.png"  width="850"  >}}
+E possibile oppzionalmente creare un offerta di vendita dalla maschera COVC20.
+
+
+## Crea Contratto da ordine di Acquisto [CCOA20] {#CCOA20}
+{{< figure src="/image/Contratto Acquisto.png"  width="850"  >}}
+Il processo genera un ordine di acquisto partendo da un contratto.
+
+
+## Contratto di Acquisto [CDA20] {#CDA20}
+{{< figure src="/image/ConAcq.png"  width="850"  >}}
+La maschera permette l’inserimento manuale di un cotratto di acquisto.
+
+
+## Crea Ordine di Acquisto da Contratto [COAC20] {#COAC20}
+{{< figure src="/image/ConAcq.png"  width="850"  >}}
+Il processo genera un ordine di acquisto partendo da un contratto.
+
+
+## Info Contratto di Acquisto [ICA20] {#ICA20}
+E possibile oppzionalmente creare un offerta di acquisto dalla maschera ICA20.
+{{< figure src="/image/ConAcq.png"  width="850"  >}}
 
 
 ## link esterni
