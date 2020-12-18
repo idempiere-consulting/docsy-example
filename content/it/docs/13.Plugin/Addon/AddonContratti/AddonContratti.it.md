@@ -5,3 +5,5 @@ draft: false
 weight : 35
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina Contratti]({{< ref "Contract.it.md" >}} "Offerta Ordine di Vendita") <br>
