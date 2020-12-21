@@ -55,7 +55,7 @@ pre: "<b></b>"
 {{<youtube U7tmVOvHwsM>}}
 
 ### Video - 8. Accouting - Elenco Registrazioni Contabili [V073]
-{{<youtu.be 3n0XEUPcYcE>}}
+{{<youtube 3n0XEUPcYcE>}}
 
 
 

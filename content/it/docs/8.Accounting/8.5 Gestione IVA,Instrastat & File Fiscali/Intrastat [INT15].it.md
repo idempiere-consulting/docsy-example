@@ -130,6 +130,11 @@ group by i.ad_client_id, i.ad_org_id, i.issotrx, i.c_bpartner_id, i.c_currency_i
 
 # Link di riferimento Intra
 
+[Sistema Intrastat]: https://www.adm.gov.it/portale/dogane/operatore/servizi-online/intrastat/
+[Documentazione]: https://www.adm.gov.it/portale/-/elenchi-scambi-intracomunitari-di-beni
+[Software Intrastat]: https://www.adm.gov.it/portale/dogane/operatore/software/software-intrastat	"Software"
+
+
 Sistema Intrastat: https://www.adm.gov.it/portale/dogane/operatore/servizi-online/intrastat/
 
 Documentazione: https://www.adm.gov.it/portale/-/elenchi-scambi-intracomunitari-di-beni
