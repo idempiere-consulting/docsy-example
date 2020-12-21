@@ -54,10 +54,8 @@ pre: "<b></b>"
 ### Video - 8. Accouting - GL Journal Generator / Scritture chiusura esercizio [V005]
 {{<youtube U7tmVOvHwsM>}}
 
-8 Accounting CostiIndeducibili FDA https://youtu.be/fZqBFGqaqIA
-
-8 Accounting Elenco Registrazioni Contabili V073 https://youtu.be/3n0XEUPcYcE
-
+### Video - 8. Accouting - Elenco Registrazioni Contabili [V073]
+{{<youtu.be 3n0XEUPcYcE>}}
 
 
 
