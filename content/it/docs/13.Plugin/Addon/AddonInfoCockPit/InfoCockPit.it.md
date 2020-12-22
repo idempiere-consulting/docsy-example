@@ -7,7 +7,7 @@ pre: "<b>720. </b>"
 ---
 
 
-Il Plugin è distribuito nella speranza che possa essere utile, ma SENZA ALCUNA GARANZIA; senza nemmeno la garanzia implicita di COMMERCIABILITÀ o IDONEITÀ PER UN PARTICOLARE SCOPO. Vedere la GNU General Public License per maggiori dettagli.
+Il Plugin è distribuito nella speranza che possa essere utile ( SENZA ALCUNA GARANZIA ) con nemmeno la garanzia implicita di COMMERCIABILITÀ o IDONEITÀ per un particolatre scopo. Vedere la GNU General Public License per maggiori dettagli.
 
 Installa il plugin sulla console osgi
 
