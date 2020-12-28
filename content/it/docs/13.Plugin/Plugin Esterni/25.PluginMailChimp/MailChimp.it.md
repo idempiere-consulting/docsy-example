@@ -1,6 +1,6 @@
 ---
 title: "Plugin Mail Chimp [X.MAC.STD00]"
-date: 2020-04-24T22:47:10+02:00
+date: 2020-12-28T15:26:10+02:00
 draft: false
 weight : 10
 pre: "<b>729. </b>"
@@ -8,9 +8,11 @@ pre: "<b>729. </b>"
 
 ## link esterni
 
-```
-https://github.com/daamien/mailchimp_fdw
-```
+
+Sorgente di origine: [https://github.com/micheal-swiggs/mailchimp-java](https://github.com/micheal-swiggs/mailchimp-java)
+
+Libreria compilata:  [https://mvnrepository.com/artifact/com.github.micheal-swiggs/mailchimp-java/1.0.0](https://mvnrepository.com/artifact/com.github.micheal-swiggs/mailchimp-java/1.0.0)
+
 
 ---
 
@@ -19,12 +21,14 @@ https://github.com/daamien/mailchimp_fdw
 *link pubblico          : 
 *link idempeire italia  : 
 *link jar               : 
-*versione idempiere     : idempiere 3.1
+*versione idempiere     : idempiere 7.1
 *versione zk supportata : 
 
 ---
 
 ## Descrizione Plugin
+
+Processo di gestione sincronizzazione NewsLetter tra iDempiere e MailChimp (sincro iDempiere <-> MailChimp)
 
 ---
 
@@ -34,15 +38,36 @@ https://github.com/daamien/mailchimp_fdw
 
 ## Installazione Plugin
 
-Installare nella console felix il jar reperibile su [https://bitbucket.org/consulnet/idempiere-download idempiere-download]
+Installare nella console felix il jar reperibile su [https://github.com/idempiere-consulting/idempiere-download/blob/master/plugin-italia/LIT_NewsLetter/it.idIta.impl.LIT_NewsLetter_7.1.jar](https://github.com/idempiere-consulting/idempiere-download/blob/master/plugin-italia/LIT_NewsLetter/it.idIta.impl.LIT_NewsLetter_7.1.jar)
 
 ---
 
 ## Parametrizzazione Plugin
 
+[{{< figure src="/image/MailChimp_1.png" title="Parametrizzazione autorizzazioni MailChimp" width="1315"  >}}](/image/MailChimp_1.png)
+
+[{{< figure src="/image/MailChimp_2.png" title="Parametrizzazione autorizzazioni MailChimp" width="815"  >}}](/image/MailChimp_2.png)
+
+[{{< figure src="/image/MailChimp_3.png" title="Parametrizzazione autorizzazioni MailChimp" width="1315"  >}}](/image/MailChimp_3.png)
+
+
 ---
 
 ## Istruzioni Plugin
+
+Una volta parametrizzati i dati di accesso a livello maschera 'Azienda (Client)[AZC00]', bisognerà inizialmente creare la sottoscrizione Audience da iDempiere. Maschera di riferimento è la 'Area di interesse'
+
+[{{< figure src="/image/MailChimp_4.png" title="" width="1315"  >}}](/image/MailChimp_4.png)
+
+Una volta impostati primi dati, bisogna avviare la sincronizzazione dalla toolbar, con il processo "MailChimp Sincro"
+
+[{{< figure src="/image/MailChimp_5.png" title="" width="1315"  >}}](/image/MailChimp_5.png)
+
+Risultato su portale di MailChimp:
+
+[{{< figure src="/image/MailChimp_6.png" title="Risultato MailChimp_1" width="1315"  >}}](/image/MailChimp_6.png)
+
+[{{< figure src="/image/MailChimp_7.png" title="Risultato MailChimp_2 - Contatti" width="1315"  >}}](/image/MailChimp_7.png)
 
 ---
 
