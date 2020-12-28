@@ -1,0 +1,53 @@
+#!/bin/bash
+Azienda_Org="Rossi"
+RegioneSociale="Rossi S.r.l."
+UtenteAdmin="RossiAdmin"
+PasswordAdmin="nodrupevoc23"
+Address1="via Piave 7" 
+Localita="Mestre"
+CAP="30172"
+Stato="ITALY" 
+TelefonoAziendale="+39 0412905811"
+EmailAziendale="rossi@google.com" 
+Banner_Logo="immagine banner.jpg da inserire dentro opt/idempiere/idempiere-server/image" 
+NomeMagazzino="Mag.Sede"
+Banca_Nome="Non Indicata"
+Banca_IBAN="IT08O1643213373432121352753"
+
+cd /opt/idempiere/idempiere-server/
+
+sed -i "s/ADEMPIERE_APPS_SERVER=db-id-templ/ADEMPIERE_APPS_SERVER=$HOSTNAME/" idempiereEnv.properties
+sh console-setup.sh << EOF 
+EOF
+
+psql -d idempiere -U adempiere -c "UPDATE AD_Client SET Value='"$Azienda_Org"', Name='"$Azienda_Org"' WHERE AD_Client_ID=1000000;
+                                       UPDATE C_Calendar SET Name='"$Azienda_Org" Calendar' WHERE C_Calendar_ID=1000000;
+                                       UPDATE C_AcctSchema SET Name='"$Azienda_Org" UN/35 Euro' WHERE C_AcctSchema_ID=1000000;
+                                       UPDATE C_Element SET Name='"$Azienda_Org"' WHERE C_Element_ID=1000000;
+                                       UPDATE M_CostType SET Name='"$Azienda_Org" UN/35 Euro' WHERE M_CostType_ID=1000000;
+                                       UPDATE AD_Tree SET Name= REPLACE (Name,'DEMO','"$Azienda_Org"');
+                                       UPDATE AD_Org SET Value='"$Azienda_Org"', Name='"$Azienda_Org"' WHERE AD_Org_ID=1000000;
+                                       UPDATE AD_User SET Name='"$Azienda_Org"User', Description='"$Azienda_Org"User', Value='"$Azienda_Org"User' WHERE AD_User_ID=1000001;
+                                       UPDATE C_BPartner SET Value='"$Azienda_Org"User', Name='"$Azienda_Org"User' WHERE C_BPartner_ID=1000001;    
+                                       
+                                       UPDATE AD_Role SET Name='"$Azienda_Org" Admin' WHERE AD_Role_ID=1000000; 
+                                       UPDATE AD_Role SET Name='"$Azienda_Org" User' WHERE AD_Role_ID=1000001;  
+                                       
+                                       UPDATE AD_User SET Name='"$UtenteAdmin"', Description='"$UtenteAdmin"Admin', Value='"$UtenteAdmin"', Password='"$PasswordAdmin"' WHERE AD_User_ID=1000000;
+                                       UPDATE C_BPartner SET Value='"$UtenteAdmin"', Name='"$UtenteAdmin"' WHERE C_BPartner_ID=1000002;
+                                       
+                                       UPDATE AD_Org SET Description='$RegioneSociale' WHERE AD_Org_ID=1000000;
+                                       UPDATE AD_OrgInfo SET Phone='$TelefonoAziendale', EMail='$EmailAziendale' WHERE AD_Org_ID=1000000;
+                                       
+                                       UPDATE C_Location SET Address1='$Address1', city='$Localita', postal='$CAP' WHERE C_Location_ID=1000001;
+                                       
+                                       UPDATE M_Warehouse SET Value='$NomeMagazzino',Name='$NomeMagazzino' WHERE M_Warehouse_ID=1000000;                                   
+                                       
+                                       UPDATE C_Bank SET Name='$Banca_Nome' WHERE C_Bank_ID=1000001;
+                                       UPDATE C_BankAccount SET Value='$Banca_Nome', Name='$Banca_Nome', IBAN='$Banca_IBAN' WHERE C_BankAccount_ID=1000000;
+                                       
+"
+echo 'Run iDempiere'
+
+nohup ./idempiere-server.sh >output 2>&1 &
+
