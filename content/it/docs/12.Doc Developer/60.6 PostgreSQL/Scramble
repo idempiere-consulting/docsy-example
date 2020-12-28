@@ -1,0 +1,93 @@
+﻿--DROP FUNCTION LIT_scramble
+--DROP FUNCTION LIT_randomVowel()
+
+CREATE OR REPLACE FUNCTION LIT_randomVowel()
+RETURNS char
+AS $$
+DECLARE vint int;
+DECLARE vowel char;
+BEGIN
+vint = floor(random() * 5 + 1);
+IF vint = 1 THEN vowel = 'a';
+END IF;
+IF vint = 2 THEN vowel = 'e';
+END IF;
+if vint = 3 THEN vowel = 'i';
+END IF;
+IF vint = 4 THEN vowel = 'o';
+END IF;
+IF vint = 5 THEN vowel = 'u';
+END IF;
+RETURN vowel;
+END; $$
+LANGUAGE PLPGSQL;
+
+CREATE OR REPLACE FUNCTION LIT_randomConsonant()
+RETURNS char
+AS $$
+DECLARE cint int;
+DECLARE consonant char;
+BEGIN
+cint = floor(random() * 15 + 1);
+IF cint = 1 THEN consonant = 'b';
+END IF;
+IF cint = 2 THEN consonant = 'c';
+END IF;
+if cint = 3 THEN consonant = 'd';
+END IF;
+IF cint = 4 THEN consonant = 'f';
+END IF;
+IF cint = 5 THEN consonant = 'g';
+END IF;
+IF cint = 6 THEN consonant = 'l';
+END IF;
+IF cint = 7 THEN consonant = 'm';
+END IF;
+IF cint = 8 THEN consonant = 'n';
+END IF;
+IF cint = 9 THEN consonant = 'p';
+END IF;
+IF cint = 10 THEN consonant = 'q';
+END IF;
+IF cint = 11 THEN consonant = 'r';
+END IF;
+IF cint = 12 THEN consonant = 's';
+END IF;
+IF cint = 13 THEN consonant = 't';
+END IF;
+IF cint = 14 THEN consonant = 'v';
+END IF;
+IF cint = 15 THEN consonant = 'z';
+END IF;
+RETURN consonant;
+END; $$
+LANGUAGE PLPGSQL;
+
+CREATE OR REPLACE FUNCTION LIT_scramble (param varchar(60))
+RETURNS varchar(60)
+AS $$
+BEGIN
+param = REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(param,'a',LIT_randomVowel()),'e',LIT_randomVowel()),'i',LIT_randomVowel()),'o',LIT_randomVowel()),'u',LIT_randomVowel());
+param = REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(param,'b',LIT_randomConsonant()),'c',LIT_randomConsonant()),'d',LIT_randomConsonant()),'f',LIT_randomConsonant()),'g',LIT_randomConsonant()),'h',LIT_randomConsonant()),'j',LIT_randomConsonant()),'k',LIT_randomConsonant()),'l',LIT_randomConsonant()),'m',LIT_randomConsonant()),'n',LIT_randomConsonant()),'p',LIT_randomConsonant()),'q',LIT_randomConsonant()),'r',LIT_randomConsonant()),'s',LIT_randomConsonant()),'t',LIT_randomConsonant()),'v',LIT_randomConsonant()),'w',LIT_randomConsonant()),'x',LIT_randomConsonant()),'y',LIT_randomConsonant()),'z',LIT_randomConsonant()); 
+RETURN param;
+END; $$
+LANGUAGE PLPGSQL;
+
+
+UPDATE m_product
+SET name = 'Marmellata'
+WHERE m_product_id = 129;
+UPDATE m_product
+SET name = LIT_scramble(LOWER(name))
+WHERE m_product_id = 129;
+SELECT name FROM m_product WHERE m_product_id = 129
+
+select * from m_product 
+/*CASE
+WHEN vint = 1 THEN vowel = 'a';
+WHEN vint = 2 THEN vowel = 'e';
+WHEN vint = 3 THEN vowel = 'i';
+WHEN vint = 4 THEN vowel = 'o';
+WHEN vint = 5 THEN vowel = 'u';
+--ELSE SET vowel = '';
+END*/
