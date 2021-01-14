@@ -5,3 +5,5 @@ draft: false
 weight : 65
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "LottiProduzione[LPR00]" >}} "Installazione Addon Lotti Produzione")

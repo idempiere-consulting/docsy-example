@@ -5,3 +5,5 @@ draft: false
 weight : 10
 pre: "<b>728. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "Ticket[TIC00].md" >}} "Installazione Plugin Ticket")

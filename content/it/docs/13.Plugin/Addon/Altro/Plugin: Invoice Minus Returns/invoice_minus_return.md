@@ -5,7 +5,6 @@ draft: false
 weight : 
 pre: "<b></b>"
 # Plugin: Invoice Minus Returns (STD)
-
 ---
 
 ## link esterni
@@ -23,9 +22,12 @@ pre: "<b></b>"
 ---
 
 ## Descrizione Plugin
-
----
-
+Quando si prepara la fattura dall'ordine di vendita, verranno visualizzati le righe di fattura nette, che vengono rettificate per tutte le spedizioni restituite o perche non sono state spedite dal cliente e annullate anche se la spedizione è stata generata.<br>
+Quelle righe completamente restituite vengono eliminate.<br>
+Quelle righe parzialmente restituite vengono sottratte.<br>
+La fattura può essere emessa di nuovo. Vecchia fattura annullata.<br>
+Utilizzare dopo aver effettuato la spedizione dalle vendite e quindi RMA con i resi del cliente effettuati.<br>
+Non è necessario emettere fattura con nota di credito.<br>
 ## Funzionalità supportate
 
 ---

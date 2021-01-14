@@ -5,3 +5,5 @@ draft: false
 weight : 45
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "Fidelity[FDL00].md" >}} "Installazione Addon Fidelity")

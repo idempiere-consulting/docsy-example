@@ -5,3 +5,5 @@ draft: false
 weight : 50
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "HACCP[HAC00].md" >}} "Installazione Addon HACCP")

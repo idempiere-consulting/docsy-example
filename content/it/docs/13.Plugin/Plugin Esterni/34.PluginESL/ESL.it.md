@@ -5,3 +5,5 @@ draft: false
 weight : 10
 pre: "<b>732. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "ESL[ESL00].md" >}} "Installazione Plugin ESL")

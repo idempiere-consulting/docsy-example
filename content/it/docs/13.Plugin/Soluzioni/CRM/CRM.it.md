@@ -5,3 +5,5 @@ draft: false
 weight : 10
 pre: "<b>721. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "CRM.S[CRM00].md" >}} "Installazione Plugin-Soluzione CRM")

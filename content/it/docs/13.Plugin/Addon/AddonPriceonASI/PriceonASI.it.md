@@ -5,3 +5,5 @@ draft: false
 weight : 90
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "PriceOnAsi[POA00].md" >}} "Installazione Addon Price on Asi")

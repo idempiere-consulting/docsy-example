@@ -6,6 +6,7 @@ weight : 55
 pre: "<b>720. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "InfoCockPit[ICP00].md" >}} "Installazione Addon Info CockPit")
 
 Il Plugin è distribuito nella speranza che possa essere utile ( SENZA ALCUNA GARANZIA ) con nemmeno la garanzia implicita di COMMERCIABILITÀ o IDONEITÀ per un particolatre scopo. Vedere la GNU General Public License per maggiori dettagli.
 

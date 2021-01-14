@@ -6,6 +6,7 @@ weight : 10
 pre: "<b>721. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "PostIT[PIT00].md" >}} "Installazione Plugin PostIT")
 ## Riferimenti
 
 - link pubblico  : non applicabile

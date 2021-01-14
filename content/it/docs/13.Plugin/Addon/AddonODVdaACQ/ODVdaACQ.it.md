@@ -6,6 +6,9 @@ weight : 75
 pre: "<b>720. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "PrezzoDiVenditaDaPrezzoDiAcquisto[ODA00].md" >}} "Installazione Addon ODV da ACQ")
+
+
 Attraverso questo Plugin è possibile estendere le funzionalità già previste nel documento/maschera Offerta di Vendita.
 
 Quando il plugin risulta installato verranno visualizzati a livello di riga alcuni campi in più :

@@ -5,3 +5,5 @@ draft: false
 weight : 130
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "Timbro[TBR00].md" >}} "Installazione Addon Timbro")

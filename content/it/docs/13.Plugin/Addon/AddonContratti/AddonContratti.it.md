@@ -7,3 +7,5 @@ pre: "<b>720. </b>"
 ---
 
 [Vai alla Pagina Contratti]({{< ref "Contract.it.md" >}} "Offerta Ordine di Vendita") <br>
+
+[Vai alla Pagina di Installazione]({{< ref "Contratti[CNT00].md" >}} "Installazione Addon Contratti")

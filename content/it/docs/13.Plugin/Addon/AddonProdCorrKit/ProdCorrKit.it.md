@@ -6,6 +6,8 @@ weight : 40
 pre: "<b>720. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "Prod.Corr.Kit[COR00].md" >}} "Installazione Addon Prod.Corr.Kit")
+
 Il documento ha la possibilià di aggiungere funzionalità Opzionali per prodotti vendibili.<br>
 Del tipo...<br>
 Si possono acquistare prodotti singoli con prezzi normali con un costo ridotto di 0 percento.<br>

@@ -5,3 +5,5 @@ draft: false
 weight : 10
 pre: "<b>729. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "Configuratore[CON00].md" >}} "Installazione Plugin Configuratore")

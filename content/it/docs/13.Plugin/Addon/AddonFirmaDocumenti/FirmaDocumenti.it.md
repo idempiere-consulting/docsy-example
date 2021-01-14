@@ -5,6 +5,9 @@ draft: false
 weight : 125
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "FirmaDocumenti[SIG00].md" >}} "Installazione Addon firma Documenti")
+
 # Plugin: Sign Document
 
 ---

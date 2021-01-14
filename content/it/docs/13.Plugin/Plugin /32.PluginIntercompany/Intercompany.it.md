@@ -6,6 +6,7 @@ weight : 721
 pre: "<b>721. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "Intercompany[INT00].md" >}} "Installazione Plugin Intercompany")
 
 - Ordine di Acquisto -> Ordine di Vendita
 - Ordine di Vendita -> Ordine di Acquisto

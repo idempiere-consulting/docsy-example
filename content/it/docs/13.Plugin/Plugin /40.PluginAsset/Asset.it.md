@@ -5,3 +5,5 @@ draft: false
 weight : 721
 pre: "<b>721. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "Asset[ASS00].md" >}} "Installazione Plugin Asset")

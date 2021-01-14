@@ -6,6 +6,7 @@ weight : 25
 pre: "<b>720. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "BPRelated[BPR00].md" >}} "Installazione Addon BP Related")
 
 ## Business Partner
 Il Plugin BP Related [A.BPR.STD00] consente di allocare pagamenti è fatture da diversi partner commerciali.

@@ -5,3 +5,5 @@ draft: false
 weight : 10
 pre: "<b>721. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "TMS[TMS00].md" >}} "Installazione Plugin-Soluzione TMS")

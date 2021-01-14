@@ -5,6 +5,9 @@ draft: false
 weight : 115
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "StampaDirettaCambio[SDC00].md" >}} "Installazione Addon Stampa Diretta Cambio")
+
 # Plugin Direct Printing
 
 ---

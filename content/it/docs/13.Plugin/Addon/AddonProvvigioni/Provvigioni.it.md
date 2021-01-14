@@ -5,7 +5,9 @@ draft: false
 weight : 100
 pre: "<b>720. </b>"
 ---
-# Plugin Provvigioni / Commission
+
+[Vai alla Pagina di Installazione]({{< ref "Provvigioni[PRV00].md" >}} "Installazione Addon Provvigioni")<br>
+## Plugin Provvigioni / Commission
 
 ---
 

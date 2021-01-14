@@ -6,6 +6,7 @@ weight : 15
 pre: "<b>720. </b>"
 ---
 
+[Vai alla Pagina Di Installazione]({{< ref "AccessMaintain[AMA00].md" >}} "Installazione Addon Access Mantain")
 
 - https://wiki.idempiere.org/en/Plugin:_AccessMaintain
 

@@ -5,3 +5,5 @@ draft: false
 weight : 10
 pre: "<b>732. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "InstallaFattureAgyo[IFY00].md" >}} "Installazione Plugin Installa Fatture Agyo")

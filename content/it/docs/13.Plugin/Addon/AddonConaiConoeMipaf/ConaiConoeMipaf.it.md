@@ -5,3 +5,5 @@ draft: false
 weight : 30
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "ConaiConoeMipaf[CCM00].md" >}} "Installazione Addon Conai Conoe Mipaf")

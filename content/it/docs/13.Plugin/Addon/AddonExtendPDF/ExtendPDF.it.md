@@ -6,6 +6,8 @@ weight : 85
 pre: "<b>720. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "PDFExtended[PDF00].md" >}} "Installazione Addon PDF Extended")
+
 Questo plugin è relativo agli aspetti demografici su Idempiere ERP.<br>
 Alcuni paesi hanno una divisione politica con concetti che vanno al di là di paese, regione e città.<br><br>
 Ad esempio in Spagna si parla di comunità che sono legate al gruppo di province che mantiene il governo locale.<br>

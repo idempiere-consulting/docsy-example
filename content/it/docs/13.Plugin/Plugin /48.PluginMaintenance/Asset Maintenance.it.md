@@ -6,7 +6,7 @@ weight : 721
 pre: "<b>721. </b>"
 ---
 
-
+[Vai alla Pagina di Installazione]({{< ref "Maintenance[MNT00].md" >}} "Installazione Plugin Maintenance")
 
 
 Per iniziare a utilizzare il modulo MP È necessario definire:

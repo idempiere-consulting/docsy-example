@@ -6,6 +6,7 @@ weight : 10
 pre: "<b>723. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "Pos[POS00].md" >}} "Installazione Plugin Pos")<br>
 EXTRA POS -  15) LIT_isLoginRoleInvisible in table AD_User, per gestione Warehouse…. 
 
 STEP 1 - cose bloccanti /importanti 

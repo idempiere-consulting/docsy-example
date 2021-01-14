@@ -6,6 +6,7 @@ weight : 10
 pre: "<b>732. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "Mobile[MOB00].md" >}} "Installazione Plugin Mobile")
 ## Prerequisiti:
 
 - Possedere un account iDempiere Consulting

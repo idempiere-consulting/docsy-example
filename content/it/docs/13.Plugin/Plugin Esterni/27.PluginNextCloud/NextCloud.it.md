@@ -6,7 +6,7 @@ weight : 10
 pre: "<b>728. </b>"
 ---
 
-
+[Vai alla Pagina di Installazione]({{< ref "NextCloud[NXC00].md" >}} "Installazione Plugin Next Cloud")
 https://www.youtube.com/watch?time_continue=5&v=_IZ1JOCcHZg&feature=emb_logo
 
 {{< youtube _IZ1JOCcHZg  >}}

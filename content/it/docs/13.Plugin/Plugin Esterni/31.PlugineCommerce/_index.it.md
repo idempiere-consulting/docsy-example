@@ -6,6 +6,7 @@ weight : 10
 pre: "<b>728. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "eCommerce[ECO00].md" >}} "Installazione Plugin eCommerce")
 ## Video - Woocommerce 3 Sincronizzazione Prodotti [V107]
 {{<youtube ctJ5IuEPUDc>}}
 

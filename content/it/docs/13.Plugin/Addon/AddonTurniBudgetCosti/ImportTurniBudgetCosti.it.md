@@ -6,4 +6,4 @@ weight : 130
 pre: "<b>720. </b>"
 ---
 
-
+[Vai alla Pagina di Installazione]({{< ref "TurniBudgetCosti[TBC00]" >}} "Installazione Addon Turni Budget Costi")

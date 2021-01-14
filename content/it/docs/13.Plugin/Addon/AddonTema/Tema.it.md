@@ -5,3 +5,5 @@ draft: false
 weight : 135
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "Tema[TEM00].md" >}} "Installazione Addon Tema")

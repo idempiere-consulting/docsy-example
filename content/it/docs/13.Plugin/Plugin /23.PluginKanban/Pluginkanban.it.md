@@ -6,6 +6,7 @@ weight : 10
 pre: "<b>730. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "Kanban[KAN00].md" >}} "Installazione Plugin Kanban")
 ## Riferimenti
 
 - link pubblico  :<http://wiki.idempiere.org/en/Plugin:_Kanban_Dashboard>

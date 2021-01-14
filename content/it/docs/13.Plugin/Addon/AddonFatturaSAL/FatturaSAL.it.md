@@ -5,3 +5,5 @@ draft: false
 weight : 110
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "FatturaSAL[SAL00].md" >}} "Installazione Addon fattura SAL")

@@ -6,6 +6,7 @@ weight : 10
 pre: "<b>729. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "MailChimp[MAC00].md" >}} "Installazione Plugin Mail Chimp")
 ## link esterni
 
 

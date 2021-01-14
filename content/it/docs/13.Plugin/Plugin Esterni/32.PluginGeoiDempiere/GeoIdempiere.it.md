@@ -6,6 +6,7 @@ weight : 10
 pre: "<b>732. </b>"
 ---
 
+[Vai alla Pagina di Installazione]({{< ref "GeoIdempiere[GEO00].md" >}} "Installazione Plugin Geo Idempiere")
 ## link esterni
 
 ```

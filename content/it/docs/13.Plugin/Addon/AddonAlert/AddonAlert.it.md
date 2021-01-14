@@ -8,3 +8,4 @@ pre: "<b>720. </b>"
 
 [Vai alla Pagina Addon Alert ]({{< ref "2.2Alert.it.md#ALERT00" >}} "Offerta Ordine di Vendita") <br>
 
+[Vai alla Pagina di Installazione]({{< ref "Alert[ALT00].md" >}} "Installazione Addon Alert")

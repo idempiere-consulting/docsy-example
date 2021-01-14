@@ -6,7 +6,7 @@ weight : 721
 pre: "<b>721. </b>"
 ---
 
-
+[Vai alla Pagina di Installazione]({{< ref "ProduzioneAvanzata[PRD00].md" >}} "Installazione Produzione Avanzata")
 # Libero Manufacturing
 
 ---

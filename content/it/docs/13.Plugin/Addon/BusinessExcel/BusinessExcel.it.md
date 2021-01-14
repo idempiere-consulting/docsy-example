@@ -5,3 +5,5 @@ draft: false
 weight : 20
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "BusinessExel[BIX00].md" >}} "Installazione Addon Business Exel")

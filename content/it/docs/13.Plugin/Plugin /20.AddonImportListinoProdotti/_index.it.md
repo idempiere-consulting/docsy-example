@@ -6,7 +6,7 @@ weight : 10
 pre: "<b> </b>"
 ---
 
-
+[Vai alla Pagina di Installazione]({{< ref "ImportoListinoProdotti[BIX00].md" >}} "Installazione Plugin Import Listino Prodotti")
 ## FUNZIONALITA' PLUGIN (Lato Cliente)
 
 ### Obiettivo

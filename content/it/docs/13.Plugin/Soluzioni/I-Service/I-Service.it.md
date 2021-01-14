@@ -5,3 +5,5 @@ draft: false
 weight : 10
 pre: "<b>721. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "IService[SRV00].md" >}} "Installazione Plugin-Soluzione IService")

@@ -5,3 +5,5 @@ draft: false
 weight : 10
 pre: "<b>721. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "AfterSales.s[AFS00].md" >}} "Installazione Plugin-Soluzione After Sales")

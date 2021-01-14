@@ -5,6 +5,8 @@ draft: false
 weight : 10
 pre: "<b>721. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "TelegramBot[SCF00].md" >}} "Installazione Plugin Telegram Bot")
 # Inventario Telegram
 ---
 ```

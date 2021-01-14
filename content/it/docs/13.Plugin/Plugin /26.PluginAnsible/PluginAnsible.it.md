@@ -6,7 +6,7 @@ weight : 721
 pre: "<b>721. </b>"
 ---
 
-
+[Vai alla Pagina di Installazione]({{< ref "Ansible[ANS00].md" >}} "Installazione Plugin Ansible")<br>
 # Ansible
 
 ## Installation

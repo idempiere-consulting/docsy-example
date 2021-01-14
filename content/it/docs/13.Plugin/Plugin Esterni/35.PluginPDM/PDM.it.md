@@ -5,3 +5,5 @@ draft: false
 weight : 10
 pre: "<b>732. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "PDM[PDM00].md" >}} "Installazione Plugin PDM")

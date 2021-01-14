@@ -5,3 +5,5 @@ draft: false
 weight : 10
 pre: "<b>721. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "NoProfit[NOP00].md" >}} "Installazione Plugin-Soluzione No Profit")

@@ -5,6 +5,10 @@ draft: false
 weight : 105
 pre: "<b>720. </b>"
 ---
+
+[Vai alla Pagina di Installazione]({{< ref "RateiERiscontri[RER00].md" >}} "Installazione Addon Ratei e Risconti")
+
+
 typora-root-url: ./
 ---
 

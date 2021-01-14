@@ -6,7 +6,7 @@ weight : 60
 pre: "<b>720. </b>"
 ---
 
-
+[Vai alla Pagina di Installazione]({{< ref "ImportaTassoDiCambio[ITC00]" >}} "Installazione Addon Importa Tasso di Cambio")
 
 ## Descrizione Addon
 
