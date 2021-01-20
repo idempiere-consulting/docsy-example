@@ -7,6 +7,7 @@ pre: "<b></b>"
 ---
 Menù Idempiere
 
+
 [Gestione Setup Wizard [GSW00]]({{< ref "_index.it.md#GSW00" >}} "Gestione Setup Wizard") <br>
 [Procedura Guidata Setup [PGS]]({{< ref "_index.it.md#PGS" >}} "Procedura Guidata Setup") <br>
 [Provider Dati Cloud [PDC00]]({{< ref "_index.it.md#PDC00" >}} "Provider Dati Cloud") <br>
@@ -35,10 +36,12 @@ Menù Idempiere
 La Maschera permette la gestione guidata dell'installazione di una Azienda Client.
 [{{< figure src="/image/GestioneSetupWizard.png"  width="850"  >}}](/image/GestioneSetupWizard.png)
 ## Procedura Guidata Setup [PGS] {#PGS}
+Il Workflow propone la configurazione guidata di un nuovo Client
 [{{< figure src="/image/ProceduraGuidataSetup.png"  width="850"  >}}](/image/ProceduraGuidataSetup.png)
 
 # Configurazione del Sistema
 ## Provider Dati Cloud [PDC00] {#PDC00}
+La Maschera 
 [{{< figure src="/image/ProviderDatiCloud.png"  width="850"  >}}](/image/ProviderDatiCloud.png)
 ## Rivisione configurazione iniziale del client [RCIC00] {#RCIC00} 
 [{{< figure src="/image/RivisioneConfigurazioneInizialedelClient.png"  width="850"  >}}](/image/RivisioneConfigurazioneInizialedelClient.png)
@@ -209,6 +212,26 @@ PEr far vedere il pop-up a livello maschera sulla finesta ordine di vendita quan
 ### Reset Password [REP00]
 [{{< figure src="/image/ResetPassword.png"  width="850"  >}}](/image/ResetPassword.png)
 
-### Video - 1. SystemAdmin - Mail Setup SMTP / Setup Posta Impostare SMTP [V026]
+## Video - 1. SystemAdmin - Mail Setup SMTP / Setup Posta Impostare SMTP [V026]
 {{<youtube Uc94dR-fU4E>}}
 
+## Video - 1. System Admin - Recovery Test from Prod. / Server di Test da Backup o macchina ufficiale [V169]
+{{<youtube NtXfiEZjYnM>}}
+
+## Video - 1. SystemAdmin - User / Creazione Utente [V002]
+{{<youtube WtIHoteHUso>}}
+
+## Video - 1. SystemAdmin - Role User Access / Ruolo Utente e Accesso [V140]
+{{<youtube hTzAjVcQeQg>}}
+
+## Video - 1. SystemAdmin - Machine test reset / Ripristino Macchina di Test [V020]
+{{<youtube cMkoKRlf9Q>}}
+
+## Video - 1.  System Admin - Company Logo / Logo azienda per Report banner  [V023]
+{{<youtube Njo1yylJd3U>}}
+
+## Video - 1 SystemAdmin WorkFlow Video Approvazione Documento [V102]
+{{<youtube RBuE-4Tk51U>}}
+
+### Video - 1. SystemAdmin - Copy preference Grid / Copia Impostazioni Griglia [V001]
+{{<youtube zHEWwTlVwFI>}}

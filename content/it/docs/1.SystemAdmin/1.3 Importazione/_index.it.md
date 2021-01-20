@@ -7,16 +7,16 @@ weight : 40
 
 ## Importa processo CSV [IMP01]
 [{{< figure src="/image/ImportaProcessoCSV.png"  width="850"  >}}](/image/ImportaProcessoCSV.png)
-## Importaizone estratto conto bancario [IECB00]
+## Importazione estratto conto bancario [IECB00]
 [{{< figure src="/image/ImportazioneEstrattoContoBancario.png"  width="850"  >}}](/image/ImportazioneEstrattoContoBancario.png)
 ## Importazione registrazione contabile [IMGO00]
 [{{< figure src="/image/ImportazioneRegistrazioneContabile.png"  width="850"  >}}](/image/ImportazioneRegistrazioneContabile.png)
-## Importaizone prodotto [IP00]
+## Importazione prodotto [IP00]
 [{{< figure src="/image/ImportazioneProdotto.png"  width="850"  >}}](/image/ImportazioneProdotto.png)
 ## Importazione Business Partner [IBP00]
 [{{< figure src="/image/ImportazioneBusinessPartner.png"  width="850"  >}}](/image/ImportazioneBusinessPartner.png)
-## Importazione cespiti [IMC00]
-[{{< figure src="/image/ImportazioneCespiti.png"  width="850"  >}}](/image/ImportazioneCespiti.png)
+## Importazione cespite [IMC00]
+[{{< figure src="/image/ImportazioneCespite.png"  width="850"  >}}](/image/ImportazioneCespite.png)
 ## Formato di Importazione [FDI00]
 [{{< figure src="/image/FormatoDiImportazione.png"  width="850"  >}}](/image/FormatoDiImportazione.png)
 ## Importazione Fattura [IMF00]
@@ -49,19 +49,23 @@ weight : 40
 [{{< figure src="/image/ModelloImportazione.png"  width="850"  >}}](/image/ModelloImportazione.png)
 
 
-
-
-
 # Video Importazione
 
-## Import EsempioImportProdotto https://youtu.be/rksqFJ31Kgw
+## Video - 1. SystemAdmin Importazione Listino Prezzi [V082]
+{{<youtube teeJJ8HGXo4>}}
+
+## Video - 1. Importazione Categorie Prodotto [V081]
+{{<youtube CPvP_yIT3Bk>}}
+
+## Video - 1. Importazione Intrastat /  SystemAdmin Importazione Intrastat [V080]
+{{<youtube wLuF9HG7Ss4>}}
+
+## Video - 1.Importazione Banche BP [V099]
+{{<youtube p-4RvDKWr3E>}}
 
 ## Importazione Banche V079 https://youtu.be/p-4RvDKWr3E
 
 ## Importazione Intrastat V080 https://youtu.be/wLuF9HG7Ss4
 
-## Importazione Categorie Prodotto V081 https://youtu.be/CPvP_yIT3Bk
-
-## Importazione Listino Prezzi V082 https://youtu.be/teeJJ8HGXo4
-
-
+### Video - 1. SystemAdmin - Import Data CSV  / EsempioImportProdotto [V139]
+{{<youtube rksqFJ31Kgw>}}

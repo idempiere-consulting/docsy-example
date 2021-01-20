@@ -6,13 +6,7 @@ weight : 811
 pre: "<b>8.11 </b>"
 ---
 
-8 Accounting Report PagamentiNon AbbinatiR 63+Abbinamento V069  https://youtu.be/DVxs2IVnSmM
-
 8  Accounting Pagamenti Annullamento Abbinamento Pagamento Fattura V064 https://youtu.be/D7alY4Eq3NM
-
-8 Accounting Pagamento Misto persa ultima parte https://youtu.be/5VJfa2UajLA
-
-8 Accounting Pagamento Fattura Fornitore da Fattura V062 https://youtu.be/4xrEL5krZtk
 
 8 Accounting Pagamento Panoramica Generale su RIBA con Insoluto e successiva modifica Modalità di Pa  https://youtu.be/2ltW9ncZqQM
 

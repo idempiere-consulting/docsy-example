@@ -7,17 +7,6 @@ pre: "<b>11.2 </b>"
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Rilevamento Ore [RO10]
 [{{< figure src="/image/RilevamentoOre.png"  width="850"  >}}](/image/RilevamentoOre.png)
 ## Crea Rilevamento Ore da Template [CRT10]
@@ -36,3 +25,5 @@ pre: "<b>11.2 </b>"
 [{{< figure src="/image/InfoRicercaRilevamentoOre.png"  width="850"  >}}](/image/InfoRicercaRilevamentoOre.png)
 ## Cruscotto Rilevamento Ore [ROD10]
 [{{< figure src="/image/CruscottoRilevamentoOre.png"  width="850"  >}}](/image/CruscottoRilevamentoOre.png)
+
+

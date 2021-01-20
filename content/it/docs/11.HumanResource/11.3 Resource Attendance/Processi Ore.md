@@ -133,7 +133,7 @@ verificare che nel periodo non ci siano ore da fatturare
 ```
 
 
- Report di quadratura e di controllo gestione
+## Report di quadratura e di controllo gestione
 
 ```
 A fine mese è necessario stampare
@@ -147,4 +147,8 @@ A fine mese è necessario stampare
                                     - inefficienza (ore CDC ]
                                     - efficienza [ore a consuntivo ]
                       - Marginalità ODV Chiuso ..Chiusi nel mese
-```
+```            
+
+## Video - TaskOreTO crea ResAttendance /  Human Resource - Task Resource Attendance [174]*
+{{<youtube tvdnF-guKBU>}}                      
+

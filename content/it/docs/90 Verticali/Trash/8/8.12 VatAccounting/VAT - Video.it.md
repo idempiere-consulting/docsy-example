@@ -12,5 +12,4 @@ pre: "<b>8.12 </b>"
 ### Video - 8. Accounting - Setup of Vat Register Advanced Sequences / Setup Registri Seq. Avanzato [V130]
 {{<youtube SQiDtrQE6_w>}}
 
-### Video - 8. Accounting PeriodiContabili Creazione Periodi IVA [V077]
-{{<youtube Z5dCo6ijAPA>}}
+

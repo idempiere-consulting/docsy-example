@@ -12,7 +12,6 @@ pre: "<b> </b>"
 ## PackOut - Crea package [POUT00]
 [{{< figure src="/image/Packout.png"  width="850"  >}}](/image/Packout.png)
 
-
 ## Manutenzione Package [MPK00]
 [{{< figure src="/image/PackMaintenance.png"  width="850"  >}}](/image/PackMaintenance.png)
 

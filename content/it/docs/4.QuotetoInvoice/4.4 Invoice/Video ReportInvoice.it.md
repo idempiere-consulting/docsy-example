@@ -55,3 +55,6 @@ pre: "<b></b>"
 
 ### Video - 4- QuotetoInvoice - Invoice by Email / Inviare Fattura via Email [V024]
 {{<youtube NoEa8E6Mzok>}}
+
+### Video - 4. Quote-to-Invoice - Invoice (Customer) / Fattura Vendita Art17c6noIva [V050]
+{{<youtube gbc3QngnC4I>}}

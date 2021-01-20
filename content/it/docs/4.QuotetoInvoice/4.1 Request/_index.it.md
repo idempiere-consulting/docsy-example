@@ -6,6 +6,7 @@ weight : 200
 pre: "<b></b>"
 ---
 Menù Idempiere
+- Anagrafica e Processi
 
 [Richesta / Ticket [TIK00]]({{< ref "_index.it.md#TIK00" >}} "Richesta / Ticket") <br>
 [Richiesta Tutto [RICT00]]({{< ref "_index.it.md#RICT00" >}} "Richiesta Tutto") <br>
@@ -13,19 +14,34 @@ Menù Idempiere
 [Risposta Standard Richiesta [RSR00]]({{< ref "_index.it.md#RSR00" >}} "Risposta Standard Richiesta") <br>
 [Riaprire Richiesta [RR03]]({{< ref "_index.it.md#RR03" >}} "Riaprire Richiesta") <br>
 [Fattura per richiesta [FR00]]({{< ref "_index.it.md#FR00" >}} "Fattura per richiesta") <br>
+
+- Report
+
+- Tabelle e setup
+
 [Configurazione richieste [CR02]]({{< ref "_index.it.md#CR02" >}} "Configurazione richieste") <br>
 [Tipo Richiesta [TR01]]({{< ref "_index.it.md#TR01" >}} "Tipo Richiesta") <br>
 [Gruppo Richiesta [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Richiesta") <br>
 [Categoria Richiesta [CR00]]({{< ref "_index.it.md#CR00" >}} "Categoria Richiesta") <br>
 [Stato Richiesta [SR00]]({{< ref "_index.it.md#SR00" >}} "Stato Richiesta") <br>
 
+- Funzionalità avanzate
+
 
 ## Richesta / Ticket [TIK00] {#TIK00}
 La maschera permetta la compilazione di un ticket. In corpo del ticket, nel corso del suo procedere verranno salvate le varie azioni apportate.
 [{{< figure src="/image/TicketTIK00.png"  width="850"  >}}](/image/TicketTIK00.png)
+Si possono ad esempio gestire nuovi Clienti e gestire in modo preciso e facilmente rivedibile tutta la cronistoria delle varie azioni schedate.
+[{{< figure src="/image/Ticket.png"  width="850"  >}}](/image/Ticket.png)
+Si dovrà procedere con il definire dei Tipi di Richiesta in base alla operazione che si vuole definire (esempio). 
+[{{< figure src="/image/TipoRichiesta.png"  width="850"  >}}](/image/TipoRichiesta.png)
+E all'interno della richiesta definire uno "stato" della stessa.
+[{{< figure src="/image/StatoRichiesta.png"  width="850"  >}}](/image/StatoRichiesta.png)
+
 ## Richiesta Tutto [RICT00] {#RICT00}
-La maschera permette di visualizzare qualsiasi informazione relativa ad un determinato Ticket in oggetto.
-[{{< figure src="/image/RichiestaTutto0.png"  width="850"  >}}](/image/RichiestaTutto0.png)
+La maschera permette di visualizzare qualsiasi informazione relativa ad un determinato Ticket in oggetto, le eventuali azioni apportate fatture a fronte, ecc.
+[{{< figure src="/image/RichiestaTutto.png"  width="850"  >}}](/image/RichiestaTutto.png)
+
 ### Nota bene
 ```
 Visualizza e lavora su tutte le richieste
@@ -39,11 +55,13 @@ La scheda Richiesta definisce qualsiasi richiesta inviata da un Business Partner
 ```
 ---
 ## Risoluzione Richiesta [RR01] {#RR01}
-La maschera permette di generare delle definizioni per la risoluzione alla richiesta di un Ticket. 
-[{{< figure src="/image/RisoluzioneRichiesta0.png"  width="850"  >}}](/image/RisoluzioneRichiesta0.png)
+La maschera permette di generare delle risposte o modalità operative per la risoluzione alla richiesta di un Ticket. 
+[{{< figure src="/image/RisoluzioneRichiesta.png"  width="850"  >}}](/image/RisoluzioneRichiesta.png)
 ## Risposta Standard Richiesta [RSR00] {#RSR00}
 La maschera permette di generare delle definizioni standardizzate per la risoluzione alla richiesta di un Ticket.
 [{{< figure src="/image/RispostaStandardRichiesta0.png"  width="850"  >}}](/image/RispostaStandardRichiesta0.png)
+Naturalmente questa maschera ritorna utile nelle richieste di routine ad esempio una compilazione di una scheda dati nuovo cliente quando esista.
+[{{< figure src="/image/RispostaStandardRichiesta.png"  width="850"  >}}](/image/RispostaStandardRichiesta.png)
 ## Riaprire Richiesta [RR03] {#RR03}
 Il processo permette la riapertura di una richiesta già ultimata.
 [{{< figure src="/image/RiaprireRichiestaRR03.png"  width="850"  >}}](/image/RiaprireRichiestaRR03.png)
