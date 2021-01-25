@@ -6,4 +6,7 @@ weight : 1200
 pre: "<b> </b>"
 ---
 
-{{< figure src="/rp..png"  width="700"  >}}
+Manca il Valore del Parametro e traduzione Valore del Parametro
+
+## Fattura Fornitore
+
