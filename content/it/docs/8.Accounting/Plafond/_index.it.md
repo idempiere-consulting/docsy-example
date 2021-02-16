@@ -23,7 +23,7 @@ Menù Idempiere
 La motivazione del Plafond è quella di elimitare o limitare lo status di credito IVA strutturale (soggetto che acquista in Italia con IVA  e vende all’estero senza applicazione IVA).
 
 ## Presupposto [02] {#02}
-E' necessario avere registrato esportazioni o operazioni assimilate per un importo superiore al 10% del VOLUME d' AFFARI RETTIFICATO
+E' necessario avere registrato esportazioni o operazioni assimilate per un importo superiore al 10% del VOLUME d' AFFARI RETTIFICATO, di cui all'Art.20 DPR 633/72.
 
 ## Beni/Servizi oggetto del Plafond [03] {#03}
 Non possono essere oggetto di Plafond acquisti di:
@@ -83,19 +83,21 @@ Lo strumento che regola il Plafond è la Dichiarazione d'Intento, gli adempiment
 
 
 ## Plafond mobile [08] {#08}
+Il **Plafond Mobile** fa riferimento ai dati relativi ai **12 mesi precedenti** di conseguenza è utilizzabile trascorsi 12 mesi dall'inizio dell'attività.
 
- mese	   esportazioni    esportazioni    acquisti     acquisti  cessioni	   plafond disponibile	    vol.affari     vol. affari	    % vol.affari    ctrl          ctrl           
-|         |mese         |ultimi 12 mesi |mese        |progressivo|espungibili |inizio mese successivo |	mese	      |ultimi 12 mesi |               | splafonamento|stauts esp. |
-|---------|-------------|---------------|------------|-----------|------------|-----------------------|---------------|---------------|---------------|--------------|------------|
-|gennaio  |	42000	    |   172000	    |   80000    |    80000  |       0	  |        92000	      |    42000	  |    264000	  |      	          	
-|febbraio |	  370	    |   172370	    |   90000    |   170000  |	     0	  |         2370	      |      370	  |    184370	  |      	          	
-|marzo	  |   450	    |   172820	    |   55000    |   172370  |	     0	  |          450	      |      450	  |    184820	  |      	            -52630	
-|aprile	  |     0	    |   172820	    |  982200    |   172820  |	     0	  |            0	      |    43443	  |    228263	  |      	           -981750	
-|maggio	  |   290	    |   173110	    |  895500    |   172820  |       0	  |          290	      |   434716	  |    662979	  |      	           -895500	
-|giugno	  |     0	    |   173110      |       0    |   172820  |	     0	  |          290	      |        0	  |    662979	  |      	                  	
-|luglio	  |     0	    |   143110	    |       0    |   172820  |   30000	  |           290	      |        0	  |    630979	  |      	                  	
-|agosto	  |     0	    |   110110	    |       0    |   142820  |   33000	  |          290	      |        0	  |    595979	  |      	                  	
-|settembre|	    0	    |    75110	    |       0    |   109820  |   35000	  |          290	      |        0	  |    555979	  |      	                  	
-|ottobre  |  	0	    |    43110	    |     200    |    75020  |   32000	  |           90	      |        0	  |    520979	  |      	                  	
-|novembre |	    0	    |    43110	    |   55000    |    43020  |       0	  |           90	      |        0	  |    520979	  |      	            -55000	       ***
-|dicembre |	    0	    |    43110	    |       0    |    43020  |       0	  |           90	      |        0	  |    520979	  |      	                 	       ***
+
+
+| mese	  |esport.mese  |esport.ult.12mesi|acq.mese |acq.progr. |cess.espungibili |plf.disp.iniz.mese succ.|vol.aff.mese|vol.aff.anno |% vol.affari|ctrl splafon.|ctrl stat.esp.| 
+|---------|-------------|-----------------|---------|-----------|-----------------|------------------------|------------|-------------|------------|-------------|--------------|
+|gennaio  |	42000	    |   172000	      |   80000 |    80000  |       0	      |        92000	       |    42000   |    264000	  |      	   |     	     |              |
+|febbraio |	  370	    |   172370	      |   90000 |   170000  |	    0         |         2370	       |      370   |    184370	  |      	   |     	     |              | 
+|marzo	  |   450	    |   172820	      |   55000 |   172370  |	    0         |          450	       |      450   |    184820	  |      	   |    -52630	 |              | 
+|aprile	  |     0	    |   172820	      |  982200 |   172820  |	    0         |            0	       |    43443   |    228263	  |      	   |   -981750	 |              |
+|maggio	  |   290	    |   173110	      |  895500 |   172820  |       0	      |          290	       |   434716   |    662979	  |      	   |   -895500	 |              |
+|giugno	  |     0	    |   173110        |       0 |   172820  |	    0	      |          290	       |        0   |    662979	  |      	   |             |              | 	
+|luglio	  |     0	    |   143110	      |       0 |   172820  |   30000	      |          290	       |        0   |    630979	  |      	   |             |              |	
+|agosto	  |     0	    |   110110	      |       0 |   142820  |   33000	      |          290	       |        0   |    595979	  |      	   |             |              | 	
+|settembre|	    0	    |    75110	      |       0 |   109820  |   35000	      |          290	       |        0   |    555979	  |      	   |             |  	        |
+|ottobre  |  	0	    |    43110	      |     200 |    75020  |   32000	      |           90	       |        0   |    520979	  |      	   |             |  	        | 
+|novembre |	    0	    |    43110	      |   55000 |    43020  |       0	      |           90	       |        0   |    520979	  |      	   |    -55000	 |      ***     | 
+|dicembre |	    0	    |    43110	      |       0 |    43020  |       0	      |           90	       |        0   |    520979	  |      	   |             | 	    ***     |
