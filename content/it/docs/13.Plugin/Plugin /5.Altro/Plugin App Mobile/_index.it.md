@@ -9,7 +9,7 @@ pre: "<b>732. </b>"
 
 ## Prerequisiti:
 
-- Possedere un account iDempiere Consulting
+- Possedere un account iDempiere
 - Connessione ad Internet
 - Conoscere l'IP del server
 
@@ -41,22 +41,6 @@ Effettuato il Login ci troveremo davanti il menù
 {{< figure src="menuprincipale.png" >}}
 
 
-> TODO - Completare gestione password criptata [Prio:Media]
-
-> TODO - icona app e icone interne  [ Prio:BASSA]
-
-> TODO - Mettere sottomenu con i tasti come magazzino per tutti menu [Prio:Bassa]
-
-> TODO - Fare 2Pack  -viste + API REST (Andrea Bellotto)
-
-> TODO - Gestione Allegati in upload (Foto, PDF ) (Da vedere insieme)
-
-> TODO - Generazione Report PDF (Da vedere insieme)
-
-> TODO - Gestione NFC (Da vedere insieme)
-
-> TODO - Stampa Diretta (Da vedere insieme)
-
 
 ## SOTTOMENU - CRM
 
@@ -65,10 +49,6 @@ Effettuato il Login ci troveremo davanti il menù
 {{< figure src="dettaglioLead1.png" >}}
 {{< figure src="dettaglioLead2.png" >}}
 
-> TODO crm
-- modificare view add search
-- filter per agente 
-- vedere solo i propri lead ?
 
 
 ## SOTTOMENU - SERVICE
@@ -79,28 +59,7 @@ Effettuato il Login ci troveremo davanti il menù
 
 ## SOTTOMENU - CONTABILITA'
 
-> todo - fare voci sottomenu
 
-1. Fatture di Acquisto 
-2. Fatture di Vendita 
-3. Pagamenti e Incassi 
-
-
->TODO - Fatture di Acquisto 
--  creare view - add campo search per filtro
--  impostare filtro
--  creare view dettalio (lit_mobile_c_invoiceline_v)
->TODO - Fatture di Vendita 
-- stessa view fattura acquisto
-- impostare filtro 
-- stessa view fatt.acquisto line
-
-> TODO - Pagamenti / Incassi
-
-- creare view (lit_mobile_c_payment_v)
-- impostare filtro
-
-> TODO - (Riportare : Contatti Clienti)
 
 
 ## SOTTOMENU - VENDITE
@@ -137,8 +96,6 @@ Effettuato il Login ci troveremo davanti il menù
 - modificare vista per filtro (Marco)
 - add filtro
 
-
-
 ## SOTTOMENU - PRODUZIONE
 > TODO Fare SottoMenu 
 1.Elenco Ord.di Produzione [incorso/bozza/finiti]
@@ -150,9 +107,6 @@ Effettuato il Login ci troveremo davanti il menù
 - modificare vista togliere bozza
 - x cancella input dati
 - Conferma dei Processi (?) (Parametro ?) 
-
-
-
 
 ## TASK
 > TOTO Fare SottoMenu
