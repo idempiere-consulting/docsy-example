@@ -19,3 +19,5 @@ pre: "<b> </b>"
 ### 523 Report
 
 {{< figure src="/image/rp.523.png"  width="700"  >}}
+
+report 524ga-gb-gc-gd mancantis
