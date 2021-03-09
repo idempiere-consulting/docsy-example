@@ -15,7 +15,7 @@ pre: "<b>732. </b>"
 
 ## Parametrizzazione iDempiere
 
-Come prima cosa dobbiamo installare il plugin "WStoreAPI" presente all'interno di iDempiere Download. Installare il 2pack manualmente a livello System.
+Come prima cosa dobbiamo installare il plugin "WStoreAPI" presente all'interno di iDempiere Download. Installare il 2pack (che possiamo trovare all'interno del jar) manualmente a livello System.
 
 Successivamente andiamo a settare su iDempiere, oltre che ai webservices (presenti nella Maschera Sicurezza Web Services), un record nella maschera Web Store "Negozio Elettronico" perchè funzioni il plugin
 
@@ -239,7 +239,7 @@ In questo caso la chiamata avrà bisogna di avere dei parametri di input, nel ca
 
 ### Impostazione variabili d'ambiente
 
-Per far funzionare Cordova con Android Studio avremo bisogno di impostare la variabili d'ambiente. Apriamo il file .bashrc sula home e aggiungiamo alla fine le seguenti righe:
+Per far funzionare Cordova con Android Studio avremo bisogno di impostare la variabili d'ambiente. Apriamo il file .bashrc nella home e aggiungiamo alla fine le seguenti righe:
 
 ```tmpl
     export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64 
@@ -272,7 +272,7 @@ Una volta impostato l'Hardware avremo la possibilità di scegliere la versione d
 
 <b>Attenzione: per fare questo bisogna avere la versione di <a href="https://www.oracle.com/it/java/technologies/javase/javase-jdk8-downloads.html" target="_blank">Java 8.0</a> installata.</b>
 
-Come default la macchina andrà ad utilizzare l'ultima versionr di Java come default, per modificarlo dobbiamo andare sulla console di Linux e utilizzare due comandi:
+Come default la macchina andrà ad utilizzare l'ultima versione di Java, per modificarlo dobbiamo andare sulla console di Linux e utilizzare due comandi:
 
 ```
 sudo update-alternatives --config java

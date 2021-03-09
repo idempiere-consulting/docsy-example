@@ -1,0 +1,414 @@
+--
+-- PostgreSQL database dump
+--
+
+SET statement_timeout = 0;
+SET lock_timeout = 0;
+SET idle_in_transaction_session_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = on;
+SELECT pg_catalog.set_config('search_path', '', false);
+SET check_function_bodies = false;
+SET xmloption = content;
+SET client_min_messages = warning;
+SET row_security = off;
+
+--
+-- Name: lit_contactssc_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_contactssc_v AS
+ SELECT a.name,
+    a.ad_client_id,
+    a.isactive,
+    b.name AS bpartnername,
+    a.ad_user_id AS lit_contactssc_v_id,
+    a.email,
+    a.phone,
+    a.description,
+    a.comments,
+    a.lastcontact
+   FROM (adempiere.ad_user a
+     JOIN adempiere.c_bpartner b ON ((a.c_bpartner_id = b.c_bpartner_id)))
+  WHERE (a.c_bpartner_id > (0)::numeric);
+
+
+ALTER TABLE adempiere.lit_contactssc_v OWNER TO adempiere;
+
+--
+-- Name: lit_m_lead_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_m_lead_v AS
+ SELECT lead.ad_client_id,
+    lead.ad_org_id,
+    ac.name AS client_name,
+    org.name AS org_name,
+    lead.ad_user_id AS lit_m_lead_v_id,
+    lead.name AS lead_name,
+    lead.created AS lead_createddate,
+    lead.startdate,
+    lead.conversiondate,
+    lead.datenextaction,
+    lead.isactive,
+    lead.leadstatus AS leadstatus_value,
+    ref1trl.name AS leadstatus_name,
+    ref2trl.name AS leadsource_name,
+    camp.name AS campaign_name,
+    loc.city,
+    loc.regionname,
+    country.name AS country_name,
+    salesrep.name AS salesrep_name,
+    bp.actuallifetimevalue,
+    lead.email,
+    lead.phone,
+    lead.c_bpartner_id
+   FROM (((((((((((adempiere.ad_user lead
+     JOIN adempiere.ad_client ac ON ((lead.ad_client_id = ac.ad_client_id)))
+     LEFT JOIN adempiere.ad_org org ON ((lead.ad_org_id = org.ad_org_id)))
+     LEFT JOIN adempiere.ad_user salesrep ON ((lead.salesrep_id = salesrep.ad_user_id)))
+     LEFT JOIN adempiere.ad_ref_list ref1 ON ((((lead.leadstatus)::bpchar = (ref1.value)::bpchar) AND (ref1.ad_reference_id = (53416)::numeric))))
+     LEFT JOIN adempiere.ad_ref_list_trl ref1trl ON (((ref1.ad_ref_list_id = ref1trl.ad_ref_list_id) AND ((ref1trl.ad_language)::text = 'it_IT'::text))))
+     LEFT JOIN adempiere.ad_ref_list ref2 ON ((((lead.leadsource)::bpchar = (ref2.value)::bpchar) AND (ref2.ad_reference_id = (53415)::numeric))))
+     LEFT JOIN adempiere.ad_ref_list_trl ref2trl ON (((ref2.ad_ref_list_id = ref2trl.ad_ref_list_id) AND ((ref2trl.ad_language)::text = 'it_IT'::text))))
+     LEFT JOIN adempiere.c_campaign camp ON ((lead.c_campaign_id = camp.c_campaign_id)))
+     LEFT JOIN adempiere.c_location loc ON ((lead.c_location_id = loc.c_location_id)))
+     LEFT JOIN adempiere.c_country country ON ((loc.c_country_id = country.c_country_id)))
+     LEFT JOIN adempiere.c_bpartner bp ON ((lead.c_bpartner_id = bp.c_bpartner_id)))
+  WHERE (lead.issaleslead = 'Y'::bpchar);
+
+
+ALTER TABLE adempiere.lit_m_lead_v OWNER TO adempiere;
+
+SET default_tablespace = '';
+
+SET default_table_access_method = heap;
+
+--
+-- Name: lit_m_task_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_m_task_v AS
+ SELECT ca.description AS activity_description,
+    ca.name AS activity_name,
+    ca.salesrep_id,
+    ca.iscomplete,
+    ca.isactive,
+    ca.ad_client_id,
+    ca.priority,
+    ca.lit_ad_userfrom_id,
+    ca.c_contactactivity_id AS lit_m_task_v_id,
+    ca.ad_user_id AS activity_ad_user_id,
+    a.name AS userfrom_name,
+    ato.name AS userto_name
+   FROM ((adempiere.c_contactactivity ca
+     JOIN adempiere.ad_user a ON ((ca.lit_ad_userfrom_id = a.ad_user_id)))
+     JOIN adempiere.ad_user ato ON ((ca.ad_user_id = ato.ad_user_id)))
+  WHERE ((ca.ismobileenabled = 'Y'::bpchar) AND (ca.iscomplete <> 'Y'::bpchar) AND (ca.salesrep_id <> ca.lit_ad_userfrom_id) AND ((ca.contactactivitytype)::text = ANY ((ARRAY['EM'::character varying, 'PC'::character varying, 'OP'::character varying])::text[])));
+
+
+ALTER TABLE adempiere.lit_m_task_v OWNER TO adempiere;
+
+--
+-- Name: lit_mobile_c_invoice_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_mobile_c_invoice_v AS
+ SELECT i.c_invoice_id AS lit_mobile_c_invoice_v_id,
+    i.ad_client_id,
+    i.ad_org_id,
+    i.isactive,
+    i.documentno,
+    ((i.documentno)::text || (bp.name)::text) AS appfilter,
+    i.description,
+    i.issotrx,
+    i.c_invoice_id,
+    i.dateinvoiced,
+    i.ispaid,
+    i.grandtotal,
+    bp.value AS bp_value,
+    bp.name AS bp_name
+   FROM (adempiere.c_invoice i
+     JOIN adempiere.c_bpartner bp ON ((i.c_bpartner_id = bp.c_bpartner_id)));
+
+
+ALTER TABLE adempiere.lit_mobile_c_invoice_v OWNER TO adempiere;
+
+--
+-- Name: lit_mobile_c_invoiceline_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_mobile_c_invoiceline_v AS
+ SELECT il.c_invoiceline_id AS lit_mobile_c_invoiceline_v_id,
+    i.ad_client_id,
+    i.ad_org_id,
+    i.isactive,
+    i.documentno,
+    i.issotrx,
+    i.c_invoice_id,
+    i.dateinvoiced,
+    i.ispaid,
+    i.grandtotal,
+    bp.value AS bp_value,
+    bp.name AS bp_name,
+    il.name,
+    il.description,
+    il.qtyentered,
+    il.pricelist,
+    il.priceentered
+   FROM ((adempiere.c_invoice i
+     JOIN adempiere.c_invoiceline il ON ((i.c_invoice_id = il.c_invoice_id)))
+     JOIN adempiere.c_bpartner bp ON ((i.c_bpartner_id = bp.c_bpartner_id)));
+
+
+ALTER TABLE adempiere.lit_mobile_c_invoiceline_v OWNER TO adempiere;
+
+--
+-- Name: lit_mobile_c_order_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_mobile_c_order_v AS
+ SELECT o.c_order_id AS lit_mobile_c_order_v_id,
+    o.ad_client_id,
+    o.ad_org_id,
+    o.isactive,
+    o.documentno,
+    ((o.documentno)::text || (bp.name)::text) AS appfilter,
+    o.description,
+    o.issotrx,
+    o.c_order_id,
+    o.dateordered,
+    rlt.name AS docstatus,
+    bp.value AS bp_value,
+    bp.name AS bp_name
+   FROM (((adempiere.c_order o
+     JOIN adempiere.c_bpartner bp ON ((o.c_bpartner_id = bp.c_bpartner_id)))
+     JOIN adempiere.ad_ref_list rl ON (((o.docstatus = (rl.value)::bpchar) AND (rl.ad_reference_id = (131)::numeric))))
+     JOIN adempiere.ad_ref_list_trl rlt ON (((rl.ad_ref_list_id = rlt.ad_ref_list_id) AND ((rlt.ad_language)::text = 'it_IT'::text))));
+
+
+ALTER TABLE adempiere.lit_mobile_c_order_v OWNER TO adempiere;
+
+--
+-- Name: lit_mobile_c_orderline_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_mobile_c_orderline_v AS
+ SELECT ol.c_orderline_id AS lit_mobile_c_order_v_id,
+    o.ad_client_id,
+    o.ad_org_id,
+    o.isactive,
+    o.documentno,
+    o.issotrx,
+    o.c_order_id,
+    bp.value AS bp_value,
+    bp.name AS bp_name,
+    ol.name,
+    ol.description,
+    ol.qtyentered,
+    ol.pricelist,
+    ol.linenetamt
+   FROM ((adempiere.c_order o
+     JOIN adempiere.c_orderline ol ON ((o.c_order_id = ol.c_order_id)))
+     JOIN adempiere.c_bpartner bp ON ((o.c_bpartner_id = bp.c_bpartner_id)));
+
+
+ALTER TABLE adempiere.lit_mobile_c_orderline_v OWNER TO adempiere;
+
+--
+-- Name: lit_mobile_c_payment_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_mobile_c_payment_v AS
+ SELECT p.c_payment_id AS lit_mobile_c_payment_v_id,
+    p.ad_client_id,
+    p.ad_org_id,
+    p.isactive,
+    p.documentno,
+    ((p.documentno)::text || (bp.name)::text) AS appfilter,
+    p.description,
+    p.isreceipt,
+    p.c_payment_id,
+    p.dateacct,
+    p.payamt,
+    bp.value AS bp_value,
+    bp.name AS bp_name
+   FROM (adempiere.c_payment p
+     JOIN adempiere.c_bpartner bp ON ((p.c_bpartner_id = bp.c_bpartner_id)));
+
+
+ALTER TABLE adempiere.lit_mobile_c_payment_v OWNER TO adempiere;
+
+--
+-- Name: lit_mobile_product_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_mobile_product_v AS
+ SELECT p.m_product_id AS lit_mobile_product_v_id,
+    p.isactive,
+    p.ad_client_id,
+    p.ad_org_id,
+    p.value,
+    p.name,
+    p.description,
+    (((p.value)::text || (p.name)::text) || (COALESCE(p.description, ''::character varying))::text) AS appfilter,
+    uom.uomsymbol AS uom,
+    sum(s.qtyonhand) AS totqtyonhand
+   FROM ((((adempiere.m_product p
+     LEFT JOIN adempiere.m_storage s ON ((p.m_product_id = s.m_product_id)))
+     LEFT JOIN adempiere.m_locator l ON ((s.m_locator_id = l.m_locator_id)))
+     LEFT JOIN adempiere.m_locatortype lt ON ((l.m_locatortype_id = lt.m_locatortype_id)))
+     LEFT JOIN adempiere.c_uom uom ON ((p.c_uom_id = uom.c_uom_id)))
+  WHERE (p.isactive = 'Y'::bpchar)
+  GROUP BY p.m_product_id, p.ad_client_id, p.ad_org_id, p.value, p.name, p.description, p.isactive, uom.uomsymbol;
+
+
+ALTER TABLE adempiere.lit_mobile_product_v OWNER TO adempiere;
+
+--
+-- Name: lit_mobile_production_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_mobile_production_v AS
+ SELECT p.m_production_id AS lit_mobile_production_v_id,
+    p.ad_client_id,
+    p.ad_org_id,
+    p.documentno,
+    p.name,
+    p.isactive,
+    pl.plannedqty,
+    pl.movementqty,
+    pl.help
+   FROM (adempiere.m_production p
+     JOIN adempiere.m_productionline pl ON ((p.m_production_id = pl.m_production_id)))
+  WHERE (pl.isendproduct = 'Y'::bpchar);
+
+
+ALTER TABLE adempiere.lit_mobile_production_v OWNER TO adempiere;
+
+--
+-- Name: lit_mobile_productionline_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_mobile_productionline_v AS
+ SELECT pl.m_productionline_id AS lit_mobile_productionline_v_id,
+    pl.m_production_id,
+    pl.m_product_id,
+    p.value AS product_value,
+    p.name AS product_name,
+    p.description AS product_description,
+    pl.plannedqty AS qtyplanned,
+    pl.qtyused AS qtyremain,
+    (pl.plannedqty - pl.qtyused) AS qtyused,
+    (pl.plannedqty - pl.qtydelivered) AS currentqty,
+    pl.isactive,
+    pl.ad_client_id,
+    sum(s.qtyonhand) AS totqtyonhand
+   FROM ((((adempiere.m_productionline pl
+     JOIN adempiere.m_product p ON ((pl.m_product_id = p.m_product_id)))
+     JOIN adempiere.m_storage s ON ((pl.m_product_id = s.m_product_id)))
+     JOIN adempiere.m_locator l ON ((s.m_locator_id = l.m_locator_id)))
+     LEFT JOIN adempiere.m_locatortype lt ON ((l.m_locatortype_id = lt.m_locatortype_id)))
+  WHERE ((pl.isendproduct = 'N'::bpchar) AND ((s.qtyonhand <> (0)::numeric) OR (s.qtyreserved <> (0)::numeric) OR (s.qtyordered <> (0)::numeric)) AND (COALESCE(lt.isavailableforreservation, 'Y'::bpchar) = 'Y'::bpchar))
+  GROUP BY pl.m_productionline_id, pl.m_production_id, pl.m_product_id, p.value, p.name, p.description;
+
+
+ALTER TABLE adempiere.lit_mobile_productionline_v OWNER TO adempiere;
+
+--
+-- Name: lit_mobile_resatt_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_mobile_resatt_v AS
+ SELECT s.s_resourceattendance_id AS lit_mobile_resatt_v_id,
+    s.ad_client_id,
+    s.ad_org_id,
+    s.s_resourceattendance_id,
+    s.isactive,
+    s.documentno,
+    s.assigndatefrom,
+    s.assigndateto,
+    s.description AS res_description,
+    s.name AS res_name,
+    s.qty AS res_qty,
+    s.c_order_id,
+    s.s_resource_id,
+    s.c_project_id,
+    s.c_bpartner_id,
+    bp.name AS bp_name,
+    s_resource.name AS resource_name,
+    r_request.documentno AS r_request_documentno,
+    bp.c_bpartner_id AS c_bpartner_c_bpartner_id,
+    c_order.documentno AS c_order_documentno,
+    c_project.name AS c_project_name,
+    ca.name AS task_name,
+    ca.documentno AS task_documentno
+   FROM ((((((adempiere.s_resourceattendance s
+     LEFT JOIN adempiere.c_bpartner bp ON ((bp.c_bpartner_id = s.c_bpartner_id)))
+     LEFT JOIN adempiere.s_resource s_resource ON ((s.s_resource_id = s_resource.s_resource_id)))
+     LEFT JOIN adempiere.r_request r_request ON ((s.r_request_id = r_request.r_request_id)))
+     LEFT JOIN adempiere.c_order c_order ON ((s.c_order_id = c_order.c_order_id)))
+     LEFT JOIN adempiere.c_project c_project ON ((s.c_project_id = c_project.c_project_id)))
+     LEFT JOIN adempiere.c_contactactivity ca ON ((s.c_contactactivity_id = ca.c_contactactivity_id)))
+  WHERE (s.assigndatefrom > (now() OPERATOR(adempiere.-) (14)::numeric));
+
+
+ALTER TABLE adempiere.lit_mobile_resatt_v OWNER TO adempiere;
+
+--
+-- Name: lit_mobile_task_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_mobile_task_v AS
+ SELECT ca.description AS activity_description,
+    ca.name AS activity_name,
+    ca.salesrep_id,
+    ca.iscomplete,
+    ca.isactive,
+    ca.ad_client_id,
+    ca.priority,
+    ca.lit_ad_userfrom_id,
+    ca.c_contactactivity_id AS lit_m_task_v_id,
+    ca.ad_user_id AS activity_ad_user_id,
+    a.name AS userfrom_name,
+    ato.name AS userto_name
+   FROM ((adempiere.c_contactactivity ca
+     JOIN adempiere.ad_user a ON ((ca.lit_ad_userfrom_id = a.ad_user_id)))
+     JOIN adempiere.ad_user ato ON ((ca.ad_user_id = ato.ad_user_id)))
+  WHERE ((ca.ismobileenabled = 'Y'::bpchar) AND (ca.iscomplete <> 'Y'::bpchar) AND (ca.salesrep_id <> ca.lit_ad_userfrom_id) AND ((ca.contactactivitytype)::text = ANY (ARRAY[('EM'::character varying)::text, ('PC'::character varying)::text, ('OP'::character varying)::text])));
+
+
+ALTER TABLE adempiere.lit_mobile_task_v OWNER TO adempiere;
+
+--
+-- Name: lit_mobile_taskdetail_v; Type: VIEW; Schema: adempiere; Owner: adempiere
+--
+
+CREATE VIEW adempiere.lit_mobile_taskdetail_v AS
+ SELECT h.lit_hour_id AS lit_mobile_taskdetail_v_id,
+    ca.documentno AS task_documentno,
+    h.ad_client_id,
+    h.ad_org_id,
+    h.name AS taskdetail_name,
+    h.description AS taskdetail_description,
+    h.salesrep_id,
+    h.dateworkstart,
+    h.qty,
+    a.name AS userfrom_name,
+    h.isactive,
+    ca.name AS task_name,
+    ca.description AS task_description,
+    ca.priority,
+    ca.lit_ad_userfrom_id
+   FROM ((adempiere.lit_hour h
+     JOIN adempiere.c_contactactivity ca ON ((h.c_contactactivity_id = ca.c_contactactivity_id)))
+     JOIN adempiere.ad_user a ON ((h.salesrep_id = a.ad_user_id)))
+  WHERE (h.isconfirmed = 'N'::bpchar);
+
+
+ALTER TABLE adempiere.lit_mobile_taskdetail_v OWNER TO adempiere;
+
+--
+-- PostgreSQL database dump complete
+--
+
