@@ -48,6 +48,21 @@ pre: "<b>721. </b>"
     - priceByAttributeSetInstance(Properties, int, GridTab, GridField, Object):String
     - recalPriceByQty(Properties, int, GridTab, GridField, Object):String
     - start(Properties, int, GridTab, GridField, Object, Object):String
+    
+- it.idIta.idempiere.LIT_PriceOnASI.callout.CallProdASI
+    - CallProdASI
+        - TableName: C_OrderLine
+        - ColumnName: M_AttributeSetInstance_ID
+    - CallProdASI
+        - TableName: C_OrderLine
+        - ColumnName: QtyOrdered
+    - CallProdASI
+        - TableName: C_OrderLine
+        - ColumnName: QtyEntered
+    - CallProdASI
+        - TableName: C_OrderLine
+        - ColumnName: C_UOM_ID
+    
 ## EventHandler
 /
 ## Form

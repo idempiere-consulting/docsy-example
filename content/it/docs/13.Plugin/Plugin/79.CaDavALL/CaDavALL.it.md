@@ -46,6 +46,11 @@ pre: "<b>721. </b>"
 - Package LIT_CaDavALL.mailreader.callout
     - Call_CreateFolderMail.java
         - start(Properties, int, GridTab, GridField, Object, Object):String
+        
+- it.idIta.idempiere.LIT_CaDavALL.mailReader.callout.Call_CreateFolderMail
+    - Call_CreateFolderMail
+        - TableName: AD_User
+        - ColumnName: LIT_CreateFolderMail
 
 ## EventHandler
 

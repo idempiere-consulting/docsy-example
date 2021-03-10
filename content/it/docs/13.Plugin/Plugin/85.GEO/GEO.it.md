@@ -21,6 +21,11 @@ pre: "<b>721. </b>"
 ## Callout
 - Callout_CreateRoute.java
     - start(Properties, int, GridTab, GridField, Object, Object):String
+    
+- it.idIta.idempiere.LIT_GEO.callout.Callout_CreateRoute
+    - Callout_CreateRoute
+        - TableName: LIT_Trip
+        - ColumnName: CreateItinerary
 ## EventHandler
 
 ## Form

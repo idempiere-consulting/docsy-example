@@ -44,6 +44,24 @@ NO MFiles.java !!
 - CalloutWorkOrder.java
     - bPartner(Properties, int, GridTab, GridField, Object):String
     - start(Properties, int, GridTab, GridField, Object, Object):String
+    
+- it.idIta.idempiere.LIT_I_Service.model.CalloutAssetMPLogAmt
+    - CalloutAssetMPLogAmt
+        - TableName: MP_AssetMeter_Log
+        - ColumnName: Amt
+    - CalloutAssetMPLogMeterAmt
+        - TableName: MP_AssetMeter_Log
+        - ColumnName: MP_AssetMeterSearch_ID
+
+- it.idIta.idempiere.LIT_I_Service.callout.CalloutProductCartd
+    - CalloutProductCard
+        - TableName: LIT_ProductCard
+        - ColumnName: C_BPartner_ID
+
+- it.idIta.idempiere.LIT_I_Service.callout.CalloutWorkOrder
+    - CalloutWorkOrder
+        - TableName: MP_OT
+        - ColumnName: LIT_ProductCard_ID
 ## EventHandler
 
 ## Form

@@ -49,6 +49,11 @@ NO MFiles.java !!
 - Call_VATSummary.java
     - start(Properties, int, GridTab, GridField, Object, Object):String
     - VATDebitTot_change(Properties, int, GridTab, GridField, Object, Object):String
+
+- it.idIta.idempiere.LIT_InvoiceDataVAT.callout.Call_VATSummary
+    - Call_VATSummary
+        - TableName: LIT_VAT_Summary
+        - ColumnName: DepositAmt
 ## EventHandler
 
 ## Form
