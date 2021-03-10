@@ -29,6 +29,10 @@ pre: "<b>721. </b>"
 ## Callout
 - CallDocTypeInvoice.java
     - start(Properties, int , GridTab, GridField, Object, Object) : String
+    
+- it.cnet.idempiere.LIT_E_Invoice.callout.CallDocTypeInvoice
+    - tableName: C_Invoice
+        - C_DocTypeTarget_ID
 
 ## Eventhandler
 

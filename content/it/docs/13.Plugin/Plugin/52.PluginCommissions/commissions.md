@@ -26,5 +26,7 @@ pre: "<b>721. </b>"
     - calcolteMultiplier (Properties, GridField, Object, Object) : void
     - start (Properties, int, GridTab, GridField, Object, Object) : String
 
+iDempiereCallout
+
 ## Eventhandler
 

@@ -113,6 +113,18 @@ no
     - Call_RequisitionLine
         - bp_CurrentVendor(Properties, int, GridTab, GridField, Object, Object) : String
         - star(Properties, int, GridTab, GridField, Object, Object) : String
+        
+- it.cnet.idempiere.LIT_WarehouseExtend.production.callout.Call_ProductionLineBOMQty
+    - tableName : M_ProductionLine
+        - columnName : BOMQty
+        
+- it.cnet.idempiere.LIT_WarehouseExtend.production.callout.Call_ProductionLineBOMQty
+    - tableName : M_ProductionLine
+        - columnName : IsActive
+        
+- it.cnet.idempiere.LIT_WarehouseExtend.production.callout.Call_RequisitionLine
+    - tableName : M_RequisitionLine
+        - columnName : M_Product_ID
     
 ## Eventhandler
 - WarehouseExt_EvtHandler_cnet.java

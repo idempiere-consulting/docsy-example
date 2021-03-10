@@ -91,6 +91,8 @@ no
 - CallUtility
     - shortCut(Properties, int, GridTab, GridField, Objcet) : String
     
+iDempiere Callout
+    
 ## Eventhandler
 - EventHandler_cnet.java
     - composeStringFromTable(PO) : String

@@ -44,6 +44,14 @@ no
 - CallOutProd_Workflow.java
     - start(Properties, int, GridTab, GridField, Object, Object) : String
     
+- it.cnet.idempiere.outProduction.callout.Callout_OutProd_Warehouse
+    - tableName : C_Order
+        - columnName : LIT_WarehouseDestination_ID
+        
+- it.cnet.idempiere.outProduction.callout.Callout_OutProd_Warehouse
+    - tableName : C_Order
+        - columnName : LIT_Workflow_ID
+    
 ## Eventhandler
 
 

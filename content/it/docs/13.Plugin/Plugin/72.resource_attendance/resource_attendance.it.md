@@ -29,6 +29,7 @@ pre: "<b>721. </b>"
 - CreateTasksFromOrder.java
     - Toolbar Crea attività dall'ordine_CreateTasksFromOrder
 - ProcessFactory_cnet.java
+
 ## Model
 - MContactActivity.java
     - getWrapper():I_C_ContactActivity
@@ -41,7 +42,9 @@ pre: "<b>721. </b>"
     - getTemplateForWeek(int, int)TreeMap<Integer, List<MResourceAttendance>>
     - beforeSave(boolean):boolean
     - calculateAmntResource():void
+
 ## InfoWindow
+
 
 ## Callout
 - Call_ProdCostDetail.java
@@ -65,7 +68,33 @@ pre: "<b>721. </b>"
     - setDoNotInvoice(Properties, GridTab, GridField, int, Object):void
     - setValueZERO(Properties, GridTab, GridField, int, Object):void
     - start(Properties, int, GridTab, GridField, Object, Object):String
+    
+- it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
+    - tableName : LIT_ProductCostDetail
+        - columnName : M_Product_ID
+        
+- it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
+    - tableName : LIT_ProductCostDetail
+        - columnName : QtyEntered
+        
+- it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
+    - tableName : LIT_ProductCostDetail
+        - columnName : C_UOM_ID
+        
+- it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
+    - tableName : LIT_ProductCostDetail
+        - columnName : PriceActual
+        
+- it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
+    - tableName : LIT_ProductCostDetail
+        - columnName : PriceEntered
+        
+- it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
+    - tableName : LIT_ProductCostDetail
+        - columnName : Discount
+
 ## EventHandler
+
 
 ## Form
 - ResAtt_Prod.java

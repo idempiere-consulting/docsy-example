@@ -24,6 +24,8 @@ no
 ## Callout
 - CallGLJournal
     - start(Properties, int, GridTab, GridField, Object, Object) : String 
+    
+iDempiere Callout
 
 ## Eventhandler
 no
