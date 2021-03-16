@@ -8,25 +8,47 @@ pre: "<b>721. </b>"
 
 ## Processi
 - AppendAttendance_Info.java
-    - Info Crea/Accoda Offerta/Ordine di Vendita_Append_SalesOrder_Info
-- AppendAttendance.java
-    - Info Crea/Accoda Offerta/Ordine di Vendita_Append_SalesOrder_Info
+  
+    - Info Crea/Accoda Offerta/Ordine di Vendita_Append_SalesOrder_Info 
+    
+      **N.B. IMPORTANTE!!! Cambiare la tabella di selezione con S_ResourceAssignment**
+- ~~AppendAttendance.java~~ *deprecato /eliminato*
+  
+    - ~~Info Crea/Accoda Offerta/Ordine di Vendita_Append_SalesOrder_Info~~ *deprecato /eliminato*
 - AttendanceApproved.java
+  
     - Info Approva Rilevamento Ore_ResourceAttendance_Approved
+    
+      **N.B. IMPORTANTE!!! Cambiare la tabella di selezione con S_ResourceAssignment**
 - AttendanceConfirmed.java
+  
     - Info Conferma Rilevamento Ore_ResourceAttendance_Confirmed
+    
+      **N.B. IMPORTANTE!!! Cambiare la tabella di selezione con S_ResourceAssignment**
 - AttendanceInvoiced.java
+  
     - Info Imposta Fatturazione Rilevamento Ore_ResourceAttendance_Invoced
+    
+      **N.B. IMPORTANTE!!! Cambiare la tabella di selezione con S_ResourceAssignment**
 - CreateHour_ResAttendance.java
     - Info Crea Dettaglio Ore e Ril. Ore_CreateHour_ResAttendance
+    
+      **N.B. IMPORTANTE!!! Modifica della vista lit_helpdesk_v....**
+    
     - Info Crea Dettaglio Ore e Ril. Ore_CreateHour_ResAttendance
 - CreateOrderFromTasks.java
+  
     - Info Crea ODV da Task Utenti_CreateOrderFromTasks
 - CreateResAtt_FromExtRilIngr.java
+  
     - Menu Crea Rilevamento Ore da Timbratura [CRD10]_CreateResAtt_FromExtRilIngr
 - CreateResAttendanceFromTemplate.java
+  
     - Menu Crea Rilevevamento Ore da Template [CRT10]_CreateResAttFromTemplate
+    
+      **N.B. IMPORTANTE!!! Aggiungere Campo "LIT_TemplateResAttendance_ID" su tabella S_ResourceAssignment, se no processo NON FUNZIONANTE per il template...**
 - CreateTasksFromOrder.java
+  
     - Toolbar Crea attività dall'ordine_CreateTasksFromOrder
 - ProcessFactory_cnet.java
 
@@ -72,23 +94,23 @@ pre: "<b>721. </b>"
 - it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
     - tableName : LIT_ProductCostDetail
         - columnName : M_Product_ID
-        
+    
 - it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
     - tableName : LIT_ProductCostDetail
         - columnName : QtyEntered
-        
+    
 - it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
     - tableName : LIT_ProductCostDetail
         - columnName : C_UOM_ID
-        
+    
 - it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
     - tableName : LIT_ProductCostDetail
         - columnName : PriceActual
-        
+    
 - it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
     - tableName : LIT_ProductCostDetail
         - columnName : PriceEntered
-        
+    
 - it.cnet.idempiere.resourceAttendance.callout.Call_ProdCostDetail
     - tableName : LIT_ProductCostDetail
         - columnName : Discount
