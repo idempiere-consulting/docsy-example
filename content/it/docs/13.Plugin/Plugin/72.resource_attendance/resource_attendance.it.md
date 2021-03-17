@@ -120,4 +120,8 @@ pre: "<b>721. </b>"
 
 ## Form
 - ResAtt_Prod.java
+
 - WRessAtt_Prod.java
+
+  **N.B. IMPORTANTE!!! Aggiungere Campo "TempCode" su tabella S_ResourceAssignment, per gestione ricerca del DocumentNo della MProduction per il check Attività su Console Ore + aggiungere campo "AssignDateToOriginal" su tabella S_ResourceAssignment**
+  
