@@ -12,6 +12,18 @@ pre: "<b></b>"
 [{{< figure src="/image/90103211.png"  width="850"  >}}](/image/90103211.png)
 [{{< figure src="/image/90103212.png"  width="850"  >}}](/image/90103212.png)
 
+### Report Gantt Di Progetto [RP.902]
+[{{< figure src="/image/9020321.png"  width="850"  >}}](/image/9020321.png)
+
+### Report Fase Di Progetto [RP.903]
+[{{< figure src="/image/9030321.png"  width="850"  >}}](/image/9030321.png)
+
+### Report Conto Lavoro Progetto [RP.904]
+[{{< figure src="/image/9040321.png"  width="850"  >}}](/image/9040321.png)
+
+### Report Conto Lavoro Progetto 2 [RP.905]
+[{{< figure src="/image/9050321.png"  width="850"  >}}](/image/9050321.png)
+
 ### Report Attività Ruolo [RP.572]
 [{{< figure src="/image/ReportAttivitaRuolo.png"  width="850"  >}}](/image/ReportAttivitaRuolo.png)
 ### Report Attività Effettuate [RP.571]
