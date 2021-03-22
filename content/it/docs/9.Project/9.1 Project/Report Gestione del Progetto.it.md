@@ -8,8 +8,9 @@ pre: "<b></b>"
 ## Report Jasper
 ---
 
-### Report Attività Ruolo [RP.901]
-....
+### Report Costi Di Progetto [RP.901]
+[{{< figure src="/image/90103211.png"  width="850"  >}}](/image/90103211.png)
+[{{< figure src="/image/90103212.png"  width="850"  >}}](/image/90103212.png)
 
 ### Report Attività Ruolo [RP.572]
 [{{< figure src="/image/ReportAttivitaRuolo.png"  width="850"  >}}](/image/ReportAttivitaRuolo.png)
