@@ -24,6 +24,9 @@ pre: "<b></b>"
 ### Report Conto Lavoro Progetto 2 [RP.905]
 [{{< figure src="/image/9052103.png"  width="850"  >}}](/image/9052103.png)
 
+### Report Riepilogo Documenti Progetto [RP.906]
+[{{< figure src="/image/9062103.png"  width="850"  >}}](/image/9062103.png)
+
 ### Report Attività Ruolo [RP.572]
 [{{< figure src="/image/ReportAttivitaRuolo.png"  width="850"  >}}](/image/ReportAttivitaRuolo.png)
 ### Report Attività Effettuate [RP.571]
