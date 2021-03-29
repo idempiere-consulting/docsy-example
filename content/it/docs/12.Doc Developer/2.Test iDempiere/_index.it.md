@@ -20,12 +20,19 @@ pre: "<b>20. </b>"
 
 ## 3.Anagrafiche di base
 
-- [ ] Business Partner - Creazione BP da Vies
+- [x] Business Partner [BP00] - Creazione BP da Vies
+      Dati Usati : Partita Iva : 04630610964
+      Risultato : Inserito Ragione Sociale + Indirizzo 
+      
+- [x] Business Partner [BP00] Test Generazion Codice Fiscale 
+    Dati Usati 
+
 
 ## 4. Ciclo Attivo
 
 ### Ordini di Vendita
-- [ ] Creazione Ordine di Vendita + Fattura Accompagnatoria
+- [ ] Creazione Ordine di Vendita [ODV00]+ Fattura Accompagnatoria
+ 
 - [ ] Creazione Ordine di Vendita + DDT + Fattura 
 ### Spedizioni
 ### Fatture di vendita
