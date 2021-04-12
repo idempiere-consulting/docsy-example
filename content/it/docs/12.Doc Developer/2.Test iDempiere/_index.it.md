@@ -368,7 +368,10 @@ pre: "<b>20. </b>"
 - [ ] Tariffa Doganale [TDF00]
 
 ### **Fatture di vendita**
-- [ ] Fattura di Vendita [FDV00]
+- [x] Fattura di Vendita [FDV00]
+
+      - Creata fattura di vendita affitto 01/4/2021 - 31/03/2022  € 1200 generato risconto passivo 31/12/21 per rinvio ricavo competenza 2022
+
 - [ ] Crea Fattura Vendita (manuale) [CFVM00]
 - [ ] Crea Fattura di Vendita [CFV00]
 - [ ] Info Crea Fattura ad Avanzamento [ICFVA12]
@@ -381,6 +384,8 @@ pre: "<b>20. </b>"
 - [ ] Stama Fattura su Carta e/o Invia EMail [SIFV00]
 - [ ] Archivio Fattura Elettroniche [AFE00]
 - [ ] Scadenzario Pagamento Fattura[SPF00]
+
+      - #segn estrae fatture di vendita anche annullate non deve fare ciò #segn perchè non un semplice Report? #segn manca possibilià indicare org. #segn manca per fatture di acquisto?
 
   ***Report Fatture di Vendita
 - [ ] Info BI Fatturato [IBF00]
@@ -411,8 +416,11 @@ pre: "<b>20. </b>"
 - [ ] Tipo Autorizzazione Restituzione Merci [TARM00]
 
 ### **Contratto di Vendita**
-- [ ] Crea Contratto da Ordine [CC020]
+- [x] Crea Contratto da Ordine [CC020]
+
+      - Creazione Contratto di affitto di Vendita 1000194 01/04/2021 - 31/03/2022  € 2400 renerato rateo attivo 31/12/2021
       - Creazione Contratto da Ordine di Vendita
+      
 - [ ] Contratto di Vendita [CDV20]
 - [ ] Crea Ordine di Vendita da Contratto [COVC20]
       - Creazione Ordine da Contratto di Vendita
@@ -445,9 +453,8 @@ pre: "<b>20. </b>"
 ### **Ordine di Acquisto**
 - [ ] Ordine di acquisto [ODA00] 
       
-      - Creato Ordine di Acquisto I/21ODA-002, + Entrata Merce  
-      Dati Usati : Ordine di Acquisto I/21ODA-002, + Entrata Merce + Fattura di acquisto da entrata Merce
-      - Creazione Ordine di Acquisto + Entrata Merce + Fattura Acquisto
+      Dati Usati : Ordine di Acquisto I/21ODA-002, + Entrata Merce + Fattura di acquisto da entrata Merce 123f
+      - Creazione Ordine di Acquisto + Entrata Merce + Fattura Acquisto 
       
 - [ ] Info Ordine di acquisto cn Pagamento Anticipato [IOAP00]
 - [ ] Info Completa Ordine di Acquisto [ICOA00]
@@ -465,7 +472,12 @@ pre: "<b>20. </b>"
 - [ ] Report Dettaglio Ricevimento Merci [R.26]
 
 ### **Fattura Fornitore**
-- [ ] Fattura di Acquisto [FDA00]
+- [x] Fattura di Acquisto [FDA00]
+
+      - Creato Ordine di Acquisto I/21ODA-002, + Entrata Merce  
+      Dati Usati : Ordine di Acquisto I/21ODA-002, + Entrata Merce + Fattura di acquisto da entrata Merce 123f + reg.cont.
+      - Creata fatt. di Acquisto Canone affitto anticipato 123456 e 654 di €1200 e € 2400 generato risconti 31/12/21 #segn che differenza tra risconto annuale e mensile?
+      
 - [ ] Info Completa Fatture di Acquisto [ICFA00]
 - [ ] Info Crea Fattura da Entrata Merci [ICFAE00]
 - [ ] Fatturazione Batc [FB00]
@@ -481,8 +493,9 @@ pre: "<b>20. </b>"
 
 ### **Contratto di Acquisto**
 - [ ] Info Contratto di Acquisto [ICA00]
-- [ ] Contratto di Acquisto [CDA20]
+- [x] Contratto di Acquisto [CDA20]
 
+      - Creazione Contratto acquisto affitto 1000193 1/4/21 - 31/3/22 € 1200 - generato rateo passivo 31/12 ok 
       - Creazione Contratto da Ordine
 
 - [ ] Crea Ordine di Acquisto da Contratto [COAC20]
@@ -575,7 +588,11 @@ pre: "<b>20. </b>"
 - [ ] Carico /Scarico Materiale [CSM00]
 - [ ] Documento di Trasporto - Magazzino [DDTM00]
 - [ ] Genera Storno DDT di -Magazzino [IGD13]
-- [ ] Movimento di Magazzino [MOM00]
+- [x] Movimento di Magazzino [MOM00]
+
+      Dati Usati : Ordine di Acquisto I/21ODA-002, + Entrata Merce + Fattura di acquisto da entrata Merce 123f
+      - Creazione Ordine di Acquisto + Entrata Merce + Fattura Acquisto
+      
 - [ ] Info Giacenza Prodotto [IGM01]
 - [ ] Transazione di Materiale (uso Indiretto) [TDM00]
 - [ ] Info Movimenti Magazzino Clienti [IMMC00]
@@ -624,7 +641,10 @@ pre: "<b>20. </b>"
 - [ ] Causale DDT [CAD01]
 
 ### **Inventario**
-- [ ] Inventario Fisico [IF00]
+- [?] Inventario Fisico [IF00]
+
+      - #segn inserim.dato carico iniziale vedere addebito 
+      
 - [ ] Pulizia Dati Inventario [PDI00]
 
   ***Report Inventario***
@@ -663,6 +683,18 @@ pre: "<b>20. </b>"
 - [ ] Prime Note [PRNE00]
 - [ ] Documenti non Registrati [DNR00]
 - [ ] Interrogazione Registrazioni contabili [IRC00]
+- [x] Info Risconti [IRI14]
+
+      setup conti ratei risconti in schema contabile e se si vuole registrazione riapertura verificare periodi anno successivo esistenti
+      - Creata fattura di vendita affitto 01/4/2021 - 31/03/2022  € 1200 generato risconto passivo 31/12/21 per rinvio ricavo competenza 2022
+      - Creata fatt. di Acquisto Canone affitto anticipato nr 123456 e nr 654 di €1200 e € 2400 generato risconti 31/12/21 #segn che differenza tra risconto annuale e mensile?
+      
+- [x] Info Ratei [IRA20]   
+
+      setup conti ratei risconti in schema contabile e se si vuole registrazione riapertura verificare periodi anno successivo esistenti
+      - Creazione Contratto acquisto affitto 1000193 1/4/21 - 31/3/22 € 1200 - generato rateo passivo 31/12 per rilevazione costo competenza 2021
+      - Creazione Contratto di affitto di Vendita 1000194 01/04/2021 - 31/03/2022  € 2400 generato rateo attivo 31/12/2021 per rilevazione ricavo competenza 2021
+      
 - [ ] Elenco Registrazioni contabili [EDC00]
 - [ ] Crea Giornale Prima Nota [CGPN00]
 - [ ] Quadratura Giornaliera [QUG00]
