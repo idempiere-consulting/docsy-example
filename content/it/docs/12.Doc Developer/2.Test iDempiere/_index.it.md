@@ -863,6 +863,8 @@ pre: "<b>20. </b>"
 ### **Cespite**
 - [ ] Cespite [CES00]
 
+      - 
+
   ***Ammortamento***
 - [ ] Creazione Ammortamento Cespite [CACS00]
 - [ ] Gruppo Cespite [GC00]
