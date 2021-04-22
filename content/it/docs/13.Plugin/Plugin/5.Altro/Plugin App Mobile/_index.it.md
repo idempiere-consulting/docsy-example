@@ -226,7 +226,6 @@ In questo caso la chiamata avrà bisogna di avere dei parametri di input, nel ca
     dentro la cartella bin di android-studio lanciare il file studio.sh
       risposte di default se non è necessario migrare o avere impostazioni specifiche 
     
-    
 - Avere ambiente <a href="https://www.oracle.com/it/java/technologies/javase/javase-jdk8-downloads.html" target="_blank">Java 8.0</a>
     ```
         sudo apt update
@@ -293,6 +292,8 @@ sudo apt-get install nodejs npm gradle
 ```tmpl
 sudo npm install -g  angular-ide
 ```
+N.B: se con questo comando da un eventuale errore di "Error: EPERM: operation not permitted, chmod '/usr/local/lib/node_modules/angular-ide/bin/ng'" o qualcosa di simile, è consigliato reinstallare 'npm' seguendo le istruzioni riportate qui: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm . Una volta rifatto, riprovare l'installazione.
+
 - ionic
 ```tmpl
 sudo npm install -g  @ionic/cli
@@ -327,6 +328,6 @@ ionic cordova emulate browser
 ### Modalità macchina virtuale (creata precedentemente)
 ```tmpl
  ionic cordova emulate android --target idempiere
- ```
- 
+```
 
+N.B: comando sia per emulazione che per compilazione file apk
