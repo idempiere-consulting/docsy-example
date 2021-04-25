@@ -6,8 +6,9 @@ weight : 80
 description: >
   Strumenti di Utilità utilizzabili in diverse aree.
 
+[Scheda Business Partner [BPI00]]({{< ref "_index.it.md#BPI00" >}} "Scheda Business Partner [BPI00]") <br>
 ---
-## Scheda Business Partner [BPI00]
+## Scheda Business Partner [BPI00]  {#BPI00}
 
 La maschera permette di visualizzare i vari documenti in essere con il Business Partner selezionato.
 
