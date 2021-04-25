@@ -1,5 +1,5 @@
 ---
-title: "Configurazione Generale"
+title: " Configurazione del Sistema"
 date: 2020-04-24T22:47:10+02:00
 draft: false
 weight : 20
@@ -8,6 +8,18 @@ pre: "<b></b>"
 
 
 
+[Tabelle [TAB01]]({{< ref "_index.it.md#TAB01" >}} "Tabelle") <br>
+[Albero e Immagine Nodo [AIN00]]({{< ref "_index.it.md#AIN00" >}} "Albero e Immagine Nodo") <br>
+[Gestione Albero [GEA00]]({{< ref "_index.it.md#GEA00" >}} "Gestione Albero") <br>
+[Avviso [AV01]]({{< ref "_index.it.md#AV01" >}} "Avviso") <br>
+
+[Messaggio d'Errore [ME00]]({{< ref "_index.it.md#ME00" >}} "Messaggio d'Errore") <br>
+
+[Compito (TASK) [CM00]]({{< ref "_index.it.md#CM00" >}} "Compito (TASK)") <br>
+[Commit Database Porstgres [PR10]]({{< ref "_index.it.md#PR10" >}} "Commit Database Porstgres") <br>
+
+[Preferiti Menu [PM00]]]({{< ref "_index.it.md#PM00" >}} "Preferiti Menu") <br>
+[Immagine Sistema [IS00]]({{< ref "_index.it.md#IS00" >}} "Immagine Sistema") <br>
 [Gestione Setup Wizard [GSW00]]({{< ref "_index.it.md#GSW00" >}} "Gestione Setup Wizard") <br>
 [Procedura Guidata Setup [PGS]]({{< ref "_index.it.md#PGS" >}} "Procedura Guidata Setup") <br>
 [Provider Dati Cloud [PDC00]]({{< ref "_index.it.md#PDC00" >}} "Provider Dati Cloud") <br>
@@ -22,16 +34,9 @@ pre: "<b></b>"
 [Migrazione Entità [MIE00]]({{< ref "_index.it.md#MIE00" >}} "Migrazione Entità") <br>
 [Negozio Elettronico [NE00]]({{< ref "_index.it.md#NE00" >}} "Negozio Elettronico") <br>
 
-[Gestione Albero [GEA00]]({{< ref "_index.it.md#GEA00" >}} "Gestione Albero") <br>
-[Messaggio d'Errore [ME00]]({{< ref "_index.it.md#ME00" >}} "Messaggio d'Errore") <br>
-[Albero e Immagine Nodo [AIN00]]({{< ref "_index.it.md#AIN00" >}} "Albero e Immagine Nodo") <br>
-[Compito (TASK) [CM00]]({{< ref "_index.it.md#CM00" >}} "Compito (TASK)") <br>
-[Commit Database Porstgres [PR10]]({{< ref "_index.it.md#PR10" >}} "Commit Database Porstgres") <br>
-[Avviso [AV01]]({{< ref "_index.it.md#AV01" >}} "Avviso") <br>
-[Preferiti Menu [PM00]]]({{< ref "_index.it.md#PM00" >}} "Preferiti Menu") <br>
-[Immagine Sistema [IS00]]({{< ref "_index.it.md#IS00" >}} "Immagine Sistema") <br>
+## Tabelle [TAB01] {#TAB01}
+[{{< figure src="/image/Tabelle.png"  width="850"  >}}](/image/Tabelle.png)
 
-# Configurazione Azienda
 ## Gestione Setup Wizard [GSW00] {#MRC00}
 La Maschera permette la gestione guidata dell'installazione di una Azienda Client.
 [{{< figure src="/image/GestioneSetupWizard.png"  width="850"  >}}](/image/GestioneSetupWizard.png)
@@ -39,7 +44,7 @@ La Maschera permette la gestione guidata dell'installazione di una Azienda Clien
 Il Workflow propone la configurazione guidata di un nuovo Client
 [{{< figure src="/image/ProceduraGuidataSetup.png"  width="850"  >}}](/image/ProceduraGuidataSetup.png)
 
-# Configurazione del Sistema
+
 ## Provider Dati Cloud [PDC00] {#PDC00}
 La Maschera 
 [{{< figure src="/image/ProviderDatiCloud.png"  width="850"  >}}](/image/ProviderDatiCloud.png)
