@@ -11,10 +11,9 @@ Menù Idempiere
 [Operazione di Spedizione [ODS00]]({{< ref "_index.it.md#ODS00" >}} "Operazione di Spedizione") <br>
 [Crea Spedizione (manuale) [CSPEM00]]({{< ref "_index.it.md#CSPEM00" >}} "Crea Spedizione (manuale)") <br>
 [Crea Spedizione [CSPE00]]({{< ref "_index.it.md#CSPE00" >}} "Crea Spedizione") <br>
-[Info Crea Spedizione da Ordine Riga [ICSR00]]({{< ref "_index.it.md#ICSR03" >}} "Info Crea Spedizione da Ordine Riga") <br>
-[Info Crea Spedizione [ICS00]]({{< ref "_index.it.md#ICS00" >}} "Info Crea Spedizione") <br>
+[Info Crea Spedizione da Ordine Riga [IGSR12]]({{< ref "_index.it.md#ICSR03" >}} "Info Crea Spedizione da Ordine Riga") <br>
+[Info Crea Spedizione [IGS12]]({{< ref "_index.it.md#IGS12" >}} "Info Crea Spedizione") <br>
 [Pacchetto Spedizione [PCS00]]({{< ref "_index.it.md#PCS00" >}} "Pacchetto Spedizione") <br>
-[Tipo Richiesta [TR01]]({{< ref "_index.it.md#TR01" >}} "Tipo Richiesta") <br>
 [Tariffa Doganale [TFD00]]({{< ref "_index.it.md#TDF00" >}} "Tariffa Doganale") <br>
 
 
@@ -182,10 +181,10 @@ La Info Window Form serve a creare la Spedizione manuale del prodotto.
 ## Crea Spedizione [CSPE00] {#CSPE00}
 Il processo crea le Spedizioni dei prodotti.
 [{{< figure src="/image/CreaSpedizioneCSPE00.png"  width="850"  >}}](/image/CreaSpedizioneCSPE00.png)
-## Info Crea Spedizione da Ordine Riga [ICSR00] {#ICSR00}
+## Info Crea Spedizione da Ordine Riga [IGSR12] {#IGSR12}
 La Info Window permette di creare le spedizioni da righe di ordine.
 [{{< figure src="/image/InfoCreaSpedizionedaOrdineRiga.png"  width="850"  >}}](/image/InfoCreaSpedizionedaOrdineRiga.png)
-## Info Crea Spedizione [ICS00] {#ICS00}
+## Info Crea Spedizione [ICS00] {#IGS12}
 La Info Window permette di creare le spedizioni in maniera automatizzata.
 [{{< figure src="/image/InfoCreaSpedizione.png"  width="850"  >}}](/image/InfoCreaSpedizione.png)
 ## Pacchetto Spedizione [PCS00] {#PCS00}

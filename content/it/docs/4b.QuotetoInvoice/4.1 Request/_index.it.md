@@ -19,10 +19,10 @@ Menù Idempiere
 
 - Tabelle e setup
 
-[Configurazione richieste [CR02]]({{< ref "_index.it.md#CR02" >}} "Configurazione richieste") <br>
+[Configurazione richiesta [CR00]]({{< ref "_index.it.md#CR00" >}} "Configurazione richieste") <br>
 [Tipo Richiesta [TR01]]({{< ref "_index.it.md#TR01" >}} "Tipo Richiesta") <br>
 [Gruppo Richiesta [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Richiesta") <br>
-[Categoria Richiesta [CR00]]({{< ref "_index.it.md#CR00" >}} "Categoria Richiesta") <br>
+[Categoria Richiesta [CR01]]({{< ref "_index.it.md#CR01" >}} "Categoria Richiesta") <br>
 [Stato Richiesta [SR00]]({{< ref "_index.it.md#SR00" >}} "Stato Richiesta") <br>
 
 - Funzionalità avanzate
@@ -70,7 +70,7 @@ Il processo permette di generare fattura a fronte di richieste.
 [{{< figure src="/image/FatturaRichiestaFR00.png"  width="850"  >}}](/image/FatturaRichiestaFR00.png)
 
 # Setup Richieste
-## Configurazione richieste [CR02] {#CR02}
+## Configurazione richiesta [CR00] {#CR00}
 Nello schema si vedono gli step delle richieste.
 [{{< figure src="/image/ConfigurazioneRichieste.png"  width="850"  >}}](/image/ConfigurazioneRichieste.png)
 ### Gestione delle Request
@@ -111,7 +111,7 @@ La maschera permette di generare il tipo di richiesta.
 ## Gruppo Richiesta [GR00] {#GR00}
 La maschera permette di generare un raggruppamento in base alle esigenze delle richieste.
 [{{< figure src="/image/GruppoRichiesta0.png"  width="850"  >}}](/image/GruppoRichiesta0.png)
-## Categoria Richiesta [CR00] {#CR00}
+## Categoria Richiesta [CR01] {#CR01}
 La maschera permette di generare la categoria della richiesta.
 [{{< figure src="/image/CategoriaRichiesta0.png"  width="850"  >}}](/image/CategoriaRichiesta0.png)
 ## Stato Richiesta [SR00] {#SR00}

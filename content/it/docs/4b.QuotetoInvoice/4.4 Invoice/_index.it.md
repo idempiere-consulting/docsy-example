@@ -11,13 +11,13 @@ Menù Idempiere
 [Fattura di Vendita [FDV00]]({{< ref "_index.it.md#FDV00" >}} "Fattura di Vendita") <br>
 [Crea Fattura di Vendita (manuale) [CFVM00]]({{< ref "_index.it.md#CFVM00" >}} "Crea Fattura di Vendita (manuale)") <br>
 [Crea Fattura di Vendita [CFV00]]({{< ref "_index.it.md#CFV00" >}} "Crea Fattura di Vendita") <br>
-[Info Crea Fattura ad Avanzamento [ICFVA12]]({{< ref "_index.it.md#ICFVA12" >}} "Info Crea Fattura ad Avanzamento") <br>
-[Info Crea Fattura da DDT [ICFDT00]]({{< ref "_index.it.md#ICFDT00" >}} "Info Crea Fattura da DDT [ICFDT00]") <br>
+[Info Crea Fattura ad Avanzamento [IGFA12]]({{< ref "_index.it.md#IGFA12" >}} "Info Crea Fattura ad Avanzamento") <br>
+[Info Crea Fattura da DDT [IGFD12]]({{< ref "_index.it.md#IGFD12" >}} "Info Crea Fattura da DDT [ICFDT00]") <br>
 [Info Completa Fatture di Vendita [ICOFV00]]({{< ref "_index.it.md#ICOFV00" >}} "Info Completa Fatture di Vendita") <br>
-[Info Crea Autofattura da DDT [ICFDT00]]({{< ref "_index.it.md#ICFDT00" >}} "Info Crea Autofattura da DDT") <br>
+[Info Crea Autofattura da DDT [IGA12]]({{< ref "_index.it.md#IGA12" >}} "Info Crea Autofattura da DDT") <br>
 [Info Crea Fattura di Vendita [ICFV00]]({{< ref "_index.it.md#ICFV00" >}} "Info Crea Fattura di Vendita") <br>
-[Info Crea Fattura Elettronica [ICFE00]]({{< ref "_index.it.md#ICFE00" >}} "Info Crea Fattura Elettronica") <br>
-[Stampa Fattura su carta e/o invia EMail [SIFV00]]({{< ref "_index.it.md#SIFV00" >}} "Stampa Fattura su carta e/o invia EMail") <br>
+[Info Crea Fattura Elettronica [IGFE01]]({{< ref "_index.it.md#IGFE01" >}} "Info Crea Fattura Elettronica") <br>
+[Stampa Fattura su carta e/o invia EMail [IFE00]]({{< ref "_index.it.md#IFE00" >}} "Stampa Fattura su carta e/o invia EMail") <br>
 [Archivio Fattura Elettronica [AFE00]]({{< ref "_index.it.md#ICFV00" >}} "Archivio Fattura Elettronica") <br>
 [Scadenziario Pagamento Fattura [SPF00]]({{< ref "_index.it.md#SPF00" >}} "Scadenziario Pagamento Fattura") <br>
 
@@ -326,25 +326,25 @@ La Info Form permette di selezionare più documenti, completarli e/o elaborarli 
 ## Crea Fattura di Vendita [CFV00] {#CFV00}
 Il processo permette di selezionare completare e creare la fattura di vendita singolarmente per Business Partner. 
 [{{< figure src="/image/CreaFatturadivenditaCFV00.png"  width="850"  >}}](/image/CreaFatturadivenditaCFV00.png)
-## Info Crea Fattura ad Avanzamento [ICFVA12] {#ICFVA12}
+## Info Crea Fattura ad Avanzamento [IGFA12] {#IGFA12}
 La Info Window permette di creare la fattura in base a stati di avanzamento per un Business Partner.  
 [{{< figure src="/image/InfoCreaFatturaAvanzamento.png"  width="850"  >}}](/image/InfoCreaFatturaAvanzamento.png)
-## Info Crea Fattura da DDT [ICFDT00] {#ICFDT00}
+## Info Crea Fattura da DDT [IGFD12] {#IGFD12}
 La Info Window permette di creare la fattura. 
 [{{< figure src="/image/InfoCreaFatturaDDT.png"  width="850"  >}}](/image/InfoCreaFatturaDDT.png)
 ## Info Completa Fatture di Vendita [ICOFV00] {#ICOFV00}
 La Info Window permette di completare la fattura.
 [{{< figure src="/image/InfoCompletaFatturadivendita.png"  width="850"  >}}](/image/InfoCompletaFatturadivendita.png)
-## Info Crea Autofattura da DDT [ICFDT00] {#ICFDT00}
+## Info Crea Autofattura da DDT [IGA12] {#IGA12}
 La Info Window permette di creare Autofatture a seguito di cessioni promozionali omaggio.
 [{{< figure src="/image/InfoCreaAutofatturaDDT.png"  width="850"  >}}](/image/InfoCreaAutofatturaDDT.png)
 ## Info Crea Fattura di Vendita [ICFV00] {#ICFV00}
 La Info Window permette la creazione delle fattura di vendita 
 [{{< figure src="/image/InfoCreaFatturadivendita.png"  width="850"  >}}](/image/InfoCreaFatturadivendita.png)
-## Info Crea Fattura Elettronica [ICFE00] {#ICFE00}
+## Info Crea Fattura Elettronica [IGFE01] {#IGFE01}
 La Info Window permette di creare la fattura in formato elettonico.
 [{{< figure src="/image/InfoCreaFatturaElettronica.png"  width="850"  >}}](/image/InfoCreaFatturaElettronica.png)
-## Stampa Fattura su carta e/o invia EMail [SIFV00] {#SIFV00}
+## Stampa Fattura su carta e/o invia EMail [IFE00] {#IFE00}
 Il processo permette la generazione della fattura cartacea o la spedizione della stessa via email. 
 [{{< figure src="/image/StampaFatturaInviaEmail.png"  width="850"  >}}](/image/StampaFatturaInviaEmail.png)
 ## Archivio Fattura Elettronica [AFE00] {#AFE00}
