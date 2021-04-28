@@ -46,7 +46,7 @@ La maschera permette di definire le aree di vendita.
 ## Gruppo Business Partner [BPG00]
 La maschera permette di creare dei raggruppamenti per Business Partner.
 [{{< figure src="/image/GruppoBP0.png"  width="850"  >}}](/image/GruppoBP0.png)
-## Categoria BP [CBP01]
+## Categoria BP [CBP00]
 La maschera permette di creare delle categorie di Business Partnere in base alle proprie esigenze.
 [{{< figure src="/image/CategoriaBP0.png"  width="850"  >}}](/image/CategoriaBP0.png)
 ## Configura e verifica l'organizzazione dei Business Partner [OBP00]
@@ -56,7 +56,7 @@ Il processo permette di effettuare verifiche o riorganizzare i Business Partner 
 Il processo permette di scollegare i Business Partner da una organizzazione.
 [{{< figure src="/image/ScollegaBusinessPartnerSBPO00.png"  width="850"  >}}](/image/ScollegaBusinessPartnerSBPO00.png)
 
-## Pianificazione Fatturazione [PF00]
+## Pianificazione Fatturazione [PIFA00]
 La maschera permette di classificare il Business Partner per emissione delle fatture a determinate cadenze temporali stabilite. 
 [{{< figure src="/image/PianificazioneFatturazione0.png"  width="850"  >}}](/image/PianificazioneFatturazione0.png)
 ## Termini della Fattura [TDF12]
@@ -90,7 +90,7 @@ La maschera permette di visualizzare le informazioni del Business Partner in bas
 ## Controllo e/o aggiornamento P.IVA [CPI14]
 La maschera ...
 [{{< figure src="/image/ContrAggPIVA_CPI14.png"  width="850"  >}}](/image/ContrAggPIVA_CPI14.png)
-## Controllo Codice Fiscale [[CCF14]
+## Controllo Codice Fiscale [CCF14]
 L'elaborazione del processo effettua un controllo del Codice Fiscale dei Business Partner.
 [{{< figure src="/image/ContrAggPIVA_CPI14.png"  width="850"  >}}](/image/ContrAggPIVA_CPI14.png)
 

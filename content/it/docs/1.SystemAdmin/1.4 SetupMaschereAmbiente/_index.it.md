@@ -15,16 +15,16 @@ description: >
 ## Aiuto Contestuale [AC00]
 [{{< figure src="/image/ContextHelp.png"  width="850"  >}}](/image/ContextHelp.png)
 
-## Stile CSS [SCSSS00]
+## Stile CSS [SCS00]
 [{{< figure src="/image/StileCSS.png"  width="850"  >}}](/image/StileCSS.png)
 
 ## Definizione Processo Utente
 [{{< figure src="/image/UserProcess.png"  width="850"  >}}](/image/UserProcess.png)
 
-## Stato Documento
+## Stato Documento [SD00]
 [{{< figure src="/image/DocumentStatus.png"  width="850"  >}}](/image/DocumentStatus.png)
 
-## Personalizzazione Finestre [PF00]
+## Personalizzazione Finestre [PFI00]
 [{{< figure src="/image/WindowCustomization.png"  width="850"  >}}](/image/WindowCustomization.png)
 
 

@@ -18,7 +18,7 @@ pre: "<b></b>"
 [Compito (TASK) [CM00]]({{< ref "_index.it.md#CM00" >}} "Compito (TASK)") <br>
 [Commit Database Porstgres [PR10]]({{< ref "_index.it.md#PR10" >}} "Commit Database Porstgres") <br>
 
-[Preferiti Menu [PM00]]]({{< ref "_index.it.md#PM00" >}} "Preferiti Menu") <br>
+[Preferiti Menu [PM00]]({{< ref "_index.it.md#PM00" >}} "Preferiti Menu") <br>
 [Immagine Sistema [IS00]]({{< ref "_index.it.md#IS00" >}} "Immagine Sistema") <br>
 [Gestione Setup Wizard [GSW00]]({{< ref "_index.it.md#GSW00" >}} "Gestione Setup Wizard") <br>
 [Procedura Guidata Setup [PGS]]({{< ref "_index.it.md#PGS" >}} "Procedura Guidata Setup") <br>
@@ -31,7 +31,7 @@ pre: "<b></b>"
 [Gruppo Ricorrenza [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Ricorrenza") <br>
 [Validazione Indirizzo [VI00]]({{< ref "_index.it.md#VI00" >}} "Validazione Indirizzo") <br>
 [Tassa Fornitore [TF00]]({{< ref "_index.it.md#TF00" >}} "Tassa Fornitore") <br>
-[Migrazione Entità [MIE00]]({{< ref "_index.it.md#MIE00" >}} "Migrazione Entità") <br>
+[Migrazione Entità [MIEI00]]({{< ref "_index.it.md#MIEI00" >}} "Migrazione Entità") <br>
 [Negozio Elettronico [NE00]]({{< ref "_index.it.md#NE00" >}} "Negozio Elettronico") <br>
 
 ## Tabelle [TAB01] {#TAB01}
@@ -70,7 +70,7 @@ La creazione di rilevamento ore risorse è una funzionalità aggiunta sul plug-i
 Questa funzionalità è stata creata per ottimizzare ore e risorsa quando si ha già una creazione di attività pianificata all'interno di questa maschera. 
 Questa creazione avviene quando viene creata una nuova riga in work hours (una cosa importante è che sia impostato il progetto di rifertimento). 
 Per lavorare su un attività bisogna creare una nuova riga ed assegnarli un nuovo rappresentante di vendita e indicare il numero di ore e dara una conferma, successivamente bisogna salvare in modo da poter creare il nuovo record di rilevamento ore Risorsa.
-## Migrazione Entità [MIE00] {#MIE00}
+## Migrazione Entità [MIEI00] {#MIEI00}
 [{{< figure src="/image/MigrazioneEntita.png"  width="850"  >}}](/image/MigrazioneEntita.png)
 ## Negozio Elettronico [NE00] {#NE00}
 [{{< figure src="/image/NegozioElettronico.png"  width="850"  >}}](/image/NegozioElettronico.png)

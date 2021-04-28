@@ -14,7 +14,7 @@ Menù Idempiere
 [Info Crea Spedizione da Ordine Riga [IGSR12]]({{< ref "_index.it.md#ICSR03" >}} "Info Crea Spedizione da Ordine Riga") <br>
 [Info Crea Spedizione [IGS12]]({{< ref "_index.it.md#IGS12" >}} "Info Crea Spedizione") <br>
 [Pacchetto Spedizione [PCS00]]({{< ref "_index.it.md#PCS00" >}} "Pacchetto Spedizione") <br>
-[Tariffa Doganale [TFD00]]({{< ref "_index.it.md#TDF00" >}} "Tariffa Doganale") <br>
+[Tariffa Doganale [TDF00]]({{< ref "_index.it.md#TDF00" >}} "Tariffa Doganale") <br>
 
 
 ## Documento di Trasporto  [DDT00] {#DDT00}
@@ -193,7 +193,7 @@ La maschera raccoglie le informazioni relative a spedizione di pacchi.
 
 
 # Setup Shipping
-## Tariffa Doganale [TFD00] {#TFD00}
+## Tariffa Doganale [TDF00] {#TDF00}
 La maschera permette di inserire le tariffe doganali relative ai prodotti.
 [{{< figure src="/image/TariffaDoganaleTFD00.png"  width="850"  >}}](/image/TariffaDoganaleTFD00.png)
 

@@ -11,7 +11,7 @@ Menù Idempiere
 [Carico/Scarico Materiale [CSM00]]({{< ref "_index.it.md#CSM00" >}} "Carico/Scarico Materiale") <br>
 [Documento di Trasporto - Magazzino [DDTM00]]({{< ref "_index.it.md#DDTM00" >}} "Documento di Trasporto - Magazzino") <br>
 [Genera Storno DDT di Magazzino [IGD13]]({{< ref "_index.it.md#IGD13" >}} "Genera Storno DDT di Magazzino") <br>
-[Movimento di Magazzino [MOM00]]({{< ref "_index.it.md#MOM00" >}} "Movimento di Magazzino") <br>
+[Movimento di Magazzino [MM00]]({{< ref "_index.it.md#MM00" >}} "Movimento di Magazzino") <br>
 [Info Giacenza Prodotto [IGM01]]({{< ref "_index.it.md#IGM01" >}} "Info Giacenza Prodotto") <br>
 [Transazione di Materiale (uso indiretto) [TDM00]]({{< ref "_index.it.md#TDM00" >}} " Transazione di Materiale (uso indiretto)") <br>
 [Info Movimenti Magazzino CLienti [IMMC00]]({{< ref "_index.it.md#IMMC00" >}} "Info Movimenti Magazzino CLienti") <br>
@@ -48,7 +48,7 @@ La Maschera permette di inserire un Documento di Trasporto.
 ## Genera Storno DDT di Magazzino [IGD13] {#IGD13}
 La Info Window permette lo storno di un Documento di Trasporto.
 [{{< figure src="/image/GeneraStornoDDT.png"  width="850"  >}}](/image/GeneraStornoDDT.png)
-## Movimento di Magazzino [MOM00] {#MOM00}
+## Movimento di Magazzino [MM00] {#MM00}
 La Window Form permette di selezionare i movimenti di Magazzino in base alle proprie esigenze.
 [{{< figure src="/image/MovimentodiMagazzino.png"  width="850"  >}}](/image/MovimentodiMagazzino.png)
 

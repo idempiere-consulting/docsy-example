@@ -10,7 +10,7 @@ Menù Idempiere
 
 [Spese (da fatturare) [SDF00]]({{< ref "_index.it.md#SDF00" >}} "Spese (da fatturare)") <br>
 [Spese da Rimborsare [SDR00]]({{< ref "_index.it.md#SDR00" >}} "Spese da Rimborsare") <br>
-[Crea Fattura da Spesa [CFS]]({{< ref "_index.it.md#CFS00" >}} "Crea Fattura da Spesa") <br>
+[Crea Fattura da Spesa [CFS00]]({{< ref "_index.it.md#CFS00" >}} "Crea Fattura da Spesa") <br>
 [Riepilogo Ore e Spese [ROS00]]({{< ref "_index.it.md#ROS00" >}} "Riepilogo Ore e Spese") <br>
 [Crea Ordine di Vendita dalle Spese [COVS00]]({{< ref "_index.it.md#COVS00" >}} "Crea Ordine di Vendita dalle Spese") <br>
 [Tipo Spese [TS00]]({{< ref "_index.it.md#TS00" >}} "Tipo Spese") <br>

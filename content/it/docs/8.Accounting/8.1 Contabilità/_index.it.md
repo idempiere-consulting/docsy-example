@@ -13,7 +13,7 @@ Menù Idempiere
 [Documenti non Registrati [DNR00]]({{< ref "_index.it.md#DNR00" >}} "Documenti non Registrati") <br>
 [Interrogazione Registrazione Contabili [IRC01]]({{< ref "_index.it.md#IRC01" >}} "Interrogazione Registrazione Contabili") <br>
 [Elenco Registrazioni Contabili [EDC00]]({{< ref "_index.it.md#EDC00" >}} "Elenco Registrazioni Contabili") <br>
-[Crea Giornale Prima Nota [GPRN00]]({{< ref "_index.it.md#GPRN00" >}} "Crea Giornale Prima Nota") <br>
+[Crea Giornale Prima Nota [CGPN00]]({{< ref "_index.it.md#CGPN00" >}} "Crea Giornale Prima Nota") <br>
 [Quadratura Giornaliera [QUG00]]({{< ref "_index.it.md#QUG00" >}} "Quadratura Giornaliera") <br>
 [Riassegnazione Contabile [RIC00]]({{< ref "_index.it.md#RIC00" >}} "Riassegnazione Contabile") <br>
 [Budget CG [BCG00]]({{< ref "_index.it.md#BCG00" >}} "Budget CG") <br>
@@ -388,7 +388,7 @@ La maschera permette di effettuare una interrogazione delle registrazioni contab
 ## Elenco Registrazioni Contabili [EDC00] {#EDC00}
 La Maschera permette di effettuare una interrogazione delle registrazioni contabili che interessano il BP con la possibilità di analisi dei prodotti e delle movimentazioni ad essi concernenti. 
 [{{< figure src="/image/ElencoRegistrazioniContabili.png"  width="850"  >}}](/image/ElencoRegistrazioniContabili.png)
-## Crea Giornale Prima Nota [GPRN00] {#GPRN00}
+## Crea Giornale Prima Nota [CGPN00] {#CGPN00}
 La Maschera permette di creare registrazioni contabili concatenate e/o ripetitive anche sporadiche (ne è un esempio la chiusura/apertura di bilancio).
 [{{< figure src="/image/CreaGiornalePrimaNota.png"  width="850"  >}}](/image/CreaGiornalePrimaNota.png)
 ## Quadratura Giornaliera [QUG00] {#QUG00}

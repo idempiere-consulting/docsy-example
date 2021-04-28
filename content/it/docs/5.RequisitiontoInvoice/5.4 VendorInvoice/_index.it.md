@@ -10,7 +10,7 @@ Menù Idempiere
 
 [Fattura di Acquisto [FDA00]]({{< ref "_index.it.md#FDA00" >}} "Fattura di Acquisto") <br>
 [Info Completa Fatture di Acquisto [ICFA00]]({{< ref "_index.it.md#ICFA00" >}} "Info Completa Fatture di Acquisto") <br>
-[Info crea fattura Acquisto da Entrata Merci [ICFAE00]]({{< ref "_index.it.md#ICFAE00" >}} "Info crea fattura Acquisto da Entrata Merci") <br>
+[Info crea fattura Acquisto da Entrata Merci [IGFM12]]({{< ref "_index.it.md#IGFM12" >}} "Info crea fattura Acquisto da Entrata Merci") <br>
 [Fatturazione Batch [FB00]]({{< ref "_index.it.md#FB00" >}} "Fatturazione Batch ") <br>
 [Controllo Bolla Fattura [CBF00]]({{< ref "_index.it.md#CBF00" >}} "Controllo Bolla Fattura") <br>
 [Fattura Abbinata [FABB00]]({{< ref "_index.it.md#FABB00" >}} "Fattura Abbinata") <br>
@@ -151,7 +151,7 @@ Ai fini I.V.A. l’articolo 2, comma 2, n. 4), del D.P.R. n. 633/1972 esclude da
 ## Info Completa Fatture di Acquisto [ICFA00] {#ICFA00}
 La Info Window permette il completamento della fattura di acquisto.
 [{{< figure src="/image/FatturaAcquisto0.png"  width="850"  >}}](/image/FatturaAcquisto0.png)
-## Info crea fattura Acquisto da Entrata Merci [ICFAE00] {#ICFAE00}
+## Info crea fattura Acquisto da Entrata Merci [IGFM12] {#IGFM12}
 La Info Window permette la creazione della fattura di acquisto dal movimento di entrata merce.
 [{{< figure src="/image/FatturaAcquisto0.png"  width="850"  >}}](/image/FatturaAcquisto0.png)
 ## Fatturazione Batch [FB00] {#FB00}

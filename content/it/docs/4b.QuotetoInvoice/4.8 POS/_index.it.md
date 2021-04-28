@@ -13,6 +13,7 @@ Menù Idempiere
 [Disposizione Chiave POS [PODC00]]({{< ref "_index.it.md#PODC00" >}} "Disposizione Chiave POS") <br>
 [Crea Tasto POS [CTP00]]({{< ref "_index.it.md#CTP00" >}} "Crea Tasto POS") <br>
 [Pagamento POS [PPOS00]]({{< ref "_index.it.md#PPOS00" >}} "Info Contratto di Vendita") <br>
+[Tipo Pagamento POS [TPP00]]({{< ref "_index.it.md#TPP00" >}} "Tipo Pagamento POS") <br>
 
 
 ## POS - Punto di Vendita [PPV00] {#PPV00}
@@ -30,3 +31,6 @@ Il processo permette di configurare i prodotti di vendita del POS.
 ## Pagamento POS [PPOS00] {#PPOS00}
 La maschera permette l'acquisizione del pagamento della transazione di vendita effettuata dal POS.
 [{{< figure src="/image/PagamentoPOS0.png"  width="850"  >}}](/image/PagamentoPOS0.png)
+## Tipo Pagamento POS [TPP00] {#TPP00}
+La Maschera permette di inserire il tipo di pagamento POS.
+[{{< figure src="/image/TipoPagamentoPOS.png"  width="850"  >}}](/image/TipoPagamentoPOS.png)

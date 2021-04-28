@@ -14,7 +14,7 @@ Menù Idempiere
 [Organizzazione Prodotto [ORP00]]({{< ref "_index.it.md#ORP00" >}} "Organizzazione Prodotto") <br>
 [Intrastat [INT15]]({{< ref "_index.it.md#INT15" >}} "Intrastat") <br>
 [Unità di Misura [UM00]]({{< ref "_index.it.md#UM00" >}} "Unità di Misura") <br>
-[Categoria Prodotto [CP01]]({{< ref "_index.it.md#CP01" >}} "Categoria Prodotto") <br>
+[Categoria Prodotto [CAP01]]({{< ref "_index.it.md#CAP01" >}} "Categoria Prodotto") <br>
 
 ## Gruppo di Promozione [GDP00] {#GDP00}
 La Maschera permette di creare un raggruppamento prodotti per gestire una promozione di vendita.
@@ -40,6 +40,6 @@ La Maschera permette di inserire il codice Intracomunitario dei singoli prodotti
 La Maschera permette di creare la unità di misura.
 [{{< figure src="/image/UnitadiMisura.png"  width="850"  >}}](/image/UnitadiMisura.png)
 
-## Categoria Prodotto [CP01] {#CP01}
+## Categoria Prodotto [CAP01] {#CAP01}
 La Maschera permette di creare una "categoria" prodotto (utile ad es. ai fini contabili) 
 [{{< figure src="/image/CategoriaProdotto.png"  width="850"  >}}](/image/CategoriaProdotto.png)

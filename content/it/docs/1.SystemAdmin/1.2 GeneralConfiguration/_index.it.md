@@ -9,7 +9,7 @@ pre: "<b></b>"
 
 
 [Gestione Setup Wizard [GSW00]]({{< ref "_index.it.md#GSW00" >}} "Gestione Setup Wizard") <br>
-[Procedura Guidata Setup [PGS]]({{< ref "_index.it.md#PGS" >}} "Procedura Guidata Setup") <br>
+[Procedura Guidata Setup [PGS00]]({{< ref "_index.it.md#PGS00" >}} "Procedura Guidata Setup") <br>
 [Provider Dati Cloud [PDC00]]({{< ref "_index.it.md#PDC00" >}} "Provider Dati Cloud") <br>
 [Rivisione configurazione iniziale del client [RCIC00]]({{< ref "_index.it.md#RCIC00" >}} "Rivisione configurazione iniziale del client") <br>
 [Configurazione Provider Imposta [CPI00]]({{< ref "_index.it.md#CPI00" >}} "Configurazione Provider Imposta") <br>
@@ -19,7 +19,7 @@ pre: "<b></b>"
 [Gruppo Ricorrenza [GR00]]({{< ref "_index.it.md#GR00" >}} "Gruppo Ricorrenza") <br>
 [Validazione Indirizzo [VI00]]({{< ref "_index.it.md#VI00" >}} "Validazione Indirizzo") <br>
 [Tassa Fornitore [TF00]]({{< ref "_index.it.md#TF00" >}} "Tassa Fornitore") <br>
-[Migrazione Entità [MIE00]]({{< ref "_index.it.md#MIE00" >}} "Migrazione Entità") <br>
+[Migrazione Entità [MIEI00]]({{< ref "_index.it.md#MIEI00" >}} "Migrazione Entità") <br>
 [Negozio Elettronico [NE00]]({{< ref "_index.it.md#NE00" >}} "Negozio Elettronico") <br>
 
 [Gestione Albero [GEA00]]({{< ref "_index.it.md#GEA00" >}} "Gestione Albero") <br>
@@ -27,15 +27,15 @@ pre: "<b></b>"
 [Albero e Immagine Nodo [AIN00]]({{< ref "_index.it.md#AIN00" >}} "Albero e Immagine Nodo") <br>
 [Compito (TASK) [CM00]]({{< ref "_index.it.md#CM00" >}} "Compito (TASK)") <br>
 [Commit Database Porstgres [PR10]]({{< ref "_index.it.md#PR10" >}} "Commit Database Porstgres") <br>
-[Avviso [AV01]]({{< ref "_index.it.md#AV01" >}} "Avviso") <br>
-[Preferiti Menu [PM00]]]({{< ref "_index.it.md#PM00" >}} "Preferiti Menu") <br>
+[Avviso [AV00]]({{< ref "_index.it.md#AV00" >}} "Avviso") <br>
+[Preferiti Menu [PM00]]({{< ref "_index.it.md#PM00" >}} "Preferiti Menu") <br>
 [Immagine Sistema [IS00]]({{< ref "_index.it.md#IS00" >}} "Immagine Sistema") <br>
 
 # Configurazione Azienda
 ## Gestione Setup Wizard [GSW00] {#MRC00}
 La Maschera permette la gestione guidata dell'installazione di una Azienda Client.
 [{{< figure src="/image/GestioneSetupWizard.png"  width="850"  >}}](/image/GestioneSetupWizard.png)
-## Procedura Guidata Setup [PGS] {#PGS}
+## Procedura Guidata Setup [PGS00] {#PGS00}
 Il Workflow propone la configurazione guidata di un nuovo Client
 [{{< figure src="/image/ProceduraGuidataSetup.png"  width="850"  >}}](/image/ProceduraGuidataSetup.png)
 
@@ -65,7 +65,7 @@ La creazione di rilevamento ore risorse è una funzionalità aggiunta sul plug-i
 Questa funzionalità è stata creata per ottimizzare ore e risorsa quando si ha già una creazione di attività pianificata all'interno di questa maschera. 
 Questa creazione avviene quando viene creata una nuova riga in work hours (una cosa importante è che sia impostato il progetto di rifertimento). 
 Per lavorare su un attività bisogna creare una nuova riga ed assegnarli un nuovo rappresentante di vendita e indicare il numero di ore e dara una conferma, successivamente bisogna salvare in modo da poter creare il nuovo record di rilevamento ore Risorsa.
-## Migrazione Entità [MIE00] {#MIE00}
+## Migrazione Entità [MIEI00] {#MIEI00}
 [{{< figure src="/image/MigrazioneEntita.png"  width="850"  >}}](/image/MigrazioneEntita.png)
 ## Negozio Elettronico [NE00] {#NE00}
 [{{< figure src="/image/NegozioElettronico.png"  width="850"  >}}](/image/NegozioElettronico.png)
@@ -80,7 +80,7 @@ Per lavorare su un attività bisogna creare una nuova riga ed assegnarli un nuov
 [{{< figure src="/image/CompitoTask.png"  width="850"  >}}](/image/CompitoTask.png)
 ## Commit Database Porstgres [PR10] {#PR10}
 [{{< figure src="/image/CommitDatabasePostgres.png"  width="850"  >}}](/image/CommitDatabasePostgres.png)
-## Avviso [AV01] {#AV01}
+## Avviso [AV00] {#AV00}
 [{{< figure src="/image/Avviso1.png"  width="850"  >}}](/image/Avviso1.png)
 ## Preferiti Menu [PM00] {#PM00}
 [{{< figure src="/image/PreferitiMenu.png"  width="850"  >}}](/image/PreferitiMenu.png)
