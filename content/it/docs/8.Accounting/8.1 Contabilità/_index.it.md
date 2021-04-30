@@ -160,6 +160,17 @@ Sono scritture da contabilizzare in data 31/12/ap relative ad aspetti economici 
 | :----------- | ------------------------------------ |
 | 3.3.03.05.02   | *Interessi passivi su finanziamenti*             |
 |                |                                      |
+
+Esempio si crea una fattura di vendita utilizzando un prodotto la cui competenza economica incida su due sercizi contabili ad. es. affitti.
+[{{< figure src="/image/Fatturarisconto.png"  width="850"  >}}](/image/Fatturarisconto.png)
+Avremo l'accortezza di indicare nella riga fattura nella sottotab contabilità generale il periodo di competenza dell'affitto. 
+Si procede con l'elaborazione del Risconto (o nell'immediato o in data fine esercizio).
+[{{< figure src="/image/Elaborazionerisconto.png"  width="850"  >}}](/image/Elaborazionerisconto.png)
+
+
+
+
+
 # Ammortamenti.
 
 Sono le scritture contabili di rilevazione delle quote di competenza dell'esercizio che termina il 31/12/ap di quei beni che hanno durata pluriennale e dei quali, di conseguenza, si deve rilevare appunto la quota di costo dell'esercizio in base alle tabelle di ammortamento ministeriali 
