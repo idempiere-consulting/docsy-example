@@ -24,7 +24,7 @@ description: >
 ## Stato Documento [SD00]
 [{{< figure src="/image/DocumentStatus.png"  width="850"  >}}](/image/DocumentStatus.png)
 
-## Personalizzazione Finestre [PFI00]
+## Personalizzazione Finestra [PFI00]
 [{{< figure src="/image/WindowCustomization.png"  width="850"  >}}](/image/WindowCustomization.png)
 
 

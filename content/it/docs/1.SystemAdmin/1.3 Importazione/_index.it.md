@@ -15,7 +15,7 @@ weight : 40
 [{{< figure src="/image/ImportazioneProdotto.png"  width="850"  >}}](/image/ImportazioneProdotto.png)
 ## Importazione Business Partner [IBP00]
 [{{< figure src="/image/ImportazioneBusinessPartner.png"  width="850"  >}}](/image/ImportazioneBusinessPartner.png)
-## Importazione cespite [IMC00]
+## Importazione cespiti [IMC00]
 [{{< figure src="/image/ImportazioneCespite.png"  width="850"  >}}](/image/ImportazioneCespite.png)
 ## Formato di Importazione [FDI00]
 [{{< figure src="/image/FormatoDiImportazione.png"  width="850"  >}}](/image/FormatoDiImportazione.png)
@@ -25,9 +25,9 @@ weight : 40
 [{{< figure src="/image/ImportazioneListinoPrezzo.png"  width="850"  >}}](/image/ImportazioneListinoPrezzo.png)
 ## Importa Estratto Conto [IEC00]
 [{{< figure src="/image/ImportaEstrattoConto.png"  width="850"  >}}](/image/ImportaEstrattoConto.png)
-## Importa Pagamento [IMP00]
+## Importazione Pagamento [IMP00]
 [{{< figure src="/image/ImportazionePagamento.png"  width="850"  >}}](/image/ImportazionePagamento.png)
-## Importa tasso conversione valuta [ITCV00]
+## Importazione tasso conversione valuta [ITCV00]
 [{{< figure src="/image/ImportazioneTassoConversioneValuta.png"  width="850"  >}}](/image/ImportazioneTassoConversioneValuta.png)
 ## Importazione inventario [IMPI00]
 [{{< figure src="/image/ImportazioneInventario.png"  width="850"  >}}](/image/ImportazioneInventario.png)

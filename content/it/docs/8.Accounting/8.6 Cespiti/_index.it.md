@@ -12,7 +12,7 @@ Menù Idempiere
  Visualizzare l'anagrafica del Cespite 
 [Cespite [CES00]]({{< ref "_index.it.md#CES00" >}} "Cespite") <br>
  Creare il Piano di Ammortamento del Cespite
-[Creazione Ammortamento Cespite [CASC00]]({{< ref "_index.it.md#CASC00" >}} "Creazione Ammortamento Cespite") <br>
+[Creazione Ammortamento Cespite [CACS00]]({{< ref "_index.it.md#CACS00" >}} "Creazione Ammortamento Cespite") <br>
  Creare la Categoria di Appartenenza del Cespite
 [Gruppo Cespite [GC00]]({{< ref "_index.it.md#GC00" >}} "Gruppo Cespite") <br>
  Gestire la Consegna del Cespite
@@ -50,7 +50,7 @@ La Maschera permette di ottenere tutte le informazioni riguardanti un Cespite Az
 [{{< figure src="/image/Cespite.png"  width="850"  >}}](/image/Cespite.png)
 
 
-## Creazione Ammortamento Cespite [CASC00] {#CASC00}
+## Creazione Ammortamento Cespite [CACS00] {#CACS00}
 **<u>Registrazione dell'Ammortamento</u>**
 La maschera che si utilizza generalmente a fine anno per registrare gli ammortamenti è la seguente:
 [{{< figure src="/image/AmmortamentoCespite.png"  width="850"  >}}](/image/AmmortamentoCespite.png)
