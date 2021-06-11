@@ -8,5 +8,10 @@ description: >
   Dall'offerta e ordine di vendita al documento di trasporto fino alla fattura di vendita
 ---
 
+---
+## Scheda Business Partner [BPI00]  {#BPI00}
 
+La maschera permette di visualizzare i vari documenti in essere con il Business Partner selezionato.
+
+[{{< figure src="/image/SchedaBusinnessPartner[BPI00].png"  width="850"  >}}](/image/SchedaBusinnessPartner[BPI00].png)
 
