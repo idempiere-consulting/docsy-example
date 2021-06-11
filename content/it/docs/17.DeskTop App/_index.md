@@ -8,16 +8,25 @@ pre: "<b>90. </b>"
 
 
 ### TODO
-- se  Logo sx come utente se presente
-- link BI da idempiere
-- creazione nuovo ODV
-- gestione permessi
-- add Descrizione su Ordine di Vendita
-- Caricare ODV anche se actvity è null
-- Filtro ordini <> CO e <> VO
-- gestione upload immagine (anche da fotocamera) e/o PDF o altro (limite ?)
-test12322222
-- 
+- [ ] Logo App (togliere la X)  - Prio: medio/alta 
+- [ ]Logo User (sx) quello dell'utente se presente Prio: bassa
+- [ ] gestione permessi (lit_mobilerole) 
+      0/1  CRM 
+      0/1 Service User
+      0/1 Service Portale
+      0/1 Fatture di Vendita
+      0/1 Ordini di Vendita
+      0/1 Ticket Portale
+      0/1 Ticket User
+      0/1 Conto Lavoro Portale
+      0/1 Acquisti User
+      0/1 TaskOre 
+      0/1 Produzione
+      0/1 Logistica
+      Esempio:
+      1001  Crm si  Servise Iser  no Servi p
+- [ ] gestione upload immagine e/o PDF o altro da sfoglia file
+ 
 
 
 ## Dashboard
@@ -217,7 +226,7 @@ La maschera di gestione delle fatture di vendita serve per...
 Pagine: 
 - Lista odv
 - Crea odv
-
+- add Descrizione su Ordine di Vendita
 <hr>
 
 ### Lista odv
@@ -240,6 +249,7 @@ La maschera di gestione per la creazione di ordini di vendita serve per...
 - tabella :
 - file: ODV_CreaODVWindow.html
 
+- Filtro ordini <> CO e <> VO
 
 
 
