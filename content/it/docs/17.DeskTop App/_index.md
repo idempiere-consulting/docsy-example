@@ -16,7 +16,7 @@ pre: "<b>90. </b>"
 - Caricare ODV anche se actvity è null
 - Filtro ordini <> CO e <> VO
 - gestione upload immagine (anche da fotocamera) e/o PDF o altro (limite ?)
-test123
+test12322222
 - 
 
 
