@@ -9,13 +9,6 @@ description: >
 [Scheda Business Partner [BPI00]]({{< ref "_index.it.md#BPI00">}} "Scheda Business Partner [BPI00]") <br>
 
 ---
-## Scheda Business Partner [BPI00]  {#BPI00}
-
-La maschera permette di visualizzare i vari documenti in essere con il Business Partner selezionato.
-
-[{{< figure src="/image/SchedaBusinnessPartner[BPI00].png"  width="850"  >}}](/image/SchedaBusinnessPartner[BPI00].png)
-
----
 ## Documento non Lavorato (tutti) [DNL00]
 
 La maschera mette in evidenza le varie fasi di elaborazione di un documento.
