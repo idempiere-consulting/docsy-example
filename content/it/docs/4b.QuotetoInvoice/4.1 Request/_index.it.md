@@ -28,7 +28,7 @@ Menù Idempiere
 - Funzionalità avanzate
 
 
-## Richesta / Ticket [TIK00] {#TIK00}
+## Ticket [TIK00] {#TIK00}
 La maschera permetta la compilazione di un ticket. In corpo del ticket, nel corso del suo procedere verranno salvate le varie azioni apportate.
 [{{< figure src="/image/TicketTIK00.png"  width="850"  >}}](/image/TicketTIK00.png)
 Si possono ad esempio gestire nuovi Clienti e gestire in modo preciso e facilmente rivedibile tutta la cronistoria delle varie azioni schedate.
