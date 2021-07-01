@@ -9,10 +9,10 @@ menu:
 ---
 
 
-Amministrazione del Sistema***			
-	Configurazione Generale**		
-			Commit Database Posgres [PR10]
-			Azzeramento Cache [MRC00]
++Amministrazione del Sistema***			
++-+Configurazione Generale**		
++-+-+Commit Database Posgres [PR10]
+-----+Azzeramento Cache [MRC00]
 			Delete Profile
 			Delete Cliente and InItialize Client Log
 		System	
