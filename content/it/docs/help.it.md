@@ -125,7 +125,7 @@ And a "mixed" task list:
 And a nested list:
 
 * Jackson 5
-  * Michael
+  * Automatic Search]({{%relref "basics/configuration/_index.md#activate-search" %}})
   * Tito
   * Jackie
   * Marlon
