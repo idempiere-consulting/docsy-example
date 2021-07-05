@@ -8,7 +8,8 @@ description: >
   Dall'offerta e ordine di vendita al documento di trasporto fino alla fattura di vendita
 ---
 
----
+# Ciclo Attivo  {#CAP04A}
+
 ## Scheda Business Partner [BPI00]  {#BPI00}
 
 La maschera permette di visualizzare i vari documenti in essere con il Business Partner selezionato.
