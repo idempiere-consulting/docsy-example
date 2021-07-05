@@ -8,27 +8,27 @@ menu:
     weight: 20
 ---
 
-[Amministrazione del Sistema]({{< ref "_index.md#CAP01" >}} "Configurazione Generale") <br>
-[Setup Maschera Ambiente]({{< ref "_index.md#CAP02" >}} "Setup Maschera Ambiente")<br>
-[2.Scrivania]({{< ref "_index.md#CAP03" >}} "Scrivania")<br>
-[Anagrafiche di base]({{< ref "_index.md#CAP04" >}} "Anagrafiche di bse")<br>
-[Crm]({{< ref "_index.md#CAP05" >}} "Crm")<br>
-[Ciclo Attivo]({{< ref "_index.md#CAP06" >}} "Ciclo Attivo")<br>
-[Ciclo Passivo]({{< ref "_index.md#CAP07" >}} "Ciclo Passivo")<br>
-[Misurazione della Performance]({{< ref "_index.md#CAP08" >}} "Misurazione della Performance")<br>
-[Gestione Materiali]({{< ref "_index.md#CAP08" >}} "Gestione Materiali")<br>
-[Gestione del Progetto]({{< ref "_index.md#CAP09" >}} "Gestione del Progetto")<br>
-[Cespite]({{< ref "_index.md#CAP10" >}} "Cespite")<br>
-[Produzione]({{< ref "_index.md#CAP11" >}} "Produzione")<br>
-[Utility]({{< ref "_index.md#CAP12" >}} "Utility")<br>
-[Reso Fornitore]({{< ref "_index.md#CAP13" >}} "Reso Fornitore")<br>
+[1.Amministrazione del Sistema]({{< ref "_index.md#CAP01" >}} "Configurazione Generale") <br>
+[1.B Setup Maschera Ambiente]({{< ref "_index.md#CAP01.B" >}} "Setup Maschera Ambiente")<br>
+[2.Scrivania]({{< ref "_index.md#CAP02" >}} "Scrivania")<br>
+[3.Anagrafiche di base]({{< ref "_index.md#CAP03" >}} "Anagrafiche di bse")<br>
+[3.Crm]({{< ref "_index.md#CAP03" >}} "Crm")<br>
+[4.Ciclo Attivo]({{< ref "_index.md#CAP04" >}} "Ciclo Attivo")<br>
+[5.Ciclo Passivo]({{< ref "_index.md#CAP05" >}} "Ciclo Passivo")<br>
+[7.Gestione Materiali]({{< ref "_index.md#CAP07" >}} "Gestione Materiali")<br>
+[8.Contabilità]({{< ref "_index.md#CAP08" >}} "Misurazione della Performance")<br>
+[9.Gestione del Progetto]({{< ref "_index.md#CAP09" >}} "Gestione del Progetto")<br>
+[10.Produzione]({{< ref "_index.md#CAP10" >}} "Produzione")<br>
+[11.Cespite]({{< ref "_index.md#CAP11" >}} "Cespite")<br>
+[12.Utility]({{< ref "_index.md#CAP12" >}} "Utility")<br>
+[13.Reso Fornitore]({{< ref "_index.md#CAP13" >}} "Reso Fornitore")<br>
 
 
 # {#CAP01}
-## Amministrazione del Sistema
-    * Configurazione Generale
-        * Commit Database Posgres <b>[PR10]</b>
-        * Azzeramento Cache [MRC00]
+## 1.Amministrazione del Sistema [link]({{< ref "1.systemadmin/_index.it.md" >}})
+###                   1.1 Configurazione Generale
+* Commit Database Posgres [PR10]
+* Azzeramento Cache [MRC00]
         * Delete Profile
         * Delete Cliente and InItialize Client Log
     * System (solo System )
@@ -40,13 +40,15 @@ menu:
         * Importazione/Esportazione Traduzioni
         * Traduzione Lingua
         * Menu
-    * Configurazione del Sistema
-        * Tabelle [TAB01]
-        * Albero e Immagine Nodo [AIN00]
+---
+### Configurazione del Sistema [link]({{< ref "1.systemadmin/_index.it.md" >}})
+* Tabelle [TAB01]({{< ref "1.systemadmin/_index.it.md" >}})
+* Albero e Immagine Nodo [AIN00]
         * Avviso [AV00]
         * Gestione Albero [GEA00]
         * Menu Preferiti Utente [MPU00]
         * Compito (Task)  [CM00]
+---
         * Immagine Sistema [IS00]
         * Messaggio d'Errore [ME00]
         * Paese, Regione e Provincia [PRP00]
@@ -200,7 +202,8 @@ menu:
         * Definizione Processo Utente [DPU00]
         * Stato Documento [SD00]
         * Personalizzazione Finestra [PFI00]
-# {#CAP02}
+----------------
+# {#CAP01.B}
 # Setup Maschera Ambiente
     * Stato Documento [SD00]
         * Vista Report [VR00]
@@ -213,8 +216,8 @@ menu:
         * PackIn- Importazione Package [PIN00]
         * Packages Installato [PKI00]
         * Manutenzione Package [MPK00]
-# {#CAP03}
-# 2. Scrivania
+# {#CAP02}
+# 2. Scrivania [link]({{< ref "2.workbench/_index.it.md" >}})
     * Azioni [AZ01]
         * Email
         * Inviare Email [IE00]
@@ -222,8 +225,8 @@ menu:
     * Setup Email
         * Modello Email [MM00]
         * Area di Interesse [ADI00]
-# {#CAP04}
-# Anagrafiche di base
+# {#CAP03}
+# Anagrafiche di base [link]({{< ref "3.basicdata/_index.it.md" >}})
         * Parametrizzazione per invio Email [PPIE00]
         * Documenti Supplementari Pdf [DSP00]
         * Stamp [STA00]
@@ -276,8 +279,8 @@ menu:
         * Modello misurazione
         * Genera Misurazini / Consumi da Template
         * Scarico Materiale
-# {#CAP05}
-# Crm
+# {#CAP03}
+# Crm [link]({{< ref "4a.crm/_index.it.md" >}})
     * Info Area di Interesse [IAI00]
     * Cruscotto Vendite [CV00]
     * Lead [LEA00]
@@ -289,24 +292,27 @@ menu:
         * Canale di Marketing [CNL00]
         * Fase di Vendita [FAV00]
         * Area di Vendita [ARV00]
-# {#CAP06}
-# Ciclo Attivo
-    * Scheda Business Partner [BPI00]
-    * Configurazione Vendite [CV00]
-    * Richiesta / Ticket
-        * Ticket [TIK00]
-        * Richiesta Tutto [RICT00]
-        * Risoluzione Richiesta [RR01]
+# {#CAP04}
+## 4 Ciclo Attivo [link]({{< ref "4b.quotetoinvoice/_index.it.md" >}})
+*  Scheda Business Partner [BPI00] [link]({{< ref "4b.quotetoinvoice/_index.it.md" >}})
+* Configurazione Vendite [CV00]
+###     4.1 Richiesta / Ticket
+####  Ticket [TIK00]
+
+* Richiesta Tutto [VARC00]({{< ref "4b.quotetoinvoice/_index.it.md" >}})
+        * [Automatic Search]({{%relref "basics/configuration/_index.md#activate-search" %}})
+        * Risoluzione Richiesta [RR01] <b>test</b>
         * Risposta Standard Richiesta [RSR00]
         * Riaprire Richiesta [RR03]
         * Fattura per Richiesta [FR00]
-    * Setup Richieste
+#### Setup Richieste
         * Tipo Richiesta [TR01]
         * Configurazione Richiesta [CR00]
         * Gruppo Richiesta [GR00]
         * Categoria Richiesta [CR01]
         * Stato Richiesta [SR00]
-    * Ordini di Vendita
+### 4.2  Ordini di Vendita    [link]({{< ref "4b.quotetoinvoice/4.2salesorder/_index.it.md" >}})
+
         * Origine Offerta [OO00]
         * Offerta / Ordine di Vendita [ODV00]
         * Configurazione Vendite [CV00]
@@ -320,7 +326,7 @@ menu:
         * Elabora Gruppo di Ordine [EGO00]
     * Setup Ordine di Vendita
         * Parametrizzazione Modello Ordine [PMO12]
-    * Report Offerta / Ord. di Vendita
+###  Report Offerta / Ord. di Vendita
         * Report Transazione Ordine [R.04]
         * Report Ordine Aperto [R.05]
         * Report Dettaglio Ordine [R.06]
@@ -392,8 +398,8 @@ menu:
         * POS [POST00]
         * Crea Tasto POS [CTP00]
         * Tipo Pagamento POS [TPP00]
-# {#CAP07}
-# Ciclo Passivo
+# {#CAP05}
+# Ciclo Passivo [link]({{< ref "5.requisitiontoinvoice/_index.it.md" >}})
         * Scheda Fornitore [SF00]
     * Richiesta di Quotazione Fornitore
         * Richiesta Quotazione [RQF00]
@@ -454,8 +460,8 @@ menu:
         * Contratto di Acquisto [CDA20]
         * Info Contratto di Acquisto [ICA00]
         * Crea Ordine di Acquisto da Contratto [COAC20]
-# {#CAP08}
-# Gestione Materiali
+# {#CAP07}
+# Gestione Materiali [link]({{< ref "7.materialmanagement/_index.it.md" >}})
     * Prodotto
         * Prodotto[PRD00]
         * Approvigionamento [APP01]
@@ -559,7 +565,7 @@ menu:
         * Product UOM Convert
         * Riferimenti dei Materiali
 # {#CAP09}
-# Gestione del Progetto
+# Gestione del Progetto [link]({{< ref "9.project/_index.it.md" >}})
     * Progetto
         * Progetto (Servizio) [PRJS00]
         * Progetto (Ordine di Lavoro) [PRJL00]
@@ -640,7 +646,7 @@ menu:
         * Report Budget Costi [RP.891]
         * Report Budget [RP.892]
 # {#CAP08}
-# Misurazione della Performance
+# Contabilità [link]({{< ref "8.accounting/_index.it.md" >}})
     * Setup Benchmark
     * Pagamenti e Incassi
         * Report Estratto Conto Business Partner [RP.821]
@@ -678,7 +684,7 @@ menu:
         * Info Generazione File Dati Fatture (Spesometro) [IGFDS00]
         * Report Intra [RP.813]
         * Info Generazione File Dati Fatture (Esterometro) [IGFDE00]
-# {#CAP10}
+# {#CAP11}
 # Cespite
         * Crea Cespite da Progetto [CCPR00]
         * Cespite [CES00]
@@ -702,8 +708,8 @@ menu:
     * Cash Flow
     * Setup Cash Flow
     * Report Cash Flow
-# {#CAP11}
-# Produzione
+# {#CAP10}
+# Produzione [link]({{< ref "10.production/_index.it.md" >}})
         * POS --- Contr.Avanzamento di Produzoione [POP00]
         * Controllo Avanzamento di Produzione
         * Report Movement Production [RP.715]
@@ -734,7 +740,7 @@ menu:
         * Tipo Part
         * Workflow di Produzione [WP13]
 # {#CAP12}
-# Utility
+# Utility [link]({{< ref "12verticalieutilità/_index.it.md" >}})
     * Setup Cartelle
         * Setup Cartelle Allegati [SCA00]
     * Post it
