@@ -28,6 +28,9 @@ Menù Idempiere
 [{{< figure src="/image/CreaProdottoDallaLineaDelProgetto.png"  width="850"  >}}](/image/CreaProdottoDallaLineaDelProgetto.png)
 ## Reporting del Progetto [RDP00] {#RDP00}
 [{{< figure src="/image/ReportingProgetto0.png"  width="850"  >}}](/image/ReportingProgetto0.png)
+
+# SETUP
+
 ## Tipo di Progetto [TDP00] {#TDP00}
 [{{< figure src="/image/TipoProgetto0.png"  width="850"  >}}](/image/TipoProgetto0.png)
 ## Configurazione del Progetto [CP00] {#CP00} 
