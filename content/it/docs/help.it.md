@@ -124,10 +124,11 @@ And a "mixed" task list:
 
 And a nested list:
 
-* Jackson 5
-  * Automatic Search]({{%relref "basics/configuration/_index.md#activate-search" %}})
-  * Tito
-  * Jackie
+* [Jackson 5]({{%relref "basics/configuration/_index.md#activate-search" %}})
+  * [Automatic Search]({{%relref "basics/configuration/_index.md#activate-search" %}})
+  * [Tito]({{%relref "basics/configuration/_index.md#activate-search" %}})
+  * [Jackie]({{%relref "1.systemadmin/_index.it.md#activate-search" %}})
+
   * Marlon
   * Jermaine
 * TMNT
