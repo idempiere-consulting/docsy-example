@@ -10,12 +10,18 @@ menu:
 # cose a caso
 #
 
+# <B>DOCUMENTATION 2</B>
 [1.Soluzioni idempiere]({{< ref "_index.md#CAP01" >}} "Soluzioni iDempiere") <br>
+[2.Addon idempiere]({{< ref "_index.md#CAP02" >}} "Addon iDempiere") <br>
+[3.External Plugin idempiere]({{< ref "_index.md#CAP03" >}} "External Plugin iDempiere") <br>
+[4.iD Plugin]({{< ref "_index.md#CAP04" >}} "iD Plugin") <br>
+[5.iD VPS]({{< ref "_index.md#CAP05" >}} "iD VPS") <br>
+[6.iD Consulenza]({{< ref "_index.md#CAP06" >}} "iD Consulenza") <br>
 
 # Soluzioni iDempiere {#CAP01}
 <br>
 
-----
+---
 
 ### <b>iDempiere Post Vendita / After Sales [S.AFS.STD00] </b>
 
@@ -41,7 +47,7 @@ menu:
 |                   | Formazione /Consulenza        |  8 ore
 |                   | Costo mese                    |  300/50€ {{< /alert >}}
 
-----
+---
 
 ### <b>iDempiere Alexa [S.ALE.STD00]</b>
 
@@ -500,12 +506,10 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ---
 
-[2.Addon idempiere]({{< ref "_index.md#CAP02" >}} "Addon iDempiere") <br>
-
 # Addon iDempiere {#CAP02}
 <br>
 
-----
+---
 
 ###  <b>iDempiere Addon Alert [A.ALT.STD00]</b>
 
@@ -902,8 +906,6 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ---
 
-[3.External Plugin idempiere]({{< ref "_index.md#CAP03" >}} "External Plugin iDempiere") <br>
-
 # Soluzioni iDempiere {#CAP03}
 <br>
 
@@ -1109,7 +1111,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin POS Fiscale [X.POS.STD00]</b>
 
-[{{< figure src="/product/i-mailchimp.png"  width="150"  >}}](/product/i-mailchimp.png)
+[{{< figure src="/product/i-mailchimp.jpg"  width="150"  >}}](/product/i-mailchimp.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1123,7 +1125,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin PayPal [X.PYP.STD00]</b>
 
-[{{< figure src="/product/I-TimeSheet.png"  width="150"  >}}](/product/I-TimeSheet.png)
+[{{< figure src="/product/I-TimeSheet.jpg"  width="150"  >}}](/product/I-TimeSheet.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1165,7 +1167,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Telegram Bot [X.TLG.STD00]</b>
 
-[{{< figure src="/product/I-Telegram.png"  width="150"  >}}](/product/I-Telegram.png)
+[{{< figure src="/product/I-Telegram.jpg"  width="150"  >}}](/product/I-Telegram.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1179,7 +1181,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere  Plugin Time Sheet [X.TSH.STD00]</b>
 
-[{{< figure src="/product/I-TimeSheet.png"  width="150"  >}}](/product/I-TimeSheet.png)
+[{{< figure src="/product/I-TimeSheet.jpg"  width="150"  >}}](/product/I-TimeSheet.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1205,12 +1207,10 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ---
 
-[4.iD Plugin]({{< ref "_index.md#CAP04" >}} "iD Plugin") <br>
-
 # iD Plugin {#CAP04}
 <br>
 
-----
+---
 
 ### <b>iDempiere Archived Document [P.ADC.IBV00]</b>
 
@@ -1228,7 +1228,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin After Sales [P.AFS.STD00]</b>
 
-[{{< figure src="/product/I-After-Sales.png"  width="150"  >}}](/product/I-After-Sales.png)
+[{{< figure src="/product/I-After-Sales.jpg"  width="150"  >}}](/product/I-After-Sales.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1256,7 +1256,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin API REST [P.API.STD00]</b>
 
-[{{< figure src="/product/i-apirest.png"  width="150"  >}}](/product/i-apirest.png)
+[{{< figure src="/product/i-apirest.jpg"  width="150"  >}}](/product/i-apirest.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1270,7 +1270,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Asset / Cespiti [P.ASS.STD00]</b>
 
-[{{< figure src="/product/I-Asset.png"  width="150"  >}}](/product/I-Asset.png)
+[{{< figure src="/product/I-Asset.jpg"  width="150"  >}}](/product/I-Asset.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1284,7 +1284,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin BPM / Cespiti [P.BPM.STD00]</b>
 
-[{{< figure src="/product/I-Asset.png"  width="150"  >}}](/product/I-Asset.png)
+[{{< figure src="/product/I-Asset.jpg"  width="150"  >}}](/product/I-Asset.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1298,7 +1298,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Budget / Cespiti [P.BDG.STD00]</b>
 
-[{{< figure src="/product/I-Budget.png"  width="150"  >}}](/product/I-Budget.png)
+[{{< figure src="/product/I-Budget.jpg"  width="150"  >}}](/product/I-Budget.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1312,7 +1312,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Configurator / Cespiti [P.CFP.STD00]</b>
 
-[{{< figure src="/product/I-Configurator.png"  width="150"  >}}](/product/I-Configurator.png)
+[{{< figure src="/product/I-Configurator.jpg"  width="150"  >}}](/product/I-Configurator.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1327,7 +1327,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Configuratore / Cespiti [P.CON.STD00]</b>
 
-[{{< figure src="/product/i-mailchimp.png"  width="150"  >}}](/product/i-mailchimp.png)
+[{{< figure src="/product/i-mailchimp.jpg"  width="150"  >}}](/product/i-mailchimp.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1341,7 +1341,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Conto Lavoro Attivo / Cespiti [P.CLA.STD00]</b>
 
-[{{< figure src="/product/I-OutsourcingProduction.png"  width="150"  >}}](/product/I-OutsourcingProduction.png)
+[{{< figure src="/product/I-OutsourcingProduction.jpg"  width="150"  >}}](/product/I-OutsourcingProduction.jpg)
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1353,31 +1353,513 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ---
 
+### <b>iDempiere Plugin CRM / Cespiti [P.CRM.STD00]</b>
 
-P.CRM.STD00	iDempiere Plugin CRM	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-Crm.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.DMS.STD00	iDempiere Plugin Document DMS	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-DMS.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.ERP.STD00	iDempiere Plugin ERP	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-PriceListImport.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.GNT.STD01	iDempiere - Plugin Gantt Project	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-Scheduler.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.GNT.STD00	iDempiere Plugin Gantt Task	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-Gantt.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.GEO.STD00	iDempiere Plugin GEO iDempiere	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-Geo.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.HUR.STD00	iDempiere Plugin Human Resource	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-HumanResource.jpg	Lic. 0 € <br> Inst. e Setup 300/100 € <br>Costo mese 300/50 €
-P.MSG.STD00	iDempiere Plugin i-Message	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-message.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 200/100 € <br> Formazione 0,5/0,5
-P.IPL.STD00	iDempiere Plugin Import Price List 	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-PriceListImport.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.INT.STD00	iDempiere Plugin Intercompany	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-InterCompany.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.KAN.STD00	iDempiere Plugin Kanban 	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-KanBan.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 200/100 € <br> Formazione 0,5/1
-P.MNT.STD00	iDempiere Plugin Maintenance	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-Maintenance.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.MAR.STD00	iDempiere Plugin Marginalità	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-Asset.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.PIV.STD00	iDempiere Plugin Pivot		Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.POS.STD00	iDempiere Plugin POS	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-POS.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.PIT.STD00	iDempiere Plugin POST IT	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-PostIt.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 200/100 € <br> Formazione 0,5/1
-P.PCP.STD00	iDempiere Plugin Prodotto Codifica Avanzata	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-Asset.jpg
-P.PRD.STD00	iDempiere Plugin Produzione Avanzata		Lic.0 € / Inst. e Setup 200/0 € / Canone mensile 100/40 €
-P.PRJ.STD00	iDempiere Plugin Project	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-Project.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.NCF.STD00	iDempiere Plugin Qualità/No Conformità		Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.ROR.STD00	iDempiere Plugin Rilevamento Ore	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-POS.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.SCF.STD00	iDempiere Plugin Schedulatore Capacità Finita		Lic.0 € / Inst. e Setup 200/0 € / Canone mensile 100/40 €
-P.SRV.STD00	iDempiere Plugin Service	https://www.idempiere.consulting/wp-content/uploads/2017/12/I-Service.jpg	Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
-P.ZKC.STD00	iDempiere Plugin ZK Chart		Lic. 0 € <br> Inst. e Setup 200/100 € <br> Canone mese 100/10 € <br> Formazione 0,5/1
+[{{< figure src="/product/I-Crm.jpg"  width="150"  >}}](/product/I-Crm.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  8 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Document DMS [P.DMS.STD00]</b>
+
+[{{< figure src="/product/I-DMS.jpg"  width="150"  >}}](/product/I-DMS.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  8 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin ERP [P.ERP.STD00]</b>
+
+[{{< figure src="/product/I-PriceListImport.jpg"  width="150"  >}}](/product/I-PriceListImport.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  8 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere - Plugin Gantt Project [P.GNT.STD01]</b>
+
+[{{< figure src="/product/I-Scheduler.jpg"  width="150"  >}}](/product/I-Scheduler.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  8 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Gantt Task [P.GNT.STD01]</b>
+
+[{{< figure src="/product/I-Gantt.jpg"  width="150"  >}}](/product/I-Gantt.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  8 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin GEO iDempiere [P.GEO.STD00]</b>
+
+[{{< figure src="/product/I-Geo.jpg"  width="150"  >}}](/product/I-Geo.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  8 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Human Resource [P.HUR.STD00]</b>
+
+[{{< figure src="/product/I-HumanResource.jpg"  width="150"  >}}](/product/I-HumanResource.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  8 ore
+|                   | Costo mese                    |  300/50€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin i-Message [P.MSG.STD00]</b>
+
+[{{< figure src="/product/i-message.jpg"  width="150"  >}}](/product/i-message.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  200/100€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Import Price List [P.IPL.STD00]</b>
+
+[{{< figure src="/product/I-PriceListImport.jpg"  width="150"  >}}](/product/i-message.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Intercompany [P.INT.STD00]</b>
+
+[{{< figure src="/product/I-InterCompany.jpg"  width="150"  >}}](/product/i-message.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Kanban [P.KAN.STD00]</b>
+
+[{{< figure src="/product/I-KanBan.jpg"  width="150"  >}}](/product/i-message.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  200/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Maintenance [P.MNT.STD00]</b>
+
+[{{< figure src="/product/I-Maintenance.jpg"  width="150"  >}}](/product/i-message.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Marginalità [P.MAR.STD00]</b>
+
+[{{< figure src="/product/I-Asset.jpg"  width="150"  >}}](/product/i-message.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Pivot [P.PIV.STD00]</b>
+
+[{{< figure src="/product/logo.png"  width="150"  >}}](/product/logo.png)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin POS [P.POS.STD00]</b>
+
+[{{< figure src="/product/I-POS.jpg"  width="150"  >}}](/product/I-POS.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin POST IT [P.PIT.STD00]</b>
+
+[{{< figure src="/product/I-PostIt.jpg"  width="150"  >}}](/product/I-PostIt.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Prodotto Codifica Avanzata [P.PCP.STD00]</b>
+
+[{{< figure src="/product/I-Asset.jpg"  width="150"  >}}](/product/I-PostIt.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  8 ore
+|                   | Costo mese                    |  200/100€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Produzione Avanzata [P.PRD.STD00]</b>
+
+[{{< figure src="/product/I-Asset.jpg"  width="150"  >}}](/product/I-PostIt.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  8 ore
+|                   | Costo mese                    |  100/40€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Project [P.PRD.STD00]</b>
+
+[{{< figure src="/product/I-Project.jpg"  width="150"  >}}](/product/I-PostIt.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Qualità/No Conformità [P.NCF.STD00]</b>
+
+[{{< figure src="/product/logo.png"  width="150"  >}}](/product/logo.png)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Rilevamento Ore [P.ROR.STD00]</b>
+
+[{{< figure src="/product/I-POS.jpg"  width="150"  >}}](/product/I-POS.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Schedulatore Capacità Finita [P.SCF.STD00]</b>
+
+[{{< figure src="/product/logo.png"  width="150"  >}}](/product/logo.png)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/40€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin Service [P.SRV.STD00]</b>
+
+[{{< figure src="/product/I-Service.jpg"  width="150"  >}}](/product/I-Service.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/40€ {{< /alert >}}
+
+---
+
+### <b>iDempiere Plugin ZK Chart [P.ZKC.STD00]</b>
+
+[{{< figure src="/product/I-Service.jpg"  width="150"  >}}](/product/I-Service.jpg)
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  100/10€ {{< /alert >}}
+
+---
+
+# iD VPS {#CAP05}
+<br>
+
+---
+
+### <b>IDempiere Installazione iDempiere Standard [V.INS.BAS00]</b>
+
+[{{< figure src="/product/i-install.jpg"  width="150"  >}}](/product/i-install.jpg)
+
+
+{{< alert title="<b>Descrizione </b>" >}} Installazione e parametrizzazione di base. Sistema pronto per operatività standard.{{< /alert >}}
+
+{{< alert color=/ >}}<b> Gestione Ticket/Richieste Utenti/Clienti</b>
+
+* Costo u.t  2000/1000 €{{< /alert >}}
+
+---
+
+### <b>IDempiere Installazione Plugin base [V.INS.PLG00]</b>
+
+{{< figure src="/product/i-install.jpg"  width="150"  >}}
+
+
+{{< alert title="<b>Descrizione </b>" >}} Installazione e parametrizzazione di base . Sistema pronto per operatività standard.{{< /alert >}}
+
+{{< alert color=/ >}}<b> Gestione Ticket/Richieste Utenti/Clienti</b>
+
+* Costo u.t  2000/1000 €{{< /alert >}}
+
+---
+
+### <b>IDempiere Installazione Plugin standard [V.INS.PLG10]</b>
+
+{{< figure src="/product/i-install.jpg"  width="150"  >}}
+
+
+{{< alert title="<b>Descrizione </b>" >}} Installazione e parametrizzazione di base . Sistema pronto per operatività standard.{{< /alert >}}
+
+{{< alert color=/ >}}<b> Gestione Ticket/Richieste Utenti/Clienti</b>
+
+* Costo u.t  2000/1000 €{{< /alert >}}
+
+---
+
+### <b>IDempiere Installazione Plugin avanzata [V.INS.PLG20]</b>
+
+{{< figure src="/product/i-install.jpg"  width="150"  >}}
+
+
+{{< alert title="<b>Descrizione </b>" >}} Installazione e parametrizzazione di base . Sistema pronto per operatività standard.{{< /alert >}}
+
+{{< alert color=/ >}}<b> Gestione Ticket/Richieste Utenti/Clienti</b>
+
+* Costo u.t  2000/1000 €{{< /alert >}}
+
+---
+
+### <b>Licenza Standard Plugin [V.LIC.BAS00]</b>
+
+{{< figure src="/product/logo.png"  width="150"  >}}
+
+---
+
+### <b>Licenza Open Source - Free [V.LIC.FRE00]</b>
+{{< figure src="/product/logo.png"  width="150"  >}}
+
+---
+
+### <b>Licenza Pivot Table [V.LIC.PIV00]</b>
+{{< figure src="/product/logo.png"  width="150"  >}}
+
+---
+
+### <b>Licenza Open Source / Contributo una tantum [V.LIC.STD00]
+{{< figure src="/product/logo.png"  width="150"  >}}
+
+---
+
+### <b>iDempiere Extra Space VPS Next Cloud [V.NXC.EXS00]</b>
+{{< figure src="/product/i-vps-test.jpg"  width="150"  >}}
+
+---
+
+### <b>IDempiere Upgrade no Supporto [V.UPD.AGG00]</b>
+
+{{< figure src="/product/i-upgrade.jpg"  width="150"  >}}
+
+{{< alert color=/ >}}<b> Gestione Ticket/Richieste Utenti/Clienti</b>
+* Costo 800/600 €{{< /alert >}}
+
+---
+
+### <b>IDempiere Upgrade  singolo plugin [V.UPD.PLG00]
+
+{{< figure src="/product/i-upgrade.jpg"  width="150"  >}}
+
+{{< alert color=/ >}}<b> Gestione Ticket/Richieste Utenti/Clienti</b>
+Canone 150/100 €{{< /alert >}}
+
+---
+
+### <b>iDempiere VPS DRS Standard [V.VPS.DRS00]</b>
+
+{{< figure src="/product/i-vps.jpg"  width="150"  >}}
+
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  300/50€ {{< /alert >}}
+
+---
+
+### <b>VPS NextCloud [V.VPS.NXC00]</b>
+
+{{< figure src="/product/logo.png"  width="150"  >}}
+
+---
+
+### <b>iDempiere VPS On Site [V.VPS.ONS00]</b>
+
+{{< figure src="/product/i-vps.jpg"  width="150"  >}}
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  200/100€ {{< /alert >}}
+
+---
+
+### <b>iDempiere VPS Standard [V.VPS.STD00]
+
+{{< figure src="/product/i-vps.jpg"  width="150"  >}}
+
+---
+
+### <b>iDempiere VPS Test Standard [V.VPS.TST00]</b>
+
+{{< figure src="/product/i-vps.jpg"  width="150"  >}}
+
+{{< alert color=/ >}}<b>Prezzi</b>
+|                   |                               |                        |
+|-------------------|-------------------------------|------------------------|
+|                   | Licenza                       |  Free
+|                   | Installazione e Setup         |  Base
+|                   | Formazione /Consulenza        |  4 ore
+|                   | Costo mese                    |  50/20€ {{< /alert >}}
+
+---
+
+# iD Consulenza {#CAP05}
+<br>
+
+
+H.CON.HR001	Consulenza iDempiere 	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-consulenza.jpg
+H.CON.HR010	Consulenza iDempiere - 10 ore	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-consulenza.jpg
+H.CON.HR020	Consulenza iDempiere - 20 ore	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-consulenza.jpg
+H.CON.HR002	Consulenza iDempiere - 2 ore	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-consulenza.jpg
+H.CON.HR040	Consulenza iDempiere - 40 ore	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-consulenza.jpg
+H.CON.HR004	Consulenza iDempiere - 4 ore	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-consulenza.jpg
+H.CON.HR080	Consulenza iDempiere - 80 ore	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-consulenza.jpg
+H.CON.HR008	Consulenza iDempiere 8 ore	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-consulenza.jpg
+H.MIG.HR0010	Consulenza - Migrazione Dati 10 ore	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-consulenza.jpg
+H.CON.HR000	Consulenza - Prodotto generico	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-consulenza.jpg
+H.CON.HR009	Consulenza Sistemistica	https://www.idempiere.consulting/wp-content/uploads/2020/10/i-consulenza.jpg
 
 
 
@@ -1390,20 +1872,3 @@ P.ZKC.STD00	iDempiere Plugin ZK Chart		Lic. 0 € <br> Inst. e Setup 200/100 €
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-# Add on iDempiere
-V
-
-# Add on iDempiere
-H...??
