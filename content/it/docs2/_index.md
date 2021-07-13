@@ -11,7 +11,15 @@ menu:
 #
 
 # <B>DOCUMENTATION 2</B>
-[1.Soluzioni idempiere]({{< ref "_index.md#CAP01" >}} "Soluzioni iDempiere") <br>
+
+[1.Soluzioni idempiere]({{< ref "_index.md#IDX01" >}} "Soluzioni iDempiere") <br>
+[2.Addon idempiere]({{< ref "_index.md#IDX02" >}} "Addon iDempiere") <br>
+[3.External Plugin idempiere]({{< ref "_index.md#IDX03" >}} "External Plugin iDempiere") <br>
+[4.iD Plugin]({{< ref "_index.md#IDX04" >}} "iD Plugin") <br>
+[5.iD VPS]({{< ref "_index.md#IDX05" >}} "iD VPS") <br>
+[6.iD Consulenza]({{< ref "_index.md#IDX06" >}} "iD Consulenza") <br>
+[7.iD Base]({{< ref "_index.md#IDX07" >}} "iD Base") <br>
+## [1.Soluzioni idempiere]({{< ref "_index.md#CAP01" >}} "Soluzioni iDempiere") <br> {#IDX01}
 * [After Sales]({{< ref "_index.md#aftersales" >}} "Soluzioni iDempiere") <br>
 * [ALEXA]({{< ref "_index.md#ALEXA" >}} "Soluzioni iDempiere") <br>
 * [BI]({{< ref "_index.md#BI" >}} "Soluzioni iDempiere") <br>
@@ -40,7 +48,7 @@ menu:
 * [TelegramBot]({{< ref "_index.md#TelegramBot" >}} "Soluzioni iDempiere") <br>
 * [TMS]({{< ref "_index.md#TMS" >}} "Soluzioni iDempiere") <br>
 
-[2.Addon idempiere]({{< ref "_index.md#CAP02" >}} "Addon iDempiere") <br>
+## [2.Addon idempiere]({{< ref "_index.md#CAP02" >}} "Addon iDempiere") <br> {#IDX02}
 * [AddonAlert]({{< ref "_index.md#AddonAlert" >}} "Addon iDempiere") <br>
 * [AddonAccessMantain]({{< ref "_index.md#AddonAccessMantain" >}} "Addon iDempiere") <br>
 * [AddonBusinessExcel]({{< ref "_index.md#AddonBusinessExcel" >}} "Addon iDempiere") <br>
@@ -70,7 +78,7 @@ menu:
 * [AddonTema]({{< ref "_index.md#AddonTema" >}} "Addon iDempiere") <br>
 * [AddonVirtualFolderDocTrackingRFID]({{< ref "_index.md#AddonVirtualFolderDocTrackingRFID" >}} "Addon iDempiere") <br>
 
-[3.External Plugin idempiere]({{< ref "_index.md#CAP03" >}} "External Plugin iDempiere") <br>
+## [3.External Plugin idempiere]({{< ref "_index.md#CAP03" >}} "External Plugin iDempiere") <br> {#IDX03}
 * [PluginOffice365]({{< ref "_index.md#PluginOffice365" >}} "External Plugin iDempiere") <br>
 * [PluginAlexa]({{< ref "_index.md#PluginAlexa" >}} "External Plugin iDempiere") <br>
 * [PluginEcommerce]({{< ref "_index.md#PluginEcommerce" >}} "External Plugin iDempiere") <br>
@@ -93,7 +101,7 @@ menu:
 * [PluginTimeSheet]({{< ref "_index.md#PluginTimeSheet" >}} "External Plugin iDempiere") <br>
 * [PluginVoip]({{< ref "_index.md#PluginVoip" >}} "External Plugin iDempiere") <br>
 
-[4.iD Plugin]({{< ref "_index.md#CAP04" >}} "iD Plugin") <br>
+## [4.iD Plugin]({{< ref "_index.md#CAP04" >}} "iD Plugin") <br> {#IDX04}
 * [ArchivedDocument]({{< ref "_index.md#ArchivedDocument" >}} "iD Plugin") <br>
 * [PluginAfterSales]({{< ref "_index.md#PluginAfterSales" >}} "iD Plugin") <br>
 * [PluginAnsible]({{< ref "_index.md#PluginAnsible" >}} "iD Plugin") <br>
@@ -129,7 +137,7 @@ menu:
 * [PluginService]({{< ref "_index.md#PluginService" >}} "iD Plugin") <br>
 * [PluginZKChart]({{< ref "_index.md#PluginZKChart" >}} "iD Plugin") <br>
 
-[5.iD VPS]({{< ref "_index.md#CAP05" >}} "iD VPS") <br>
+## [5.iD VPS]({{< ref "_index.md#CAP05" >}} "iD VPS") <br> {#IDX05}
 * [InstallazioneIdempiereStandard]({{< ref "_index.md#InstallazioneIdempiereStandard" >}} "iD VPS") <br>
 * [InstallazionePluginbase]({{< ref "_index.md#InstallazionePluginbase" >}} "iD VPS") <br>
 * [InstallazionePluginstandard]({{< ref "_index.md#InstallazionePluginstandard" >}} "iD VPS") <br>
@@ -147,7 +155,7 @@ menu:
 * [VPSStandard]({{< ref "_index.md#VPSStandard" >}} "iD VPS") <br>
 * [VPSTestStandard]({{< ref "_index.md#VPSTestStandard" >}} "iD VPS") <br>
 
-[6.iD Consulenza]({{< ref "_index.md#CAP06" >}} "iD Consulenza") <br>
+## [6.iD Consulenza]({{< ref "_index.md#CAP06" >}} "iD Consulenza") <br> {#IDX06}
 * [ConsulenzaIdempiere]({{< ref "_index.md#ConsulenzaIdempiere" >}} "iD Consulenza") <br>
 * [ConsulenzaiDempiere10ore]({{< ref "_index.md#ConsulenzaiDempiere10ore" >}} "iD Consulenza") <br>
 * [ConsulenzaiDempiere20ore]({{< ref "_index.md#ConsulenzaiDempiere20ore" >}} "iD Consulenza") <br>
@@ -160,7 +168,7 @@ menu:
 * [ConsulenzaProdottogenerico]({{< ref "_index.md#ConsulenzaProdottogenerico" >}} "iD Consulenza") <br>
 * [ConsulenzaSistematica]({{< ref "_index.md#ConsulenzaSistematica" >}} "iD Consulenza") <br>
 
-[7.iD Base]({{< ref "_index.md#CAP07" >}} "iD Base") <br>
+## [7.iD Base]({{< ref "_index.md#CAP07" >}} "iD Base") <br> {#IDX07}
 * [BaseVIESCreateBusinessPartner]({{< ref "_index.md#BaseVIESCreateBusinessPartner" >}} "iD Base") <br>
 * [BaseVATExtension]({{< ref "_index.md#BaseVATExtension" >}} "iD Base") <br>
 * [BaseTaxExtension]({{< ref "_index.md#BaseTaxExtension" >}} "iD Base") <br>
@@ -176,7 +184,6 @@ menu:
 ---
 
 ---
-
 # Soluzioni iDempiere {#CAP01}
 <br>
 
@@ -281,7 +288,7 @@ Puoi configurare i tuoi prodotti fino a 50 livelli di opzioni e alternative. La 
 
 ### <b>iDempiere Controllo di Gestione / Marginalità [S.CNG.STD00]</b> {#ControlloGestioneMarginalità}
 
-{{< figure src="/product/outsourcingproduction.jpg"  width="150"  >}}
+{{< figure src="/product/marginalita.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -295,7 +302,7 @@ Puoi configurare i tuoi prodotti fino a 50 livelli di opzioni e alternative. La 
 
 ### <b>iDempiere  CRM  [S.CRM.STD00]</b> {#CRM}
 
-{{< figure src="/product/I-Configurator.jpg"  width="150"  >}}
+{{< figure src="/product/CRM.jpg"  width="150"  >}}
 
 {{< alert title="<b>Descrizione </b>" >}}Gli Agenti e l'ufficio commerciale possono, ovunque essi si trovino accedere e gestire i loro dati permettendogli di interagire in tempo reale con la sede operativa aziendale. Il Direttore Commerciale può tenere sotto controllo la sua forza vendita in modo facile e migliorare la collaborazione con la rete della sua struttura e avere una visione dei clienti potenziali e degli ordini in divenire.{{< /alert >}}
 Extra Plugin
@@ -363,7 +370,7 @@ Extra Plugin
 
 ### <b>iDempiere ESL Etichette LCD [S.ESL.STD00]</b> {#ESLEtichetteLCD}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/esl.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -405,7 +412,7 @@ Extra Plugin
 ---
 ### <b>iDempiere Gantt Task [S.GNT.STD00]</b> {#GanttTask}
 
-{{< figure src="/product/I-Telegram-255x300.jpg"  width="150"  >}}
+{{< figure src="/product/gantt.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b> Gestione Ticket/Richieste Utenti/Clienti</b>
 
@@ -498,7 +505,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere i-Studio [S.STU.STD00]</b> {#iStudio}
 
-{{< figure src="/product/I-Service.jpg"  width="150"  >}}
+{{< figure src="/product/I-Studio.jpg"  width="150"  >}}
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
 |-------------------|-------------------------------|------------------------|
@@ -525,7 +532,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere MES [S.MES.STD00]</b> {#MES}
 
-{{< figure src="/product/I-IoT.jpg"  width="150"  >}}
+{{< figure src="/product/mes.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -553,7 +560,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>IDempiere Office [S.OFF.STD00]</b> {#Office}
 
-{{< figure src="/product/I-Studio.jpg"  width="150"  >}}
+{{< figure src="/product/office.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -652,7 +659,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere TMS [S.TMS.STD00]</b> {#TMS}
 
-{{< figure src="/product/I-Service.jpg"  width="150"  >}}
+{{< figure src="/product/TMS.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -685,7 +692,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Access Mantain [A.AMA.STD00]</b> {#AddonAccessMantain}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/mantain.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -699,7 +706,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Business Excel [A.BIX.STD00]</b> {#AddonBusinessExcel}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/businessexcel.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -713,7 +720,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon BP Related [A.BPR.STD00]</b> {#AddonBPRelated}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/related.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -727,7 +734,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Conai-Conoe-Mipaf-Olii [A.CCM.STD00] </b> {#AddonConaiConoeMipafOlii}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/conai.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -741,7 +748,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Contratti [A.CNT.STD00]</b> {#AddonContratti}
 
-{{< figure src="/product/I-PriceListImport.jpg"  width="150"  >}}
+{{< figure src="/product/contract.jpg"  width="150"  >}}
 
 
 {{< alert color=/ >}}<b>Prezzi</b>
@@ -756,7 +763,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Prod. Corr. Kit [A.COR.STD00]</b> {#AddonProdCorrKit}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/prodkit.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
