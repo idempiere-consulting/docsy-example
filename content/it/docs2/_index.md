@@ -777,7 +777,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Cash Flow [A.CSH.STD00]</b> {#AddonCashFlow}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/cashflow.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -806,7 +806,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon HACCP [A.HAC.STD00]</b> {#AddonHACCP}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/haccp.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -820,7 +820,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Info CockPit [A.ICP.STD00] </b> {#AddonInfoCockPit}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/cockpit.jpg"  width="150"  >}}
 
 
 {{< alert color=/ >}}<b>Prezzi</b>
@@ -835,7 +835,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Importa Tassi Cambio [A.ITC.STD00]</b> {#AddonImportaTassiCambio}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/tassicambio.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
