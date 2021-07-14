@@ -835,7 +835,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Importa Tassi Cambio [A.ITC.STD00]</b> {#AddonImportaTassiCambio}
 
-{{< figure src="/product/tassicambio.jpg"  width="150"  >}}
+{{< figure src="/product/tassicambioWA.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -849,7 +849,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Lotti Produzione [A.LPR.STD00]</b> {#AddonLottiProduzione}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/product.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -877,7 +877,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon ODV da ODA [A.OdA.STD00]</b> {#AddonODVdaODA}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/odv.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -891,7 +891,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon PDF Modificabile [A.PDF.STD00]</b> {#AddonPDFModificabile}
 
-{{< figure src="/product/i-apirest.jpg"  width="150"  >}}
+{{< figure src="/product/pdfmod.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -919,7 +919,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Price on ASI [A.POA.STD00]</b> {#AddonPriceonASI}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/priceasi.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -933,7 +933,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Promozioni [A.PRM.STD00]</b> {#AddonPromozioni}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/promotion.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -947,7 +947,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Provvigioni [A.PRV.STD00] </b> {#AddonProvvigioni}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/provvigioni.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -961,7 +961,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Ratei e Risconti [A.ReR.STD00]</b> {#AddonRateieRisconti}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/ratei.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -975,7 +975,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Fattura SAL [A.SAL.STD00] </b> {#AddonFatturaSAL}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/fatturaSAL.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -989,7 +989,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Stampa Diretta [A.SDI.STD00]</b> {#AddonStampaDiretta}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/stampadiretta.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1017,7 +1017,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Turni Budget Costi [A.TBC.STD00]</b> {#AddonTurniBudgetCosti}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/I-Budget.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1031,7 +1031,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Timbro [A.TBR.STD00]</b> {#AddonTimbro}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/timbro.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
