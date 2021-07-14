@@ -835,7 +835,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Importa Tassi Cambio [A.ITC.STD00]</b> {#AddonImportaTassiCambio}
 
-{{< figure src="/product/tassicambioWA.jpg"  width="150"  >}}
+{{< figure src="/product/tassicambio.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1045,7 +1045,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Tema [A.TEM.STD00]</b> {#AddonTema}
 
-{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
+{{< figure src="/product/tema.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1059,7 +1059,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Addon Virtual Folder /Doc Tracking RFID [A.VFL.STD00]</b> {#AddonVirtualFolderDocTrackingRFID}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/vfolder.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1078,7 +1078,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Office 365 [X.365.STD00]</b> {#PluginOffice365}
 
-{{< figure src="/product/I-IoT.jpg"  width="150"  >}}
+{{< figure src="/product/office365.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1092,7 +1092,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Alexa [X.ALE.STD00]</b> {#PluginAlexa}
 
-{{< figure src="/product/I-IoT.jpg"  width="150"  >}}
+{{< figure src="/product/iAlexa.jpeg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1120,7 +1120,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin ESL Etichette LCD [X.ESL.STD00]</b> {#PluginESLEtichetteLCD}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/esl.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1134,7 +1134,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin GeoiDempiere [X.GEO.STD00]</b> {#PluginGeoiDempiere}
 
-{{< figure src="/product/I-IoT.jpg"  width="150"  >}}
+{{< figure src="/product/I-Geo.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1148,7 +1148,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Gantt Task [X.GNT.STD00]</b> {#PluginGanttTask}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/gantt.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1162,7 +1162,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Installa Fatture Aruba [X.IFA.STD00]</b> {#PluginInstallaFattureAruba}
 
-{{< figure src="/product/I-Telegram-255x300.jpg"  width="150"  >}}
+{{< figure src="/product/xml.jpg"  width="150"  >}}
 
 
 {{< alert color=/ >}}<b>Prezzi</b>
@@ -1177,7 +1177,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere  Plugin Installa Fatture Agyo [X.IFY.STD00]</b> {#PluginInstallaFattureAgyo}
 
-{{< figure src="/product/I-Telegram-255x300.jpg"  width="150"  >}}
+{{< figure src="/product/xml.jpg"  width="150"  >}}
 
 
 {{< alert color=/ >}}<b>Prezzi</b>
@@ -1192,7 +1192,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin MailChimp [X.MAC.STD00]</b> {#PluginMailChimp}
 
-{{< figure src="/product/I-TimeSheet.jpg"  width="150"  >}}
+{{< figure src="/product/i-mailchimp.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1206,7 +1206,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Mes [X.MES.STD00]</b> {#PluginMes}
 
-{{< figure src="/product/I-IoT.jpg"  width="150"  >}}
+{{< figure src="/product/mes.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1220,7 +1220,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Mobile [X.MOB.STD00]</b> {#PluginMobile}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/mobile.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1234,7 +1234,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Nextcloud [X.NXC.STD00]</b> {#PluginNextcloud}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/nextcloud.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1290,7 +1290,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin PayPal [X.PYP.STD00]</b> {#PluginPayPal}
 
-{{< figure src="/product/I-TimeSheet.jpg"  width="150"  >}}
+{{< figure src="/product/paypal.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1304,7 +1304,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Schedulatore Capacità Finita [X.SCF.STD00]</b> {#PluginSchedulatoreCapacitàFinita}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/I-Scheduler.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1318,7 +1318,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Ticket [X.TIC.STD00]</b> {#PluginTicket}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/ticket.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1360,7 +1360,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Voip [X.VOI.STD00]</b> {#PluginVoip}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/voip.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
