@@ -12,41 +12,41 @@ menu:
 
 # <B>DOCUMENTATION 2</B>
 
-[1.Soluzioni idempiere]({{< ref "_index.md#IDX01" >}} "Soluzioni iDempiere") <br>
+[1.IDempiere solutions]({{< ref "_index.md#IDX01" >}} "IDempiere solutions") <br>
 [2.Addon idempiere]({{< ref "_index.md#IDX02" >}} "Addon iDempiere") <br>
 [3.External Plugin idempiere]({{< ref "_index.md#IDX03" >}} "External Plugin iDempiere") <br>
 [4.iD Plugin]({{< ref "_index.md#IDX04" >}} "iD Plugin") <br>
 [5.iD VPS]({{< ref "_index.md#IDX05" >}} "iD VPS") <br>
-[6.iD Consulenza]({{< ref "_index.md#IDX06" >}} "iD Consulenza") <br>
+[6.iD Consulting]({{< ref "_index.md#IDX06" >}} "iD Consulting") <br>
 [7.iD Base]({{< ref "_index.md#IDX07" >}} "iD Base") <br>
-## [1.Soluzioni idempiere]({{< ref "_index.md#CAP01" >}} "Soluzioni iDempiere") <br> {#IDX01}
-* [After Sales]({{< ref "_index.md#aftersales" >}} "Soluzioni iDempiere") <br>
-* [ALEXA]({{< ref "_index.md#ALEXA" >}} "Soluzioni iDempiere") <br>
-* [BI]({{< ref "_index.md#BI" >}} "Soluzioni iDempiere") <br>
-* [ConfiguratoreProdotto]({{< ref "_index.md#ConfiguratoreProdotto" >}} "Soluzioni iDempiere") <br>
-* [ContoLavoroAttivo]({{< ref "_index.md#ContoLavoroAttivo" >}} "Soluzioni iDempiere") <br>
-* [ControlloGestioneMarginalità]({{< ref "_index.md#ControlloGestioneMarginalità" >}} "Soluzioni iDempiere") <br>
-* [CRM]({{< ref "_index.md#CRM" >}} "Soluzioni iDempiere") <br>
-* [ERP]({{< ref "_index.md#ERP" >}} "Soluzioni iDempiere") <br>
-* [ESLEtichetteLCD]({{< ref "_index.md#ESLEtichetteLCD" >}} "Soluzioni iDempiere") <br>
-* [Food&Beverage]({{< ref "_index.md#Food&Beverage" >}} "Soluzioni iDempiere") <br>
-* [FoodRetail]({{< ref "_index.md#FoodRetail" >}} "Soluzioni iDempiere") <br>
-* [GanttTask]({{< ref "_index.md#GanttTask" >}} "Soluzioni iDempiere") <br>
-* [Geo]({{< ref "_index.md#Geo" >}} "Soluzioni iDempiere") <br>
-* [iDBadge]({{< ref "_index.md#iDBadge" >}} "Soluzioni iDempiere") <br>
-* [iService]({{< ref "_index.md#iService" >}} "Soluzioni iDempiere") <br>
-* [iStudio]({{< ref "_index.md#iStudio" >}} "Soluzioni iDempiere") <br>
-* [Maintenance]({{< ref "_index.md#Maintenance" >}} "Soluzioni iDempiere") <br>
-* [MES]({{< ref "_index.md#MES" >}} "Soluzioni iDempiere") <br>
-* [NoProfit]({{< ref "_index.md#NoProfit" >}} "Soluzioni iDempiere") <br>
-* [Office]({{< ref "_index.md#Office" >}} "Soluzioni iDempiere") <br>
-* [POS]({{< ref "_index.md#POS" >}} "Soluzioni iDempiere") <br>
-* [Project]({{< ref "_index.md#Project" >}} "Soluzioni iDempiere") <br>
-* [RisorseUmane]({{< ref "_index.md#RisorseUmane" >}} "Soluzioni iDempiere") <br>
-* [Scheduler]({{< ref "_index.md#Scheduler" >}} "Soluzioni iDempiere") <br>
-* [SGSL]({{< ref "_index.md#SGSL" >}} "Soluzioni iDempiere") <br>
-* [TelegramBot]({{< ref "_index.md#TelegramBot" >}} "Soluzioni iDempiere") <br>
-* [TMS]({{< ref "_index.md#TMS" >}} "Soluzioni iDempiere") <br>
+## [1.IDempiere solutions]({{< ref "_index.md#CAP01" >}} "IDempiere solutions") <br> {#IDX01}
+* [After Sales]({{< ref "_index.md#aftersales" >}} "IDempiere solutions") <br>
+* [ALEXA]({{< ref "_index.md#ALEXA" >}} "IDempiere solutions") <br>
+* [BI]({{< ref "_index.md#BI" >}} "IDempiere solutions") <br>
+* [ProductConfigurator]({{< ref "_index.md#ProductConfigurator" >}} "IDempiere solutions") <br>
+* [ActiveWorkAccont]({{< ref "_index.md#ActiveWorkAccont" >}} "IDempiere solutions") <br>
+* [MarginManagementControl]({{< ref "_index.md#MarginManagementControl" >}} "IDempiere solutions") <br>
+* [CRM]({{< ref "_index.md#CRM" >}} "IDempiere solutions") <br>
+* [ERP]({{< ref "_index.md#ERP" >}} "IDempiere solutions") <br>
+* [ESLlabelsLCD]({{< ref "_index.md#ESLlabelsLCD" >}} "IDempiere solutions") <br>
+* [Food&Beverage]({{< ref "_index.md#Food&Beverage" >}} "IDempiere solutions") <br>
+* [FoodRetail]({{< ref "_index.md#FoodRetail" >}} "IDempiere solutions") <br>
+* [GanttTask]({{< ref "_index.md#GanttTask" >}} "IDempiere solutions") <br>
+* [Geo]({{< ref "_index.md#Geo" >}} "IDempiere solutions") <br>
+* [iDBadge]({{< ref "_index.md#iDBadge" >}} "IDempiere solutions") <br>
+* [iService]({{< ref "_index.md#iService" >}} "IDempiere solutions") <br>
+* [iStudio]({{< ref "_index.md#iStudio" >}} "IDempiere solutions") <br>
+* [Maintenance]({{< ref "_index.md#Maintenance" >}} "IDempiere solutions") <br>
+* [MES]({{< ref "_index.md#MES" >}} "IDempiere solutions") <br>
+* [NoProfit]({{< ref "_index.md#NoProfit" >}} "IDempiere solutions") <br>
+* [Office]({{< ref "_index.md#Office" >}} "IDempiere solutions") <br>
+* [POS]({{< ref "_index.md#POS" >}} "IDempiere solutions") <br>
+* [Project]({{< ref "_index.md#Project" >}} "IDempiere solutions") <br>
+* [HumanResources]({{< ref "_index.md#HumanResources" >}} "IDempiere solutions") <br>
+* [Scheduler]({{< ref "_index.md#Scheduler" >}} "IDempiere solutions") <br>
+* [SGSL]({{< ref "_index.md#SGSL" >}} "IDempiere solutions") <br>
+* [TelegramBot]({{< ref "_index.md#TelegramBot" >}} "IDempiere solutions") <br>
+* [TMS]({{< ref "_index.md#TMS" >}} "IDempiere solutions") <br>
 
 ## [2.Addon idempiere]({{< ref "_index.md#CAP02" >}} "Addon iDempiere") <br> {#IDX02}
 * [AddonAlert]({{< ref "_index.md#AddonAlert" >}} "Addon iDempiere") <br>
@@ -54,15 +54,15 @@ menu:
 * [AddonBusinessExcel]({{< ref "_index.md#AddonBusinessExcel" >}} "Addon iDempiere") <br>
 * [AddonBPRelated]({{< ref "_index.md#AddonBPRelated" >}} "Addon iDempiere") <br>
 * [AddonConaiConoeMipafOlii]({{< ref "_index.md#AddonConaiConoeMipafOlii" >}} "Addon iDempiere") <br>
-* [AddonContratti]({{< ref "_index.md#AddonContratti" >}} "Addon iDempiere") <br>
+* [AddonContract]({{< ref "_index.md#AddonContract" >}} "Addon iDempiere") <br>
 * [AddonProdCorrKit]({{< ref "_index.md#AddonProdCorrKit" >}} "Addon iDempiere") <br>
 * [AddonCashFlow]({{< ref "_index.md#AddonCashFlow" >}} "Addon iDempiere") <br>
 * [AddonFidelity]({{< ref "_index.md#AddonFidelity" >}} "Addon iDempiere") <br>
 * [AddonHACCP]({{< ref "_index.md#AddonHACCP" >}} "Addon iDempiere") <br>
 * [AddonInfoCockPit]({{< ref "_index.md#AddonInfoCockPit" >}} "Addon iDempiere") <br>
-* [AddonImportaTassiCambio]({{< ref "_index.md#AddonImportaTassiCambio" >}} "Addon iDempiere") <br>
-* [AddonLottiProduzione]({{< ref "_index.md#AddonLottiProduzione" >}} "Addon iDempiere") <br>
-* [AddonPrezziMarkup]({{< ref "_index.md#AddonPrezziMarkup" >}} "Addon iDempiere") <br>
+* [AddonImportExchangeRates]({{< ref "_index.md#AddonImportExchangeRates" >}} "Addon iDempiere") <br>
+* [AddonLotsProduction]({{< ref "_index.md#AddonLotsProduction" >}} "Addon iDempiere") <br>
+* [AddonPriceMarkup]({{< ref "_index.md#AddonPriceMarkup" >}} "Addon iDempiere") <br>
 * [AddonODVdaODA]({{< ref "_index.md#AddonODVdaODA" >}} "Addon iDempiere") <br>
 * [AddonPDFModificabile]({{< ref "_index.md#AddonPDFModificabile" >}} "Addon iDempiere") <br>
 * [AddonExtendPDF]({{< ref "_index.md#AddonExtendPDF" >}} "Addon iDempiere") <br>
@@ -82,7 +82,7 @@ menu:
 * [PluginOffice365]({{< ref "_index.md#PluginOffice365" >}} "External Plugin iDempiere") <br>
 * [PluginAlexa]({{< ref "_index.md#PluginAlexa" >}} "External Plugin iDempiere") <br>
 * [PluginEcommerce]({{< ref "_index.md#PluginEcommerce" >}} "External Plugin iDempiere") <br>
-* [PluginESLEtichetteLCD]({{< ref "_index.md#PluginESLEtichetteLCD" >}} "External Plugin iDempiere") <br>
+* [PluginESLlabelsLCD]({{< ref "_index.md#PluginESLlabelsLCD" >}} "External Plugin iDempiere") <br>
 * [PluginGeoiDempiere]({{< ref "_index.md#PluginGeoiDempiere" >}} "External Plugin iDempiere") <br>
 * [PluginGanttTask]({{< ref "_index.md#PluginGanttTask" >}} "External Plugin iDempiere") <br>
 * [PluginInstallaFattureAruba]({{< ref "_index.md#PluginInstallaFattureAruba" >}} "External Plugin iDempiere") <br>
@@ -111,7 +111,7 @@ menu:
 * [PluginBudgetCespiti]({{< ref "_index.md#PluginBudgetCespiti" >}} "iD Plugin") <br>
 * [PluginConfiguratorCespiti]({{< ref "_index.md#PluginConfiguratorCespiti" >}} "iD Plugin") <br>
 * [PluginConfiguratoreCespiti]({{< ref "_index.md#PluginConfiguratoreCespiti" >}} "iD Plugin") <br>
-* [PluginContoLavoroAttivoCespiti]({{< ref "_index.md#PluginContoLavoroAttivoCespiti" >}} "iD Plugin") <br>
+* [PluginActiveWorkAccontCespiti]({{< ref "_index.md#PluginActiveWorkAccontCespiti" >}} "iD Plugin") <br>
 * [PluginCRMCespiti]({{< ref "_index.md#PluginCRMCespiti" >}} "iD Plugin") <br>
 * [PluginDocumentDMS]({{< ref "_index.md#PluginDocumentDMS" >}} "iD Plugin") <br>
 * [PluginERP]({{< ref "_index.md#PluginERP" >}} "iD Plugin") <br>
@@ -184,7 +184,7 @@ menu:
 ---
 
 ---
-# Soluzioni iDempiere {#CAP01}
+# IDempiere solutions {#CAP01}
 <br>
 
 ---
@@ -243,7 +243,7 @@ menu:
 
 ---
 
-### <b>iDempiere Configuratore di Prodotto [S.CFP.STD00]</b> {#ConfiguratoreProdotto}
+### <b>iDempiere Configuratore di Prodotto [S.CFP.STD00]</b> {#ProductConfigurator}
 
 {{< figure src="/product/I-Configurator.jpg"  width="150"  >}}
 
@@ -272,7 +272,7 @@ Puoi configurare i tuoi prodotti fino a 50 livelli di opzioni e alternative. La 
 
 ---
 
-### <b>iDempiere Conto Lavoro Attivo [S.CLA.STD00]</b> {#ContoLavoroAttivo}
+### <b>iDempiere Active Work Account [S.CLA.STD00]</b> {#ActiveWorkAccont}
 
 {{< figure src="/product/outsourcingproduction.jpg"  width="150"  >}}
 
@@ -286,7 +286,7 @@ Puoi configurare i tuoi prodotti fino a 50 livelli di opzioni e alternative. La 
 
 ---
 
-### <b>iDempiere Controllo di Gestione / Marginalità [S.CNG.STD00]</b> {#ControlloGestioneMarginalità}
+### <b>iDempiere Controllo di Gestione / Marginalità [S.CNG.STD00]</b> {#MarginManagementControl}
 
 {{< figure src="/product/marginalita.jpg"  width="150"  >}}
 
@@ -368,7 +368,7 @@ Extra Plugin
 
 ---
 
-### <b>iDempiere ESL Etichette LCD [S.ESL.STD00]</b> {#ESLEtichetteLCD}
+### <b>iDempiere ESL labels LCD [S.ESL.STD00]</b> {#ESLlabelsLCD}
 
 {{< figure src="/product/esl.jpg"  width="150"  >}}
 
@@ -600,7 +600,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ---
 
-### <b>iDempiere Risorse Umane [S.HUR.STD00]</b> {#RisorseUmane}
+### <b>iDempiere Risorse Umane [S.HUR.STD00]</b> {#HumanResources}
 
 {{< figure src="/product/I-HumanResource.jpg"  width="150"  >}}
 
@@ -746,7 +746,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ---
 
-### <b>iDempiere Addon Contratti [A.CNT.STD00]</b> {#AddonContratti}
+### <b>iDempiere Addon Contract [A.CNT.STD00]</b> {#AddonContract}
 
 {{< figure src="/product/contract.jpg"  width="150"  >}}
 
@@ -833,7 +833,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ---
 
-### <b>iDempiere Addon Importa Tassi Cambio [A.ITC.STD00]</b> {#AddonImportaTassiCambio}
+### <b>iDempiere Addon Import Exchange Rates [A.ITC.STD00]</b> {#AddonImportExchangeRates}
 
 {{< figure src="/product/tassicambio.jpg"  width="150"  >}}
 
@@ -847,7 +847,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ---
 
-### <b>iDempiere Addon Lotti Produzione [A.LPR.STD00]</b> {#AddonLottiProduzione}
+### <b>iDempiere Addon Lots Production [A.LPR.STD00]</b> {#AddonLotsProduction}
 
 {{< figure src="/product/product.jpg"  width="150"  >}}
 
@@ -1118,7 +1118,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ---
 
-### <b>iDempiere Plugin ESL Etichette LCD [X.ESL.STD00]</b> {#PluginESLEtichetteLCD}
+### <b>iDempiere Plugin ESL labels LCD [X.ESL.STD00]</b> {#PluginESLlabelsLCD}
 
 {{< figure src="/product/esl.jpg"  width="150"  >}}
 
@@ -1504,7 +1504,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ---
 
-### <b>iDempiere Plugin Conto Lavoro Attivo / Cespiti [P.CLA.STD00]</b> {#PluginContoLavoroAttivoCespiti}
+### <b>iDempiere Plugin Active Work Account / Cespiti [P.CLA.STD00]</b> {#PluginActiveWorkAccontCespiti}
 
 {{< figure src="/product/I-OutsourcingProduction.jpg"  width="150"  >}}
 
