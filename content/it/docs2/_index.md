@@ -2106,7 +2106,7 @@ Costo  600/550 € (60/55){{< /alert >}}
 
 ### <b>iDempiere - Base VIES Create Business Partner [B.VIES.STD00] </b> {#BaseVIESCreateBusinessPartner}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/viesbp.jpg"  width="150"  >}}
 
 ---
 
@@ -2142,31 +2142,31 @@ Costo  600/550 € (60/55){{< /alert >}}
 
 ### <b>iDempiere - Base Reopen Document [B.ODO.STD00] </b> {#BaseReopenDocument}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/Rdocument.jpg"  width="150"  >}}
 
 ---
 
 ### <b>iDempiere - Base Letter Intent [B.LETT.STD00] </b> {#BaseLetterInternet}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/letterintent.jpg"  width="150"  >}}
 
 ---
 
 ### <b>iDempiere - Base Intra [B.ITR.STD00] </b> {#BaseIntra}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/intra.jpg"  width="150"  >}}
 
 ---
 
 ### <b>iDempiere - Base Generico [B.BAS.STD00] </b> {#BaseGenerico}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/generico.jpg"  width="150"  >}}
 
 ---
 
 ### <b>iDempiere - Base Fattura XML [B.FTX.STD00] </b> {#BaseFatturaXML}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/xml.jpg"  width="150"  >}}
 
 ---
 
