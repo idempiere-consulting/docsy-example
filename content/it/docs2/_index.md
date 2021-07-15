@@ -518,7 +518,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Maintenance [S.MAI.STD00]</b> {#Maintenance}
 
-{{< figure src="/product/I-Service.jpg"  width="150"  >}}
+{{< figure src="/product/maintenance.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1262,7 +1262,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin PDM [X.PDM.STD00]</b> {#PluginPDM}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/PDM.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1276,7 +1276,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin POS Fiscale [X.POS.STD00]</b> {#PluginPOSFiscale}
 
-{{< figure src="/product/i-mailchimp.jpg"  width="150"  >}}
+{{< figure src="/product/i-pos.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1379,7 +1379,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Archived Document [P.ADC.IBV00]</b> {#ArchivedDocument}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/archiveddoc.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1407,7 +1407,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Ansible [P.ANS.STD00]</b> {#PluginAnsible}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/ansible.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1449,7 +1449,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin BPM / Cespiti [P.BPM.STD00]</b> {#PluginBPMCespiti}
 
-{{< figure src="/product/I-Asset.jpg"  width="150"  >}}
+{{< figure src="/product/bmp.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1548,7 +1548,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin ERP [P.ERP.STD00]</b> {#PluginERP}
 
-{{< figure src="/product/I-PriceListImport.jpg"  width="150"  >}}
+{{< figure src="/product/I-ERP.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1562,7 +1562,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere - Plugin Gantt Project [P.GNT.STD01]</b> {#PluginGanttProject}
 
-{{< figure src="/product/I-Scheduler.jpg"  width="150"  >}}
+{{< figure src="/product/I-Gantt.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1576,7 +1576,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Gantt Task [P.GNT.STD01]</b> {#PluginGanttTask}
 
-{{< figure src="/product/I-Gantt.jpg"  width="150"  >}}
+{{< figure src="/product/gantt.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1688,7 +1688,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Marginalità [P.MAR.STD00]</b> {#PluginMarginalità}
 
-{{< figure src="/product/I-Asset.jpg"  width="150"  >}}
+{{< figure src="/product/marginalita.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1744,7 +1744,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Prodotto Codifica Avanzata [P.PCP.STD00]</b> {#PluginProdottoCodificaAvanzata}
 
-{{< figure src="/product/I-Asset.jpg"  width="150"  >}}
+{{< figure src="/product/prodcodavanzata.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1758,7 +1758,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Produzione Avanzata [P.PRD.STD00]</b> {#PluginProduzioneAvanzata}
 
-{{< figure src="/product/I-Asset.jpg"  width="150"  >}}
+{{< figure src="/product/prodavanzata.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1786,7 +1786,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Qualità/No Conformità [P.NCF.STD00]</b> {#PluginQualitàNoConformità}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/quality.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1800,7 +1800,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Rilevamento Ore [P.ROR.STD00]</b> {#PluginRilevamentoOre}
 
-{{< figure src="/product/I-POS.jpg"  width="150"  >}}
+{{< figure src="/product/rilevamentoh.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1814,7 +1814,7 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>iDempiere Plugin Schedulatore Capacità Finita [P.SCF.STD00]</b> {#PluginSchedulatoreCapacitàFinita}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/I-Scheduler.jpg"  width="150"  >}}
 
 {{< alert color=/ >}}<b>Prezzi</b>
 |                   |                               |                        |
@@ -1913,22 +1913,22 @@ Sei un azienda di servizio che esegue assistenza e/o consulenza . Interventi a O
 
 ### <b>Licenza Standard Plugin [V.LIC.BAS00]</b> {#LicenzaStandardPlugin}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/licenza.jpg"  width="150"  >}}
 
 ---
 
 ### <b>Licenza Open Source - Free [V.LIC.FRE00]</b> {#LicenzaOpenSourceFree}
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/licenza.jpg"  width="150"  >}}
 
 ---
 
 ### <b>Licenza Pivot Table [V.LIC.PIV00]</b> {#LicenzaPivotTable}
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/licenza.jpg"  width="150"  >}}
 
 ---
 
 ### <b>Licenza Open Source / Contributo una tantum [V.LIC.STD00]</b> {#LicenzaOpenSourceContributounatantum}
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/licenza.jpg"  width="150"  >}}
 
 ---
 
@@ -1972,7 +1972,7 @@ Canone 150/100 €{{< /alert >}}
 
 ### <b>VPS NextCloud [V.VPS.NXC00]</b> {#VPSNextCloud}
 
-{{< figure src="/product/logo.png"  width="150"  >}}
+{{< figure src="/product/nextcloud.jpg"  width="150"  >}}
 
 ---
 
@@ -2112,13 +2112,13 @@ Costo  600/550 € (60/55){{< /alert >}}
 
 ### <b>iDempiere - Base VAT Extension [B.VAT.STD00] </b> {#BaseVATExtension}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/vatextention.jpg"  width="150"  >}}
 
 ---
 
 ### <b>iDempiere - Base Tax Extension [B.TAX.STD00] </b> {#BaseTaxExtension}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/taxextention.jpg"  width="150"  >}}
 
 ---
 
@@ -2130,13 +2130,13 @@ Costo  600/550 € (60/55){{< /alert >}}
 
 ### <b>iDempiere - Base SEPA [B.SEPA.STD00]</b> {#BaseSEPA}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/sepa.jpg"  width="150"  >}}
 
 ---
 
 ### <b>iDempiere - Base RIBA [B.RIB.STD00] </b> {#BaseRIBA}
 
-{{< figure src="/product/I-Alert.jpg"  width="150"  >}}
+{{< figure src="/product/riba.jpg"  width="150"  >}}
 
 ---
 
